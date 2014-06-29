@@ -30,6 +30,7 @@ Crowdsource answer to copyright consultation
 ```
 
  - Creation of mysql user
+Here the password would be 'tester', please change it
 
 ```bash
     mysql -uroot -p
@@ -37,4 +38,12 @@ Crowdsource answer to copyright consultation
     mysql> grant usage on *.* to cs_user@localhost identified by 'tester';
     mysql> grant all privileges on crowdsourcingdb.* to cs_user@localhost ;
     mysql> exit;
+```
+
+ - Set the config file
+Copy the template config file and edit it for mysql access
+
+```bash
+    cp config.py.template config.py
+    nano config.py
 ```
