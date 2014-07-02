@@ -1,3 +1,6 @@
 
 #mysql
 mysql-python
+
+#flask
+flask
