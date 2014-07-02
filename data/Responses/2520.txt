@@ -1,0 +1,62 @@
+                                       
+             RESPONSE OF MICROSOFT TO THE EUROPEAN COMMISSION'S 
+          PUBLIC CONSULTATION ON THE REVIEW OF THE EU COPYRIGHT RULES
+                                       
+                                 5 March 2014
+
+
+* INTRODUCTION
+
+Microsoft Corporation welcomes the opportunity to respond to the European Commission's Consultation on the review of the EU copyright rules ("Consultation"). For Microsoft's views on specific issues raised in the Consultation, we direct the Commission to the comprehensive responses filed by The Software Alliance (BSA) and by Digital Europe.  Microsoft is an active member of both organizations and endorses the views expressed in their respective responses.  This submission supplements those specific comments by describing the objectives that the EU's copyright system is intended to achieve and how to best ensure that those objectives are met.
+
+Microsoft offers its products and services throughout the EU, and we also innovate and invest across Europe.  The engineers in our European research labs, including in Cambridge, Issy-les-Moulineaux, and Munich, have been pushing the boundaries of innovation in software, devices and services for many years.  We have major data centers in Ireland and the Netherlands which support our global cloud services business.  And, provided that we obtain the necessary regulatory approvals to acquire Nokia's devices and services business, Microsoft will soon employ a substantial number of engineers and operate pioneering research and development facilities in Helsinki as well. 
+
+Given our extensive operations in Europe, the Union's copyright regime is of paramount importance to our business.  We worked closely with EU policymakers and other stakeholders when the EU adopted the first piece of legislation in the copyright acquis, the Computer Programs Directive (2009/24/EC).  As the acquis expanded to include the Directive on Copyright in the Information Society (2001/29/EC), the Electronic Commerce Directive (2000/31/EC), the Enforcement Directive (2004/48/EC) and other laws, we have remained closely engaged.  We have an equally strong interest and stake in Europe's future copyright regime.
+
+* THE NEED FOR BALANCE
+
+Our engagement over the past decades in the EU copyright dialogue has consistently been driven by a single imperative: to ensure balance in Europe's copyright rules.  Discussions about copyright  -  in particular today  -  can quickly become polarized, pitting the interests of authors and right holders against those of consumers and other users.  In positing copyright as a "win-lose" scenario, these discussions often overlook the primary purpose of copyright law, which is not to promote the interests of any particular constituency, but rather to promote innovation and creativity.  To achieve this important purpose, copyright rules must provide incentives that are sufficient to encourage creation, while at the same time balancing those incentives by permitting a (rapidly evolving) range of beneficial uses in the public interest.  
+
+
+This critical balance is reflected throughout the EU copyright acquis, in the many compromises made in each of the copyright-relevant directives.  For example, the Computer Programs Directive includes strong protections for holders of rights in software, permitting them to control all forms of reproduction, but at the same time subjects the reproduction right to exceptions designed to enable desirable activities, including the making of backup copies and reverse engineering to develop interoperable programs.  The Copyright Directive confers similarly broad rights on authors, but at the same time includes several important exceptions  -  among them, an exception for temporary reproductions necessary to facilitate transmissions between third parties in a network, which is designed to ensure the free flow of (authorized) copyrighted works over the internet's pipes.  The Copyright Directive also provides strong protections for the technological protection measures used by copyright holders to protect their works, but equally makes clear that such legal protection does not oblige technology developers to design devices, products, components or services to correspond to those technological measures.
+
+Maintaining this balance in copyright law is in many ways more important today than it was when these Directives were adopted.  Today, the copyright ecosystem is no longer neatly divided between "authors" and "users" or licensors and licensees.  Instead, enterprises  -  and consumers as well  -  assume multiple, hybrid roles.  Content delivery platforms today often produce their own content, while content creators often operate their own delivery platforms.  Software producers are moving their products to the cloud, and hosting a range of third-party content there as well.  Multifunctional devices that can be used both to consume and to create content are the norm at work or in the home.
+
+Microsoft is a perfect example of this evolution.  Just a decade ago, we were a company whose core business was the development of business software, which we licensed primarily to enterprise customers for use on PCs and servers situated on their premises.  Today, our business is far more diverse, and we develop and offer a wide range of devices, services, software and other creative content both online and offline. 
+
+As a result, Microsoft views copyright from many vantage points.  From the copyright owner perspective, we develop and license computer programs and other creative content and services protected by copyright and other intellectual property regimes.  Microsoft's world-class antipiracy team has created a number of copyright enforcement tools, such as piracy reporting tools and software validation programs, to ensure that we do our part to protect our own creative content, and also to help third-party creators protect theirs, all without impact on legitimate speech. From the user perspective, Microsoft develops and offers many of the technologies, devices and services widely used by consumers to acquire and enjoy content, including Microsoft Windows, Windows Phone, Microsoft Surface, XboxOne, and other products and services.  And from the intermediary perspective, we operate some of the world's leading platforms through which consumers can discover, enjoy, share, and communicate about content, including Bing, Skype, SkyDrive, and other cloud and online services.  In short, we are in a unique position to understand both the vital importance of copyright and other forms of intellectual property, and the need for balanced, flexible and transparent rules that support the growth of the digital society.
+
+The Commission will no doubt receive a wide range of responses to its consultation  -  many of which will take competing, and sometimes diametrically opposing, points of view.  We encourage the Commission, when working through these submissions and defining the way forward, to hew carefully to the principle of balance  -  the same balance that is currently reflected in the existing rules.
+
+As we noted at the outset, it is not our intention to respond to each of the questions raised by the Commission.  But we do give examples of how balance might be achieved on two issues:
+
+* Private copy levies:  As the Commission is well aware, private copy levies were adopted at a time when authors were unable to collect license fees for private reproductions of their works.  At their introduction, levies reflected a balanced approach to ensuring that right holders could be fairly remunerated for the use of their works while at the same time permitting consumers to use those works in the ways that they needed and expected.  Device manufacturers in the levies regime bore responsibilities consistent with their business models, which depended on the ability of users to make private copies of copyright-protected works.
+
+Today, however, changes in technologies and consumer expectations have rendered these rules unbalanced and unworkable.  Where levies once provided a form of rough compensation for offline copying of unprotected physical formats, they are unjustified and inefficient today, in a world where digital distribution has vastly expanded both content creator and consumer options (e.g., play once, limited rentals, purchase to own, etc.) and which are reflected in the price the con - sumer pays.  Levies in many cases may undermine the very usage and pricing flexibilities that new digital technologies have enabled; instead they risk reducing consumer choice and forcing content owners into the one-size-fits-all content offerings of the past.  
+
+In short, the traditional framework requires rebalancing.  As the Commission seeks to restore this balance, it should work toward mechanisms that are more objectively justified, much closer to market realities than private copy levies, and better harmonized across Europe.  
+
+* Intermediary liability:  As the copyright owner for products such as Windows, Microsoft Office, Xbox games, Windows Server and other software that is subject to significant piracy, Microsoft has direct and substantial experience enforcing our intellectual property rights online. Microsoft regularly utilizes notice and action procedures to target specific instances of infringement, and we expect all intermediaries to respond expeditiously to appropriately tailored and detailed demands for action.  At the same time, Microsoft also acts as an online intermediary through a range of online services (e.g., Bing, the Windows and Windows Phone app stores, OneDrive, Windows Azure and other solutions).  Microsoft has adopted notice and action procedures for these services enabling the receipt of notices for infringing content, and we respond expeditiously to remove specified content as applicable law may require. 
+
+In contrast to the current levies regime, the EU's existing intermediary liability rules provide a far better example of balance.  Over the last decade, the Electronic Commerce Directive has served as the foundation for Europe's thriving internet economy.  By providing clear, concise rules through which information society service providers can limit their liability for infringing content that third parties store or transfer through their services, the Directive encourages responsible behavior by online intermediaries while at the same time ensuring that they are not liable for user activities of which they are not aware.  While both rights holders and intermediaries would benefit from clarifications regarding their various obligations under the Directive's notice and takedown procedures (as suggested by Microsoft in related comments to the Commission), coupled with the injunctive relief mechanisms in the Copyright Directive, the Electronic Commerce Directive has proven resilient and flexible enough to adapt to the many new technologies and Internet uses that have emerged in the 10+ years since its adoption. 
+
+Microsoft would be pleased to discuss the points above, or to provide further information that the Commission may request or need.  Please contact:
+
+
+Colette Vogele
+Director of IP Policy, EMEA
+Microsoft 
+Rue Montoyer 51
+1000 Brussels 
+Telephone: + 32 (2) 704 3940
+Email:   colvog@microsoft.com     
+
+
+Mark Lange
+Director, EU Institutional Relations
+Microsoft 
+Rue Montoyer 51
+1000 Brussels 
+Telephone: +33 (1) 57751043 
+Email: mlange@microsoft.com
+

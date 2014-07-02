@@ -1,0 +1,233 @@
+FSFE • Bilker Allee 173 • 40217 Düsseldorf • Germany
+
+
+To: Internal Market and Services DG,
+Unit D1 - Copyright
+markt-copyright-consultation＠ec.europa.eu
+
+
+Subject: Public Consultation on the review of the EU copyright rules
+
+
+
+Hugo Roy                 Free Software Foundation Europe      Tel: +49 176 9690 4298     hugo@fsfe.org
+Legal Team,              Hauptniederlassung Düsseldorf
+Deputy Coordinator       Bilker Allee 173
+                         40217 Düsseldorf, Germany
+
+
+
+
+                                                                                              Date: 05/03/2014
+
+
+
+
+Dear Sir, Madam,
+we are grateful for the opportunity afforded by this consultation to provide input on the future of
+Europe’s copyright rules. FSFE is a charitable non-profit organisation dedicated to promoting
+freedom in the information society.
+We are focusing our input mainly on questions related to matters of software. We remain available
+to support the Commission’s work on copyright reform in the future.
+With kind regards,
+
+
+                                                                        Hugo Roy
+                                                                        Free Software Foundation Europe
+
+
+
+
+Register ID: 16346143489-02
+Organisation: Free Software Foundation Europe e.V.
+Type of respondent: End user/consumer (e.g. internet user, reader, subscriber to music or
+audiovisual service, researcher, student) OR Representative of end users/consumers
+
+
+Free Software Foundation Europe (FSFE) Bilker Allee 173 40217 Düsseldorf, Germany
+Tel: +49. 700. FSFEUROPE ext 22 • office@fsfeurope.org • www.fsfeurope.org
+Free Software Foundation Europe • IBAN (international): DE 69 36020030 000 3004732
+National­Bank Essen, Germany • SWIFT/BIC­No: NBAG DE 3E
+    11. Should the provision of a hyperlink leading to a work or other subject matter protected
+        under copyright, either in general or under specific circumstances, be subject to the
+        authorisation of the rightholder?
+        No
+Hyperlinks are core to the web. If hyperlinking were made subject to the authorisation of any
+rightholder, then basically any kind of web publishing would be potentially withheld to the
+authorisation of many rightholders.
+In practice, it would mean that:
+    1. web publishers would have to identify which hyperlinks merely point to works that are
+       copyrightable subject matter;
+    2. web publishers would have to identify the rightholder and how to contact them; which is
+       nothing trivial for online pages;
+    3. and finally web publishers would have to wait for the rightholder’s authorisation.
+Such a provision would constitute a great burden on freedom of speech to which the Web has been
+instrumental. The reasonably foreseeable outcomes of such a provision would be either:
+    •   massive inability to apply the provision for web publishers, resulting in massive presumably
+        infringing content; or
+    •   massive avoidance of hyperlinking, resulting in less usable web pages and a lost opportunity
+        to point the public to relevant works.
+The prerogatives of the copyright holder over their work should not extend to comprise making a
+hyperlink. Regular hyperlinks should never be considered direct use of a copyrighted work. Indeed,
+a regular hyperlink does not reproduce, transmit, nor make available in any way a work. Rather,
+hyperlinks only point to already identifiable resources.
+In that regard, the EUCJ ruling “Svensson” C-466/12 is worrisome and the right of making
+available should be clarified to exclude the use of regular hyperlinks from its scope. Making some
+hyperlinking practices subject to the authorisation of rightholders only complicates their use, causes
+chilling effects on freedom of expression, sets up the unenforceable rules and leads to further
+alienation of copyright law for the general public. Links to illegally communicated works should be
+rather solved under theories of accessory liability or wrongful omission as they account for flexible
+circumstances that might occur.
+
+
+
+
+Free Software Foundation Europe (FSFE) Bilker Allee 173 40217 Düsseldorf, Germany
+Tel: +49. 700. FSFEUROPE ext 22 • office@fsfeurope.org • www.fsfeurope.org
+Free Software Foundation Europe • IBAN (international): DE 69 36020030 000 3004732
+National­Bank Essen, Germany • SWIFT/BIC­No: NBAG DE 3E
+    13. [In particular if you are an end user/consumer:] Have you faced restrictions when
+        trying to resell digital files that you have purchased (e.g. mp3 file, e-book)?
+        Yes
+Digital restrictions management (DRM) prevents the consumer to truly own the digital files they
+have purchased. Not only are consumers often unable to resell digital files, DRM often prevents
+them from being able to simply use the files they have purchased for legitimate and lawful
+purposes. Incidentally, consumers who have bought digital files cannot choose which software or
+device to use, causing issues regarding interoperability and competition.
+In practice, digital restrictions management enables publishers, software and hardware vendors to
+impose on the consumer any kind of restrictions they see fit. Thus, DRM equates to giving
+publishers more power to restrict use of a work than they are legally entitled to under copyright
+law, over how the digital version of their works are used by the public.
+In addition to technical restrictions, consumers are often bound by the terms of use and licensing
+that govern the acquisition of digital files. These terms deceive consumers who believe they have
+bought the files and illustrate that consumers do not own the digital content they acquire in the same
+way they would own equivalent physical goods. For example, James Joseph O'Donnell, a classical
+scholar and University Professor at Georgetown University, has lost access to e-books he had
+acquire from Google Books because of the digital restrictions management and region-control that
+Google exercise on their platform.1
+People with disabilities are often barred from media use because DRM prevents them from
+converting content to media formats that help them in spite of their disabilities. For example, book
+publishers protested against the possibility that some e-book reader might electronically convert text
+into speech. Without such text-to-speech features, blind people will simply not be able to read
+books they have purchased.
+Recommendations
+
+        Digital works covered by copyright should, when acquired by consumers, be clearly labelled
+        if they are restricted by DRM mechanisms.
+
+   80. Are there any other important matters related to the EU legal framework for
+        copyright? Please explain and indicate how such matters should be addressed.
+Digital restrictions management (DRM) is an illegitimate form of control exercised by content
+providers and device manufacturers over personal computing.
+The Directive 2001/29/EC introduced anti-circumvention provisions that prevent users of personal
+computers to take back control of their computing. These anti-circumvention provisions should be
+simply abrogated.
+Copyright subject matter covers original works of expression. Technical restrictions such as DRM
+
+1   Cross a border, loose your ebooks, Aug 17, 2013, BoingBoing, http://boingboing.net/2013/08/17/cross-a-border-
+    lose-your-eboo.html
+
+
+Free Software Foundation Europe (FSFE) Bilker Allee 173 40217 Düsseldorf, Germany
+Tel: +49. 700. FSFEUROPE ext 22 • office@fsfeurope.org • www.fsfeurope.org
+Free Software Foundation Europe • IBAN (international): DE 69 36020030 000 3004732
+National­Bank Essen, Germany • SWIFT/BIC­No: NBAG DE 3E
+should not therefore be granted special protection through copyright law because such protection is
+ill-fitted and disproportionate.
+In practice, anti-circumvention provisions also create issues in terms of software interoperability
+and competition. Digital restrictions management enable illegitimate vendor lock-in that prevents
+competition. For instance, the French association Videolan who publish the VLC free software
+media player has been facing important legal uncertainty regarding the ability to play “Blu-Ray
+media” on which Sony has a DRM.2 This situation illustrates the illegitimate barrier to Free
+Software that DRM constitutes: in this case, copyright law is misused by software vendors in order
+to prevent competition and create lock-in for customers.
+Recommendations
+
+        Anti-circumvention provisions should be abrogated.
+
+
+
+
+2   VLC : la Hadopi n'a pas la clef pour ouvrir la porte du Blu-ray, PC Inpact, 08/04/2013,
+    https://www.pcinpact.com/news/78893-vlc-hadopi-na-pas-clef-pour-ouvrir-porte-blu-ray.htm
+
+
+Free Software Foundation Europe (FSFE) Bilker Allee 173 40217 Düsseldorf, Germany
+Tel: +49. 700. FSFEUROPE ext 22 • office@fsfeurope.org • www.fsfeurope.org
+Free Software Foundation Europe • IBAN (international): DE 69 36020030 000 3004732
+National­Bank Essen, Germany • SWIFT/BIC­No: NBAG DE 3E
+    22. Should some/all of the exceptions be made mandatory and, if so, is there a need for a
+        higher level of harmonisation of such exceptions?
+        Yes
+Exceptions to software copyright for reverse-engineering and decompilation purposes should not be
+weakened, but strengthened.
+Circumvention of digital restrictions management (DRM) should be considered outside the scope of
+protection provided by copyright law, or alternatively an exception for circumvention of DRM for
+legitimate purposes should be made mandatory in all EU member States. Moreover, circumvention
+of DRM should not bear compensation to the protected content rightholder, nor to the DRM
+mechanism owner.
+    24. Independently from the questions above, is there a need to provide for a greater degree
+        of flexibility in the EU regulatory framework for limitations and exceptions?
+        Yes
+Exceptions and limitations to copyright should benefit from greater legal certainty.
+In this regard, the Three-step test should be reasonably interpreted as an obligation for the
+legislator rather than as a means towards weakening exceptions to copyright that the law provides
+for as seen in some court cases in Europe3.
+Recommendations
+
+              •   Exceptions to software copyright for reverse-engineering and decompilation
+                  purposes should be strengthened to benefit interoperability and innovation.
+              •   Exceptions to anti-DRM circumvention provisions should be strengthened for
+                  interoperability and other legitimate purposes.
+              •   Existing exceptions and limitations to copyright should benefit from greater legal
+                  certainty by making explicit that the Three-Step test is an obligation to the legislator,
+                  not a a legal reasoning to be used in courts in order to weaken established exceptions
+                  and limitations.
+
+
+
+
+3   In arrêt Mulholland Drive the French Cour de cassation followed a misguided interpretation of the Three-step test
+    that reduced the exception for private copy to a trickle. (Chambre de cassation, civ. 1re, Arrêt n° 549 du 28 février
+    2006, 05-15.824, 05-16.002)
+
+
+Free Software Foundation Europe (FSFE) Bilker Allee 173 40217 Düsseldorf, Germany
+Tel: +49. 700. FSFEUROPE ext 22 • office@fsfeurope.org • www.fsfeurope.org
+Free Software Foundation Europe • IBAN (international): DE 69 36020030 000 3004732
+National­Bank Essen, Germany • SWIFT/BIC­No: NBAG DE 3E
+    d. How to improve the use and interoperability of identifiers
+There is no shortage of databases of rights and works information, but they largely lack
+interoperability - even between databases carrying information about the same type of works. We
+believe that the true benefit of such databases can only be realised with open standards and public
+APIs for registering, requesting and modifying information in such databases. We further believe
+that such interoperability would enable works information to be carried not only in a single database
+but distributed across multiple databases operated independently of one another: some might be
+maintained by rights holders themselves, other databases by non-profit organisations or business
+entities. This would create a network of interoperable databases that support the creator and user of
+creative works with the flexibility they need to maintain information about works. As we go about
+our lives online, we create works that are potentially covered by copyright many times every day -
+hundreds of times, if counting every email we send, picture we take, story we share. Registering this
+in a single database becomes highly impractical. We believe the role of the EU to ensure and
+enforce interoperability between such databases and ensuring that the public has equal access to
+information within them using open standards.
+Persistent identifiers are a requirement for ensuring the full benefits of a network of databases are
+realised. As has been shown in studies by the International Press and Telecommunications Council
+(IPTC) though, a more pressing issue than the adoption of identifiers is to enable the retention of
+such identifiers. Such identifiers already exist today, but they are routinely stripped from works as
+they are shared online. We therefore believe that the role of the EU is not so much in the promoting
+adoption of identifiers but working with industry and the community to ensure that such identifiers
+are retained through all stages of creating, curating and using a work.
+Recommendations
+
+        The role of the EU should be to work with industry and with the community to ensure that
+        identifiers are retained through all stages of publishing, curating and using a work.
+
+
+
+
+Free Software Foundation Europe (FSFE) Bilker Allee 173 40217 Düsseldorf, Germany
+Tel: +49. 700. FSFEUROPE ext 22 • office@fsfeurope.org • www.fsfeurope.org
+Free Software Foundation Europe • IBAN (international): DE 69 36020030 000 3004732
+National­Bank Essen, Germany • SWIFT/BIC­No: NBAG DE 3E
+

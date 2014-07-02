@@ -1,0 +1,357 @@
+
+
+
+11. Should the provision of a hyperlink leading to a work or
+other subject matter protected under copyright, either in
+general or under specific circumstances, be subject to
+theauthorisation of the rightholder?
+
+No. 'Linking' is fundamental to the way people use and
+experience the Internet. The ability to freely share links is
+also a factor behind the Internet's usefulness as a driver of
+economic growth and innovation and tool forsocial change.
+Sharing links helps people create a map of what is important to
+them.
+
+Requiring permission to share links would undermine an important
+principle behind the Internet's success – the idea that people
+have more of a say over what is important– and render the
+Internet less useful and, potentially, less easy to use. Of
+course the recent Svensson case, for which a judgment at the
+CJEU was handed down on 13thFebruary, is of crucial importance
+to this
+debate.http://www.twobirds.com/en/news/articles/2014/global/cjeu-decision-in-svensson-hyperlinks-to-freely-available-content
+
+In general the permissions related to the presentation of
+copyrighted work online should be settled further upstream – by
+those creating websites, not when somebody is sharinginformation
+about where to find that site and the content on it.
+
+ 
+
+12. Should the viewing of a web-page where this implies the
+temporary reproduction of a work or other subject matter
+protected under copyright on the screen and in the cache memory
+of the user’s computer, either in general or under specific
+circumstances, be subject to the authorisation of the
+rightholder?
+
+ No.
+
+We note the judgment from April 2013 of the UK Supreme Court,
+who were asked to look at whether the temporary copies made for
+browsing are covered by copyright. Graham Smith, a partner at
+law firm Bird & Bird, summarised the judgment:
+
+“Lord Sumption, who gave the judgment of the UKSC, concluded
+that browsing did fall within the exception, and so did not
+require the permission of the copyright owner. However he
+recognised that the issue has a transnational dimension and has
+important implications for many millions of people across the EU
+making use of the internet. That made it desirable that the
+decision be referred to the CJEU, so thatthe critical point
+might be resolved in a manner that would apply uniformly across
+the EU.”
+
+The Supreme Court judgment is available
+online.http://www.bailii.org/uk/cases/UKSC/2013/18.html
+
+The CJEU reference is also available
+onlinehttp://curia.europa.eu/juris/document/document.jsf?text=&docid=140431&pageIndex=0&doclang=en&mode=lst&dir=&occ=first&part=1&cid=312377
+
+14. [In particular if you are a right holder or a service
+provider:] What would be the consequences of providing a legal
+framework enablingthe resale of previously purchased digital
+content? Please specify per market (type of content) concerned.
+
+Our concerns related to this are more broadly about ownership of
+digital copyrighted works.
+
+Restrictions are often placed on digital copies of copyrighted
+works which limit how consumers can use their copies. This may
+stop them doing things they would consider legitimate use of
+physical copies – such as lending a book, or leaving their CD
+collection or library of books in a will.
+
+There is also a related labelling problem. If there are
+significant limits on the use of works purchased – for example
+where films can be removed from users' cloud libraries when
+rights lapse - perhaps the words 'purchase' or 'buy' are
+inappropriate and should be discouraged in favour of 'lease' or
+'extended rental'.
+
+19. What should be the role of the EU in promoting the adoption
+of identifiers in the content sector, and in promoting the
+development and interoperability of rights ownership and
+permissions databases?
+
+The EUshould be concerned about ensuring that rights ownership
+and permissions databases are built around open standards. They
+should be publicly accessible, machine readable and searchable.
+
+ 
+
+20. Are the current terms of copyright protection still
+appropriate in the digital environment?
+
+For this question we draw on what we wrote in 2011, at the time
+that term extension was back before the European Council.
+
+Leading IP professors, the UK Government's 'Gowers Review' of
+IP, and independent economic analysts all argued that extending
+copyright term was unwise. The Financial Times labelled the
+proposal 'disgraceful' in an editorial
+(http://www.ft.com/cms/s/0/f435f4d4-2d09-11de-8710-00144feabdc0.html)
+in 2009.
+
+In their 2009 study on the value of the public domain, Rufus
+Pollock, Paul Stepan and Mikko V alim aki argued that term
+extension would likely result ultimately in higher prices for
+consumers
+(http://rufuspollock.org/papers/value_of_the_public_domain_eu.pdf).
+
+ Longer copyright terms tend to benefit only a small number of
+artists and businesses - according to a joint academic
+statement, signed by 80 eminent academics, includingseveral
+Nobel Laureates, 96% of the economic returns will go to the
+major record labels and top 20% of performers
+(http://www.cippm.org.uk/downloads/Term%20Statement%2027_10_08.pdf).
+In an open letter in April 2011, four leading IP professors
+argued that '….if there was a policy designed to suppress
+social and commercial innovation, retrospective term extension
+would be your choice.'
+(http://www.cippm.org.uk/copyright_term.html)
+
+On copyright term, policy makers should focus on helping provide
+opportunity to recoup investment in creative production, putting
+the artist in a strong position in relation to intermediaries
+involved in financing or distributing their work, and promoting
+the value of the public domain as a means of ensuring our
+cultural heritage is accessible to the public. We believe that
+suggests a shorter term with revocation of rights to the
+creator after ashort period on a ‘use it or lose it’ basis.
+
+ 
+
+21. Are there problems arising from the fact that most
+limitations and exceptions provided in the EU copyright
+directives are optional for the Member States?
+
+We believe that exceptions and limitations as a useful way to
+help people get the most out of copyrighted works. Exceptions
+are helpful in defining what counts as legitimate use of a
+copyrighted work, and setting out the limited instances in
+which permission from or payment to the rightsholder should
+notbe required.
+
+For instance, a parody exception helps more people be creative
+through their reworking of cultural works but, the evidence
+suggests, does not adversely affect rightsholders' interests.
+
+At the moment, people across Europe face a fairly disjointed
+regime, with different jurisdictions enacting different
+combinations of exceptions. That creates a confusing picture
+for both consumers and, potentially, those looking to offer
+services based on the sharing of user generated content. A more
+consistent approach would likely help with this.
+
+22. Should some/all of the exceptions be made mandatory and, if
+so, is there a need for a higher level of harmonisation of such
+exceptions?
+
+As noted, there is certainly a patchwork of approaches at the
+moment. We suggest that all exceptions in the Information
+Society Directive 2001/29/EC and other Directives in the
+copyright acquis be implemented as a minimum across the EU.
+
+23. Should any new limitations and exceptions be added to or
+removed from the existing catalogue? Please explain by
+referring to specific cases.
+
+A simple mechanism for adding or amending exceptions would be
+extremely useful,helping copyright more dynamically keep pace
+with technology.
+
+We would support an exception for text and data mining, and a
+parallel exception to the database right (requiring a small
+amendment to Article 9 of the Database Directive). It should be
+made explicit that “illustration for research” also includes
+research carried out by means of data analytics.
+
+From an educational perspective, we would also support an
+exception allowing the recording of broadcasts and also the
+communication of those broadcasts through secure networks for
+educational purposes. Contract terms and technical protection
+measures should not be able to overridethese exceptions.
+
+In general we believe that contract should not override
+exceptions.
+
+ 
+
+62. If your view is that a legislative solution is needed, what
+would be its main elements? Which activities should be covered
+and under what conditions?
+
+We support reforms that would allow people to remix copyrighted
+works in ways that do not unduly interfere with the interests
+of the rightsholder.
+
+This is because we believe that allowing people to creatively
+rework copyrighted goods would encourage people to be creative
+citizens rather than just consumers, help people learn new
+creative skills, and provide people more ways to be part of
+cultural conversations happening around them. That is the
+principle behind our support for a new copyright exception in
+the UK for parody.
+
+ 
+
+72. What is the best mechanism (or combination of mechanisms) to
+ensure that you receive an adequate remuneration for the
+exploitation of your works and performances?
+
+Our response here draws on our submission to the UK IPO's 2013
+consultation 'Copyright in the EU”. Our position is based in
+our interest in seeing new technology help citizens be creators
+and participants in culture, and on how markets for cultural
+goods can function most effectively. We advocate for the
+prioritisation of the perspective of creators' side of the
+market, and an approach that tries to ensure everybody who
+wishes to is able to play a more active role in culture and the
+cultural economy.
+
+We offer three suggestions here for focusing future work on the
+position of the creator:
+
+a. We support the work behind the recent report “Contractual
+Arrangements Applicable to Creators”, published by the European
+Parliament's Committee on Legal Affairs. We support the report's
+recommendations such as mandatory 'use it or lose it' and
+reversion clauses in contracts, dual licensing and for further
+study on fair remuneration and competition law.
+
+“Use it or lose it” clauses could help make sure that artists'
+interests are served through ownership of copyright of their
+works when exploitationof that work does not make economic
+sense to the current rights holder. As the report notes, that
+is especially likely to be a problem in digital markets in
+which new distribution opportunities will emerge quickly.
+
+We see a role for policy makers in pushing for more rights for
+creators to seek the reversion of rights when material goes out
+of commercial release.
+
+b. We also support the report's recommendation that creators
+need greater transparency, and specifically for mechanisms like
+reporting obligations. The Commission should look at how they
+can help creators get more information about how their works
+are used and work with creators to look at where more
+information about the use of their work would be useful. For
+example, this could include guaranteesof raw listening data
+from legal music services, such as streaming services.
+
+c. Work to amend 'free and forever' clauses in social media end
+user agreements.
+
+As a continuation of this work, we suggest work to ensure that
+terms of use for services we use to share content online such
+as social networks are fair and equitable for all of us. That
+would mean that when we share our photos, our words, and our
+music it remains ours, to keep as private or public as we wish,
+and remove if we decide to. For example,a simple approach would
+be a Code of Conduct, which could at least help people
+understand their privacy rights and copyright.
+
+75. Should the civil enforcement system in the EU be rendered
+more efficient for infringements of copyright committed with a
+commercial purpose?
+
+'Efficiency' should not mean 'speed' where that comes at the
+expense of due process and the proper consideration of fairness
+and justice in the enforcement of rights.
+
+Copyright enforcement often involves the potential interference
+with human rights such as freedom of expression and privacy.
+One example of how interference with freedom of expression is
+when intermediaries can or are pressured into making
+unaccountable decisions about what people are allowed to
+access, read or download online.
+
+In such situations, policy makers should be concerned about who
+is making an allegation of wrong-doing; who is checking that
+allegation; how is that allegation proved; and can those
+accused defend themselves or seek redress when mistakes are
+made?
+
+76.In particular, is the current legal framework clear enough to
+allow for sufficient involvement of intermediaries (such as
+Internet service providers, advertising brokers, payment
+service providers, domain name registrars, etc.) in inhibiting
+online copyright infringements with a commercial purpose? If
+not, what measures would be useful to foster the cooperation of
+intermediaries?
+
+There are a number of issues policy makers must take account of
+when looking to involve intermediaries further in the
+enforcement of copyright. 'Foster cooperation' is an aim which
+should be approached with great caution.
+
+We do not support voluntary or co-regulatory process where no
+court judgments are involved. Policy makers should avoid
+creating enforcement regimes in which powers to decide what
+people can see and do online, or to take action against alleged
+infringers, can be exercised on the basis of unproven
+allegations or insufficiently transparent legal processes. In
+such situations, due process and rights of redress are absent
+from measures such as blocking, or the taking down content, or
+the suspension of domains.
+
+Policy makers should promote the rule of law, due process and
+rights of redress. We urge you to make sure that efforts to
+enforce copyright build in respect for freedom of expression
+and privacy from the start, and discourage the development of
+less accountable voluntary enforcement measures.
+
+77. Does the current civil enforcement framework ensure that the
+right balance is achieved between the right to have
+one’scopyright respected and other rights such as the
+protection of private life and protection of personal data?
+
+We are concerned at the tendency for voluntary or co-regulatory
+arrangements to enforce copyright to ignore due process and a
+respect forfundamental rights.
+
+We are very concerned in general that policy makers do not
+recognise how enforcement of copyright, especially when pursued
+through voluntary arrangements, can undermine rights such as
+freedom of expression and privacy. For example, in the UK a
+voluntary letter writing scheme is being discussed as a
+replacement for the Digital Economy Act. The UK Government is
+encouraging and facilitating these discussions but they are
+taking no responsibility for them. The discussions are taking
+place between ISPs and rights holders. Without representatives
+from organisations promoting consumer or human rights and
+without the involvement of the government it is unclear who
+will be ensuring that the policy works in the public interest.
+
+To establish the best approach to tackling infringement, we
+advocate policy makers adopting principles to be followed when
+dealing with evidence from stakeholders, suchas:
+
+ 1. The methodology should be public, or at the very least
+available to the policy makers to scrutinise. That will help
+ensure that stakeholders can check the assumptions behind
+research and the approaches taken to it.
+
+2. The data upon which the findings are based should be public.
+That would help to ensure that claims about what research
+implies, or conclusions and recommendations drawn from the
+data, can be checked and reviewed. Further, it could help more
+people analyse findings and suggest future avenues for
+research.
+
+3. Treat research that does not adhere to principles 1 and 2
+with scepticism. This will incentivise more stakeholders to
+produce evidence that adheres with these principles.
+

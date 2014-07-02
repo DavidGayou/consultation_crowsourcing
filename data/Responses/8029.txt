@@ -1,0 +1,2617 @@
+
+                             Veřejná konzultace
+                   k revizi pravidel autorského práva v EU
+
+Obsah
+I.    Úvod  2
+A.    Kontext konzultace     2
+B.    Jak předložit odpovědi na tento dotazník     3
+C.    Ochrana údajů    3
+II.   Práva a fungování jednotného trhu 7
+A.    Proč není možné k mnoha internetovým obsahovým službám mít přístup
+     odkudkoli v Evropě?    7
+B.    Je nutné zajistit jednoznačnější přehled o tom, co všechno je třeba
+     schválit (nebo neschválit) při digitálním přenosu?  10
+  1.  Akt „zpřístupnění“     10
+  2.  Dvojí právo v jednom aktu užití   11
+  3.  Odkazy a prohlížení    12
+  4.  Stahování digitálního obsahu do vlastnictví  13
+C.    Registrace děl a jiných předmětů ochrany – je to dobrý nápad? 13
+D.    Jak zlepšit užívání a interoperabilitu identifikátorů   14
+E.    Doba ochrany – je přiměřená?      15
+III.  Omezení a výjimky na jednotném trhu    15
+A.    Přístup k obsahu v knihovnách a archivech    18
+  1.  Uchování a archivace   19
+  2.  Přístup ke knihovním fondům z míst mimo knihovnu   20
+  3.  E-půjčování      21
+  4.  Masová digitalizace    22
+B.    Výuka 23
+C.    Výzkum     24
+D.    Osoby s postižením     25
+E.    Vytěžování textů a dat 26
+F.    Uživatelsky generovaný obsah      28
+IV.   Soukromé kopírování a reprografie 30
+V.    Spravedlivá odměna pro autory a výkonné umělce     33
+VI.   Respektování práv      34
+VII.  Jednotná ochrana autorského práv v EU  35
+VIII. Jiné otázky      36
+
+
+ I. Úvod
+
+
+Kontext konzultace
+
+
+Během posledních dvou desetiletí se díky digitální technologii  a  internetu
+změnily způsoby tvorby, distribuce a zpřístupňování obsahu. Těm,  kdo  tvoří
+a produkují obsah (např. film, román, píseň), se naskýtají nové  možnosti  a
+příležitosti. A totéž platí pro nové i dosavadní distribuční platformy,  pro
+instituce typu knihoven, pro činnosti, jako je např. výzkum, i  pro  občany,
+kteří dnes počítají s tím, že k obsahu budou mít přístup –  pro  informační,
+vzdělávací i zábavní účely – bez ohledu na zeměpisné hranice.
+
+
+Nové prostředí ale přináší i nové výzvy. Trh se například musí adaptovat  na
+stále nové formy distribuce a užití. Reagovat musí také  zákonodárci,  kteří
+musí systém práv i jejich omezování a vynucování udržovat na výši doby,  což
+znamená, že musí systém přizpůsobovat novému prostředí. Tato  konzultace  se
+zaměřuje právě na úkol zákonodárců: zajistit, aby autorskoprávní  předpisový
+rámec EU nadále plnil svůj účel  v digitálním  prostředí  –  aby  podporoval
+tvorbu a inovaci, umožňoval plné využití možností  plynoucích  z  jednotného
+trhu, napomáhal růstu ekonomiky a jejímu investičnímu rozvoji a přispíval  k
+rozvíjení kulturní rozmanitosti.
+
+
+Ve svém „Sdělení o obsahu na jednotném digitálním trhu“[1]  vytyčila  Komise
+dva paralelní postupy: první z nich je zaměřen na dovršení  současných  snah
+o revizi a modernizaci legislativního rámce autorského  práva  v  EU[2]  [3]
+s tím, že v roce 2014 se rozhodne, zda budou podány návrhy  na  legislativní
+reformu; druhý  z nich  je  zaměřen  na  snazší  nalézání  účelných  řešení,
+vycházejících z průmyslové praxe a z dialogu  zainteresovaných  subjektů  na
+téma „Licence pro Evropu“ se zaměřením na otázky, u nichž se  předpokládalo,
+že dosažení rychlého pokroku je nutné a možné.
+
+
+Proces probíhající pod názvem „Licence pro  Evropu“  nyní  končí[4].  Komise
+vítá praktická  řešení,  která  v této  souvislosti  navrhly  zainteresované
+subjekty, a hodlá sledovat falší  postup.  Záruky  (závazné  přísliby)  byly
+získány od zainteresovaných subjektů ve všech čtyřech  pracovních  skupinách
+(ve skupině pro přeshraniční přenositelnost  služeb;  pro  obsah  generovaný
+uživatelem; pro audiovizuální a filmové dědictví; a pro vytěžování  textů  a
+dat). Komise celkově předpokládá,  že  tyto  přísliby  budou  dalším  krokem
+k vytvoření příznivějšího  uživatelského  prostředí,  a  že  tomu  tak  bude
+v nejrůznějších situacích. Komise také bere na vědomí, že ve dvou  skupinách
+– pro obsah generovaný  uživatelem  a  pro  vytěžování  textů  a  dat  –  se
+zúčastněné zainteresované subjekty neshodly ani na  otázkách  k řešení,  ani
+na výsledcích. K diskusi a výsledkům procesu „Licence pro  Evropu“  se  bude
+také přihlížet při revizi legislativního rámce.
+
+
+Součástí revizního procesu je i nynější veřejná  konzultace,  kterou  Komise
+zahajuje k tématům stanoveným ve Sdělení o obsahu  na  jednotném  digitálním
+trhu, tj. „teritorialita na vnitřním trhu, harmonizace,  omezení  autorského
+práva a výjimky z něj v digitální éře;  roztříštěnost  trhu  EU  s autorským
+právem; a jak zlepšit  účinnost  a  účelnost  vymáhání  autorského  práva  a
+zároveň podpořit legitimitu v širším  kontextu  reformy  autorského  práva“.
+Jak bylo zdůrazněno v závěrech ze zasedání Evropské  rady  v říjnu  2013[5],
+„Poskytování digitálních služeb a obsahu v rámci jednotného  trhu  vyžaduje,
+aby byl zaveden  systém  autorského  práva  odpovídající  digitálnímu  věku.
+Komise proto na jaře roku 2014 dokončí svůj přezkum rámce  EU  pro  autorská
+práva. Je důležité modernizovat evropský systém autorských  práv,  a  stejně
+tak i  usnadnit  poskytování  licencí,  avšak  současně  je  třeba  zajistit
+vysokou úroveň ochrany práv duševního  vlastnictví  a  zohledňovat  kulturní
+rozmanitost“.
+
+Tato  konzultace  vychází  z dřívějších  konzultací   a veřejných   jednání,
+zvláště těch, která se týkala „Zelené knihy o autorském právu  ve  znalostní
+ekonomice“[6], „Zelené knihy o online distribuci audiovizuálních  děl“[7]  a
+„Obsahu Online“[8]. Tyto  uvedené  konzultace  byly  cenným  zdrojem  zpětné
+vazby od zainteresovaných subjektů k celé řadě otázek  v širokém  tematickém
+záběru  –  od  teritoriality  autorského  práva  a  možností  překonat  tuto
+teritorialitu, přes výjimky pro šíření  znalostí  online  až  po  odměňování
+nositelů práv, především pak v audiovizuálním odvětví. Svoje názory  uváděli
+zainteresované  subjekty  představující  všechny  fáze  hodnotového  řetězce
+včetně nositelů práv, distributorů, spotřebitelů  a  příslušníků  akademické
+obce. Názory na nejvhodnější další postup při řešení jednotlivých otázek  se
+široce různily.  Po „Zelené knize o autorském právu ve znalostní  ekonomice“
+následovalo  Sdělení.  Odpovědi  na  „Zelenou  knihu  o  online   distribuci
+audiovizuálních  děl“  poskytly  východiska  k následné  diskusi   na   téma
+směrnice o kolektivní správě  autorského  práva  a  také  k procesu  nynější
+revize.
+
+Jak předložit odpovědi na tento dotazník
+
+
+Laskavě zašlete odpovědi do 5. února 2014 ve formátu word nebo   pdf  na  e-
+mailovou  adresu   GŘ   pro   vnitřní   trh   a   služby:   markt-copyright-
+consultation@ec.europa.eu. Vezměte laskavě na vědomí,  že  odpovědi  poslané
+po tomto termínu se nebudou brát v úvahu.
+
+
+Tato konzultace je určena pro různé kategorie zainteresovaných  subjektů.  U
+každé  otázky  se  v možném  rozsahu  uvádí,  které  kategorie   (kategorií)
+respondentů se daná otázka nejspíše týká (anotace  v závorce  před  samotnou
+otázkou). Respondenti  by  přesto  měli  pokud  možno  odpovědět  na  každou
+z otázek.  Na  druhé  straně  však  upozorňujeme,  že   kromě   identifikace
+respondenta  není  žádná  z otázek  povinná.  Přijatelné  budou  i  odpovědi
+reagující jen na část otázek.
+
+
+Odpovědi laskavě uveďte přímo v tomto konzultačním dokumentu. U otázek  typu
+„Ano/Ne/Žádný názor“ laskavě uveďte odpověď tučným písmem a  podtrhněte  ji,
+abychom bez potíží zjistili, kterou odpověď jste zvolili.
+
+
+Odpovědi na otázky laskavě vztahujte k situaci v členských státech  EU.  Kde
+to bude možné, tam laskavě  také  uveďte,  jaký  dopad  budou  Vámi  uvedené
+možnosti mít z hlediska nákladů, příležitostí a výnosů.
+
+
+Materiály veřejné konzultace jsou k dispozici v angličtině,  avšak  odpovědi
+můžete zaslat v kterémkoli z 24 oficiálních jazyků EU.
+
+
+Ochrana údajů
+
+
+Příspěvky získané v tomto kole  konzultací  i  souhrnná  zpráva,  kde  budou
+prezentovány odpovědi ve statistické a agregované podobě,  budou  zveřejněny
+na webové stránce GŘ pro vnitřní trh (DG MARKT).
+
+
+Vezměte laskavě na vědomí,  že  všechny  došlé  příspěvky  budou  zveřejněny
+spolu s identitou osoby, od níž byl  příspěvek  získán  (tj.  přispěvatele),
+pokud přispěvatel neuvede námitku, že  by  zveřejnění  jeho  osobních  údajů
+poškodilo jeho legitimní zájmy. V takovém případě bude příspěvek na  základě
+přispěvatelovy výslovné žádosti zveřejněn v anonymní formě. Jinak  příspěvek
+nebude zveřejněn vůbec a ani jeho obsah nebude pojat do souhrnné zprávy.
+
+
+Přečtěte  si  také  laskavě  naše  prohlášení  o  ochraně  údajů  –  Privacy
+statement.
+
+
+
+UVEĎTE LASKAVĚ SVOJI TOTOŽNOST:
+
+
+
+
+
+Jméno:
+
+
+Zdeněk  J O H N Composer……………………………………………………………………………………..
+
+
+Czech Republic………………………………………………………………………………
+
+
+
+
+
+Organizace  (například  nevládní  organizace,  obchodní  sdružení,  komerční
+podniky) nechť  v zájmu  transparentnosti  poskytnou  veřejnosti  relevantní
+informace tím, že se zaregistrují  u  Rejstříku  zástupců  zájmových  skupin
+[Interest Representative Register] a přijmou jeho etický kodex.
+
+
+    • Jste-li jako organizace už  registrováni,  uveďte  zde  laskavě  svoje
+      identifikační číslo. V takovém případě se  bude  mít  za  to,  že  Váš
+      příspěvek reprezentuje názory celé organizace.
+
+
+…………………………………………………………………………………………………..
+
+
+…………………………………………………………………………………………………..
+
+
+
+
+
+    •  Není-li  Vaše  organizace  registrována,  máte  nyní  příležitost  se
+      registrovat. Odpovědi od organizací, které nejsou registrovány,  budou
+      uvedeny samostatně zvlášť.
+
+
+
+
+
+
+
+
+
+
+Chcete-li svoji odpověď předložit anonymně, pak to zde (níže) laskavě
+uveďte tak, že podtrhnete následující odpověď:
+
+
+
+
+
+    • Ano, chci svou odpověď předložit anonymně.
+
+
+
+
+
+
+Typ respondentA (Laskavě podtrhněte správnou variantu):
+
+
+   ←  Koncový  uživatel/spotřebitel  (např.  uživatel  internetu,   čtenář,
+     předplatitel  služeb  hudební  nebo  audiovizuální  povahy,  pracovník
+     výzkumu, student) NEBO zástupce koncových uživatelů/spotřebitelů
+
+
+     ( pro účely tohoto dotazníku: dále jen  (běžně  v  otázkách)  „koncový
+     uživatel/spotřebitel“
+
+
+
+
+
+   ←  Institucionální   uživatel   (např.   škola,   univerzita,   výzkumné
+     středisko, knihovna, archiv) NEBO zástupce institucionálních uživatelů
+
+     (  pro  účely  tohoto  dotazníku:  dále   jen   (běžně   v   otázkách)
+     „institucionální uživatel“
+
+
+
+
+
+
+   ← Autor/
+
+
+
+
+
+
+   ←          Vydavatel/producent/vysílatel          NEBO          zástupce
+     vydavatelů/producentů/vysílatelů
+
+
+     ( pro účely tohoto dotazníku obě posledně  jmenované  kategorie:  dále
+     jen (běžně v otázkách) „nositel práv“
+
+
+
+
+
+
+   ←   Zprostředkovatel/distributor/poskytovatel   (provozovatel)    jiných
+     služeb (např. poskytovatel online služeb  hudební  nebo  audiovizuální
+     povahy, provozovatel herní platformy, sociálních médií,  internetového
+     vyhledávače, firma v oblasti informačních a komunikačních technologií)
+     NEBO    zástupce     zprostředkovatelů/distributorů/     poskytovatelů
+     (provozovatelů) jiných služeb
+
+
+     (  pro  účely  tohoto  dotazníku:  dále   jen   (běžně   v   otázkách)
+     „poskytovatel služeb“
+
+
+
+
+
+
+   ← Organizace kolektivní správy
+
+
+
+
+
+
+   ← Veřejný úřad
+
+
+
+
+
+
+  xČlenský stát:  Czech Republic
+
+
+
+
+
+
+   ← Jiné (laskavě vysvětlete):
+
+
+  ……………………………………………………………………………………………….
+
+
+  ……………………………………………………………………………………………….
+
+
+
+II. Práva a fungování jednotného trhu
+
+
+Proč není možné k mnoha internetovým obsahovým službám mít přístup
+odkudkoli v Evropě?
+
+
+[Teritoriální rozsah práv spojených s digitálním přenosem a segmentací  trhu
+na základě licenčních smluv]
+
+
+Nositelé práv – např. spisovatelé, zpěváci, hudebníci – nemají v rámci  celé
+Evropské unie jednotnou ochranu. Na ochranu těchto  práv  má  každý  členský
+stát  balík  práv  na  národní  úrovni.  Tato  práva  byla   z valné   části
+harmonizována existujícími směrnicemi EU. Některé rozdíly  však  přetrvávají
+a geografická působnost těchto  práv  se  omezuje  na  teritorium  členských
+států, které je udělují. Autorská práva  tedy  mají  teritoriální  charakter
+v tom smyslu, že jsou získávána a vynucována v různých státech  různě  podle
+příslušné národní legislativy[9].
+
+
+Kdo šíří po internetu obsah chráněný  autorským  právem  (například  hudební
+streamovací služba nebo internetoví prodejci  knih),  ten  ke  své  činnosti
+v zásadě potřebuje povolení  pro  každé  státní  území,  na  kterém  předává
+(komunikuje) obsah veřejnosti. Nositelé práv samozřejmě mají možnost  udělit
+multiteritoriální  nebo  panevropskou  licenci,  podle  které  lze  obsahové
+služby poskytovat v několika  členských  státech  EU  a  přes  hranice.  Pro
+snazší udělování multiteritoriálních licencí byla na úrovni EU učiněna  celá
+řada kroků – např. návrh směrnice o kolektivní správě autorského  práva[10],
+která by  měla  značně  ulehčit  vydávání   multiteritoriálních  licencí  na
+hudební   díla   pro   služby   online[11];   nebo   strukturovaný    dialog
+zainteresovaných stran  „Licence  pro  Evropu“[12];  nebo  trhem  iniciované
+snahy, např. průběžně pokračující práce v rámci  iniciativy  Linked  Content
+Coalition[13], usilující o snazší určování nositelů práv.
+
+
+Dialog „Licence pro Evropu“ řešil především  konkrétní  otázku  přeshraniční
+přenositelnosti,  tj.  možnost,   aby   spotřebitelé   s   online   službami
+předplacenými ve vlastním členském státě měli  k  těmto  službám  přístup  i
+během dočasného pobytu v jiných členských státech. Zástupci  audiovizuálního
+odvětví díky této iniciativě vydali společné prohlášení  potvrzující  jejich
+odhodlání nadále usilovat o další rozvoj přeshraniční přenositelnosti[14].
+
+
+Bylo  sice  dosaženo  značného   pokroku,   ale   problémy   s přeshraničním
+poskytováním  služeb  a  s přístupem  k těmto  službám  nadále  přetrvávají.
+Nejzřetelněji se projevují u  spotřebitelů,  kteří  chtějí  využívat  služby
+poskytované v jiných členských státech, než kde mají  bydliště.  Ne  všechny
+online služby jsou k dispozici ve všech členských státech,  a  spotřebitelé,
+kteří chtějí takových služeb užívat před hranice, narážejí na  problémy.  To
+se v některých případech stává konec konců i tehdy, když je  „tatáž“  služba
+k dispozici ve všech členských státech – spotřebitel má přístup jen  ke  své
+„národní“ službě, a když  se  pokusí  o  přístup  k  „téže“  službě  v jiném
+členském státě, je přesměrován na službu určenou pro jeho domovský stát.
+
+
+Částečnou příčinou této situace může být teritorialita práv  a  také  obtíže
+spojené s vypořádáním  (clearingem)  práv  v různých  teritoriích.  Příčinou
+některých problémů (odepření vstupu, přesměrování) mohou také  být  ujednání
+licenčních smluv mezi nositeli práv a distributory a/nebo mezi  distributory
+a koncovými uživateli.
+
+
+Jde tedy především o to, zda je třeba ve střednědobém  výhledu[15]  přijmout
+na evropské úrovni opatření (legislativní i  nelegislativní,  včetně  řešení
+iniciovaných trhem) ke zvýšení přeshraniční  dostupnosti  obsahových  služeb
+na jednotném trhu při současném zajištění náležité ochrany nositelů práv.
+
+
+   1. [Především jste-li  koncový  uživatel/spotřebitel:]  Měli  jste  někdy
+      problémy při pokusu o přístup  k online  službám  v některém  členském
+      státě EU mimo Váš domovský stát?
+
+
+€ ANO – Laskavě uveďte  příklady  a označte  přitom  členský  stát,  odvětví
+(sektor) a druh obsahu (např. prémiový obsah, jako určité filmy a  televizní
+seriály, audiovizuální obsah obecně,  hudba,  e-knihy,  časopisy  a  noviny,
+hry, aplikace a jiný software).
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+ NE
+
+
+x ŽÁDNÝ NÁZOR
+
+
+
+
+
+   2. [Především jste-li poskytovatel služeb:]  Měli  jste  někdy  problémy,
+      když jste se pokusili poskytnout služby online přes  hranice  v  rámci
+      EU?
+
+
+€ ANO – Laskavě vysvětlete, zda jsou tyto problémy podle  Vašich  zkušeností
+spojeny   s autorským   právem   nebo   s jinou   problematikou   (například
+s podnikatelskými  rozhodnutími  souvisejícími  s náklady   na   poskytování
+služeb přes hranice nebo  s dodržováním  jiných  zákonů,  např.  na  ochranu
+spotřebitelů).  Laskavě  uveďte  příklady  a označte  přitom  členský  stát,
+odvětví (sektor) a druh obsahu (např. prémiový obsah, jako  určité  filmy  a
+televizní seriály, audiovizuální obsah obecně, hudba,  e-knihy,  časopisy  a
+noviny, hry, aplikace a jiný software).
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE
+
+
+xŽÁDNÝ NÁZOR
+
+
+
+   3. [Především  jste-li  nositel  práv  nebo  jste  organizace  kolektivní
+      správy:] Jak často jste žádáni o udělení multiteritoriálních  licencí?
+      Je-li to možné, uveďte  laskavě  počet  takových  žádostí  do  roka  a
+      připojte příklady s uvedením  členského  státu,  odvětví  (sektoru)  a
+      druhu obsahu.
+
+
+[Otevřená otázka]
+
+
+Občas   nepravidelně,   filmová   hudba,   Česká   Republika…prostřednictvím
+nakladatele………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+   4. Jestliže jste  v odpovědích  na  kteroukoli  z výše  uvedených  otázek
+      uvedli nějaké problém(y), naznačte laskavě, jak by  bylo  nejvhodnější
+      je řešit?
+
+
+ [Otevřená otázka]
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+
+
+
+
+   5. [Především  jste-li  nositel  práv  nebo  jste  organizace  kolektivní
+      správy:] Existují důvody, proč byste i v případech, kdy jste nositelii
+      práv pro všechna příslušná teritoria, nadále považovali za nutné  nebo
+      oprávněné zavést  vůči  některému  poskytovateli  služeb  teritoriální
+      restrikce (aby například určitý obsah byl v určitých evropských zemích
+      nedostupný)?
+
+x ANO – Laskavě vysvětlete s uvedením příkladů
+
+…Pokud nebude možno za obsah vybrat  odměnu,  nebo  byl  uveden  nedekvátním
+způsobem k nevhodnému účelu
+
+€ NE
+€ ŽÁDNÝ NÁZOR
+
+
+
+
+   6. [Především jste-li  například  vysílatel  nebo  poskytovatel  služeb:]
+      Existují důvody, proč byste i v případech, kdy  jste  získali  veškerá
+      potřebná práva vůči všem příslušným teritoriím, nadále  považovali  za
+      nutné  nebo  oprávněné   zavést   vůči   některému   příjemci   služeb
+      teritoriální restrikce (například s cílem přesměrovat spotřebitele  na
+      jinou webovou stránku, než tu, na niž se pokouší dostat)?
+
+
+€ ANO – Laskavě vysvětlete s uvedením příkladů
+
+……………………………………………………………………………………………….
+
+……………………………………………………………………………………………….
+
+€ NE
+x ŽÁDNÝ NÁZOR
+
+
+
+
+   7. Domníváte se, že  je  zapotřebí  dalších  opatření  (legislativních  i
+      nelegislativních, včetně řešení iniciovaných trhem) na  úrovni  EU  ke
+      zvýšení přeshraniční dostupnosti obsahových služeb na  jednotném  trhu
+      při současném zajištění náležité ochrany nositelů práv?
+
+
+€ ANO – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+Je nutné  zajistit  jednoznačnější  přehled  o  tom,  co  všechno  je  třeba
+schválit (nebo neschválit) při digitálním přenosu?
+
+
+[Definice práv souvisejících s digitálním přenosem]
+
+
+Unijní rámec ochrany autorského  práva  a  práv  souvisejících  v digitálním
+prostředí  je  z valné  části  zakotven   ve   Směrnici   2001/29/ES[16]   o
+harmonizaci určitých aspektů autorského práva  a  práv  s ním  souvisejících
+v informační  společnosti.  Dalšími  evropskými  směrnicemi,  které   v této
+oblasti platí pro  online  prostředí,  jsou  směrnice  týkající  se  ochrany
+softwaru[17] a databází[18].
+
+
+Směrnice  2001/29/ES  harmonizuje  práva  autorů  a  nositelů  souvisejících
+práv[19], která mají zásadní význam pro přenos digitálních kopií děl  (např.
+e-knih) a jiných předmětů  ochrany  (např.  záznamů  ve  formátu  MP3)  přes
+internet nebo prostřednictvím podobných digitálních sítí.
+
+
+Na digitální přenos se nejvíce vztahuje  právo  na  rozmnožování  díla,  tj.
+právo udělit svolení nebo zakázat  pořizování  kopií[20]  (což  je  důležité
+zejména na začátku přenosu – např. nahrávání digitální kopie díla na  server
+s cílem zpřístupnit dílo – a na konci  pak  u  uživatele  –  např.  když  si
+uživatel stáhne digitální kopii díla) a  dále  právo  sdělovat/zpřístupňovat
+dílo veřejnosti: tedy právo  udělit  svolení  nebo  zakázat  šíření  děl  po
+digitálních sítích[21]. Tato  práva  jsou  v digitálních  přenosech  ze  své
+podstaty navzájem spojena a to i ono se musí vypořádat [must be cleared].
+
+
+Akt „zpřístupnění“
+
+
+Směrnice 2001/29/ES nespecifikuje, co je kryto  právem  zpřístupnění  (např.
+nahrávání, přístupnost pro veřejnost, příjem ze strany veřejnosti), ani  kde
+k aktu zpřístupnění dochází. Tato skutečnost nevyvolává žádné otázky,  dokud
+je akt zpřístupnění omezen na jedno určité teritorium. Otázky ale  vzniknou,
+když digitální přenos pokrývá více teritorií a je nutné vypořádat  příslušná
+práva  (Dochází  k aktu  zpřístupnění  pouze  v zemi,  kde  bylo   provedeno
+nahrávání? Nebo v každé ze zemí, kde je obsah  potenciálně  přístupný?  Nebo
+v každé  ze  zemí,  kde  se  konkrétně   uskutečňuje   přístup   k   dílu?).
+Z nejnovější judikatury Soudního dvora Evropské unie  vyplývá,  že  zásadním
+kritériem bude „cílení“ na veřejnost  v určitém  členském  státě[22].  Podle
+tohoto  pojetí  dochází  k aktu  s významem  z hlediska   autorského   práva
+přinejmenším v těch zemích, na  které  „cílí“  poskytovatel  online  služeb.
+Poskytovatel služeb „má zacíleno“ na  skupinu  zákazníků  s trvalým  pobytem
+v určité zemi, jsou-li na tuto skupinu  konkrétně  zaměřeny  jeho  činnosti,
+například inzerce, propagace, ale také jazyk nebo měna.
+
+
+   8. Je rozsah práva „zpřístupnění“ v přeshraničních situacích  –  tj.  při
+      šíření obsahu přes hranice – dostatečně jasný?
+
+
+€ ANO
+
+€ NE – Laskavě vysvětlete, jak lze tento rozsah zjistit a  vyjasnit  a  jaký
+druh objasnění k tomu bude zapotřebí (např. v pojetí s „cílením“,  které  se
+vysvětluje výše, nebo v pojetí podle „země původu“[23])
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+   9. [Především jste-li nositel práv:] Mohlo  by  vyjasnění  teritoriálního
+      rozsahu práva „zpřístupnění“ mít vliv na uznání Vašich práv  (tj.  zda
+      jste či nejste považování za autora, nebo zda se má  za  to,  že  jste
+      převedli či nepřevedli svoje práva), nebo  na  Vaši  odměnu,  nebo  na
+      prosazení Vašich práv (včetně možnosti podat žalobu zadržovací[24])?
+
+
+€ ANO – Laskavě vysvětlete, jak by se takové potenciální vlivy mohly řešit.
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x NE
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+Dvojí právo v jednom aktu užití
+
+
+Každý  akt  přenosu  v digitálních  sítích  vyžaduje  (za  současného  stavu
+technologie a práva) několikeré rozmnožení. Znamená to, že se  na  digitální
+přenos vztahuje jednak právo na rozmnožení díla, jednak právo  zpřístupnění.
+Tím se může zkomplikovat udílení  licencí  na  díla,  a  to  zvláště  tehdy,
+jestliže každé z těchto práv náleží jiné osobě či subjektu.
+
+
+  10. [Především jste-li poskytovatel služeb nebo nositel práv:] Působí  Vám
+      problémy  aplikace  dvojích  práv  na  jeden  akt  ekonomického  užití
+      v prostředí online (například při stažení)?
+
+
+€ ANO – Laskavě vysvětlete, jakého druhu by mělo být opatření potřebné k
+řešení takových problémů (např. podpora vydávání společných licencí, jsou-
+li práva v různých rukou; legislativa zaměřená na tvorbu „ balíčků práv“)
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE
+
+
+x ŽÁDNÝ NÁZOR
+
+
+Odkazy a prohlížení
+
+
+Hyperlinky odkazují na data, která navádějí uživatele  od  jedné  lokace  na
+internetu k další lokaci. Jsou nezbytné, má-li internet fungovat  jako  síť.
+Soudní dvůr Evropské unie projednává několik případů[25], kde byla  vznesena
+otázka,  zda  uvedení  odkazu,  na  který  lze  kliknout,  představuje   akt
+sdělování veřejnosti / akt zpřístupnění, který vyžaduje svolení od  nositele
+práv.
+
+Uživatel,  který  prohledává  internet  (například   si   prohlíží   webovou
+stránku), pravidelně vytváří na obrazovce  a  v rychlé  vyrovnávací  (cache)
+paměti  svého  počítače  dočasné  kopie  děl  a  jiných   předmětů   ochrany
+chráněných  autorským  právem.  Před  Soudním  dvorem   EU   byla   vznesena
+otázka[26], zda se na tyto kopie vždy vztahuje povinná výjimka  pro  dočasné
+akty rozmnožení, o nichž se pojednává v článku 5(1) směrnice 2001/29/ES.
+
+  11. Mělo by uvedení odkazu (hyperlinku),  který  uživatele  dovede  k dílu
+      nebo jinému předmětu ochrany  chráněnému  autorským  právem,  podléhat
+      (buď obecně, nebo jen ve specifických případech) svolení  od  nositele
+      práv?
+
+
+x ANO – Laskavě vysvětlete, zda  si  myslíte,  že  by  uvedení  odkazu  mělo
+podléhat tomuto svolení obecně, nebo jen ve specifických případech, a proč
+
+V  některých  specifických  případech,  kdy  jsou  shromažďovány  odkazy  na
+nelegální  zdroje,  by  se  měla  uplatnit  výjimka  z  uvedeného   obecného
+pravidla. Pro možnost kontroly autorských odměn.
+
+€ NE – Laskavě vysvětlete, zda si  myslíte,  že  by  uvedení  odkazu  nemělo
+podléhat  tomuto  svolení  v žádném  případě,  nebo  jen   ve   specifických
+případech, a proč (například proto, že nejde o  akt  sdělování veřejnosti  –
+nebo nové skupině veřejnosti  –  nebo  že  by  se  na  uvedení  odkazu  měla
+vztahovat výjimka z autorského práva)
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ ŽÁDNÝ NÁZOR
+
+  12. Mělo  by  shlédnutí  webové  stránky,  při  němž  na  obrazovce  a  ve
+      vyrovnávací paměti počítače dochází k dočasnému  rozmnožení  děl  nebo
+      jiných předmětů ochrany chráněných  autorským  právem,  podléhat  (buď
+      obecně nebo jen ve specifických případech) svolení od nositele práv?
+
+
+€ ANO – Laskavě vysvětlete, zda si myslíte, že by  takové  shlédnutí  webové
+stránky mělo podléhat  tomuto  svolení  obecně,  nebo  jen  ve  specifických
+případech, a proč
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete, zda si myslíte, že  by  takové  shlédnutí  webové
+stránky nemělo  podléhat  tomuto  svolení  v žádném  případě,  nebo  jen  ve
+specifických případech, a proč  (například  proto,  že  nebo  že  by  se  na
+shlédnutí webové stránky měla vztahovat výjimka z autorského práva)
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+Stahování digitálního obsahu do vlastnictví
+
+
+Digitální obsah se ve stále větší míře pořizuje prostřednictvím  digitálního
+přenosu (například stažením do  vlastnictví).  V této  souvislosti  vyvstává
+otázka, zda uživatelé mohou  soubory,  které  si  pořídili  tímto  způsobem,
+předávat dál (zda je například mohou prodat nebo darovat). V EU  se  princip
+vyčerpání distribučního  práva  vztahuje  na  případy  distribuce  fyzických
+kopií (takže například po prodeji hmotného zboží – CD  nebo  knihy  apod.  –
+nemůže držitel práv zabránit  jeho  další  distribuci)[27].  Můžeme  se  ale
+ptát, zda lze stejný princip uplatnit v případě  aktu  digitálního  přenosu,
+který je ve svých  důsledcích  ekvivalentem  distribuce  (tj.  tam,  kde  na
+kupujícího přejde vlastnictví kopie)[28]. Zde ale  vznikají  obtížné  otázky
+především v souvislosti s praktickým uplatněním takového  přístupu  (jak  se
+vyhnout tomu,  aby  si  překupník  po  „dalším  prodeji“  kopie  mohl  kopii
+ponechat a dál ji užívat – často  se  v této  souvislosti  hovoří  o  zásadě
+„předej dál a vymaž“) a také v souvislosti s hospodářskými  důsledky  vzniku
+„trhu s použitým zbožím“, kde  se  obchoduje  s  kopiemi  dokonalé  kvality,
+které se neznehodnocují,  na  rozdíl  od  trhu  s použitým  zbožím,  kde  se
+obchoduje s fyzickým zbožím).
+
+13. [Především jste-li koncový uživatel/spotřebitel:]  Narazili  jste  někdy
+   na restrikce při pokusu o další prodej digitálních souborů, které jste si
+   koupili (např. soubor mp3, e-kniha)?
+
+
+€ ANO – Laskavě vysvětlete s uvedením příkladů
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE
+
+
+x ŽÁDNÝ NÁZOR
+
+
+14. [Především jste-li nositel práv nebo poskytovatel služeb:] Jaké by  byly
+   důsledky  zavedení  právního  rámce  umožňujícího  další   prodej   dříve
+   zakoupeného digitálního obsahu? Laskavě  specifikujte  podle  příslušných
+   trhů (druhů obsahu).
+
+
+[Otevřená otázka]
+
+
+…Chaotické   šíření   díla   a   tím    nemožnost    výběru    odměn    aut.
+práva……………………………………………………………………………………………
+
+
+Registrace děl a jiných předmětů ochrany – je to dobrý nápad?
+
+
+Diskuse o registraci v souvislosti s autorskými právy  nejsou  v  EU  příliš
+časté, protože podle  platných  mezinárodních  smluv  v dané  oblasti  nelze
+uplatňovat formality jako podmínku pro ochranu a  výkon  práv.  Tento  zákaz
+ale není absolutní[29]. Navíc systém registrace se nemusí zavádět  ani  jako
+povinný  systém,  ani  jako   předpoklad   pro   ochranu   a   výkon   práv.
+S prodloužením období ochrany a s širšími možnostmi, které  skýtá  digitální
+technologie pro využívání obsahu (včetně starších děl a děl, která by  jinak
+nebyla šířena), se ve stále větší  míře  uvažuje  o  výhodách  a  nevýhodách
+registračního systému[30].
+
+
+  15. Pomohlo by vytvoření registračního systému na úrovni EU k snazšímu
+      identifikování děl a jiných předmětů ochrany a vydávání licencí k nim?
+
+
+
+
+€ ANO
+
+
+x NE
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+  16. Jaké možné výhody by takový systém skýtal?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+……………………………………………………………………………………………….
+
+  17. Jaké možné nevýhody by takový systém měl?
+
+[Otevřená otázka]
+
+…Administrativní  zatížení  nejen  autorů  ale  i   nepřesnosti   v údajích.
+Jednotlivé Ochranné organizace mají lepší přehled a jsou schopny  poskytnout
+informace.…………………………………………………………………………………………….
+
+……………………………………………………………………………………………….
+
+
+
+  18. Jaké lze pro nositele práv předpokládat pobídky k registraci?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+Jak zlepšit užívání a interoperabilitu identifikátorů
+
+
+Existuje řada soukromých databází děl a  jiných  předmětů  ochrany.  Pracují
+s nimi producenti, organizace kolektivní  správy,  jakož  i  instituce  typu
+knihoven,  a  jsou  založeny  na  užití  více  či   méně   interoperabilních
+mezinárodně dohodnutých ‚identifikátorů‘.  Identifikátory  lze  přirovnat  k
+referenčním číslům vloženým do díla. Jsou specifické pro sektor,  pro  který
+byly vytvořeny[31], a různým  způsobem  označují  samotné  dílo,  autora  či
+spoluautora  díla  nebo  jiného  předmětu  ochrany.  Existuje  řada  dobrých
+příkladů, kdy byly či jsou v tom či onom odvětví činěny  kroky  ke  zlepšení
+interoperability identifikátorů a  databází.  Například  databáze  světového
+repertoáru[32] (až  bude  v provozu)  by  měla  být  v celosvětovém  měřítku
+jednotným zdrojem  informací  o  vlastnictví  hudebních  děl  a  o  regulaci
+nakládání s nimi.  K rozvíjení  stavebních  bloků  pro  vyjadřování  práv  a
+jejich správu a pro udílení licencí ke všem typům  obsahu  a  médií  vznikla
+iniciativa Linked  Content  Coalition[33].  Zahrnuje  i  vývoj  referenčního
+modelu RRM (Rights Reference Model),  což  je  komplexní  datový  model  pro
+všechny typy  práv  ke  všem  typům  obsahu.  Britská  iniciativa  Copyright
+Hub[34] si vytkla za cíl posunout takový identifikační systém o krok dále  a
+vytvořit propojenou platformu, která umožní  automatické  udělování  licencí
+napříč různými sektory.
+
+
+  19. Jakou roli  by  měla  hrát  EU  v  propagaci  zavádění  identifikátorů
+      v odvětvích, kde se pracuje s obsahem, a  při  podporování  rozvoje  a
+      interoperability databází nositelů práv a udělených svolení?
+
+
+[Otevřená otázka]
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+Doba ochrany – je přiměřená?
+
+Autorské právo chrání díla a jiné předměty  ochrany  po  omezenou  dobu.  Po
+uplynutí období ochrany se dílo stane veřejně přístupným,  což  znamená,  že
+bude  každému  k  dispozici  k volnému  užití  (při   dodržení   příslušných
+národních  pravidel  pro  oblast  osobnostních  práv).  Bernská   úmluva[35]
+vyžaduje dobu ochrany v délce alespoň 50 let od úmrtí  autora.  Pravidla  EU
+tuto dobu prodlužují na 70 let od autorova úmrtí (podobně je  tomu  i  jinde
+ve světě, např. v USA).
+
+Také u výkonných umělců v hudební sféře a u  výrobců  zvukových  záznamů  je
+doba ochrany prodloužena o 20 let  v porovnání  s dobou  ochrany  stanovenou
+v mezinárodních smlouvách: prodloužená ochrana nyní trvá 70 let  od  prvního
+zveřejnění.  Sami  výkonní  umělci  a  výrobci  v audiovizuální  sféře   ale
+prospěch z prodloužené doby ochrany nemají.
+
+  20. Jsou současné  lhůty  ochrany  autorského  práva  dosud  vyhovující  i
+      v digitální prostředí?
+
+x ANO –
+
+
+Vzhledem k vracejícím se, a tím  opakujícím  se,  postupům  v tvorbě  by  se
+neměla lhůta snižovat,  naopak  zvýšit.  Dědicové  by  pak  mohli  v právním
+řízení obdržet odměny i za  tituly,  které  jsou  zjevně  současnými  autory
+„ukradeny“ z minulých dob…
+
+
+€ NE – Laskavě vysvětlete, zda by měly být delší nebo kratší
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+
+
+
+ III. Omezení a výjimky na jednotném trhu
+
+
+Omezení a  výjimky  z autorského  práva  a  práv  souvisejících  s autorským
+právem umožňují užití děl a jiných  předmětů  ochrany  pro  určité  účely  a
+v určitém rozsahu bez svolení nositele  práv  (například  použije-li  učitel
+výtah z románu k ilustračním účelům v hodině literatury). Na úrovni EU  jsou
+výjimky obsaženy v řadě směrnic týkajících se autorskýého  práva,  především
+pak ve směrnici 2001/29/ES[36].
+
+
+Omezení a výjimky,  které  jsou  obsaženy  v národní  i  unijní  legislativě
+upravující  autorská  práva,  musí  respektovat   ustanovení   mezinárodního
+práva[37]. V souladu s mezinárodními závazky vyžaduje unijní acquis, aby  se
+omezení a výjimky směly uplatňovat jen v určitých zvláštních případech,  kde
+nejsou v rozporu s normálním užitím děl či jiných předmětů  ochrany,  a  aby
+nebyly zbytečně na škodu oprávněným zájmů nositelů práv.
+
+
+Katalog omezení  a  výjimek  obsažených  v legislativě  EU  je  kompletní  a
+vyčerpávající (což znamená, že k právům harmonizovaným na  úrovni  EU  nelze
+přičinit žádné další výjimky)[38], avšak  omezení  a  výjimky,  o  nichž  se
+pojednává v tomto dokumentu,  jsou  často  volitelné  (optional)[39],  takže
+členské státy mají možnost jich do své  národní  legislativy  zařadit  tolik
+(tak mnoho či tak  málo),  kolik  chtějí.  Navíc  jsou  formulace  některých
+omezení a výjimek natolik obecné, že  členským  státům  ponechávají  značnou
+volnost co do způsobu a  rozsahu  jejich  realizace  (jestliže  se  k jejich
+realizaci rozhodnou). Stojí také za zmínku, že ne všechna omezení a  výjimky
+zařazené do unijního právního rámce pro autorské  právo  jsou  významově  na
+stejné úrovni  z hlediska  politiky  i  z hlediska  potenciálního  vlivu  na
+fungování jednotného trhu.
+
+
+Kromě toho  platí,  že  má-li  definice  práv  teritoriální  charakter  (což
+znamená, že definice  má  platnost  pouze  na  území  členského  státu),  má
+teritoriální charakter i definice  omezení  a  výjimek  z těchto  práv  (což
+znamená, že pro určitý akt bude v členském státě  „A“  platit  výjimka,  ale
+když se přestěhujeme do členského státu „B“, budeme k témuž aktu  muset  mít
+svolení od nositele práv)[40].
+
+
+S přeshraniční účinností omezení a výjimek také souvisí  otázka  přiměřených
+náhrad pro nositele práv. V některých případech jsou členské  státy  povinny
+vynahradit nositelům práv újmu, kterou utrpěli v důsledku výjimek  ze  svých
+práv nebo v důsledku jejich omezení. V jiných případech členské  státy  sice
+takovou  povinnost  nemají,  ale  mohou  se  pro  podobnou  kompenzaci  samy
+rozhodnout. Kdyby omezení nebo výjimka, která vyvolá  mechanismus  přiměřené
+náhrady, měla získat přeshraniční platnost (například  při  užití  knih  pro
+ilustraci v rámci internetového kurzu vedeného univerzitou v členském  státě
+„A“ se studenty v členském státě „B“), pak  by  také  bylo  nutno  objasnit,
+podle které národní legislativy se má  stanovit  výše  této  náhrady  a  kdo
+náhradu zaplatí.
+
+
+Vyvstává  také  otázka  flexibility  a  adaptability:  jakým   nejvhodnějším
+mechanismem zajistit (bude-li to  nutné),  aby  byl  odpovídajícím  způsobem
+upraven předpisový rámec  v EU  a  v členských  státech  (buď  abychom  měli
+jistotu, že určité způsoby užití jsou pokryty výjimkou,  nebo  abychom  měli
+jistotu, že pro určité způsoby užití budeme potřebovat svolení  od  nositelů
+práv).  Hlavní otázkou zde je, zda je možné zavést do předpisového rámce  EU
+a členských států větší flexibilitu a přitom  zároveň  zajistit  požadovanou
+úroveň právní  jistoty  včetně  fungování  jednotného  trhu  a  respektování
+mezinárodních závazků EU.
+
+
+
+
+21. Existují problémy, které vznikly ze skutečnosti, že  většina  omezení  a
+   výjimek obsažených ve směrnicích EU týkajících se autorského  práva  jsou
+   pro členské státy volitelné, nepovinné?
+
+€ ANO – Laskavě vysvětlete odkazem na konkrétní případy
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+22. Měly by se některé/všechny výjimky stát povinnými, a  jestliže  ano,  je
+   nutná větší míra harmonizace takových výjimek?
+
+€ ANO – Laskavě vysvětlete odkazem na konkrétní případy
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+
+23. Měly by se do existujícího katalogu výjimek  a  omezení  přidat  –  nebo
+   ubrat – nové výjimky a omezení? Laskavě vysvětlete odkazem  na  konkrétní
+   případy.
+
+
+[Otevřená otázka]
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+24. Bez závislosti na předcházejících otázkách:  je  třeba  do  předpisového
+   rámce EU pro omezení a výjimky zavést větší míru flexibility?
+
+€ ANO – Laskavě vysvětlete, proč
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete, proč
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+25. Jestliže ano: jaký nejvhodnější přístup k zajištění této flexibility  by
+   se měl zvolit? (např. interpretace ze strany národních soudů  a  Soudního
+   dvora EU; periodické  revize  směrnic;  interpretace  ze  strany  Komise;
+   ‚vestavěná‘ flexibilita např. ve formě ustanovení o přiměřeném užití nebo
+   o čestném jednání, případně  ve  formě  otevřené  normy  apod.)?  Laskavě
+   vysvětlete  s uvedením  předpokládaných  relativních  výhod   a   nevýhod
+   takového přístupu a jeho možných dopadů na fungování vnitřního trhu.
+
+[Otevřená otázka]
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+26. Dá se teritorialita omezení a výjimek podle Vašich zkušeností  považovat
+   za problém?
+
+€ ANO – Laskavě vysvětlete, proč, a  specifikujte,  které  výjimky  máte  na
+mysli
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete, proč,  a  specifikujte,  které  výjimky  máte  na
+mysli
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+27. V případě, že by omezení a výjimky zavedené na národní úrovni  měly  mít
+   přeshraniční platnost, jak by se měla řešit otázka „přiměřených  náhrad“,
+   bude-li přiměřená náhrada součástí výjimky?  (např.  kdo  komu  platí,  a
+   kde?)
+
+ [Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+Přístup k obsahu v knihovnách a archivech
+
+Směrnice  2001/29/ES  umožňuje  členským  státům   promítnout   do   národní
+legislativy celou řadu omezení a výjimek  ve  prospěch  veřejně  přístupných
+knihoven, vzdělávacích institucí a muzeí i archivů. Aplikace těchto  výjimek
+umožňuje provádět činnosti spojené s uchováním a archivací[41]  a  na  místě
+konzultovat [číst, studovat] díla a  jiné  předměty  ochrany  uchovávané  ve
+sbírkách těchto institucí[42]. Při veřejném půjčování fyzických kopií děl  a
+jiných předmětů ochrany (v rámci výjimky  nebo  omezení)  se  tato  zařízení
+řídí směrnicí o právu na pronájem a půjčování[43].
+
+Vyvstává otázka, zda nynější rámec nadále plní předpokládané cíle, nebo  zda
+bude  třeba  jej  ujasnit  nebo  aktualizovat,  aby  lépe   pokrýval   užití
+v digitálních sítích. To je  spojeno  s dalšími  otázkami:  jaký  vliv  bude
+případné rozšíření tohoto  rámce  mít  na  normální  užívání  děl  a  jiných
+předmětů ochrany a jaká újma  tak  může  vzniknout  nositelům  práv.  V této
+souvislosti bude také třeba posoudit, jakou roli bude hrát  udílení  licencí
+a jak se projeví  možné  rámcové  smlouvy  mezi  různými  za  interesovanými
+subjekty.
+
+Uchování a archivace
+
+
+Uchovávání kopií děl  a  jiných  předmětů  ochrany  obsažených  ve  sbírkách
+kulturních institucí  (např.  knih,  záznamů,  filmů)  –  restaurování  nebo
+náhrada  děl,  kopírování  fyzicky  choulostivých  děl  –  si  může  vyžádat
+pořízení další kopie  nebo  více  kopií  těchto  děl  nebo  jiných  předmětů
+ochrany. Většina členských států má v příslušné legislativě  výjimku,  která
+umožňuje  pořizování  takových  archivních  kopií.  Rozsah  platnosti   této
+výjimky se v jednotlivých členských státech různí (co do typů  přijímajících
+[beneficiary] institucí, typů děl a  jiných  předmětů  ochrany,  na  něž  se
+vztahuje  výjimka,  způsobů  pořizování  kopií  a  počtu  kopií,  které   si
+instituce může pořídit).  Stojí také za zmínku, že stávající  právní  status
+nových typů konzervačních činností (např.  aktivního  shromažďování  veřejně
+dostupného obsahu z internetu [web harvesting] a jeho archivace)  je  mnohdy
+nejistý.
+
+
+28. (a) [Především jste-li institucionální uživatel:] Zažili  jste konkrétní
+   problémy při pokusu  o  využití  výjimky  s cílem  uchovat  a  archivovat
+   konkrétní díla nebo jiné předměty ochrany ve Vašich sbírkách?
+
+(b) [Především jste-li  nositel  práv:]  Zažili  jste  problémy  související
+s tím,  jak  knihovny,  vzdělávací  instituce,  muzea  a  archivy  uplatňují
+výjimky pro zachování děl nebo jiných předmětů ochrany?
+
+€ ANO – Laskavě vysvětlete podle jednotlivých  členských  států,  odvětví  a
+daného typu užití
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+
+
+29. Existují-li problémy, jak by se daly nejlépe vyřešit?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+30. Máte-li za to, že je třeba nalézt legislativní řešení, jaké by měly  být
+   hlavní   prvky   takového   řešení?   Kterých   činností    přijímajících
+   [beneficiary] institucí  by  se  toto  řešení  mělo  týkat  a  za  jakých
+   podmínek?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+31. Máte-li za to, že je třeba nalézt jiné řešení, jaké řešení  by  to  mělo
+   být?
+
+ [Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+Přístup ke knihovním fondům z míst mimo knihovnu
+
+Směrnice  2001/29/ES  upravuje  výjimku  pro  zpřístupňování  děl  a  jiných
+předmětů ochrany (nahlížení do  e-knihy,  sledování  dokumentárního  filmu)
+přes vyhrazené  terminály  v prostorách  příslušných  institucí  za  účelem
+výzkumu a soukromého studia. K  dálkovému  zpřístupňování  takových  děl  a
+jiných předmětů ochrany online (tj.  nenachází-li  se  uživatel  knihovních
+služeb v prostorách knihovny) je třeba mít oprávnění, a věc se obecně  řeší
+smlouvami mezi univerzitami/knihovnami a vydavateli. Podle některých názorů
+by se možnost udílet online přístup ke knihovním fondům a podmínky takového
+přístupu měly řešit zákonem a ne smlouvami.
+
+32.   (a)  [Především  jste-li  institucionální   uživatel:]   Zažili   jste
+   konkrétní problémy při pokusu o sjednání dohod s nositelii  práv  s cílem
+   získat možnost poskytovat dálkový přístup včetně přeshraničního  přístupu
+   k Vašim sbírkám (nebo jejich  částem)  za  účelem  výzkumu  a  soukromého
+   studia?
+
+(b) [Především jste-li koncový uživatel/spotřebitel:] Zažili jste  konkrétní
+problémy při pokusu o konzultování (i přes hranice) děl  a  jiných  předmětů
+ochrany nacházejících se ve  sbírkách  institucí,  jako  jsou  univerzity  a
+národní knihovny, přičemž jste se nacházeli mimo prostory těchto  institucí?
+
+
+
+(c)   [Především   jste-li   nositel   práv:]   Sjednávali    jste    dohody
+s institucionálními  uživateli,  kteréžto  dohody  jim  měly   dát   možnost
+poskytovat dálkový přístup včetně přeshraničního přístupu  k dílům  a  jiným
+předmětům ochrany v jejich sbírkách za účelem výzkumu a soukromého studia?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+33. Existují-li problémy, jak by se daly nejlépe vyřešit?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+34. Máte-li za to, že je třeba nalézt legislativní řešení, jaké by měly  být
+   hlavní   prvky   takového   řešení?   Kterých   činností    přijímajících
+   [beneficiary] institucí  by  se  toto  řešení  mělo  týkat  a  za  jakých
+   podmínek?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+35. Máte-li za to, že je třeba nalézt jiné řešení, jaké řešení  by  to  mělo
+   být?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+E-půjčování
+
+Veřejné knihovny tradičně  půjčují  uživatelům  fyzické  kopie  (tj.  knihy,
+někdy také CD a DVD). Díky technologickému vývoji z poslední doby jsou  dnes
+knihovny technicky schopny poskytnout uživatelům na přechodnou dobu  přístup
+k digitálnímu obsahu – například k elektronickým knihám, hudbě  nebo  filmům
+– prostřednictvím  sítí.  Podle  současného  právního  rámce  musí  knihovny
+k organizování takových e-půjčovních činností obdržet  svolení  od  nositelů
+práv. Vydavatelé a knihovny  v různých  členských  státech  v současné  době
+experimentují s různými obchodními modely zpřístupňování děl  online  (přímé
+dodávání e-knih od vydavatelů do knihoven nebo balíčky od agregátorů).
+
+36.  (a) [Především jste-li knihovna:] Zažili jste  konkrétní  problémy  při
+   pokusu o sjednání dohod, které měly umožnit  elektronické  půjčování  (e-
+   půjčování) knih nebo jiných materiálů z Vašich sbírek včetně  e-půjčování
+   přes hranice?
+
+(b) [Především jste-li koncový uživatel/spotřebitel:] Zažili jste  konkrétní
+problémy při pokusu o vypůjčení knih nebo jiných materiálů elektronicky  (e-
+půjčování, včetně e-půjčování přes hranice) od institucí, jako jsou  veřejné
+knihovny?
+
+(c) [Především jste-li nositel práv:] Sjednávali jste  dohody  s knihovnami,
+kteréžto  dohody  měly  knihovnám  dát  možnost  půjčovat  knihy  nebo  jiné
+materiály elektronicky včetně e-půjčování přes hranice?
+
+€ ANO – Laskavě vysvětlete s uvedením konkrétních příkladů
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+x NE
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+37. Existují-li problémy, jak by se daly nejlépe vyřešit?
+ [Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+Následující dvě otázky se týkají tohoto i předchozího bodu (podkapitol č. 3
+a č. 2).
+
+38. [Především jste-li institucionální uživatel:]  Jaké  rozdíly  vidíte  ve
+   spravování  fyzických  a  online  sbírek  včetně  zpřístupnění  pro  Vaše
+   účastníky? S jakými problémy jste se setkali?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+39. [Především jste-li nositel práv:] Jaké rozdíly  vidíte  mezi  tradičními
+   činnostmi   knihoven,   například   zpřístupňováním   [čtením,   studiem]
+   v prostorách knihovny nebo půjčováním pro  veřejnost,  a  činnostmi  jako
+   zpřístupňování mimo prostory knihovny (online, s dálkovým přístupem) a e-
+   půjčování?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+Masová digitalizace
+
+Termín „masová digitalizace“ se  běžně  používá  k označení  snah  institucí
+typu knihoven a archivů digitalizovat (např. oskenovat) všechen obsah  svých
+sbírek (nebo jejich části) s cílem uchovat  tyto  sbírky  a  (za  normálních
+okolností) zpřístupnit je veřejnosti. Jako příklad lze uvést snahu  knihoven
+o digitalizaci  románů  z počátku  20.  století  nebo  celých  sbírek  filmů
+s historickou  hodnotou.  Tuto  problematiku  na  úrovni  EU   zčásti   řeší
+memorandum o  porozumění  (MoU)  z roku  2011  o  klíčových  principech  pro
+digitalizaci a zpřístupňování komerčně nedostupných děl (tj. děl,  která  už
+nelze  získat  prostřednictvím  běžných  obchodních  kanálů);  toto  MoU  má
+podpořit a usnadnit masovou digitalizaci (u knih a  odborných  časopisů)  na
+základě licenčních dohod mezi knihovnami a podobnými  institucemi  na  jedné
+straně a ochrannými organizacemi zastupujícími autory a vydavatele na  druhé
+straně[44].  Bude-li   zajištěno   požadované   financování   (digitalizační
+projekty jsou extrémně nákladné), pak  by  na  základě  zmíněného  MoU  mělo
+dojít k digitalizaci knih, které  se  v současné  době  nacházejí  například
+pouze v archivech knihoven, a tyto knihy pak  budou  dostupné  online  všem.
+MoU  je  založeno  na   dobrovolných   licencích   (udělených   organizacemi
+kolektivní správy na základě mandátů od autorů  a  vydavatelů).  V některých
+členských státech  možná  bude  nutné  přijmout  zákonná  ustanovení,  která
+zajistí, aby tyto licence měly co největší efekt (například s tím, že se  do
+příslušné legislativy začlení předpoklad  zastupování  ochrannou  organizací
+nebo že se udělené licenci přizná „rozšířená platnost“)[45].
+
+
+40. [Především jste-li institucionální uživatel, který se  podílí,  nebo  se
+   chce podílet, na  projektech  masové  digitalizace,  nositel  práv,  nebo
+   organizace kolektivní správy:]  Bylo  by  ve  Vaší  zemi  nutné  přijmout
+   příslušnou legislativu, aby účinky  Memoranda  z roku  2011  (tj.  dohody
+   uzavřené mezi knihovnami a  ochrannými  organizacemi)  měly  přeshraniční
+   platnost a aby komerčně nedostupná díla byla přístupná v celé EU?
+
+
+€ ANO – Laskavě vysvětlete, proč, a také jakým způsobem by se toho nejlépe
+mohlo dosáhnout
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+
+
+
+
+
+
+41. Bylo by nutné vypracovat  mechanismy  nad  rámec  těch,  které  už  byly
+   dohodnuty pro všechny typy obsahu (např.  pro  audio  nebo  audiovizuální
+   sbírky, pro archivy vysílatelů apod.)?
+
+
+
+
+
+€ ANO – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+
+
+
+Výuka
+
+Podle  směrnice  2001/29/ES[46]  mohou  členské   státy   do   své   národní
+legislativy zařadit omezení a  výjimky  pro  použití  materiálů  k ilustraci
+v rámci nekomerční výuky. Díky těmto  výjimkám  mohou  učitelé  užívat  celá
+díla nebo jejich části pro ilustraci  výukové  látky  –  například  tak,  že
+studentům rozdají kopie části knihy nebo novinových článků,  nebo  předvedou
+chráněný obsah na  malé  tabuli,  aniž  by  k tomu  potřebovali  svolení  od
+nositelů práv. Poněkud volná formulace tohoto (nepovinného) ustanovení  dává
+prostor k dosti rozdílným způsobům  realizace  na  úrovni  členských  států.
+Realizace dané výjimky se mezi jednotlivými členskými  státy  liší,  přičemž
+některé  členské  státy  v této   souvislosti   uplatňují   licenční   rámec
+umožňující použití obsahu pro určité vzdělávací účely. Ozývají se hlasy,  že
+by legislativa měla dávat lepší možnosti pro dálkové  učení  a  pro  studium
+z domova.
+
+
+
+
+
+42.   (a)   [Především    jste-li    koncový    uživatel/spotřebitel    nebo
+   institucionální uživatel:] Zažili jste konkrétní problémy  při  pokusu  o
+   použití děl nebo jiných předmětů ochrany pro ilustraci ve výuce –  včetně
+   přeshraničního užití?
+
+(b)  [Především  jste-li  nositel  práv:]  Zažili  jste  konkrétní  problémy
+vzniklé tím, jakým způsobem se díla a jiné předměty  ochrany  používají  při
+výuce včetně přeshraničního užití?
+
+
+€ ANO – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+€ NE
+
+
+
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+
+43. Existují-li problémy, jak by se daly nejlépe vyřešit?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+44. Jaké mechanismy jsou na  trhu  k dispozici  pro  snazší  využití  obsahu
+   k výukovým účelům? Do jaké míry jsou úspěšné?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+45. Máte-li za to, že je třeba nalézt legislativní řešení, jaké by měly  být
+   hlavní   prvky   takového   řešení?   Kterých   činností    přijímajících
+   [beneficiary] institucí  by  se  toto  řešení  mělo  týkat  a  za  jakých
+   podmínek?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+46. Máte-li za to, že je třeba nalézt jiné řešení, jaké řešení  by  to  mělo
+   být?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+Výzkum
+
+Podle směrnice 2001/29/ES[47] si členské státy  mohou  vybrat,  zda  do  své
+národní legislativ zařadí  omezení  [omezení  autorského  práva]  pro  účely
+vědeckého výzkumu. Poněkud volná formulace tohoto  (nepovinného)  ustanovení
+dává prostor  k dosti  rozdílným  způsobům  realizace  na  úrovni  členských
+států.
+
+47.   (a)   [Především    jste-li    koncový    uživatel/spotřebitel    nebo
+   institucionální uživatel:] Zažili jste konkrétní problémy  při  pokusu  o
+   použití děl nebo jiných předmětů ochrany v kontextu výzkumných činností a
+   projektů – včetně přeshraničního užití?
+
+(b)  [Především  jste-li  nositel  práv:]  Zažili  jste  konkrétní  problémy
+vzniklé tím, jakým způsobem  se  díla  a  jiné  předměty  ochrany  používají
+v kontextu výzkumných činností a projektů včetně přeshraničního užití?
+€ ANO – Laskavě vysvětlete
+
+……………………………………………………………………………………………….
+
+……………………………………………………………………………………………….
+
+€ NE
+
+€ ŽÁDNÝ NÁZOR
+
+
+
+
+48. Existují-li problémy, jak by se daly nejlépe vyřešit?
+[Otevřená otázka]
+……………………………………………………………………………………………….
+
+……………………………………………………………………………………………….
+
+
+
+49. Jaké mechanismy jsou v členských státech k dispozici pro snazší  využití
+   obsahu k výzkumným účelům? Do jaké míry jsou úspěšné?
+[Otevřená otázka]
+……………………………………………………………………………………………….
+
+……………………………………………………………………………………………….
+
+
+Osoby s postižením
+
+Směrnice  2001/29/ES[48]   umožňuje   výjimky/omezení   ve   prospěch   osob
+s postižením. Poněkud volná formulace tohoto (nepovinného)  ustanovení  dává
+prostor k dosti rozdílným způsobům realizace na úrovni členských  států.  Na
+úrovni EU  a  na  mezinárodní  úrovni  byly  spuštěny  projekty  ke  zvýšení
+dostupnosti děl a jiných předmětů ochrany pro osoby s postižením  (především
+se zvyšuje počet děl vydávaných ve  speciálních  formátech  a  podporuje  se
+jejich distribuce v celé Evropské unii )[49].
+
+Byla přijata Marrákešská úmluva[50]  k  usnadnění  přístupu  ke  zveřejněným
+dílům pro nevidomé a zrakově postižené osoby a  pro  ostatní  osoby,  kterým
+cokoli znemožňuje nebo znesnadňuje  čtení.  Marrákešská  úmluva  představuje
+povinnou výjimku  z autorského  práva,  která  organizacím  nevidomých  dává
+možnost  produkovat,  distribuovat  a  zpřístupňovat  kopie   ve   formátech
+dostupných  zrakově  postiženým  osobám  bez  povolení  od  nositelů   práv.
+Evropská unie a  její  členské  státy  začaly  s přípravami  k ratifikaci  a
+podpisu této úmluvy. To si může vyžádat přijetí určitých opatření na  úrovni
+EU  (např.  k zajištění  možnosti  přeshraniční  výměny  kopií  v dostupných
+formátech).
+
+50. (a) [Především jste-li osoba s postižením  nebo  organizace  zastupující
+   osoby s postižením:] Zažili jste problémy  s dostupností  obsahu  (včetně
+   přeshraniční dostupnosti),  které by  byly  způsobeny  tím,  jak  členské
+   státy uplatňují příslušnou výjimku?
+
+(b) [Především jste-li organizace poskytující služby osobám  s  postižením:]
+Zažili jste problémy s distribucí/sdílením (po  celé  EU)  děl  vydaných  ve
+speciálních formátech?
+
+(c) [Především jste-li nositel práv:] Zažili jste konkrétní problémy,  které
+by   byly   způsobeny   uplatněním   omezení    a    výjimek    umožňujících
+distribuci/sdílení    (včetně    přeshraniční    distribuce/sdílení)     děl
+publikovaných ve speciálních formátech?
+
+€ ANO – Laskavě vysvětlete s uvedením příkladů
+
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+€ NE
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+
+51. Existují-li problémy, co by se dalo udělat ke zlepšení dostupnosti?
+
+[Otevřená otázka]
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+
+52. Jaké existují na trhu mechanismy pro snazší dostupnost obsahu? Do jaké
+   míry jsou úspěšné?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+Vytěžování textů a dat
+
+Vytěžování textů a dat / vytěžování  obsahu  /  datová  analytika[51]  –  to
+všechno  jsou  termíny  označující  stále  důležitější   techniky,   kterých
+používají především pracovníci výzkumu při prohledávání obrovského  množství
+existujících  textů  a  dat  (např.  časopisů,  webových  stránek,  databází
+apod.). Relevantní texty a data se analyzují pomocí  softwaru  a  s použitím
+jiných automatických procesů s cílem  získat  nové  pohledy  a  poznat  nové
+postupy a trendy.
+
+Data a texty sloužící k vytěžování jsou buď  volně  dostupné  na  internetu,
+nebo je lze získat na předplacené  bázi  –  například  předplaceným  odběrem
+časopisů  a  periodik  umožňujících  přístup  k databázím  vydavatelů.  Před
+samotným  analyzováním  se  pořizuje  kopie  příslušného  textu   nebo   dat
+(například  v   rychlé   vyrovnávací   [cache]   paměti   vyhledávače   nebo
+v počítačových RAM pamětích, případně na  počítačovém  harddisku).  Normálně
+se má za to, že pro vytěžování chráněných děl nebo jiných  předmětů  ochrany
+je třeba k pořízení takových kopií mít svolení od nositelů  práv,  pokud  se
+toto svolení nedá považovat za předem dané (například  u  obsahu  dostupného
+široké veřejnosti  bez  omezení  na  internetu,  nebo  v případě  otevřeného
+přístupu).
+
+Někteří tvrdí, že kopie požadované  k vytěžování  textů  a  dat  jsou  kryty
+výjimkou  pro  dočasné  kopie,  která  je  uvedena  v článku  5.1   směrnice
+2001/29/ES. Jiní mají za to, že v souvislosti s činnostmi  kolem  vytěžování
+textů a dat není vůbec třeba uvažovat o  autorském  právu.  Nic  z toho  ale
+nelze tvrdit jednoznačně – především proto, že se texty  a  data  nevytěžují
+jen jedním univerzálním  způsobem,  ale  že  existuje  více  různých  metod.
+Důležitá je také otázka, zda hlavní problémy vznikající  v této  souvislosti
+jdou mimo autorská práva (kdy není nutné se  ptát,  zda  je  či  není  třeba
+získat  svolení  k užití  obsahu),  ale  souvisí  spíše  s potřebou   získat
+„přístup“ (tj. možnost užívat například komerční databáze).
+
+K této otázce byla v rámci dialogu zainteresovaných  subjektů  vedeného  pod
+názvem „Licence pro Evropu“ ustavena zvláštní pracovní  skupina.  Zúčastněné
+zainteresované subjekty však nedosáhly shody ani v otázce spektra  problémů,
+které se mají řešit, ani v otázce výsledků. Vydavatelé zároveň  jako  výstup
+z dialogu „Licence  pro  Evropu“  předložili  praktická  řešení  pro  snazší
+vytěžování textů a dat z vědeckého  obsahu  na  předplacené  bázi[52].  Jiné
+zainteresované subjekty tvrdily v tomto diskusním kontextu, že  k vytěžování
+materiálů, k nimž byl získán přístup  na  základě  předplatitelských  smluv,
+nelze požadovat žádné další licence; tyto subjekty měly za to,  že  se  mají
+zavést specifické výjimky pro vytěžování  textů  a  dat,  které  se  nejspíš
+budou opírat o rozlišení, co je a co není komerční.
+
+
+
+53.   (a)   [Především    jste-li    koncový    uživatel/spotřebitel    nebo
+   institucionální  uživatel:]  Zažili  jste  překážky  spojené  s autorským
+   právem při pokusu  o  užití  metod  vytěžování  textů  nebo  dat,  včetně
+   přeshraničních pokusů?
+
+(b) [Především jste-li poskytovatel služeb:] Zažili  jste  překážky  spojené
+s autorským právem při poskytování služeb založených na metodách  vytěžování
+textů nebo dat, včetně poskytování služeb přes hranice?
+
+(c)  [Především  jste-li  nositel  práv:]  Zažili  jste  konkrétní  problémy
+způsobené  použitím  metod  vytěžování  textů  a  dat  ve  vztahu   k obsahu
+chráněnému autorským právem, včetně činností realizovaných přes hranice?
+
+€ ANO – Laskavě vysvětlete
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+€ NE – Laskavě vysvětlete
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+54. Existují-li problémy, jak by se daly nejlépe vyřešit?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+55. Máte-li za to, že je třeba nalézt legislativní řešení, jaké by měly  být
+   hlavní prvky takového řešení? Kterých činností by  se  toto  řešení  mělo
+   týkat a za jakých podmínek?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+56. Máte-li za to, že je třeba nalézt jiné řešení, jaké řešení  by  to  mělo
+   být?
+
+[Otevřená otázka]
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+57. Existují další problémy, nesouvisející s autorským  právem,  které  jsou
+   překážkou pro uplatnění metod vytěžování textů a dat?
+
+[Otevřená otázka] ……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+
+Uživatelsky generovaný obsah
+
+Rozvoj technologií a služeb umožňuje občanům rozmnožovat, využívat  a  šířit
+obsah, aniž by  jim  přitom  vznikaly  finanční  náklady.  Proto  se  rychle
+rozvíjejí nové typy online činností včetně tvorby  uživatelsky  generovaného
+obsahu. Uživatelé mohou jednak vytvářet zcela původní obsah, ale mohou  také
+vzít jedno či více už existujících děl,  něco  v nich  pozměnit  a  výsledek
+nahrát na internet, např. s využitím platforem nebo  blogů[53].  Uživatelsky
+generovaným obsahem (UGC) tak může  být  pouhá  úprava  existujících  děl  i
+v případech, kdy nově  generované/„nahrané“  dílo  nevyžaduje  žádné  tvůrčí
+úsilí a vznikne pouhým přidáním, odebráním nebo seskupením  už  existujícího
+obsahu s jiným existujícím obsahem. Tento druh  činnosti  není  sám  o  sobě
+„nový“. Nové jsou ale okolnosti, vzniklé v důsledku rozvoje sociálních  sítí
+a stránek sociálních médií: obsah lze široce sdílet mezi uživateli, čímž  se
+podstatným způsobem změnil rozsah těchto aktivit a  zvětšil  se  potenciální
+ekonomický dopad pro  nositele  práv  vůči  takto  využitým  už  existujícím
+dílům. Opětovné využití děl už není hájemstvím technicky a  umělecky  zdatné
+elity. Díky možnostem, které přinesly nové technologie, je opětovné  využití
+dostupné všem  a  nejsou  s ním  spojeny  žádné  náklady.  Zároveň  zde  ale
+vznikají otázky týkající se základních práv,  například  svobody  projevu  a
+vlastnických práv.
+
+K této otázce byla  v rámci dialogu  zainteresovaných  subjektů  pod  názvem
+„Licence  pro  Evropu“  ustavena  speciální  pracovní  skupina.   Zúčastněné
+zainteresované subjekty však nedosáhly shody ani v otázce spektra  problémů,
+které se mají řešit, ani v otázce výsledků, a neshodly se  ani  na  definici
+UGC. Bylo ale předloženo velké množství různých  názorů  a  doporučení,  jak
+nejlépe na fenomén UGC reagovat.  Podle  jednoho  z předložených  názorů  je
+třeba pro UGC zavést novou výjimku, a to především pro  nekomerční  činnosti
+fyzických osob, například pro spojování existujících hudebních děl  s videi,
+s uspořádanými soubory fotografií atd. Podle jiného názoru ale není  potřeba
+přijímat žádné legislativní změny: UGC vzkvétá a licenční systémy  (licenční
+dohody mezi nositeli práv a platformami i mikrolicence mezi nositeli práv  a
+uživateli  generujícími  obsah)  jsou  dostupné  ve  stále  větším  měřítku.
+Každopádně lze říci, že po diskusích v rámci dialogu  „Licence  pro  Evropu“
+se  k uplatňování  praktických  řešení  zaměřených  na  podporu  uživatelsky
+generovaného  obsahu  a  na  snazší  poskytování  mikrolicencí  pro   drobné
+uživatele zavázali nositelé práv v širokém spektru různých odvětví[54].
+
+
+
+
+58.  (a)  [Především  jste-li  koncový  uživatel/spotřebitel:]  Zažili  jste
+   problémy při pokusu o užití existujících děl a  jiných  předmětů  ochrany
+   k šíření nového obsahu po internetu, a to i přes hranice?
+
+
+(b)  [Především  jste-li  poskytovatel   služeb:]   Zažili   jste   problémy
+způsobené tím,    že     uživatelé     prostřednictvím     Vašich     služeb
+zveřejňovali/šířili nový obsah založený na existujících dílech  nebo  jiných
+statcích, a to i přes hranice?
+
+
+(c) [Především jste-li nositel práv:] Zažili jste  problémy  způsobené  tím,
+jak uživatelé používají existující díla nebo jiné předměty  k šíření  nového
+obsahu po internetu, a to i přes hranice?
+
+
+€ ANO – Laskavě vysvětlete s použitím příkladů
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x NE
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+59. (a) [Především jste-li koncový uživatel/spotřebitel nebo nositel  práv:]
+   Zažili jste problémy ve snaze zajistit, aby dílo, které jste vytvořili (z
+   už existujících děl), bylo  náležitě  identifikováno  pro  užití  online?
+   Jsou vlastnickoprávní systémy v tomto kontextu dostačující?
+
+
+(b)  [Především  jste-li  poskytovatel  služeb:]  Dáváte  uživatelům,  kteří
+prostřednictvím Vaší  služby  zveřejňují/šíří  díla  jimi  vytvořená  (z  už
+existujících  děl)  možnost  náležitě  tato  díla  identifikovat  pro  užití
+online?
+
+
+€ ANO – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+60.  (a)  [Především  jste-li  koncový  uživatel/spotřebitel  nebo   nositel
+   práv):] Zažili jste problémy ve snaze o získání  odměny  za  užití  díla,
+   které jste vytvořili (z už existujících děl)?
+
+
+(b) [Především jste-li poskytovatel služeb:] Zajišťujete systémy  odměňování
+pro uživatele zveřejňující/šířící prostřednictvím Vaší  služby  díla,  která
+vytvořili (z už existujících děl)?
+
+
+€ ANO – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+
+
+
+61. Existují-li problémy, jak by se daly nejlépe vyřešit?
+[Otevřená otázka]
+
+
+…Smluvním licencováním práv…………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+62. Máte-li za to, že je třeba nalézt legislativní řešení, jaké by měly  být
+   hlavní prvky takového řešení? Kterých činností by  se  toto  řešení  mělo
+   týkat a za jakých podmínek?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+63. Máte-li za to, že je třeba nalézt jiné řešení, jaké řešení  by  to  mělo
+   být?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+IV. Soukromé kopírování a reprografie
+
+
+Podle směrnice 2001/29/ES mohou členské státy  do  své  národní  legislativy
+zabudovat výjimky a omezení práva  na  rozmnožování  děl,  a  to  pro  kopie
+pořizované k soukromému použití a pro  fotokopírování[55].  Na  zboží  běžně
+používané pro tyto účely (prázdné nosiče, záznamová  zařízení,  fotokopírky,
+přenosná poslechová zařízení – např. mp3/mp4 – počítače atd.) se na  národní
+úrovni uvalují poplatky s cílem zajistit nositelům  práv  náhrady  za  újmu,
+která jim vznikne tím, že některé skupiny osob produkují  kopie  bez  jejich
+souhlasu (fyzické osoby, které si pořizují kopie k soukromým  účelům),  nebo
+že se kopie  pořizují  s použitím  určité  techniky  (reprografie).  V tomto
+kontextu jsou poplatky důležité pro nositele práv.
+
+
+Kontinuální rozvoj digitálních technologií vyvolává otázku,  zda  kopírování
+souborů u spotřebitelů /  koncových  uživatelů,  kteří  si  zakoupili  obsah
+online – např. když si někdo koupí soubor MP3 a  pořídí  si  od  něj  vícero
+kopií (do počítače, tabletu, mobilu) – také podléhá, nebo by  mělo  podléhat
+poplatkům  za  pořizování  soukromých  kopií.  Tvrdí  se,   že   v některých
+případech by nositelé práv skutečně  měli  na  takové  poplatky  mít  nárok,
+přičemž by mělo být lhostejné,  že kopie  pořízené  koncovým  uživatelem  už
+jsou zpoplatněné tím, že poskytovatel služeb platí licenční poplatek.  Tento
+přístup by  potenciálně  mohl  vést  k dvojitému  zpoplatnění:  poplatek  za
+pořizování soukromých kopií by se vybíral  navíc  k licenčním  poplatkům  od
+poskytovatele služeb[56] [57].
+
+Průběžně také pokračuje diskuse  o  tom,  zda  se  mají  či  nemají  vybírat
+poplatky z určitých typů  cloudových  služeb,  jako  jsou  například  osobní
+úložiště nebo osobní videorekordéry.
+
+64. Je podle Vašeho názoru třeba vyjasnit na úrovni EU  rozsah  a  uplatnění
+   výjimek pro soukromé kopírování a reprografii[58] v digitálním prostředí?
+
+€ ANO – Laskavě vysvětlete
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+x NE – Laskavě vysvětlete
+…………………………Je už vyjasněno stávajícími nařízeními…………………………………………………………………….
+……………………………………………………………………………………………….
+
+€ ŽÁDNÝ NÁZOR
+
+
+65.  Jestliže  si  koncoví  uživatelé  v rámci  služby  pokryté  licencí  od
+   nositelů práv pořizují digitální kopie pro soukromé  použití  a  jestliže
+   tím nositelům licencí vzniká jen nepatrná újma, měly by se z těchto kopií
+   platit poplatky za soukromé kopírování?[59]
+
+€ ANO – Laskavě vysvětlete
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+€ NE – Laskavě vysvětlete
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+€ ŽÁDNÝ NÁZOR
+
+66. Jak by změny poplatků při aplikaci na online  služby  (např.  na  služby
+   založené na cloud computingu, které mimo jiné  umožňují  uživatelům,  aby
+   měli kopie na vícerých zařízeních) ovlivnily  vývoj  a  fungování  nových
+   obchodních modelů na jedné straně a příjmy nositelů práv na druhé straně?
+[Otevřená otázka]
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+67.  Spatřovali byste přidanou hodnotu v tom, kdyby poplatky  byly  zřetelně
+   uvedeny na fakturách za produkty, na které se poplatky vztahují?[60]
+
+€ ANO – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+Národní systémy se různí. Zpoplatňují  se  různé  produkty  a  používají  se
+různé tarify. Tím vznikají překážky, které znesnadňují volný  oběh  zboží  a
+služeb na jednotném trhu.   Mnohé  členské  státy  zároveň  nadále  umožňují
+aplikaci poplatků za soukromé kopírování na všechny transakce bez rozdílu  a
+je jim lhostejné, komu se produkt zatížený poplatkem prodává (zda  například
+fyzické osobě nebo firmě). Zde je třeba připomenout, že ne  všechny  členské
+státy mají systémy ex ante výjimek a/nebo ex-post úhrad k nápravě  podobných
+situací a k omezení nepatřičných plateb[61].
+
+68. Zažili jste situaci, kdy při přeshraniční transakci bylo nutné  zaplatit
+   zbytečné poplatky, nebo jeden poplatek  zaplatit  dvakrát,  nebo  nastaly
+   jiné překážky vůči volnému pohybu zboží nebo služeb?
+
+€ ANO – Laskavě specifikujte typ  transakce  a  uveďte  procento  zbytečných
+plateb. Uveďte také, jak by situaci  mohly  pomoci  řešit  systémy  ex  ante
+výjimek a/nebo ex-post úhrad.
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+69.  Jaký  podíl  (%)  produktů  podléhajících  poplatku  se  prodává  jiným
+   subjektům než fyzickým osobám pro účely jednoznačně  bez  souvislosti  se
+   soukromým kopírováním? Vedou kterékoli z těchto  transakcí  ke  zbytečným
+   platbám?  Laskavě  uveďte  příklad  a  k němu  podrobné  vysvětlení  (typ
+   produktů, typ transakcí, zainteresované subjekty apod.).
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+70. Kde takové zbytečné platby vznikají, jaký podíl  obchodů  postihují?  Do
+   jaké míry by k nápravě situace mohly přispět  systémy  a  priori  výjimek
+   a/nebo ex post úhrad?
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+71.  Jestliže  jste  zjistili  konkrétní  problémy  s fungováním  současného
+   poplatkového systému, jak nejlépe by se tyto problémy daly řešit?
+
+
+[Otevřená otázka]
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+
+ V. Spravedlivá odměna pro autory a výkonné umělce
+
+Autorskoprávní acquis EU přiznává autorům a výkonným umělcům řadu  výlučných
+práv, a  v případě  výkonných  umělců,  jejichž  výkony  jsou  zachyceny  ve
+zvukovém záznamu, přiznává práva na odměnu. V autorskoprávní legislativě  EU
+není mnoho ustanovení, která upravují převod práv  z autorů  nebo  výkonných
+umělců na producenty[62], nebo  která  stanovují,  kdo  je  nositelem  práv,
+jestliže dílo nebo jiný  předmět  ochrany  vznikne  v rámci  zaměstnaneckého
+poměru[63]. Jde o  oblast,  jejíž  regulace  byla  tradičně  ponechávána  na
+členských státech. V přístupech k regulaci  tedy  existují  značné  rozdíly.
+Podstatné rozdíly jsou také mezi jednotlivými tvůrčími odvětvími.
+
+Nadále trvá znepokojení,  že  autoři  a  výkonní  umělci  nejsou  dostatečně
+odměňováni, což platí zejména (ne však výlučně) o online užití jejich děl  a
+výkonů. Mnozí se domnívají, že ekonomický přínos  nových  forem  užití  není
+spravedlivě rozdělen po  celé  délce  hodnotového  řetězce.  Běžně  se  také
+připomínají   problémy   související   se   smluvní   praxí,    s mechanismy
+vyjednávání, s právní domněnkou převodu práv,  s  ustanoveními  o  vykoupení
+podílu  [buy-out  clauses]   a   s nemožností   ukončit   smlouvy.   Některé
+zainteresované subjekty jsou přesvědčeny, že ustanovení  na  národní  úrovni
+k nápravě situace nestačí a že je třeba věc řešit na úrovni EU.
+
+72. [Především jste-li  autor/výkonný  umělec:]  Jaký  nejlepší  mechanismus
+   (nebo kombinace více mechanismů) zajistí, abyste  dostávali  odpovídající
+   odměnu za užití svých děl a výkonů?
+
+[Otevřená otázka]
+
+…Fungující ochranná organizace
+
+
+
+
+
+Existuje potřeba přijmout  opatření  na  úrovni  EU  (např.  zakázat  určitá
+ustanovení ve smlouvách)?
+
+
+€ ANO – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete, proč
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+73.  Domníváte-li  se,  že  současná  pravidla  nejsou  účinná,   co   byste
+   navrhovali k řešení zjištěných nedostatků?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+
+  VI. Respektování práv
+
+Směrnice 2004/48/ES[64]  stanovuje  harmonizovaný  rámec  k občanskoprávnímu
+prosazování práv duševního vlastnictví včetně autorského práva a práv  s ním
+souvisejících.  Komise  k tomuto  textu   vedla   rozsáhlé   konzultace[65].
+Objevují se pochybnosti, zda i nyní  v digitálním  věku  některá  ustanovení
+této směrnice zajišťují dostatečný  respekt  k autorským  právům.  Na  jedné
+straně se zdá, že k řešení náročných výzev spojených  s šířením  digitálního
+obsahu po internetu nejsou současná opatření dostačující, a na druhé  straně
+se mnozí obávají o existující rovnováhu mezi uplatňováním  autorského  práva
+a ochranou základních lidských práv, především pak práva na  soukromí  a  na
+ochranu údajů. Není pochyb o tom, že  v případě  porušení  autorského  práva
+musí být po ruce opatření k vynucení práva, ale  mohla  by  se  navrhnout  i
+opatření na  podporu  respektování  autorského  práva  v případech,  kdy  se
+protiprávně nabytý obsah užívá ke komerčním účelům[66]. Jedním  ze  způsobů,
+jak  takový  návrh  realizovat,  bude   vyjasnění   role   zprostředkujících
+poskytovatelů služeb v infrastruktuře duševního vlastnictví[67]. Zároveň  by
+mohlo dojít k vyjasnění pojistek pro respektování  soukromí  a  ochranu  dat
+soukromých uživatelů.
+
+74. Měla by se posílit účinnost občanskoprávního  systému  vynucování  práva
+   v EU pro případy, kdy jsou autorská práva porušena s komerčním záměrem?
+
+x ANO – Laskavě vysvětlete
+
+
+……………………Subjekty jako   Rapidshare  a.p.  úložiště,  využívají  své  zákonné
+ochrany k porušování autorských práv pro své obohacení.……………………
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+75. Především: je nynější právní  rámec  natolik  jednoznačný,  že  umožňuje
+   dostatečné  zapojení  zprostředkujících   poskytovatelů   služeb   (např.
+   poskytovatelů   internetových    služeb,    zprostředkovatelů    reklamy,
+   poskytovatelů platebních služeb, registrátorů doménových jmen  apod.)  do
+   zamezování případů porušení autorského práva s komerčním záměrem?  Ne-li,
+   jaká účelná  opatření  by  mohla  podpořit  spolupráci  zprostředkujících
+   poskytovatelů?
+
+[Otevřená otázka]
+
+…………………Není…………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+76. Dokáže nynější občanskoprávní rámec  pro  vynucování  práva  zajistit  a
+   udržet správnou rovnováhu  mezi  právem  autorů  a  výkonných  umělců  na
+   respektování jejich autorských práv a právem ostatních subjektů například
+   na ochranu soukromí a osobních dat?
+
+€ ANO – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+€ NE – Laskavě vysvětlete
+
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+x ŽÁDNÝ NÁZOR
+
+
+
+
+
+
+
+
+
+VII. Jednotná ochrana autorského práva v EU
+
+Myšlenka na zavedení jednotné unijní ochrany autorského práva už  v debatách
+o  autorském  právu  rezonuje  po  nějakou  dobu.  Názory  na  výhodnost   a
+proveditelnost tohoto záměru se různí.  Jednotná  ochrana  by  celou  oblast
+autorského práva v EU zcela harmonizovala a nahradila by příslušnou  národní
+legislativu. Existoval by jen jeden unijní systém ochrany a zmizela by  změť
+národních práv. Někteří se domnívají, že to  je  jediný  možný  způsob,  jak
+zajistit opravdový  jednotný  trh  s obsahem,  který  je  chráněn  autorským
+právem. Jiní ale věří, že  téhož  cíle  se  dá  dosáhnout  zajištěním  vyšší
+úrovně harmonizace s tím, že si právní  systémy  členských  států  ponechají
+určitou míru flexibility a specifičnosti.
+
+77. Měla by EU usilovat o zavedení jednotné ochrany  autorského  práva  jako
+   prostředku k nastolení konzistentního rámce pro  práva  a  výjimky  kolem
+   autorských práv v celé EU i jednotného rámce pro vynucování těchto práv?
+
+€ ANO
+
+
+x NE
+
+
+€ ŽÁDNÝ NÁZOR
+
+
+
+
+78. Měl by to být další krok ve vývoji autorského práva v EU?  Dá  se  podle
+   současných rozdílností v legislativě jednotlivých členských států soudit,
+   že půjde o dlouhodobější projekt?
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+
+
+VIII. Jiné otázky
+
+Uvedený dotazník má být prostředkem  pro získání  komplexních  konzultačních
+podkladů k nejdůležitějším otázkám souvisejícím se současným právním  rámcem
+pro oblast autorského práva v EU. Máte-li za to, že některá  důležitá  fakta
+byla opomenuta, budeme rádi, když nás na ně upozorníte, aby  jim  v budoucnu
+mohla být věnována potřebná pozornost.
+
+79. Existují v souvislosti s právním  rámcem  pro  oblast  autorského  práva
+   v EU jakékoli další důležité záležitosti? Laskavě  vysvětlete  a  uveďte,
+   jak by se měly řešit.
+
+[Otevřená otázka]
+
+……………………………………………………………………………………………….
+
+
+……………………………………………………………………………………………….
+
+
+
+
+
+-----------------------
+[1] KOM (2012)789 v konečném znění, 18/12/2012.
+[2] Vyhlášeno ve strategii „Jednotný trh  práv  duševního  vlastnictví:  KOM
+(2011)287 v konečném znění 24/05/2011.
+[3]  „…který vychází z tržních studií a posouzení dopadů a  návrhů  právních
+předpisů“, jak se uvádí ve Sdělení (2012) 789.
+[4] Viz „Licences for Europe – ten pledges to  bring  more  content  online“
+[Licence   pro   Evropu   –   deset   záruk   za   více   obsahu    online]:
+http://ec.europa.eu/internal_market/copyright/docs/licences-for-
+europe/131113_ten-pledges_en.pdf .
+[5] EUCO 169/13, 24/25 October 2013.
+[6] KOM(2008) 466/3,
+http://ec.europa.eu/internal_market/copyright/copyright-
+infso/index_en.htm#maincontentSec2.
+[7] KOM(2011) 427 v konečném znění,
+http://ec.europa.eu/internal_market/consultations/2011/audiovisual_en.htm.
+[8]
+http://ec.europa.eu/internal_market/consultations/2009/content_online_en.htm
+.
+[9] Tento princip byl při několika příležitostech potvrzen Soudním dvorem
+EU.
+[10] Návrh Směrnice Evropského parlamentu a Rady ze dne 11. července 2012  o
+kolektivní správě autorského práva a práv s ním  souvisejících  a  udělování
+licencí pro více území k právům k užití hudebních  děl  online  na  vnitřním
+trhu, KOM(2012) 372 v konečném znění.
+[11]  Organizace kolektivní správy hrají významnou úlohu  ve  správě  online
+práv k hudebním dílům – na rozdíl od situace, kdy  licence  na  online-práva
+udílejí přímo nositelé těchto práv, např. producenti  filmů  nebo  nahrávek,
+nebo vydavatelé novin či knih.
+[12] Informace lze nalézt na webové stránce:  http://ec.europa.eu/licences-
+for-europe-dialogue/.
+[13] Další informace lze nalézt na webové stránce
+http://www.linkedcontentcoalition.org/.
+[14] Viz dokument „Licences for Europe – ten pledges to bring more content
+online“ [Licence pro Evropu – deset záruk za více obsahu online]:
+http://ec.europa.eu/internal_market/copyright/docs/licences-for-
+europe/131113_ten-pledges_en.pdf .
+[15] Pokud jde o možná dlouhodobá  opatření,  například  přijetí  jednotného
+evropského kodexu autorského práva  (založení  jednotné  ochrany  autorského
+práva), viz kapitola VII tohoto konzultačního dokumentu.
+[16] Směrnice Evropského parlamentu a Rady  2001/29/ES  ze  dne  22.  května
+2001  o  harmonizaci  určitých  aspektů  autorského  práva  a   práv   s ním
+souvisejících v informační společnosti.
+[17] Směrnice Evropského parlamentu a Rady 2009/24/ES ze dne 23. dubna  2009
+o právní ochraně počítačových programů.
+[18] Směrnice Evropského parlamentu a Rady 96/9/ES ze dne 11. června 1996 o
+právní ochraně databází.
+[19] Producenti filmů a záznamů, výkonní umělci a vysílatelé  jsou  nositeli
+souvisejících práv  („neighbouring  rights“)  vůči  svým  filmům,  záznamům,
+výkonům a pořadům.  Autorský  obsah  chráněný  autorským  právem  se  nazývá
+„dílo“ či „díla“ a  obsah  chráněný  souvisejícími  právy  se  nazývá  „jiné
+předměty ochrany“.
+[20] Právo „udělit svolení nebo zakázat přímé  nebo  nepřímé,  dočasné  nebo
+trvalé rozmnožení jakýmikoli prostředky a v jakékoli formě  vcelku  nebo  po
+částech“ (viz článek 2 směrnice  2001/29/ES),  i  když  dočasné  reprodukční
+akce přechodného či příležitostného charakteru  za  určitých  podmínek  jsou
+z platnosti tohoto práva vyňaty (viz článek 5(1) směrnice 2001/29/ES).
+[21] Právo udělit svolení nebo zakázat sdělování  děl  veřejnosti  po  drátě
+nebo bezdrátově a udělit svolení nebo zakázat  zpřístupnění  veřejnosti  „na
+přání“ (viz článek 3 směrnice 2001/29/ES).
+[22] Viz hlavně případ C-173/11 (Football Dataco vs. Sportradar) a případ C-
+5/11 (Donner), kde šlo o  autorská  práva  a  práva  s nimi  související,  a
+případ C-324/09 (L’Oréal vs eBay), kde šlo o ochranné známky.  Pokud  jde  o
+jurisdikci, viz též případy C-585/08 a C-144/09 (Pammer  a  Hotel  Alpenhof)
+and (dosud v jednání) případ C-441/13 (Pez  Hejduk);  viz  ale  také  případ
+s jiným přístupem: případ C-170/12 (Pinckney vs KDG Mediatech).
+[23] Použije-li se pojetí podle „země  původu“,  pak  půjde  o  lokalizování
+daného aktu (významného z  hlediska  autorského  práva),  pro  který  se  má
+získat licence v jednom členském státě (v „zemi původu“,  což  by  například
+mohl být členský stát, ve  kterém  se  nahrává  obsah,  nebo  kde  má  sídlo
+poskytovatel služeb) bez ohledu na počet členských států,  kde  je  k obsahu
+přístup, nebo kde je možno obsah získat. Toto  pojetí  už  bylo  použito  na
+úrovni EU v souvislosti se satelitním vysíláním (viz  směrnice  93/83/EHS  o
+koordinaci některých pravidel z oboru práva autorského a práv  souvisejících
+s právem  autorským  vztahujících  se  na  satelitní  vysílání  a   kabelový
+přenos).
+[24] Žaloba zadržovací je dočasný nebo trvalý opravný prostředek  umožňující
+nositeli  práv  zastavit  porušování  jeho  práv   neb   předejít   takovému
+porušování.
+[25]   Případy C-466/12 (Svensson), C-348/13 (Bestwater International) a  C-
+279/13 (C More entertainment).
+[26]  Případ C-360/13 (Public Relations Consultants Association Ltd). Viz
+též http://www.supremecourt.gov.uk/decided-
+cases/docs/UKSC_2011_0202_PressSummary.pdf.
+[27] Viz bod 28 úvodní části směrnice 2001/29/ES.
+[28] V případě C-128/11 (Oracle vs. UsedSoft) Soudní  dvůr  EU  rozhodl,  že
+autor nemůže bránit dalšímu prodeji licence  z druhé  ruky,  která  umožňuje
+stažení jeho počítačového programu z jeho webové stránky  a  jeho  používání
+po neomezenou dobu. Výlučné právo na distribuci kopie počítačového  programu
+krytého  danou  licencí  je  vyčerpáno  při  prvním  prodeji.  Tím  se  sice
+připouští,  že  distribuční  právo   může   podléhat   vyčerpání   v případě
+počítačových programů nabízených ke stažení se svolením vlastníka práv,  ale
+Soudní dvůr z opatrnosti zdůraznil, že ke  zmíněnému  rozhodnutí  dospěl  na
+základě směrnice  o  počítačových  programech.  Upozornil,  že  na  pravidlo
+vyčerpání práva pohlíží jako na  lex  specialis  ve  vztahu  ke  směrnici  o
+informační společnosti (UsedSoft, odst. 51, 56).
+[29] Netýká se například „domácích“ děl – majících původ v zemi  uplatňující
+příslušné formality na rozdíl od děl majících původ v jiné zemi
+[30] Na základě článku 3.6 Směrnice Evropského parlamentu a Rady  2012/28/EU
+ze dne 25. října 2012 o některých povolených způsobech užití  osiřelých  děl
+se nyní na Úřadě pro harmonizaci na vnitřním  trhu  (OHIM)  vytváří  veřejně
+dostupná online databáze k registraci osiřelých děl.
+[31]  Např.  mezinárodní  standardní  kód   nahrávky   (ISRC)   se   používá
+k identifikaci  nahrávek,  mezinárodní  standardní  číslo  knihy  (ISBN)  se
+používá k identifikaci knih.
+[32] Více informací o této iniciativě  je  k dispozici  na  webové  stránce:
+http://www.globalrepertoiredatabase.com/.
+[33] Více informací o této iniciativě (zčásti financované Evropskou  komisí)
+je k dispozici na webové stránce: www.linkedcontentcoalition.org.
+[34] Více informací o této iniciativě  je  k dispozici  na  webové  stránce:
+http://www.copyrighthub.co.uk/.
+[35] Bernská úmluva o ochraně literárních a uměleckých děl,
+http://www.wipo.int/treaties/en/ip/berne/.
+[36] Plus směrnice 96/9/ES o právní ochraně databází; směrnice 2009/24/ES  o
+právní ochraně počítačových  programů;  a  směrnice  92/100/ES  o  právu  na
+pronájem a půjčování.
+[37] Článek 9(2) Bernské úmluvy  o  ochraně  literárních  a  uměleckých  děl
+(1971);  článek  13  dohody  TRIPS  (Dohoda  o  obchodních  aspektech   práv
+k duševnímu  vlastnictví)  1994;  článek  16(2)  dohody  Světové  organizace
+duševního vlastnictví (WIPO) o  výkonech  výkonných  umělců  a  o  zvukových
+záznamech (1996); článek 9(2) dohody WIPO o právu autorském (1996).
+[38] Kromě pokračující platnosti výjimek menšího významu,  které  se  týkají
+pouze analogového užití a které existovaly v členských státech  v době,  kdy
+byla přijata Směrnice 2001/29/ES (viz článek 5(3)(o)).
+[39] S výjimkou určitých omezení (i) ve směrnici o počítačových  programech,
+(ii) ve směrnici o databázích, (iii) v článku  5(1)  směrnice  2001/29/ES  a
+(iv) ve směrnici o osiřelých dílech.
+[40] Přeshraniční účinnost byla přiřčena pouze  výjimce  obsažené  v nedávno
+přijaté směrnici o osiřelých dílech (povinná výjimka z  autorského  práva  a
+práv souvisejících s autorským právem v případech, kdy nositelé práv  nejsou
+známi nebo není znám jejich  pobyt),  což  například  znamená,  že  když  se
+literární dílo,  např.  román,  bude  považovat  za  osiřelé  dílo  v jednom
+členském státě, musí  se  považovat  za  osiřelé  dílo  ve  všech  členských
+státech.
+[41] Článek 5(2)c Směrnice 2001/29.
+[42] Článek 5(3)n Směrnice 2001/29.
+[43] Článek 5 Směrnice 2006/115/ES.
+[44]   Více  informací  o  tomto  MoU  lze   nalézt   na   webové   stránce:
+http://ec.europa.eu/internal_market/copyright/out-of-commerce/index_en.htm
+.
+[45] Francie a Německo už přijaly zákonná  ustanovení  na  podporu  MoU.  Ve
+Francii  je  to  zákon  LOI  n°  2012-287  du  1er  mars  2012  relative   à
+l'exploitation numérique des  livres  indisponibles  du  xxe  siècle,  který
+počítá  a  kolektivní  správou,  pokud  autor  nebo  vydavatel  není   proti
+kolektivní správě. Německý Gesetz zur Nutzung  verwaister  und  vergriffener
+Werke und einer weiteren Änderung des Urheberrechtsgesetzes vom  1.  Oktober
+2013   obsahuje   právní   předpoklad   zastupování   ochrannou   organizací
+(kolektivním správcem) ve vztahu k dílům, u  kterých  nositelé  práv  nejsou
+členy ochranné organizace.
+[46] Článek 5(3)a Směrnice 2001/29.
+[47] Článek 5(3)a Směrnice 2001/29.
+[48] Článek 5 (3)b Směrnice 2001/29.
+[49]  Evropská  síť  důvěryhodných   zprostředkovatelů   [European   Trusted
+Intermediaries Network (ETIN)] vzniklá na  základě  memoranda  o  porozumění
+mezi zástupci nositelů práv (vydavatelů, autorů,  ochranných  organizací)  a
+zainteresovanými  subjekty,  např.  sdruženími   nevidomých   a   dyslektiků
+(http://ec.europa.eu/internal_market/copyright/initiatives/access/index_en.h
+tm),  a  projektem  TIGAR   (Celosvětově   dostupné   zdroje   pod   správou
+důvěryhodných  zprostředkovatelů)  pod  hlavičkou  Světové   organizace   na
+ochranu duševního vlastnictví (http://www.visionip.org/portal/en/).
+[50] Marrákešská úmluva  o  usnadnění  přístupu  ke  zveřejněným  dílům  pro
+zrakově postižené osoby a pro osoby s poruchami čtení [Marrakesh  Treaty  to
+Facilitate Access to  Published  Works  by  Visually  Impaired  Persons  and
+Persons with Print Disabilities], Marrákeš, 17.-28. června 2013.
+[51] Pro účely tohoto dokumentu dále jen „vytěžování textů a dat“.
+[52] Viz dokument „Licences for Europe – ten pledges to bring more content
+online“ [Licence pro Evropu – deset záruk za více obsahu online]:
+http://ec.europa.eu/internal_market/copyright/docs/licences-for-
+europe/131113_ten-pledges_en.pdf .
+
+[53] Typickým příkladem mohou být „kuchyňská“ nebo „svatební“ videa (kdy  se
+vlastní  video  přidá  k už  existující  zvukové  nahrávce)  nebo  připojení
+vlastního textu k už existující  fotografii.  Jiným  příkladem  jsou  „mash-
+upy“, kdy se dávají dohromady  dvě  zvukové  nahrávky),  nebo  reprodukování
+části žurnalistického díla (reportáže, recenze apod.) v blogu.
+[54] Viz dokument „Licences for Europe – ten pledges to bring more content
+online“: http://ec.europa.eu/internal_market/copyright/docs/licences-for-
+europe/131113_ten-pledges_en.pdf .
+[55] Článek 5.2(a) a 5.2(b) směrnice 2001/29/ES.
+[56] Sdělení “Uvolnění potenciálu cloud computingu v Evropě”, KOM(2012) 529
+v konečném znění.
+[57] Tyto otázky byly řešeny v doporučeních, která vyvodil António  Vitorino
+ze zprostředkovatelského procesu v otázce poplatků za soukromé kopírování  a
+reprografii.     Doporučení     lze     nalézt     na     této      stránce:
+http://ec.europa.eu/internal_market/copyright/docs/levy_reform/130131_levies
+-vitorino-recommendations_en.pdf.
+[58] Článek 5.2(a) a 5.2(b) směrnice 2001/29/ES.
+[59] Tato otázka byla také řešena v doporučeních, která vyvodil António
+Vitorino ze zprostředkovatelského procesu v otázce poplatků za soukromé
+kopírování a reprografii.
+[60] Tato otázka byla také řešena v doporučeních, která vyvodil António
+Vitorino ze zprostředkovatelského procesu v otázce poplatků za soukromé
+kopírování a reprografii.
+[61] Tato otázka byla také řešena v doporučeních, která vyvodil António
+Vitorino ze zprostředkovatelského procesu v otázce poplatků za soukromé
+kopírování a reprografii
+[62] Viz např. směrnice 92/100/EHS, článek 2(4)-(7).
+[63] Viz např. článek 2.3 směrnice 2009/24/ES, článek 4 směrnice 96/9/ES.
+[64] Směrnice Evropského parlamentu a Rady 2004/48/ES ze dne 29. dubna  2004
+o dodržování práv duševního vlastnictví.
+[65] Více informací na webové stránce:
+http://ec.europa.eu/internal_market/iprenforcement/směrnice/index_en.htm
+[66]  Například,  když  se  protiprávně  nabytý  obsah  nabízí  na  webových
+stránkách  generujících   reklamní   výnosy,   jejichž   objem   závisí   na
+návštěvnosti stránek.
+[67]  Toto  vyjasnění   by   nemělo   mít   vliv   na   režim   odpovědnosti
+zprostředkujících  poskytovatelů  služeb   podle   Směrnice   2000/31/ES   o
+elektronickém obchodu, který zůstává beze změny.
+

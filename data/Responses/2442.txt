@@ -1,0 +1,520 @@
+                                  EUROPEAN UNION
+                  COPYRIGHT/ DIGITAL MUSIC RIGHTS INITIATIVE
+
+                                   POSITION PAPER
+By Ian Penman of New Media Law LLP in consultation with Suzanne Rab, barrister
+                                                     of Serle Court Chambers.
+                                                               1 February 2014
+
+
+   1. INTRODUCTION AND EXECUTIVE SUMMARY
+This paper responds to the European Commission’s 5 December 2013 public
+consultation on the review of the EU copyright rules (“Consultation”). It focuses on the
+specific issue of fair remuneration for authors and creators in the music industry and how
+this can be safeguarded to meet the challenges of the digital age.
+Below we outline a proposal which we believe is both visionary and pragmatic. It echoes
+the sentiments of Internal Market and Services Commissioner Michel Barnier in
+launching the Consultation where he stated that his:
+        "…vision of copyright is of a modern and effective tool that supports creation and
+       innovation, enables access to quality content, including across borders,
+       encourages investment and strengthens cultural diversity”.
+We emphatically agree with Commissioner Barnier that “[o]ur EU copyright policy must
+keep up with the times”.
+The European Union’s objectives in the area of copyright (as apparent from this
+Consultation) can be summarised as being to “improve the effectiveness and efficiency
+of enforcement while underpinning its legitimacy in the wider context of copyright
+reform”. This objective is supported by growing the European Union economy through
+attracting e-commerce related business to the European Union. This, in turn, will also
+contribute to diversification of the EU economy in the online environment.
+In pursuit of this objective we propose a mechanism whereby a music distribution fee will
+be collected from Internet Service Providers (“ISPs”) relating to the upload or download
+of music files (“Proposal”). We outline:
+   ·   The policy drivers against which the Proposal must be assessed, taking
+       account of the specific features of the music industry and as it has developed in
+       the EU
+   ·   The current ‘status quo’ and how existing legal mechanisms and policy
+       instruments have so far failed to deliver an optimum environment for protecting
+       the interests of rights-holders and consistent with encouraging new business
+       models to flourish
+
+
+
+
+                                                                                           1
+   ·   An assessment of the position of relevant market players (including record
+       companies, publishers, ISPs, music collection royalty societies and retailers) and
+       how the Proposal would affect their and consumers’ interests
+   ·   An outline of how the Proposal would work in practice
+   ·   Key benefits of the Proposal to the EU.
+The key features of the Proposal include:
+   1. PLATFORM NEUTRAL: The proposed scheme is "platform neutral", in that it is
+      not in competition with, nor does it "favour", any existing (nor indeed, future)
+      business models for the online use of music.
+   2. NOT A TAX: The fees collected by the ISPs would be passed to the rights-
+      holders on a basis yet to be finalised, but it would be pro rata to actual use of the
+      files, where possible, using audio fingerprinting technology, and/ or rights-holder
+      metadata, as supplied by the collecting societies and/ or the rights-holders
+      themselves.
+   3. NOT A “BLANKET LICENCE”: The proposed initiative does not therefore permit
+      nor automatically license all file sharing, and is limited to individual non-
+      commercial uses only.
+   4. COPYRIGHT LAW: The EU is considering the wider review of its current
+      copyright laws and may indeed introduce new digital copyright legislation in order
+      to address the current realities in respect of the use of digital music files,
+      including the transfer of those files using the Internet. The Proposal does not
+      seek to supplant that review and can be achieved in harmony with it.
+
+
+   2. EUROPEAN UNION POLICY DRIVERS
+The European Union’s policy has been (and continues to be) to offer attractive
+legislative, tax and business environments to industries in order to build business
+clusters in the European Union, which then in turn attract other businesses to the
+European Union.
+One of the key areas which the European Union has identified as being a growth area in
+the future and in respect of which the European Union can offer this advantageous
+business environment – is the online content industry – notably online delivery of music,
+television and film.
+The European Union’s unique constitutional position, when coupled with its political
+willingness to adapt to change, allows it to be able to react rapidly to the challenges
+offered by new technology, and find practical solutions to existing challenges – which will
+assist these industries in their successful future growth and economic development.
+Of the creative industries, the industry which has been most affected to date by the
+growth of the Internet, and notably the proliferation of broadband services, is the music
+industry. The reason for this is simply that music can be easily digitised (and has been
+
+
+                                                                                            2
+since the invention of the compact disc in the 1980s), and (when this digitisation is
+combined with the arrival of powerful compression technology, as has been the case
+since the early 1990s) that the resulting music files are (relatively) small, and can
+therefore be transmitted across the Internet with ease.
+
+
+   3. CURRENT BACKGROUND
+Sadly, for a number of interrelated and complex reasons (which have been rehearsed
+extensively elsewhere and which will not be repeated here), the music industry has
+failed to react to the change of technology by which consumers obtain music, which has
+resulted in a number of unlicensed new technologies becoming the most popular routes
+for these consumers to obtain their content.
+An obvious challenge is peer to peer technology (“P2P”). Of course, until recently, it has
+been only the younger generations that have understood and adopted these
+technologies in large numbers. However, as the music industry has continually failed to
+(initially acknowledge, and then) address the new environment for over a decade, those
+younger generations have grown up (though not necessarily becoming legitimate, i.e.
+paying, consumers in the process), and been replaced by the next [technologically
+savvy] generation, who also prefer to obtain their music using these technologies, not
+least of course, because they are [almost] free. Almost free, because substantial fees
+are paid to service providers (such as Telcos and ISPs) who supply the technical
+connections over which the consumer can obtain their content.
+Unfortunately, as a result of the music industry’s failure to deal with reality, the ISPs and
+Telcos do not – at present – tend to charge their customers for the content that they
+obtain using their telecommunication services – nor pay any money to the copyright
+holders that are being adversely affected.
+This has resulted in the recorded music industry collapsing in the throes of a well-
+publicised meltdown. Whilst music revenues from broadcast, film and public
+performance are strong. For example, as regards the UK PRS for Music reported that
+broadcast revenues from TV and radio reached £153 million in 2012, a rise of 3.1% on
+2011), recorded music revenue (from the sale of master recordings to individual end
+consumers), and related mechanical copyright revenues) are struggling (overall PRS for
+Music achieved a 0.6% rise in royalty revenues from recorded music in 2012). One of
+the main reasons for this slowdown (but not the only reason) is the proliferation of illegal
+P2P traffic via broadband connections, which allow users to source and download
+infinite quantities of music files at no cost – and with no appreciable loss of quality when
+compared with paid services.
+
+
+
+
+   4. POSITIONS OF THE VARIOUS PLAYERS
+
+                                                                                            3
+4.1    Record Companies
+The majors (and the major independents) resist change. Many thought that the windfall
+(in that they were able to sell the same products again, as had previously been bought in
+pressed vinyl and/ or magnetic tape form) revenue brought about by the invention of CD
+technology would see them well into retirement. It didn’t happen. Unfortunately, the
+digitisation of (what were previously) analogue music recordings has led to other
+consequences – when coupled with compression and Internet technologies.
+That said, the development which appears to scare them the most is the loss of their
+monopoly on distribution. Previously, each of the majors (and via companies like
+Pinnacle, the independents) had a stranglehold on the distribution of recorded music.
+Each of them owned their own distribution network, which commenced with the actual
+manufacture of the product, through the storage and distribution warehouses, to the
+delivery to the retail shops that sold the product to the consumer. This allowed them to
+control supply, and therefore price.
+The move to the Internet being consumers’ preferred method of consumption of
+recorded music has meant that their distribution monopoly has been broken. They have
+fought this at every step of the way, with rather similar results to those enjoyed by King
+Canute when he tried to stop the waves.
+However, by choosing to fight, as opposed to accept the inevitable (which history shows
+us is almost always the case when a massive technological change occurs to any
+business) and embrace it – has meant that consumers have been forced to adopt illegal
+services, if they wish to consume their music in the way that they prefer.
+By choosing to continue the fight, when it became obvious to all dispassionate
+observers that they would inevitably lose it, the loss of initiative gradually transpired into
+a catastrophic and [predominantly] permanent loss of consumer loyalty, which is where
+they are today.
+Yet they still seem to refuse to acknowledge that the ISPs and Telcos are the de facto
+“gatekeepers” of the new distribution network, and that their old distribution model needs
+to be revised accordingly.
+They should be encouraging the ISPs to hold “stocks” of their products (via a database
+of digital files, supplied to them by the record companies), and should then be
+encouraging them (and/ or other online music services) to sell the products to the
+consumer (whether via digital downloads to own, or to use for a time, or via streaming
+services).
+The main reasons that they should be focused on the ISPs are that: (a) they ‘own’ or
+have the direct nexus with the customer, and have proven revenue collection systems;
+(b) in terms of [prevention of] copyright infringement – they have the ability to [largely]
+stop it immediately, using current technology; and (c) they can enforce payment, and
+indeed copyright adherence - as they can “switch the user off”.
+The new business models can be individual purchase or subscription services – it
+doesn’t matter which. Obviously, iTunes has led the way in this – but unfortunately, its
+
+
+                                                                                                 4
+model is not economically viable in itself – or in relation to the revenues delivered to the
+rights holders. It only works if you own the rights to and sell lots of iPods.
+Which brings us to the current “impasse”: we know from meetings with the record
+company industry associations that they feel that a suitable pricing model (for “infinite”
+access to recorded music via a broadband connection) would be in the region of EUR 15
+per user per month. When combined with the publishers’ requirements (for the licence
+of their songs) of a further (say) EUR 3 to 7 per month, it is easy to see why the ISPs
+have so far refused to listen. They may well charge about the same cost per month,
+gross, to their customers – as the music industry would like to see for the licence of its
+rights. An impossible equation.
+This has resulted in the ISP collecting 100% of the income from the download of music
+(by providing the technical solution at a cost which they keep themselves, for the
+consumer to then obtain music via almost exclusively illegal and therefore unpaid
+services).
+The only logical step forward is for the record companies to accept the current reality,
+and start to get paid for some of what is actually going on. Anything has to be better
+than nothing. Of course, the initial equation will be grossly unfair to them (or at least this
+is how they will perceive it), but then again, had they been prepared to try to understand
+(let alone embrace) the technological change brought about by the invention of the
+Internet when it became universally adopted – they may have been better placed to
+lobby governments at the time for a share of ISP revenues (being that the ISPs were,
+arguably innocently at first, inevitably facilitating copyright theft on a vast scale).
+Put simply: they have to be “in it to win it”. ISPs are not going to go away, nor are
+modern consumers – who have voted with their feet as to how they wish to consume
+music. The distribution fee may start at a relatively small price per month per access
+point. The record companies may not universally accept this as yet – but the
+commercial logic is inescapable.
+However, it is this lack of universal acceptance which is why we have developed the
+Proposal. The record companies’ vary in their attitude to an ISP-based model right now
+between: “we do not support it” through “we will accept a “covenant not to sue” to “we
+will licence it now”. Any attempt to find harmony among the recorded music industry has
+thus far failed, and we cannot yet see any [bright] light at the end of the tunnel. In effect,
+any model which demands that the record companies license their rights – will not yet
+find acceptance from most of them [certainly not as currently priced] – and is therefore
+destined to fail. It is for this reason that we recommend that a “music distribution fee” is
+charged of the ISPs – without it being related to individual products or licenses of rights.
+
+
+4.2    Publishers
+As with the record companies, the publishers have seen their revenues from sales of
+recordings collapse. If nobody is paying for recordings, then nobody is paying the
+mechanical copyright royalty to the writer of the underlying work, not to mention the
+performer’s performance right.
+
+
+                                                                                               5
+They have (perhaps) been better able to weather the storm than the record companies,
+because they do not traditionally have anything like the same product development
+costs. They do not invest in making records, nor in the [increasingly huge] costs
+involved in bringing them to market. One major record company MD told us that he
+thought that it would be impossible to launch a new pop act in the UK market alone for
+less than EUR 1,000,000. It doesn’t take much to realise that they only need a few
+failures for their profits to collapse. This collapse is like a downward only spiral - and is
+happening faster and faster – as they can no longer recoup the losses incurred by the
+[numerous] failures from the one or two successes – as consumers are no longer paying
+for the successful music. As the record companies collapse, so does the mechanical
+income paid to publishers.
+We have anecdotal soundings that publishers are now more than willing to consider any
+model which will address the existing disaster. We have every reason to believe,
+therefore, that the publishers will support the Proposal and indeed will encourage their
+collection societies to not only approve it – but to get actively involved.
+4.3    ISPs
+The ISPs have always taken the position that they are “innocent disseminators” of
+content by third parties using their networks. In that they do not monitor the content that
+crosses their networks, but merely provide “pipes” through which data can be received
+and sent. This position, partially as it reflects the previous position taken by
+governments in respect of what were originally purely telephone and telegraphic
+networks, is more or less supported by EU and US law (eg the safe harbour provisions
+of the Digital Millennium Copyright Act of 2000 in the US, and the ‘mere conduit’ status
+of ISPs in Directive 2000/31/EC on electronic commerce).
+However, as technological advances have meant that larger and larger files can be sent
+and received more and more rapidly using the ISP/ Telco technologies, it has meant that
+the ISP/ Telcos have become the de facto distributors of much of the world’s content.
+This has made their traditional position (of “innocent disseminators”) less and less
+tenable. It is not only music that has been affected, but the software, book, magazine,
+newspaper, television and film industries have also seen their content increasingly
+infringed – with resultant losses in income.
+Whilst the ISPs (in particular) have had the necessary [file identification and blocking]
+technology available for some time to address this – they have been loath to deploy it (it
+makes their job far harder, and nobody is offering to pay them to do the additional work).
+Thus, they have chosen instead to continue to “cash in” on the inertia of the content
+industries (and the world’s politicians). Why should they voluntarily accept all of this
+additional cost, or indeed share their revenues, when they can continue happily on
+without doing either. As Geoff Taylor (Chairman of the BPI) famously said in the press:
+“My door has been open to the ISPs for years, but they don’t seem to want to walk
+through it”. Now we know why.
+In the European Union the position is different, as the European Union’s ISPs seem far
+more receptive to recognising what is going on. This may be aided by the fact that they
+are not making additional fees out of bulk infringers who swallow up vast quantities of
+bandwidth by leaving their bit torrent applications to download hundreds of illegal files on
+
+                                                                                            6
+a 24/7 basis, which also significantly degrades the ISPs service experience to their
+legitimate customers.
+Whatever their motive, the result is that the European Union’s ISPs are prepared to
+contemplate this new “fee”, provided of course that it is not set at an unrealistically
+high level.
+The irony is that the European Union is probably one of the few jurisdictions in the world
+that may not need to legislate to bring their ISPs to the table – as the ISPs know before
+discussions commence – that it easily can. This “willingness” means that a solution can
+be found and implemented rapidly in the European Union, which will serve as a model
+for the rest of the world.
+4.4    Music Royalty Collection Societies
+In respect of online income collection and distribution, the collection societies that deal
+with income from the sale of recordings and/ or songs are frightened about their future.
+Or at least those who understand how and why copyright works will be licensed and
+distributed online in the future (with the resultant effect on how income will be collected
+and distributed) are. This is because the current status quo (being national societies
+handling national collections in respect of their members) cannot work in the online
+environment.
+The societies (that collect and distribute income) fall into two categories (as, of course,
+do music copyright works themselves), namely: those dealing with sound recordings (eg
+PPL) and those dealing with the publishing of underlying works (or songs) (eg PRS or
+MCPS).
+The complexities of online licensing in Europe are legendary. PPL, for example, does
+not usually have a mandate from its members to deal with the online licensing of sound
+recordings (they are licensed by the rights-holders themselves), whereas the publishing
+licenses are in most cases still dealt with on a national basis. This is not standard,
+however, as proven in the case of CELAS (the new society, which is a “joint venture”
+between MCPS and GEMA [in Germany] which was set up to handle the online licensing
+of EMI publishing copyrights throughout Europe. Or has it?
+On closer examination, the Dutch and the Spanish are apparently refusing to
+acknowledge that these rights have been effectively transferred to CELAS, and even if
+they have, the rights of a local Spanish, German or Dutch writer that co-writes with an
+EMI Anglo-American writer are not included. Others state that the “performing right” is
+not included (such that the CELAS licence is just for “mechanical copyright” use).
+Chaos. And the apparent positions that are stated here are based on what can be
+gleaned from dealings with the societies and public sources “so far as can be
+ascertained”.
+We have calculated that (at least) 35 licences are required to license just the publishing
+rights for a new online music business model that wishes to launch in (say) 5 major
+European countries (namely, a “pan-European” licence from each of the major catalogue
+owners – i.e. Warner Chappell, Universal, Sony ATV/ EMI (via CELAS), plus a further
+licence (in respect of their own members’ works) from the national collection society of
+
+
+                                                                                              7
+each of the 31 EEA members [the EEA currently comprises the 28 members of the EU
+plus Norway (29), Iceland (30) and Liechtenstein (31), and then Switzerland (32) which
+is neither an EU nor an EEA member]). Of course, if the European Union is included as
+a separate European territory – this figure becomes 36!
+The result of all this is that the collection society position will have to be rationalised, or
+the result will be that income will dry up because either: (a) new models will simply
+refuse to licence (ie, stay illegal), or (b) new models will find it too complex and
+expensive to launch at all.
+The cure will be a new model society for online licensing, which the European
+Union’s initiative will set up – and which will lead the way on a worldwide basis.
+Once this lead has been taken, it is logical that the European Union’s model will
+be utilised not only in respect of other national (or supra national) collection, but
+also in respect of the pan-European (or indeed global) rights of the major rights
+holders. Put simply, the European Union will be ideally positioned to offer the
+collection and distribution structure to the majors, who could collect all of their
+global online income via a European Union company in a tax efficient manner.
+We know, from one collection society, for example, that the European rights societies
+are in the process of implementing regional “hubs” in order to streamline online
+collection and payment. If the European Union becomes the first international hub which
+is geographically located in Europe, but without actually being an EU or EEA member,
+then it could easily become the logical “entry point” into what will eventually become a
+global network of collection and payment hubs.
+5.5       Retailers (high street and online)
+Traditional content retailers are suffering terribly from the current environment (eg the
+collapse of Woolworths, which has always had a significant proportion of music (and
+indeed DVD) sales income in the UK). They would welcome any change along the lines
+of the recommended initiative, as one of its effects will be to boost hard copy sales.
+Online suppliers fall into 2 distinct camps: Those who are prepared to work illegally, or
+at least on the edge of legality – eg [the original] Napster, MyMP3.Com, Limewire or
+Pirate Bay; and those who obtain legitimate licenses, eg iTunes, Amazon, Qtrax or
+Rhapsody. The former would prefer that the current anarchy continues, for obvious
+reasons, whilst the latter will be 100% supportive of the initiative (once they fully
+understand it) – as one of its net effects will be to drive consumers through their doors
+(provided of course that it does not increase their running costs, which it should not).
+
+
+
+
+      5. RECOMMENDED MODEL – “DIGITAL MUSIC RIGHTS INITIATIVE”
+Bearing in mind the above, our recommended model is as follows:
+MUSIC DISTRIBUTION FEE
+      ·   a “MUSIC DISTRIBUTION FEE” is charged to the ISP and Telcos
+
+                                                                                                  8
+    ·   set (initially) at EUR 3 per access point per month
+    ·   in return for the fee – the ISP/ Telco would be given more certain “safe harbour”
+        protection – whether by legislation or MoU (thereby making them immune from
+        prosecution in respect of individual [i.e. non-commercial] music download activity
+        across their networks)
+    ·   whether the fee is passed through to the consumer would be at the option of the
+        ISP or Telco. While consumers may end up paying more in the short-term,
+        competition between ISPs would eventually negate this. It is inevitable that there
+        would be a period of ‘bedding in’ while consumers get used to the fee and the
+        dichotomy between their respect for IP and the hitherto availability of ‘free’
+        downloads. It is probable that ISPs would eventually eat the costs over time due
+        the very obvious PR benefits to them in so doing1
+    ·   it is not a tax because the fee does not go to any public or government authority;
+    ·   it is not a “licence” [“blanket” or otherwise] as it does not require the permission
+        of the content owners (as it does not give any permission to any end user to
+        download music – whether illegally or legally – thus existing lawful services [such
+        as iTunes] are unaffected – as are the content owner’s rights to sue blatant
+        infringers)
+    ·   it would only be related to music content – so films and TV programmes would
+        not be included
+    ·   the fee is payable by the ISP or Telco to a new European Union company –
+        provisionally titled MUSIC RIGHTS MANAGEMENT LTD (the “Company”)
+    ·   this Company would be a “not for profit” company – similar in principle to the
+        existing collection societies – such as PRS for Music or PPL
+    ·   the Company would contract with an existing “fingerprint” technology provider –
+        such as Audible Magic or AMG – who would install technology sitting on the ISP
+        or Telco’s network – which would identify most of the music downloads – and
+        allow a “fair” distribution of the income to take place [ideally, this provider would
+        be paid a percentage – in the order of 2% - of the gross revenue raised]
+    ·   the Company would contract with one or more existing collection societies (eg
+        PRS for Music) to distribute the funds raised to the relevant rights-holders (using
+        their existing rights holders databases – which would be interfaced with the
+        fingerprinting technology) [ideally this society would be paid a percentage of the
+        gross revenue raised – in the order of 5%]
+    ·   the Company would also retain a percentage of the gross revenue raised – to
+        cover its costs – in the order of 3%. This would mean that the total “cost” of the
+        scheme (i.e. to be deducted from the rights holder “royalty” would be capped at
+        10%).
+
+
+
+
+1
+  96% of Europeans agree that protecting IP is important; 86% agree that protecting IP
+contributes to improving the quality of products and services; and 69% value IP because it
+contributes to the creation of jobs and economic well-being. 42% also believe it is acceptable to
+illegally download music and films for personal use. This rises to 57% among those aged
+between 15 and 24-years-old. See, further:
+https://oami.europa.eu/ohimportal/en/web/observatory/ip-studies
+
+                                                                                                    9
+At present, as the end user/ individual consumer is unaffected by the above model –
+there would be no specific necessity to change European Union copyright law – insofar
+as it relates to individuals.
+That said, in the event that the ISPs/ Telcos decide to pass through this charge to their
+customers, there may be pressure to deliver some benefit to those customers (such as
+an additional “safe harbour” immunity from prosecution if they are making digital copies
+of music files at home for their own [non-commercial] use). Again, this is doing nothing
+more than (effectively) recognising the existing status quo.
+However, it should not be ignored that if the initiative included this modification – it would
+bring enormous [we believe positive] publicity to the European Union – as being the first
+jurisdiction in the world to modernise its copyright law to “embrace reality” and reflect the
+new consumer environment that has been brought about by new technology. This also
+follows through on the European Union’s strategic objectives – by sending out the right
+“message” to the world’s online business community – who would see the European
+Union as being the best [i.e. most forward thinking] environment in the world for
+conducting their business.
+However, both suggested changes to European Union copyright legislation (i.e. the
+extending of safe harbour guarantees to both the ISPs/ Telcos and the individual
+consumer), would undoubtedly be seen as an “erosion” of their current rights by the
+rights-holders, notably the major record companies. As a result, we propose that they
+are “given” something in return:
+EUROPEAN ONLINE COPYRIGHT TRIBUNAL
+As a further arm to the initiative – we would recommend the following:
+   ·   The European Union sets up a European Online Copyright Tribunal (“EOCT”).
+   ·   This would be managed by the Company.
+   ·   Rights holders would be given a swift and effective forum for addressing blatant
+       [online] infringers of copyright.
+   ·   The EOCT would be granted power to enforce judgments in relation to European
+       Union ISPs immediately.
+   ·   Part of the statutory change (or MoU) referred to above would ensure that the
+       ISPs carried out any block required by the judgment immediately.
+   ·   “Action costs” and “court” fees would be charged to the litigants by the OCT - the
+       former of which would contribute to the EOCT’s running costs and the latter of
+       which would be paid through to the European Union budget as fees.
+
+
+Not only would this be a “world first” (which would bring enormous positive publicity to
+the European Union) – it would be seen as a perfect low cost and low risk test bed
+environment for the major rights-holders to address bulk infringers – whether those who
+are illegally distributing their content – or those who are providing the technology for
+others to do so. Of course, this would have the beneficial side effect of bringing new and
+positive income to the European Union – as the world’s major content companies come
+to the European Union to benefit from the EOCT regime.
+
+
+                                                                                           10
+    6. BENEFITS TO THE EUROPEAN UNION
+If the European Union implements this initiative, it will be the first jurisdiction in the world
+to successfully address the current chaos caused to the creative - and especially music -
+industries by the theft of copyright works online.
+This has the following significant benefits to the European Union:
+The EU’s international/ business status
+    (1) it further enhances the European Union’s status as a forward thinking country
+        which embraces technological change when it is logical to do so;
+
+
+Positive publicity
+    (2) [following on from the undoubted positive publicity that will be generated], the
+        European Union will benefit generally from an enormous and lasting positive
+        “PR” surge;
+
+
+The European Union gets a new “Rights Society”
+    (3) the new European Union “Music Rights Management” company will mean that
+        the European Union begins to collect and distribute its own music royalties for
+        the first time (thereby enhancing its status as an “independent” jurisdiction, and
+        providing for the monies to be channelled through the European Union – and of
+        course for the society administration “fees” to stay in the European Union - for
+        the first time);
+
+
+Further Revenues – Administrative and Technical and Banking
+    (4) the model that the initiative creates can easily be duplicated for other royalty
+        streams – such as those that will eventually become necessary for other digital
+        content industries (eg films, books, software etc…), and for other commercial
+        entities (such as “Warner Music Digital Co”, “Universal Music Digital Co” etc…),
+        who would logically choose the European Union’s world leading online rights
+        management infrastructure to be the perfect solution to their own online digital
+        rights income management, via the establishment of European Union companies
+        to undertake the relevant tasks. This could end up with a gigantic revenue boost
+        to the European Union’s economy, as each of these new initiatives and
+        commercial companies will require an admin base in the European Union, and
+        will mean that the revenues are channelled through the European Union’s banks;
+
+
+Protection of Creators
+    (5) the European Union can be seen to be protecting its creative community, whose
+        income will otherwise be gradually eroded by the continued mass infringement of
+        their copyright works that the current inertia allows;
+
+                                                                                             11
+Consumer Benefits
+
+   (6) [to the extent that an additional “safe harbour” is established] immunity from
+       prosecution if consumers are making digital copies of music files at home for
+       their own [non-commercial] use).
+
+
+It is for the above reasons that we recommend further examination of the issues set out
+here with a view to the adoption of this Digital Music Rights Initiative.
+
+
+DISCLAIMER
+The views expressed in this paper remain entirely those of the authors and do not
+necessarily represent nor shall be construed as representing the views of any
+client of the authors or any organisation of which they are a part or to which they
+are affiliated.
+©2014 Ian Penman and Suzanne Rab
+
+
+
+
+                                                                                        12
+

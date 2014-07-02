@@ -1,0 +1,583 @@
+ Response to the Consultation on ‘The Review of the EU Copyright Rules’
+    http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/index_en.htm
+
+
+
+Background
+
+This is a collaborative submission from a group of academics based in the UK with expertise in
+intellectual property law and information technology law.
+The preparation of this response has been funded by British and Irish Law, Education and
+Technology Association (“BILETA”) http://www.bileta.ac.uk/default.aspx
+
+This response has been prepared by Dr. Dinusha Mendis and Dr. James Griffin.
+
+Dr. Dinusha Mendis is an Associate Professor in Law at Bournemouth University and Co-
+Director of the Centre for Intellectual Property Policy and Management (CIPPM). Dinusha’s
+research interests lie in intellectual property law, particularly in copyright and digital copyright.
+
+Dr. James Griffin is Senior Lecturer in Law at the University of Exeter and Co-Director of the
+Science, Culture and the Law Centre. James’s research interests concern copyright and creativity.
+
+
+
+This response has been approved by the Executive of BILETA (the British and Irish
+Law, Education and Technology Association) http://www.bileta.ac.uk/default.aspx and
+is therefore submitted on behalf of BILETA.
+
+In addition, this response is submitted by the following individuals:
+
+Dr Abbe Brown, University of Aberdeen
+Mr Felipe Romero Moreno, Oxford Brookes University
+Mr Michael Bromby, Glasgow Caledonian University
+
+
+
+
+                                                                                                   1
+   II.     Rights and functioning of the Single Market
+
+Linking and browsing
+
+Q11. Should the provision of a hyperlink leading to a work or other subject matter
+protected under copyright, either in general or under specific circumstances, be subject
+to the authorisation of the rightholder?
+
+NO.
+
+Hyperlinks should not be subject to copyright because to do so can limit access to copyright
+works which may otherwise be available. This is because some right holders will require Errors
+and Omissions insurance style policies and the current fair dealing provisions in the UK do not
+provide sufficient protection to guard against unwarranted infringement actions. For example, if
+an author produces a text with a hyperlink reference in it, this will need to be deleted, reducing
+page traffic for a right holder (who may otherwise wish to be linked to) as well as inducing free
+speech concerns.
+
+
+
+Registration of works and other subject matter – is it a good idea?
+Q16. What would be the possible advantages of such a system?
+There are two key reasons for supporting such a system. Firstly, as noted in this Consultation, it
+enables end users to identify who the content right holders may be and to be able to arrange for
+licensing if it is to be required. Secondly, a system of registration may become necessary, in
+practice, for the operation of digital copyright exchanges, such as the Copyright Hub in the UK.
+In providing such a basis, this may provide a means for digital technology to be actively involved
+in the regulation of copyright content
+[See Griffin J., The Digital Copyright Exchange: Threats and Opportunities, 27 International
+Review of Computers, Law and Technology 5 (2013)].
+
+
+Q17. What would be the possible disadvantages of such a system?
+There is potential that in the environment today, searches may become common place for
+insurance purposes (i.e. Errors & Omissions insurance as outlined in the response to Q11). This
+may increase costs. More worryingly, increased use of a registration system within Copyright
+Hubs may lead to the situation where right holders are asserting copyright over works and
+registering them solely for the purpose of obtaining royalties using the Copyright Hub system.
+The Copyright Hub was suggested under the Hargreaves Review in 2011 and has since been the
+subject of two follow up reports by Richard Hooper. Currently discussions are under way as to
+how to take the proposal further towards implementation.
+
+
+                                                                                                2
+It should also be borne in mind that a registration system could fall foul of international
+obligations. There is no registration system operational under the Berne Convention, for
+example. If such a registration system were to become operational, and if that system were to be,
+in effect, necessary to obtain a ‘usual’ level of remuneration, then it is possible that the
+registration system could fall foul of that international law.
+
+
+Q18. What incentives for registration by rightholders could be envisaged?
+If it becomes successful, the Copyright Hub will probably become the incentive with the
+increased royalties that are likely to accrue. This is because, as outlined in Q17, right holders can
+receive remuneration through the Copyright Hub, and the network effect of technology is likely
+to mean an increased take up, the more the Hub is utilised.
+Even if the Copyright Hub itself does not become successful, it is possible that other alternatives
+being put forward in the market place will take the place of the Hub. The operation of any such
+hub is dependent upon a system of registration in order to track content – and this is already
+protected through Copyright Management Information devices under Article 7 of the EU
+Copyright Directive and in the UK s.296ZG CDPA 1988.
+Other incentives could include additional rights to bring infringement actions (registration of a
+copyright can, for instance, be required under the US system in order to be able to bring an
+action. See http://www.copyright.gov/help/faq/faq-general.html. Additional damages could be
+made available as part of having registered a copyright work. However, as outlined immediately
+above, the proposed Copyright Hub is likely to provide sufficient incentive for a voluntary
+system of registration.
+
+
+
+How to improve the use and interoperability of identifiers
+Q19. What should be the role of the EU in promoting the adoption of identifiers in the
+content sector, and in promoting the development and interoperability of rights
+ownership and permissions databases?
+Much of this protection is provided for already in Art 7 of the EUCD which states:
+            “Article 7
+            Obligations concerning rights-management information
+            1. Member States shall provide for adequate legal protection against any
+            person knowingly performing without authority any of the following acts:
+            (a) the removal or alteration of any electronic rights-management
+            information;
+            (b) the distribution, importation for distribution, broadcasting,
+            communication or making available to the public of works or other
+
+                                                                                                   3
+          subject-matter protected under this Directive or under Chapter III of
+          Directive 96/9/EC from which electronic rights-management
+          information has been removed or altered without authority,
+          if such person knows, or has reasonable grounds to know, that by so
+          doing he is inducing, enabling, facilitating or concealing an infringement
+          of any copyright or any rights related to copyright as provided by law, or
+          of the sui generis right provided for in Chapter III of Directive 96/9/EC.
+          2. For the purposes of this Directive, the expression "rights-management
+          information" means any information provided by rightholders which
+          identifies the work or other subject-matter referred to in this Directive or
+          covered by the sui generis right provided for in Chapter III of Directive
+          96/9/EC, the author or any other rightholder, or information about the
+          terms and conditions of use of the work or other subject-matter, and any
+          numbers or codes that represent such information.
+          The first subparagraph shall apply when any of these items of
+          information is associated with a copy of, or appears in connection with
+          the communication to the public of, a work or other subject matter
+          referred to in this Directive or covered by the sui generis right provided
+          for in Chapter III of Directive 96/9/EC”.
+
+
+Whilst the provision does not explicitly provide for the protection of “identifiers” as this
+question may refer to, it is quite possible that they will fall under Article 7. Currently, digital
+watermarks can be protected through Article 7 – and these watermarks can incorporate
+other information which could include executable program code or more simply the
+location of the content on a user’s computer. Note that such information also is often tied
+with Digital Rights Management systems as well, and as such, an additional layer of
+protection might be deemed unnecessary. The Copyright Hub, discussed in the previous
+questions, is also likely to utilise Copyright Management Information as identifiers.
+However, identifying information is likely to become increasingly complex – Netflix, for
+example, uses complex analysis of such information in order to be able to assess what future
+movies to make available and which projects to fund. The future of the content industry is
+increasingly shifting towards using information of content as a vital part of the “value” of
+copyright works rather than the sale or licensing of them.
+Private companies are developing means to create databases containing this information –
+so, any entry into “identifiers” by the EU needs to bear in mind that this may lead to the
+EU distorting the market for undertakings involved in developing those “identifiers.”
+
+
+
+
+                                                                                                      4
+Term of protection – is it appropriate?
+
+Q20. Are the current terms of copyright protection still appropriate in the digital
+environment?
+NO.
+There has been much discussion on the issue of the duration of protection (see, for example,
+Kilbey, ‘Copyright Duration? Too long!’ 25 European Intellectual Property Review 105 (2003)).
+However, if there is a move towards registration systems as suggested in this Consultation or
+from the proposed Copyright Hub (see responses above) this is likely to lead to increased
+litigation over copyright. This is because such registration systems go hand in hand with
+increased use of digital watermarking technologies which can be used to locate content that has
+not been licensed, and because it may lead to a “norm” that delivered content be licensed when
+re-used (rather than the license occurring in order to avoid copyright infringement claims over
+copyrighted elements).
+
+
+   III.    Limitations and exceptions in the Single Market
+
+Q21. Are there problems arising from the fact that most limitations and exceptions
+provided in the EU copyright directives are optional for the Member States?
+NO.
+Each member state has its own means of copyright balance. Traditionally private copying has not
+been permitted in the UK although at present there are on-going proposed reforms, in relation
+to private copying in the UK. . However, private copying contributes to striking the correct
+balance in UK copyright law, in that copyright is rarely enforced in such a situation. That is not
+to say that such an exception would not be welcome, but that there are differences in operation
+between Member States.
+
+Q22. Should some/all of the exceptions be made mandatory and, if so, is there a need for
+a higher level of harmonisation of such exceptions?
+NO.
+It should be for each Member State (MS) to decide whether to implement the exceptions given
+the different legal cultures within the MS. It is not necessary for there to be harmonisation of all
+exceptions over the MS, because as outlined in Q21, the operation of such exceptions will vary
+between MS based on their own domestic situations. A choice between exceptions, as has been
+utilised in the Information Society Directive, is more desirable for this reason.
+
+
+
+
+                                                                                                  5
+Q23. Should any new limitations and exceptions be added to or removed from the
+existing catalogue? Please explain by referring to specific cases.
+There should be a better rule making procedure under Art 6 EUCD enabling individuals to
+circumvent DRM controls. The relevant part of Article 6:
+
+
+          “4. Notwithstanding the legal protection provided for in paragraph 1, in
+          the absence of voluntary measures taken by rightholders, including
+          agreements between rightholders and other parties concerned, Member
+          States shall take appropriate measures to ensure that rightholders make
+          available to the beneficiary of an exception or limitation provided for in
+          national law in accordance with Article 5(2)(a), (2)(c), (2)(d), (2)(e), (3)(a),
+          (3)(b) or (3)(e) the means of benefiting from that exception or limitation,
+          to the extent necessary to benefit from that exception or limitation and
+          where that beneficiary has legal access to the protected work or subject-
+          matter concerned.”
+
+
+In the UK, the implementation of this is in s.296ZE CDPA 1988:
+          296ZE Remedy where effective technological measures prevent
+          permitted acts
+          (1) In this section–
+          “permitted act” means an act which may be done in relation to copyright
+          works, notwithstanding the subsistence of copyright, by virtue of a
+          provision of this Act listed in Part 1 of Schedule 5A;
+
+          “voluntary measure or agreement” means–
+
+          (a) any measure taken voluntarily by a copyright owner, his exclusive
+          licensee or a person issuing copies of, or communicating to the public, a
+          work other than a computer program, or
+          (b) any agreement between a copyright owner, his exclusive licensee or a
+          person issuing copies of, or communicating to the public, a work other
+          than a computer program and another party, the effect of which is to
+          enable a person to carry out a permitted act.
+
+          (2) Where the application of any effective technological measure to a
+          copyright work other than a computer program prevents a person from
+          carrying out a permitted act in relation to that work then that person or a person
+          being a representative of a class of persons prevented from carrying out a permitted act
+          may issue a notice of complaint to the Secretary of State (emphasis added).
+
+                                                                                                     6
+(3) Following receipt of a notice of complaint, the Secretary of State may
+give to the owner of that copyright work or an exclusive licensee such
+directions as appear to the Secretary of State to be requisite or expedient
+for the purpose of–
+(a) establishing whether any voluntary measure or agreement relevant to
+the copyright work the subject of the complaint subsists; or
+(b) (where it is established there is no subsisting voluntary measure or
+agreement) ensuring that the owner or exclusive licensee of that
+copyright work makes available to the complainant the means of carrying
+out the permitted act the subject of the complaint to the extent necessary
+to so benefit from that permitted act.
+
+(4) The Secretary of State may also give directions–
+(a) as to the form and manner in which a notice of complaint in
+subsection (2) may be delivered to him;
+(b) as to the form and manner in which evidence of any voluntary
+measure or agreement may be delivered to him; and
+(c) generally as to the procedure to be followed in relation to a complaint
+made under this section;
+and shall publish directions given under this subsection in such manner
+as in his opinion will secure adequate publicity for them.
+
+(5) It shall be the duty of any person to whom a direction is given under
+subsection (3)(a) or (b) to give effect to that direction.
+...
+
+(9) This section does not apply to copyright works made available to the
+public on agreed contractual terms in such a way that members of the
+public may access them from a place and at a time individually chosen by
+them.
+
+(10) This section applies only where a complainant has lawful access to
+the protected copyright work, or where the complainant is a
+representative of a class of persons, where the class of persons have
+lawful access to the work.
+
+...
+
+
+
+
+                                                                              7
+Section 296ZE has been criticised by the independent UK Gowers Review for being ineffective
+(The Gowers Review, 2006, p.71). In this particular area too much flexibility in execution was
+provided by the Directive, and there are too many variances between MS in terms of
+implementation, and this will hinder cross market harmonisation.
+
+
+
+Q24. Independently from the questions above, is there a need to provide for a greater
+degree of flexibility in the EU regulatory framework for limitations and exceptions?
+NO.
+The current system is sufficiently flexible for Member States.
+
+
+
+Q26. Does the territoriality of limitations and exceptions, in your experience, constitute
+a problem?
+NO.
+It is for Member States to decide their own exceptions due to differing legal cultures. If all
+limitations and exceptions were harmonised, this might adversely affect particular Member States
+– for instance, over private copying where differences exist between the UK and other Member
+States (Q21), or in assessing “fair compensation” (Q27).
+
+Q27. In the event that limitations and exceptions established at national level were to
+have cross-border effect, how should the question of “fair compensation” be addressed,
+when such compensation is part of the exception? (e.g. who pays whom, where?)
+Fair compensation, as for instance addressed within the recent Orphan Works Directive, should
+be amenable to different legal cultures within different Member States. The meaning of this term
+varies considerably from the UK to Germany to various other jurisdictions, for instance thereby
+creating inconsistency. Therefore regard should be had to this in future reforms.
+
+
+[See, Favale, M., Homberg, F., Kretschmer, M., Mendis, D. and Secchi, D., Copyright, and the
+Regulation of Orphan Works: A comparative review of seven jurisdictions and a rights clearance simulation
+(London: Intellectual Property Office; 2013), pp. 1-100].
+
+
+User-generated content
+Q58. (a) [In particular if you are an end user/consumer:] Have you experienced
+problems when trying to use pre-existing works or other subject matter to disseminate
+new content on the Internet, including across borders?
+
+                                                                                                       8
+YES.
+Depending on the type of work/subject matter, it can be difficult to access and use pre-existing
+work to create new content to be disseminated on the Internet. For example, to access and use
+academic articles generated by Universities to create new content can be difficult unless a valid
+licence is in place and the person has access to the licence. In such cases, and where the
+traditional publishing model dominates the dissemination, access and use proves to be more of an
+issue as opposed to dissemination on the Internet which crosses borders. The latter (i.e.
+dissemination) can be achieved fairly easily through various platforms ranging from websites
+(personal; organisational) through to social media sites.
+
+
+NO.
+On the other hand, it can be fairly easy to access and use pre-existing works or other existing
+subject matter to create new content for dissemination on the Internet. This is particularly true in
+the case of user-generated content (UGC). Platforms such as YouTube make available a large
+amount of copyright content which can be freely accessed.
+To put it into context, a Commissioned Study (by the UK Intellectual Property Office) carried
+out by the Centre for Intellectual Property Policy and Management (CIPPM) at Bournemouth
+University in 2013 can be cited.
+[See, Erickson K., Kretschmer M., & Mendis D., Copyright and the Economic Effects of Parody: An
+Empirical Study of Music Videos on the YouTube Platform and an Assessment of the Regulatory Options
+[London: Intellectual Property Office; 2013], pp. 1-38].
+The Study reviewed a sample of 8,299 user-generated music video parodies relating to the top-
+100 charting music singles in the UK for the year. Through this Study, it revealed that on
+average “there are 24 user-generated parodies available for each original video of a charting
+single” showing UGC to be a significant consumer activity. It also revealed the ease of access to
+pre-existing works to disseminate new content on the Internet, including across borders.
+
+
+Q59. (a) [In particular if you are an end user/consumer or a right holder:] Have you
+experienced problems when trying to ensure that the work you have created (on the basis
+of pre-existing works) is properly identified for online use? Are proprietary systems
+sufficient in this context?
+YES.
+In the field of academia (and being a right holder in this field), work that is created on the basis
+of pre-existing works is generally identified and referenced in the online world. At the same time,
+it must be pointed out that the type of work that is accessed and used in this field is relevant to a
+particular group of people as opposed to the wider and larger masses. The problems occur in
+the use of popular media and in the use of online platforms such as YouTube, Vimeo for
+
+                                                                                                   9
+example, to create new content. In such cases, there is lack of acknowledgement of the original
+creator which can lead to infringement of copyright and piracy.
+The existing proprietary systems do not address issues thrown up by UGC. For example, whilst
+some Member States of the EU have adopted exceptions to deal with parody – which relies on
+pre-existing work, there are a number of other Member States which do not have such a
+provision. UK is currently moving forward in introducing a parody exception.
+However, a UGC-focused provision (similar to Canada) will be more useful as more people
+engage in such activities. Also the existing laws are silent on whether the use of pre-existing
+work to create new content is for commercial or non-commercial use. This is something which
+needs clarification along with the clarification that user-generated content should not have an
+adverse effect on the market of existing work / original which again is not addressed clearly in
+the current laws of the Member States.
+Clearly the UGC must acknowledge the original work and must not harm the personality rights
+of the creator of the original work.
+[See, Mendis D., & Kretschmer M., The Treatment of Parodies under Copyright Law in Seven Jurisdictions:
+A Comparative Review of the Underlying Principles [London: Intellectual Property Office; 2013], pp. 1-
+92].
+
+
+Q60. (a) [In particular if you are an end user/consumer or a right holder):] Have you
+experienced problems when trying to be remunerated for the use of the work you have
+created (on the basis of pre-existing works)?
+
+
+In the UK, collecting societies such as the Authors Licensing and Collecting Society (ALCS);
+Design and Artists Copyright Society (DACS); Performing Rights Society (PRS) for Music; and
+the Copyright Licensing Agency (CLA), amongst others, exist to remunerate various types of
+works. Whilst, in general, these collecting societies do remunerate rightholders, there are issues
+relating to remuneration particularly when it relates to artistic works, online works and in the use
+of photocopied works.
+
+For example, a Study carried out in 2011 illustrated that “visual artists have precarious careers,
+with typical earnings well below the UK national median wage of £21,320. In 2009/10, the
+typical photographer earned £15,000 (median), the typical illustrator earned £15,723 (median)
+while the typical fine artist earned only £10,000 (median)”. It reflects the risky nature of working
+lives in cultural occupations.
+
+[See Kretschmer M., Singh S., Bently L., Cooper E., Copyright in Contracts and Earnings of Visual
+Crearors: A Survey of 5,800 British Designers, Fine Artists, Illustrators and Photographers [DACS; 2011].
+
+
+
+                                                                                                      10
+Where the rightholder does not depend on cultural/creative work for their living, the situation,
+remains similar. In the academic world, questions remain in relation to the remuneration of
+rightholders. Whilst the system has been developed extensively, from the mid-2000 to the
+present times, the problems have not gone away completely. The issue was also highlighted in
+2009 when a research monograph highlighted the discrepancies which exist in the collection of
+licence fee from educational establishments and its ultimate distribution to right holders within
+those establishments.
+
+[See, Mendis D., Universities and Copyright Collecting Societies [The Hague: T.M.C. Asser Press; 2009].
+
+Finally, remuneration remains a grey area in relation to the remuneration of online works which
+have been created on the basis of pre-existing works. Having said that, a Study published in
+2013 showed that in the case of parody works, the relative size of the audience for parody
+versions of a work does not appear to adversely affect the performance of the original in the
+marketplace and in turn the remuneration through the VEVO advertising revenue on platforms
+such as YouTube.
+
+[See Erickson K., Evaluating the Impact of Parody on the Exploitation of Copyright Works: An Empirical
+Study of Music Video Content on YouTube [London; Intellectual Property Office; 2013] p. 22 of 48].
+
+
+Q61. If there are problems, how would they best be solved?
+The problems arise from copyright exceptions which are not clearly defined and from existing
+laws which do not address “interactions of private citizens, often via social networking sites,
+which (sic) encourages literacy in multimedia expression in ways that are increasingly essential to
+the skills base of the economy” [Digital Opportunity: A Review of Intellectual Property and Growth: An
+Independent Report by Professor Ian Hargreaves (London: Intellectual Property Office; 2011) para 5.35
+p. 50].
+Problems have also arisen from more recent stringent laws, such as the ‘three-strikes’ law which
+have proved to drive end users to piracy rather than deter them away from it.
+The problem will be best addressed by the introduction of a clearly defined exception on UGC.
+It can complement existing exceptions which deal with parody, pastiche and caricature in
+Member States.
+
+
+Q62. If your view is that a legislative solution is needed, what would be its main
+elements? Which activities should be covered and under what conditions?
+A legislative solution along the lines of Canada’s Copyright Modernisation Act 2012 (2012 Act) is
+suggested. The 2012 Act introduced a new section 29 which recognised works of (education),
+parody or satire under the existing ‘fair dealing’ exception, which was further elaborated at
+
+
+                                                                                                    11
+section 29.21 for ‘non-commercial user-generated content’. This section is also known as the
+‘mash-up’ exception and has been clearly designed to deal with UGC.
+The Centre for Intellectual Property Policy and Management’s (CIPPM’s) Commissioned Study
+into parody included the review of 7 jurisdictions – from the EU, USA, Canada and Australia. A
+number of lessons were learnt from this Study, particularly in relation to the elements which
+UGC should reflect. The findings from this 2013 Study, relevant to this question are set out
+below.
+[See, Mendis D., & Kretschmer M., The Treatment of Parodies under Copyright Law in Seven Jurisdictions:
+A Comparative Review of the Underlying Principles [London: Intellectual Property Office; 2013], p. 47
+of 92.
+The provision addressing UGC should state that the work:
+Must be non-commercial;
+Must not have an adverse effect on the market for the original;
+Must not use more of the original than necessary;
+Must add some significant new creation;
+Must not harm the personality rights of the creator of the original work;
+Must be sanctioned under the rules of social custom; and
+Must acknowledge source of original work.
+
+
+    IV.     Private Copying and Reprography
+
+Q64. In your view, is there a need to clarify at the EU level the scope and application of
+the private copying and reprography exceptions in the digital environment?
+
+NO.
+
+The UK is a good example of the current situation. The traditional copyright balance has not
+permitted private copying, in the sense that there has been no exception for it. However, in
+reality cases were not brought by right holders – perhaps because they could not observe the
+infringements that were occurring in individual’s homes. However, the rise of the Internet could
+change that balance, since such copying could be identified. This is particularly so if private
+reproduction takes place on any Internet connected device.
+
+Whilst the UK has its own traditions in this regard, this change in technological circumstance
+may mean there is a need for reform. Currently, this appears to be the position of the UK
+Government as of 2014. Whether or not this needs EU level action is debateable.
+
+
+
+                                                                                                    12
+Q65. Should digital copies made by end users for private purposes in the context of a
+service that has been licensed by rightholders, and where the harm to the rightholder is
+minimal, be subject to private copying levies?
+
+NO.
+
+It depends on the tradition within MS. In the UK, this would not be a common approach as it
+would be in other MS countries.
+
+[See, Kretschmer M., Private Copying and Fair Compensation: An empirical study of copyright levies in
+Europe [London: Intellectual Property Office; 2011].
+
+
+
+Q66. How would changes in levies with respect to the application to online services (e.g.
+services based on cloud computing allowing, for instance, users to have copies on
+different devices) impact the development and functioning of new business models on
+the one hand and rightholders’ revenue on the other?
+
+The main issue with such services is the manner in which secondary liability, authorisation
+and/or inducement doctrines of infringement may be applied against them. With respect, the
+issue of levies could become largely dependent upon this question and so that issue needs to be
+dealt with first. In the UK, for instance, there is discussion of introducing private use: this as a
+permitted act which would affect the issue of levies (see http://www.ipo.gov.uk/techreview-
+private-copying.pdf). However, assuming they are liable (or if a law is passed to say that they are)
+then yes, it could have a significant negative impact on smaller players. The degree to which this
+occurs will probably be dependent on “back room” systems operating under the Copyright Hub,
+and the cost of utilising that Hub.
+
+
+    VI.     Respect for Rights
+
+Q76. In particular, is the current legal framework clear enough to allow for sufficient
+involvement of intermediaries (such as Internet service providers, advertising brokers,
+payment service providers, domain name registrars, etc.) in inhibiting online copyright
+infringements with a commercial purpose? If not, what measures would be useful to
+foster the cooperation of intermediaries?
+
+We need clarity as to what is meant by “commercial purpose” – will this be done through a
+system of observing internet connections? When, for example, will a remix that is posted on to
+the Internet constitute “commercial purpose”? Alternately, when there have been sufficient sales
+of a work? This is important to resolve before proceeding further since this could influence the
+copyright balance with regard to the defences and permitted acts.
+
+
+                                                                                                  13
+Q77. Should the EU pursue the establishment of a single EU Copyright Title, as a means
+of establishing a consistent framework for rights and exceptions to copyright across the
+EU, as well as a single framework for enforcement?
+YES – if binding – so long as the content of the Title accords with the other responses we have
+provided in this document.
+
+
+NO – if not binding – if a non-binding version is incorporated this will lead to confusion as to
+what the exact law is within Member States –for instance, the degree to which domestic law will
+be read in conformity with the Title (e.g. as interpreted by national courts within domestic case
+law).
+
+
+Q78. Should this be the next step in the development of copyright in the EU? Does the
+current level of difference among the Member State legislation mean that this is a longer
+term project?
+It could be, but any system which is purely voluntary, as has been mooted in Q77, would be one
+which could lead to considerable confusion and uncertainty.
+
+
+   VIII.    Other issues
+Q79. Are there any other important matters related to the EU legal framework for
+copyright? Please explain and indicate how such matters should be addressed.
+Currently there is need for harmonisation on the issue of Copyright Hubs. The UK is
+progressing in this area, alongside private business, but a degree of standardisation at EU level,
+beyond that of mere protocols concerning identification information, is required if the market is
+to remain fully functional over the whole EU. [[See Griffin J., The Digital Copyright Exchange:
+Threats and Opportunities, 27 International Review of Computers, Law and Technology 5 (2013)].
+
+
+End of submission
+
+
+
+
+                                                                                               14
+

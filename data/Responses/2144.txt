@@ -1,0 +1,548 @@
+ Response to the Public Consultation on the review of the
+      EU copyright rules conducted by the European
+    Commission, Directorate General Internal Market and
+                         Services
+
+
+
+  UK Higher Education International Unit and Universities
+                                   UK
+
+
+
+March 2014
+
+
+
+
+Contact:
+
+
+ Chris Hale                             Daniel Shah
+ Deputy Director of Policy              Assistant Director Policy
+ Universities UK                        UK HE International Unit
+ chris.hale@universitiesuk.ac.uk        daniel.shah@international.ac.uk
+ T: +44 20 7419 5490                    T: +44 20 7419 5577
+
+
+
+
+                                   1
+Universities UK
+Universities UK (UUK) is the representative organisation for the UK’s universities. Together with
+Higher Education Wales and Universities Scotland, its mission is to be the definitive voice for all
+universities in the UK, providing high quality leadership and support to its members to promote a
+successful and diverse higher education sector.
+www.universitiesuk.ac.uk
+
+
+
+UK Higher Education International Unit
+The UK Higher Education International Unit (IU) represents all UK higher education institutions
+internationally and delivers a number of programmes and initiatives to support the development and
+sustainability of the UK HE sector’s influence and competitiveness in a global environment. It
+supports the sector’s engagement in European Union and Bologna Process policy debates.
+The IU is funded by the Higher Education Funding Council for England, Higher Education Funding
+Council for Wales, Scottish Funding Council, Department for Employment and Learning (Northern
+Ireland), GuildHE, Universities UK, the Higher Education Academy and the Quality Assurance Agency
+for Higher Education. It is located at Universities UK.
+www.international.ac.uk
+
+
+
+
+                                                    2
+Contents
+
+
+
+
+Contents .................................................................................................................................................. 3
+
+Key Messages ......................................................................................................................................... 4
+
+Introduction.............................................................................................................................................. 5
+The importance of a knowledge-friendly Copyright regime in Europe .................................................... 5
+
+II.     Rights and the functioning of the Single Market ............................................................................. 7
+
+B.      Digital Transmissions – Linking and browsing ................................................................................ 7
+
+C.      Registration of works and other subject matter ............................................................................... 7
+E.      Term of protection – is it appropriate? ............................................................................................ 7
+
+III.       Limitations and exceptions in the Single Market, Questions 21-27 ............................................ 8
+
+III.       A. Access to content in libraries and archives ............................................................................ 9
+
+III.       B. Teaching ............................................................................................................................... 10
+
+III.       C. Research .............................................................................................................................. 10
+
+III.       D. Disabilities............................................................................................................................ 11
+
+III.       E. Text and data mining ............................................................................................................ 11
+
+VIII.      Other issues .............................................................................................................................. 12
+
+
+
+
+                                                                             3
+Key Messages
+
+
+     Copyright exceptions made in reference to the research, education and cultural sectors
+      should not be restricted by lists. It needs to be possible to add exceptions for these sectors on
+      a flexible basis so as to accommodate technological progress and enable innovation.
+
+
+     To enable harmonisation and cross-border accessibility, copyright exceptions made in
+      reference to the research, education and cultural sectors should be applied equally in all
+      Member States. Multiple licenses are inefficient and put unnecessary administrative burden
+      on higher education and research institutions.
+
+
+  
+                                                                             st
+      Term of protection needs to be more appropriate to accommodate 21 century learning,
+      teaching and research environments.
+
+
+     Text and data mining (TDM) is a critical tool in modern research that can save lives and
+      promote growth. It is undertaken on material that institutions have already purchased a
+      license for. Any further licensing for TDM purposes would therefore equal a double-charge for
+      the same material.
+
+
+     Universities increasingly deliver teaching and learning to students based overseas.
+      Exceptions for education need to reflect the increasingly international nature of teaching and
+      allow for full cross-border access so that all students enjoy the same experience, regardless
+      of the Member State they are based in.
+
+
+
+
+                                                 4
+Introduction
+
+     1. This document sets out the response of Universities UK (UUK) and the UK Higher Education
+        International Unit (IU) to the Public Consultation on the review of the EU copyright rules
+         conducted by the European Commission’s Directorate General Internal Market and Services.
+
+
+     2. The document has been developed jointly by UUK and the IU, in consultation with higher
+         education institutions, sector bodies and individual experts from across the UK higher
+         education sector.
+
+     3. As the consultation’s scope is very broad and UUK and the IU are representative bodies of
+         UK higher education institutions (HEIs), not all sections are equally relevant. This response
+         therefore focuses on the following sections of the consultation in particular:
+
+        II.     Rights and the functioning of the Single Market
+                B.       Digital Transmissions – Linking and browsing
+                C.       Registration of works and other subject matter
+                E.       Term of protection – is it appropriate?;
+        III.    Limitations and exceptions in the Single Market, Questions 21-27;
+        and
+        III.    A.       Access to content in libraries and archives
+                B.       Teaching
+                C.       Research
+                D.       Disabilities
+                E.       Text and data mining.
+
+
+
+The importance of a knowledge-friendly Copyright regime in
+Europe
+
+     4. Universities and HEIs are uniquely placed in that their thriving relies heavily on both the
+         production and consumption of copyright. Copyright is essential for universities to ensure that
+         their academics’ work is protected - UK universities generated £79 million directly from IP in
+                                                                                                       1
+         2011/12, including £10m raised through the sale of shares in IP-based spin-off companies.
+         At the same time access to academic works is essential for researchers to generate new
+         knowledge – both through research and innovation as well as teaching and learning - which
+         benefits society and the wider economy.
+
+
+
+
+1
+ Higher Education Funding Council for England, Higher Education Business and Community Interaction Survey
+2011/12, 2013, http://www.hefce.ac.uk/media/hefce/content/pubs/2013/201311/Higher%20Education%20-
+%20Business%20and%20Community%20Interaction%20Survey%202011-12.pdf
+
+                                                    5
+     5. Universities are at the heart of innovation and entrepreneurship. It is important that no
+         artificial barriers are created to HEIs’ creation and use of copyright material as UK
+         universities are vital to the UK, and indeed the EU economy. They contributed £3.4 billion to
+         the UK economy in 2011-12, through services to business that included commercialisation of
+                       2
+         new knowledge. The World Economic Forum survey of businesses found the UK fifth in the
+                                                                                         3
+         world and second in the EU on university-industry collaboration in R&D.
+
+     6. The EU Directive currently setting out EU copyright legislation, the Information Society
+         Directive (2001/29), dates back to 2001. Since then technological progress has transformed
+         the way digital technology is used in scientific research, education and innovation. The
+         capacity to produce, store, share, use and re-use research data and information is particular
+         importance here as it is the basis for a healthy and competitive knowledge based economy.
+         We regard the Information Society Directive as too restrictive. Its wide-ranging effects on
+         digital material mean that in 2001 many kinds of act became unlawful without the consent of
+         the right holder. For example, the Directive's combination of restrictions on copying and on
+         communication to the public now make it unlawful, during the term of copyright, even to read
+         digitally-published material without permission. We cannot believe that the legislator intended
+         such a restriction on the use of a published work. We therefore welcome this consultation
+         and the European Commission’s announcement that it will review and modernise the EU
+         copyright legislative framework as part of its Digital Agenda and Intellectual Property
+                 4
+         Strategy and revise the 2001 Information Society Directive. This is vital to ensuring Europe’s
+         future competitiveness.
+
+     7. Most of the copyright material now used by HEIs is digital, and its use is governed by
+         licences. In a typical university, one individual or a small team negotiates the licence with the
+         copyright holder. That person or team then has to communicate the licensed uses of the
+         material to as many as 4,000 academics and researchers and 40,000 students. It is in
+         everyone's interest for the lawful uses of copyright material to be clearly understood. This is
+         almost impossible under the current regime, in which the licence may negate the exceptions
+         to copyright provided in national law. In the UK, as in many Member States, a university can
+         no longer clearly advertise that 'following uses are always permitted in law', because every
+         licence may provide otherwise.
+
+     8. We would also wish to draw attention to the implementation of the Hargreaves Review in the
+          5
+        UK and the paper Copyright Reform for Growth and Jobs: Modernising the European
+
+
+
+2
+ HEFCE, Higher Education Business and Community Interaction Survey 2011-12, 2013,
+http://www.hefce.ac.uk/media/hefce/content/pubs/2013/201311/Higher%20Education%20-
+%20Business%20and%20Community%20Interaction%20Survey%202011-12.pdf
+3
+ World Economic Forum, The Global Competitiveness Report 2013-14, p 537, 2013,
+http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2013-14.pdf
+4
+ See http://ec.europa.eu/internal_market/copyright/docs/copyright-infso/121218_communication-online-
+content_en.pdf
+
+5
+ See http://www.ipo.gov.uk/ipreview-c4e-sub-uniuk.pdf for the joint Universities UK and Association for
+University Research and Industry Links response to the Hargreaves Review.
+
+
+
+                                                       6
+                                 6
+          Copyright Framework by Professor Ian Hargreaves and Bernt Hugenholtz which provides
+          useful recommendations for a modernised EU copyright framework. UUK and the IU are
+          supportive of both.
+
+
+
+
+II.      Rights and the functioning of the Single Market
+
+B.       Digital Transmissions – Linking and browsing
+
+      9. In the digital age, hyperlinks have become an integral and basic part of digital
+         communication, making information accessible quicker and easier. As such, they should not
+          be subject to copyright and/or the authorisation of the right holder as this would seriously
+          hamper the feasibility of making content accessible online. Normal commerce and normal
+          individual communication could not continue if the sending of hyperlinks required the
+          permission of the relevant right holder. Any legislation to that effect would bring the copyright
+          regime into disrepute as it would remove a basic benefit of the worldwide web.
+
+
+
+
+C.       Registration of works and other subject matter
+
+      10. The creation of registration system at EU level would be a positive step towards greater
+          efficiency and effectiveness across Europe, in particular, but not exclusively, in relation to
+          helping organisations seek and find rights holders and minimise the numbers of orphan
+          works. This can only help promote trade in the single market. At the same time, it will be
+          important to minimise administrative burden HEIs and other rights holders when
+          implementing this.
+
+
+
+E.       Term of protection – is it appropriate?
+
+Make terms of protection more adaptable and appropriate
+
+
+      11. The terms of copyright protection that are currently enforced can be disproportionately long:
+          EU copyright expires 70 years after the death of the author. This means in almost all cases
+          that copyright endures for well over a century, and its duration increases as life-expectancy
+          improves. No economic justification has ever been advanced for a system which for 70 years
+          cannot reward the creator of the work, because he or she has died. On the other hand the
+          current duration ensures that the use of most works is impossible (through the difficulty of
+          tracing the right holder) long after the end of their potential for economic exploitation, if any.
+          The current regime is also inappropriate for the majority of works: those created without any
+
+6
+ http://www.lisboncouncil.net/publication/publication/95-copyright-reform-for-growth-and-jobs-modernising-the-
+european-copyright-framework.html
+
+                                                       7
+           intention of economic exploitation. It is vital that within a revised EU copyright framework, the
+           term of copyright protection is made more flexible and appropriate to the kind of work and
+           material in copyright and the use that is made of it. The recent Orphan Works Directive is an
+           important first step in this direction.
+
+
+
+III.      Limitations and exceptions in the Single Market, Questions
+21-27
+
+Adaptability and flexibility to accommodate for technological progress across Europe
+
+
+       12. The 2001 Directive includes a list of Exceptions and Limitations (Art. 5). These are non-
+           mandatory, with the only exception being one for transient or incidental copying or
+           transmission by computers. The list is further restricting innovation in that Member States
+           may only apply new exceptions if they are on the pre-determined list. Limiting the
+           introduction of new exceptions is clearly not appropriate in the Digital Age where the speed
+           of technological progress is ever increasing. Denying research and scientific organisations
+           the access to the use of the latest information technology hampers knowledge production,
+           use and circulation and risks Europe losing out on the social and economic benefits of
+           innovation.
+
+
+       13. Other countries are not limiting the introduction of new Exceptions and Limitations in such a
+           way. ‘Fair Use’ Exceptions to copyright law is giving knowledge intensive economies such as
+           the US, South Korea, Taiwan and Singapore a significant competitive advantage over
+           Europe. In the US for example, the Fair Use-related industry added value was estimated at
+                                  7
+           16% of GDP in 2007. The current EU copyright regime is therefore putting Europe at a
+           competitive disadvantage with the rest of the world.
+
+       14. A future-proof copyright regime must create the lowest appropriate barriers to access,
+           lawfully sharing and building on the work of others – it must be able to cope with unforeseen
+           changes in technology and the ways knowledge will be produced and shared in the future
+           while at the same time offering sufficient predictability and legal security for rights holders.
+
+       15. In order to allow for the incorporation of new technologies as they emerge a non-exhaustive
+           list of exceptions is essential.
+
+
+       16. It is vital that all exceptions are applicable cross-border, so as to join up the copyright regime
+           with the European Research Area (ERA). The realisation of a true single market for research
+           will depend on a joined-up copyright regime in place in which all researchers have the
+           genuine access to knowledge they need. Currently, for example, inter-library loans are
+           hampered across borders. A joined-up, harmonised loan and preservation system across
+           Europe will not only increase efficiency considerably, but also further the ERA.
+
+7
+ T. Rogers et al, Fair Use in the US Economy. Economic Contribution of Industries relying on Fair Use, 2010,
+p.8, http://www.ccianet.org/CCIA/files/ccLibraryFiles/Filename/000000000354/fair-use-study-final.pdf
+
+
+
+                                                       8
+       17. All exceptions made in reference to the research, education and cultural sectors should be
+           mandatory at Member State level. To provide legal certainty private contracts should not be
+           able to over-ride these specific exceptions and thus cancel out the policy objective. It is a
+           serious burden for HEIs, so long as contracts may override lawful exceptions, to inform their
+           end-users as to the uses they are permitted to undertake with material licensed under each
+           different contract. On the other hand if research and education exceptions survived individual
+           contractual provisions, the resulting legal certainty would make education use and
+           compliance relatively simple. Copyright rules are intended to provide a monopoly to the right
+           holder in order to preserve the incentive to produce copyrighted material because of its wider
+           social and economic benefit, exceptions are also provided for particular uses because of the
+           same social and economic benefit. It is important that policy-makers in providing the balance
+           between interests of the protection of copyright material for the right holder and lawful access
+           for users through exceptions do not undermine their own policies.
+
+
+
+            Case Study – Problems with cross-border access
+
+
+            Universities are seeing a growth in the variety of business arrangements they make with
+            overseas institutions. Delivery of teaching and learning resources to students based
+            overseas is increasingly becoming a pressing issue. A course /module can be delivered
+            to a mix of students, some in the UK and some in other Member States. The issue is
+            how to deliver the same experience - access to the same resources - to all the students.
+
+            In the UK, the Educational Recording Agency’s Plus Licence is limited to students based
+            in the UK. The university is not allowed to permit authenticated access to streaming
+            video to non-UK-based students. This means that not all students on a module have an
+            equitable experience, despite the European Commission’s own intentions to further the
+            uptake of open educational resources set out in the Communication on ‘Opening up
+            Education’.
+
+
+
+
+III.      A.       Access to content in libraries and archives
+
+       18. The preservation of sound, film as well as format-shifting should be allowed to enable widest
+           possible access to knowledge, regardless of its medium.
+
+       19. Networks for digital preservation that are accessible cross-border are essential to make
+           Europe’s cultural and scientific wealth available to all its citizens. Digital preservation is
+           extremely expensive and difficult – in order to maximise the chances of preserving history
+           digitally, the law should allow for cross-border / multiple organisations being able to preserve
+           digital material. This activity should also not be undermined by contract, given that much
+           digital material is regulated not by copyright law but by contracts.
+
+
+
+                                                        9
+       20. E-lending is effectively non-existent from libraries directly as it is governed by licenses
+           negotiated with publishers. There is the need to establish sustainable processes that enable
+           the wide accessibility of digital content through the means of e-lending.
+
+
+       21. There is the need to bring mass digitisation within the scope of extended collective licensing
+           (ECL) or similar mechanisms that allow for cross-border availability and make it available got
+           other forms of content.
+
+
+
+III.      B.       Teaching
+       22. Information and communication technologies have enabled innovation in pedagogy. There is
+           the need to protect course materials, where copyright applies, as an incentive to innovation
+           and production, but the educational use of extracts in teaching, including through online and
+           distance learning, need to be allowed for at the same time. We would like to emphasise that
+           in allowing the critical reuse for teaching and learning purposes, potentially any material
+           could be used for teaching and learning purposes in order to provide a rich, varied and
+           stimulating experience for the students. This needs to be reflected in the revision of the EU
+           copyright legislation.
+
+       23. The EU is considering supporting open educational resources, as stated in the Commission’s
+                                                           8
+           Communication on ‘Opening up Education’.
+
+
+
+
+III.      C.       Research
+
+Extension of exceptions for non-commercial research
+
+
+       24. Universities, in particular in relation to their research performance, are incubators of
+           innovation and economic growth. This includes HEIs taking up activities further down the
+           innovation chain – as is explicitly encouraged by both domestic and EU policy-makers. In
+           2011/12, 191 new IP-based companies were created by UK HEIs and 998 had at this point
+                                               9
+           survived for three years or longer. However, this also means that that the new distinction
+           introduced in the 2001 Copyright Directive of ‘non-commercial research’ becomes
+           increasingly difficult to uphold and might indeed hamper innovation. The exceptions in the
+           revised Information Society Directive should therefore simply refer to research which will
+           include both non-commercial and commercial research.
+
+
+
+
+8
+ European Commission, http://ec.europa.eu/education/news/doc/openingcom_en.pdf
+9
+ HEFCE, Higher Education Business and Community Interaction Survey 2011-12, 2013,
+http://www.hefce.ac.uk/media/hefce/content/pubs/2013/201311/Higher%20Education%20-
+%20Business%20and%20Community%20Interaction%20Survey%202011-12.pdf
+
+
+
+                                                      10
+III.      D.       Disabilities
+
+       25. As a matter of principle, students and staff with disabilities are entitled to equal access to all
+           content. Any EU copyright legislation should reflect this.
+
+
+
+III.      E.       Text and data mining
+
+       26. We are concerned that the Licences for Europe process, and the proposed revision of the
+           2001 Information Society Directive, already seem to envisage a requirement for further
+           licensing: of copyright material to which one already has lawful access. We urge the
+           Commission to consider other important points, such as whether it is appropriate for
+           copyright law to regulate the use for research purposes of data and facts that are already
+           lawfully accessible; whether it is at all practical to require a scaling up of the licensing
+           process; and the desirability of an exception in law in order to allow Europe to compete with
+           'fair use' countries.
+
+       27. Text and data mining can accelerate the speed at which scientific and other discoveries
+           occur. Not only can new discoveries be made using existing literature, or new facts derived,
+           but the speed at which discoveries can be made is significantly increased by this process.
+           Some discoveries may indeed never be made without the aid of text mining, given the severe
+           problems of information overload faced by today’s researchers. The current Information
+           Society Directive dates from 2001, when the number of research publications worldwide
+           stood at 1,223,094. By 2012, this number had risen to 2,121,740 publications from across
+                                           10
+           the world – an increase of 73%. Text and data mining is an essential tool to navigate this
+           vast and ever-increasing amount of research information.
+
+       28. Not only will benefits accrue for the important field of medical and pharmaceutical research,
+           but if text and data mining was allowable for commercial as well as non-commercial uses,
+           there is also potential for life-changing impacts on other areas of science such as chemistry,
+           engineering and environmental sciences. If employed to help identify and exclude
+           unpromising targets for new drugs, text mining can lead to very significant cost and time
+           savings, boosting the efficiency of the EU’s research and innovation system, as early
+           exclusion on the basis of mining the literature will prevent expensive clinical trials.
+
+
+       29. Indeed, McKinsey International reports that the power of ‘big data’ in the sphere of public
+           sector information alone could create €250 billion annual value to Europe’s economy, or
+                                                                                     11
+           increase the size of the US healthcare market by $300 billion a year . It is therefore
+
+10
+   UK Department of Business Innovation and Skills. International Comparative Performance of the UK Research
+Base – 2013. January 2013,
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/263729/bis-13-1297-international-
+comparative-performance-of-the-UK-research-base-2013.pdf.
+11
+   McKinsey Global Institute. Big Data: The next frontier for innovation, competition and productivity. May 2011,
+http://www.mckinsey.com/insights/mgi/research/technology_and_innovation/big_data_the_next_frontier_for_inno
+vation
+
+
+                                                       11
+        essential to have the right technologies, skills and legal framework to generate commercial
+        value for the economy and facilitate new innovation from ‘big data’.
+
+    30. If the revised EU copyright framework is to support innovation in the era of big data, it must
+        accommodate new technological advances and techniques to analyse data. In the UK, the
+        Hargreaves Review recommends that the UK should create a copyright exception for text
+        and data mining for both commercial and non-commercial research. The full implementation
+        of the Hargreaves recommendations would enable researchers to text and data mine
+        material they have purchased or have legal access to. The current limitation to only non-
+        commercial research in the implementation of Hargreaves into UK law is due to the EU
+        Copyright Directive currently in force.
+
+
+
+
+VIII. Other issues
+
+Licenses for Europe
+
+
+    31. Whilst we have not directly participated in the process, we did see a lack of satisfactory
+        results for knowledge stakeholders in the Licenses for Europe process. We therefore see
+        working towards an improvement of the European Copyright Directive as an important
+        strategic objective that ties in with the Licenses for Europe process.
+
+    32. The European Commission’s Directorates-General involved (Internal Market DG, Research
+        and Innovation DG, Connect DG and Education and Culture DG) need to cooperate more
+        closely to reflect the cross-cutting nature of copyright.
+
+
+    33. We further note that nowhere in the consultation is a specific section which relates to the
+        regulation of purchased digital content. Copyright law is extremely important as it balances
+        the needs of creators, intermediaries and users of copyright. For this reason we believe it to
+        be of the uppermost importance that we ensure copyright law is not further eroded, and that
+        we ensure that limitations and exceptions cannot be made null and void by the application of
+        a contract or licence.
+
+
+
+
+                                                  12
+

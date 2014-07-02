@@ -1,0 +1,698 @@
+
+
+
+Parinux est un GULL (Groupe d'Utilisateurs de Logiciels Libres),
+dont la principale mission consiste à diffuser les logiciels et
+systèmes libres tels que GNU/Linux auprès du grandpublic et des
+associations.
+
+Fondée en 1999 à Paris, l'association Parinux regroupe
+aujourd'hui plus d'une centantaine d'adhérents qui animent des
+conférences, des ateliers, des stands sur les salons et des
+journées de découvertes. L'association participeégalement aux
+Samedis du Libre, à la Cité des sciences et de l'industrie de
+la Villette, organise régulièrement des install-parties et
+contribue parfois à l'animation d' Espaces Publics Numériques
+(EPN) de la ville de Paris par une série d'ateliers et
+detravaux pratiques. Parinux n'est composée que de bénévoles et
+ses interventions sont gratuites. En 2013, l'association a
+organisé et participé à divers événements ayant attiré un
+public de plus de 10 000 personnes.
+
+Parinux est domiciliée ici :
+
+Maison des associations du deuxième arrondissement
+
+23 rue Grénéta 75002 Paris (boîte 18)
+
+Vous pouvez nous contacter àsecretaire@parinux.org
+
+Notre site web : www.parinux.org
+
+1 -Have you faced problems when trying to access online services
+in an EU Member Stateother than the one in which you live?
+
+Avez-vous rencontré des problèmes en essayant d'accéder à des
+services en ligne dans un autre pays de l'union Européenne que
+le vôtre ?
+
+Chez nous, accéder à YouTubedepuis Free le soir à 20h est lent
+et hasardeux… pour les autres pays, des centaines de cas sont
+listés ici (pour l'Allemagne, la Belgique…)
+:http://respectmynet.eu/
+
+Dans tous les pays européens, certaines vidéos de La Quadrature
+du Net parodiant quelques minutes de film sont devenues
+inaccessibles par abus d'application de copyright.
+
+Des émissions de télévision (comme Voice Belgique, les jeux
+Olympiques) ne peuvent être vu qu'en direct. La version en
+replay est bloquée pour les pays autres que celui d'origine.
+
+4 -If ou have identified problems in the answers to any of the
+questions above – what would be the best way to tackle them?
+
+Comment résoudre les problèmes rencontrés ?
+
+Nous sommes face à deux problèmes :
+
+- non respect du droit à la parodie,
+
+- mauvaise transposition à l'Internet de ce qui existait pour la
+télévision.
+
+Dans le premier cas, une des solutions serait de s'approcher
+d'une loi de « fair-use » à l'américaine qui donne droit de
+réutiliserun extrait d'une œuvre déjà existante sous copyright
+pour l'intégrer dans une autre.
+
+Dans le deuxième cas, il faudrait considérer le mécanisme de
+replay de la télévision comme un magnétoscope et donc ne pas
+restreindre l'accès aux médias après leur première diffusion.
+
+10 -Does the application of two rights to a single act of
+economic exploitation in the online environment (e.g. a
+download) create problems for you?
+
+En quoi le partage à l'issue d'un téléchargement pose problème
+pour vous (détenteur dedroits).
+
+Il est déplorable qu'à notre époque, les distributeurs cherchent
+autant à garder un monopole sur la distribution d'œuvres comme
+c'était le cas pour les vendeurs de CD avant l'apparition des
+graveurs. Ils feraient mieux d'essayer de s'adapter etarrêter
+d'essayer de brider Internet.
+
+11 - Should the provision of a hyperlink leading to a work or
+other subject matter protected under copyright, either in
+general or under specific circumstances, be subject to the
+authorisation of the rightholder?
+
+Est-ce qu'il ne faudrait pas avoir à demander la permission pour
+pouvoir mettre un lien hypertexte en place ?
+
+Cette pratique nous semble abusive et sans fondement.
+
+Le lien hypertexte est le fondement même du Web. Et cette
+interdiction est impossibleàmettreen place : si je clique sur
+un lien dans une messagerie instantanée, un courriel, ou que
+j'utilise un service de raccourcisseur d'adresse, il est
+impossible desavoirqui a créé le lien."La pratique relève d'une
+certaine forme d'hypocrisie, les principaux pourvoyeursde liens
+étant lesmoteurs de recherche.Or, ces entreprises et
+administrations ne bloquent pas leur indexation dans ces
+moteurs, bien au contraire : c'est leur intérêt d'êtrebien
+référencées.(comme le précisait Benoît Sibaud dans Le Monde
+du 16 octobre 2009
+http://www.lemonde.fr/technologies/article/2009/10/16/peut-on-interdire-les-liens-hypertextes-vers-un-site_1254977_651865.html)
+
+Déjà en 1997, Tim Berners-Lee (inventeur du web) précisait :
+«There is no reason to have to ask before making a link to
+another site», «We cannot regard anyone as having the "right
+not to be referred to" without completely pulling the rug out
+from under free speech.»
+
+Pour faire un parallèle avec le monde des livres, à aucun
+moment, il n'a été interdit de faire une référence/un index
+d'un livre qui a été publié. Au contraire même, il est
+fortement encouragé, voire évident de citer ses sources. Toute
+œuvre publiée sur internet peut être considérée comme
+communiquée au public par son auteur et peut donc être
+référencée dans des index, sur des sites...
+
+12 - Should the viewing of a web-page where this implies the
+temporary reproduction of a work or other subject matter
+protected under copyright on the screen and in the cache memory
+of the user’s computer, either in general or under specific
+circumstances, be subject to the authorisation of the
+rightholder?
+
+Non, lavisualisation d'une page web ne correspond pas à une
+reproduction « temporaire » de son contenu. Le contenu de la
+page est copié intégralement sur le disque dur des internautes
+ayant décidé d'accorder un peu d'attention à la page en
+question (via les fichiers du cache du navigateur) et peuvent
+donc être conservés et revisualisés à volonté ensuite.
+L'internaute a par ailleurs déjà payé à son fournisseur d'accès
+internet le cheminement du contenu de la page jusqu'à lui ainsi
+que l'ordinateur même qui conserveles données.
+
+Toute œuvre publiée sur Internet est rendue accessible.
+
+13 -Have you faced restrictions when trying to resell digital
+files that you have purchased (e.g. mp3 file, e-book)? 
+
+Avez-vous rencontré des difficultés dans la revente desfichiers
+numériques que vous avez achetés ?
+
+Nous ne connaissons pas la moindre personne essayant de vendre
+des fichiers d'occasion sur Internet. Vendre des copies de
+fichier nous semble déjà absurde, alors revendre d'occasion a
+encore moins de sens.
+
+Ensuite, de toutes façons, les DRM associés aux fichiers vendus
+(par exemple sur iTunes)empêchent cette pratique, en rendant à
+terme les fichiers inutilisables.
+
+14 -What would be the consequences of providing a legal
+framework enabling the resale of previously purchased digital
+content?Please specify per market (type of content) concerned.
+
+Quelles seraient les conséquences de la mise en place d'un cadre
+légal pour cette revente d'occasion de fichiers.
+
+Une absurdité supplémentaire. Les internautes payent l'accès au
+réseau, leur matériel (disque dur, ordinateur…), et même
+l'électricité qui permet de réaliser la copie parfaite du
+fichier numérique considéré. Qu'y a-t-il à vendre d'occasion ?
+Un cadre légal à la revente de fichier se ferait forcément
+aumépris de la réalité incarnée par la très large majorité
+d'internautes échangeant déjà gratuitement leurs fichiers,
+occupant de ce fait, plus de la moitié du trafic sur le réseau.
+
+Il y a manifestement une confusion entre les objets physiques
+distribuables à l'unité et les fichiers numériques qui ne sont
+pas soumis à rivalité.
+
+15 -Would the creation of a registration system at EU level help
+in the identification and licensing of works and other subject
+matter?
+
+Est-ce que la création d'un système européen d'enregistrement
+d'œuvres aiderait à identifier les œuvres et donc leurs
+licence ?
+
+Actuellement, chaque état membre dispose de ses propres
+mécanismes de répartition des revenus d'exploitation d'œuvres
+(SACEM, SACD… en France). Cette multitude entrainedes
+inégalités de traitement d'un état membre à l'autre. La
+création d'un mécanisme uniformisé à l'échelle européenne
+permettrait d'y voir plus clair (que l'on se place du point de
+vue des créateurs, du public et des explointants), tout en
+réalisant des économies d'échelle dans la réalisation.
+
+Toutefois, en ce qui concerne les œuvres numérisées il serait
+intéressant d'avancer vers un copyright 2.0, selon lequel les
+œuvres seraient placées par défaut sous un régime similaire à
+une licence Creative Commons (au choix), sauf dans le cas où
+leur auteur déciderait d'opter pour l'ancien modèle de
+copyright et donc l'enregistrement de leur œuvre auprès du
+nouvel organisme européen. Pour éviter le risque d'exploitation
+commerciale in-désirée (captation des bénéfices du copyright par
+des acteurs ne contribuant pas à la création : héritiers,
+gestionnaires de stock de droits, cessionnaires peu préoccupés
+des intérêts des auteurs et artistes) avec possible
+ré-appropriation, la licence applicable par défaut pourrait
+être de type By-NC ou by-NC-SA, permettant les modifications
+mais soumettant les usages commerciaux à autorisation. On
+arriverait alors à une situation fluide, encourageant la
+création, les remix, la réutilisation tout en protégeant les
+auteurs désireux de conserver l'exclusivité de l'exploitation
+de leurs œuvres.
+
+18 -What incentives for registration by rightholders could be
+envisaged?
+
+Comment encourager les ayant droits à s'inscrire à un tel
+système ?
+
+Nousconseillons un système qui contribuerait à diminuer les
+inégalités de revenus des artistes inscrits. Avec une
+répartition des revenus à croissance logarithmiques par
+rapport aux investissements marketing des producteurs…
+
+19 -What should be the role ofthe EU in promoting the adoption
+of identifiers in the content sector, and in promoting the
+development and interoperability of rights ownership and
+permissions databases?
+
+Que devrait être le rôle de l'Union Européenne dans la promotion
+d'identifiants dans le secteur des contenus, et dans la
+promotion du développement et de l'interopérabilité des bases
+de données d'appartenance et de permission.
+
+En France, la loi interdit d'utiliser le numéro de sécurité
+sociale d'un individu comme identifiant d'une base de donnée
+nominative. Nous pensons que l'UE ne devrait pas perdre son
+temps à chercher l'uniformisation d'un critère technique des
+catalogues des marchants de contenus invisibles aux publics.
+
+20 -Are the current terms of copyright protection still
+appropriate in the digital environment?
+
+Est-ce que les termes de protection de droit d'auteur sont
+encore appropriés à l'heure du numérique ?
+
+Non, clairement pas. Quand la loi du copyright en Angleterre a
+été créée (17..) l'exploitation des œuvres commerciales
+étaient garantit pendant 16 ans après la communication de
+l'œuvre publique. Depuis cette durée n'a cessé de s'allonger.
+Depuis un siècle cette allongement correspond à la possibilité
+pour Mickey de s'élever au domaine public. Et même s'il ne
+s'agiraitque d'une coïncidence, la loi en étant arrivée à
+protéger l'exclusivité de l'exploitation commerciale d'une
+œuvre à 70 ans après la mort de l'auteur, soit potentiellement
+plus d'un siècle, cet aspect du copyright protège aujourd'hui
+les intérêts d'un petit nombre face au reste de l'humanité.
+
+Victor Hugo, dans son discours d'ouverture du Congrès littéraire
+international disait : « Le livre, comme livre, appartient à
+l’auteur, mais comme pensée, il appartient — le mot n’est pas
+trop vaste — au genre humain.Toutes les intelligences y ont
+droit. Si l’un des deux droits, le droit de l’écrivain et le
+droit de l’esprit humain, devait être sacrifié, ce serait,
+certes, le droit de l’écrivain, car l’intérêt public est notre
+préoccupation unique, et tous, je le déclare, doivent passer
+avant nous. » C'était en 1878. Et c'est d'autant plus vrai, à
+notre époque, sur des œuvres numériques.
+
+Il est temps de réformer cette partie du droit pour l'adapter
+aux nouvelles possibilités offertes par le réseau, et aux
+nouveaux usages massifs qui se sont mis en place.
+
+Il serait intéressant que la loi reconnaisse le partage non
+marchand des œuvres numériques entre individus par l'épuisement
+des droits.
+
+Il faudrait mettre en place des exceptions solides et
+obligatoires pour lespratiques éducatives et de recherche.
+
+Instaurer une mise à disposition des œuvres orphelines par les
+bibliothèques, archives et le public sans frais pour les
+usagers et autorisant des usages larges.
+
+Il faudrait une législation imposant des termes équitables dans
+les contrats d'édition et de distribution. Également une
+politique préventive de concurrence pour prévenir les monopoles
+de distribution et leurs abus.
+
+21.- Are there problems arising from the fact that most
+limitations and exceptions provided in the EU copyright
+directives are optional for the Member States?
+
+Y a-t-il des problèmes provenant du fait que la plupart des
+limitations et exceptions fournies par les directives
+européennes relatives au droit d'auteur soient optionnelles
+pour les étatsmembres ?
+
+Internet est un espace commun, qui ne connaît pas de frontières.
+Ce qui est rendu disponible en point du globe le devient
+immédiatement partout. Sauf quand on est confronté aux
+limitations artificielles imposées au nom du droit d'auteur,
+aux entreprises essayant de mettre en place de nouveaux canaux
+de distribution. C'est le cas de Spotify (musique) au Hulu
+(TV), qui se retrouvent contraints à brider leurs services
+arbitrairement par rapport aux adresses IP de première main des
+clients d'un FAIou d'un autre, en espérant que cela recoupe les
+frontières de pays. C'est tout d'abord inefficace, car
+n'importe qui peu changer d'adresse IP en louant un service "à
+l'étranger", et cela revient simplement à se priver d'un public
+d'humains majeurs, vaccinés et responsables, prêts à payer pour
+les services en question.
+
+Une fois de plus, compliquer la vie des clients n'a jamais été
+bon pour le business.
+
+22 -Should some/all of the exceptions be made mandatory and, if
+so, is there a need for a higher level of harmonisation of such
+exceptions?
+
+Est-ce que certaines/toutes les exceptions devraient être
+rendues obligatoires et, dans ce cas, y a-t-il besoin d'un
+niveau supérieur d'harmonisation de ces exceptions ?
+
+Non. Cela représente des complications administratives coûteuses
+pour les citoyens et sans contre-partie positive. Ils ont quoi à
+y gagner les citoyens européens là ?
+
+26 - Does the territoriality of limitations and exceptions, in
+your experience, constitute a problem?
+
+Est-ce que laterritorialité des limitations et exceptions est,
+d'après votre expérience un problème ?
+
+Oui, cela prive certaines demandes de rencontrer leur offre
+comme expliqué en réponse à la question 21.
+
+De plus, cela montre l'inadéquation des lois en question par
+rapport à Internet, encourageant les internautes à ne pas se
+soucier de ces limitations en ligne. La territorialité de ces
+mesures permet à chacun de se rendre compte de l'écart entre
+les limitations voulues pour les exploitants de droit d'auteur
+et laréalité vécue par les citoyens via Internet. Mettant en
+évidence l'impuissance des pouvoirs en place à faire respecter
+des lois de plus en plus absurdes : DRM, riposte graduée…
+
+27 - In the event that limitations and exceptions established at
+national level were to have cross-border effect, how should the
+question of “fair compensation” be addressed, when such
+compensation is part of the exception?(e.g. who pays whom,
+where?)
+
+Dans le cas où les limitations et exceptions seraient établies à
+un niveau national pourraient avoir un effet transfrontalier,
+comment répondre à la question de la "compensation juste" quand
+elle fait partie de l'exception (qui payerait qui et comment ?)
+
+Cela passerait par une montée à l'échelle des nouveaux
+financements mutualisés comme MyMajorCompagny,
+KissKissBankBank, Ulule… Qui acceptent déjà les contributions
+de chacun, sans considération pour l'origine de son argent.
+
+En clair, la mise en place de circuit court entre les artistes
+et leur public permet de surmonter les difficultés
+administratives soulevée par cette question. La monnaie unique
+suffit déjà à compenser simplement le travail des créateurs
+sans considération pour les frontières internes de l'Europe.
+
+36 -(a) Have you experienced specific problems when tryingto
+negotiate agreements to enable the electronic lending
+(e-lending), including across borders, of books or other
+materials held in your collection?
+
+Avez-vous rencontré des problèmes en essayant de négocier un
+accord de prêt électronique, y compris transfrontalier, pour
+des livres ou autre matériau de votre collection ?
+
+Comme déjà expliqué plus haut concernant l'aspect temporaire du
+chargement des pages web, le prêt électronique de livre est une
+notion marketing sans fondement sur Internet. On ne peut pas
+rendre des octets téléchargés, des octets dupliqués. La réalité
+physique c'est que les octets sont achetés en même temps que les
+disques qui les stockent, et sont ensuite seulement disposés de
+manière à coder une information. Une fois disposés dans un
+certain ordre, ils constituent une nouvelle source potentielle
+pour dupliquer l'information. Une bibliothèque qui vendrait une
+prestation de prêt électronique mentirait sur la nature de la
+transaction, puisqu'elle serait en mesure de "prêter" ses
+livres à tous les clients intéressés en même temps, ce qui,
+dans le monde bancaire, fait s'écrouler la valeur de la chose
+empruntée.
+
+Prétendre détruire la copie du livre dont un client a payé
+l'accès à la bibliothèque et le transport à son FAI est un
+vandalisme,faisant passer la transaction pour une escroquerie
+(tout comme les DRM sur iTunes).
+
+36 - (b)Have you experienced specific problems when trying to
+borrow books or other materials electronically (e-lending),
+including across borders, from institutions such as public
+libraries? 
+
+Avez-vous rencontré des problèmes en essayant d'emprunter un
+livre électronique à une bibliothèque publique.
+
+Vu que le concepte de prêt électronique est vide de sens comme
+expliqué ci-dessus, il n'est pas étonnant que nous n'ayons
+jamais rencontré un service de ce genre.
+
+39 - [In particular if you are a right holder:] What difference
+do you see between libraries’ traditional activities such as
+on-premises consultation or public lending and activities such
+as off-premises (online, at a distance) consultation and
+e-lending?What problems have you encountered?
+
+Quelles différences voyez-vous entre activité traditionnelle de
+commercialisation de l'accès à une copie d'œuvre physique, et
+le pendant numérique de la chose ?
+
+La réponse fournie à la question 36 (a) s'applique exactement à
+cette question.
+
+La version numérique du "prêt" n'a pas de réalité matérielle.
+Cela est lié à la façon dont fonctionnent les ordinateurs,
+c'est une vérité incontournable. Il est nécessaire, pour
+légiférer en la matière d'avoir compris de quoi on parle.
+L'avènement des œuvres numériques (et des ordinateurs capables
+de les stocker et de les restituer, et des réseaux capables de
+les transporter) est une révolution sociétale majeure. Vouloir
+adapter les usages du monde physique à l'univers numérique est
+contre-productif et voué à l'échec.Avançons vers quelque chose
+de nouveau.
+
+42- (a)[In particular if you are an end user/consumer or an
+institutional user:]Have you experienced specific problems when
+trying to use works or other subject-matter for illustration for
+teaching, including across borders?
+
+Avez-vous rencontré des problèmes en essayant d'utiliser des
+travaux ou autre sujets ou matériaux pour illustrer un cours, y
+compris pour des œuvres étrangères ? 
+
+Non, aucun problème, tout est rendu facile d'accès grace aux
+moteurs de recherche, et à l'exception de « fair-use » qui
+protège l'usage.
+
+44 - What mechanisms exist in the market place to facilitate the
+use of content for illustration forteaching purposes?How
+successful are they?
+
+Qu'existe-t-il comme mécanisme sur le marché pour faciliter
+l'utilisation de contenus en guise d'illustration pour
+l'enseignement ? Sont-ils efficaces ?
+
+Il existe déjà le domaine public et les moteurs de recherche,
+cela répond très bien aux besoins d'enseignant.
+
+47 -(a)[In particular if you are an end user/consumer or an
+institutional user:]Have you experienced specific problems when
+trying to use works or other subject matter in the context of
+researchprojects/activities, including across borders?
+
+Avez-vous rencontré des difficultés en essayant d'utiliser des
+travaux ou autre sujets ou matériaux dans le cadre d'un projet
+de recherche (y compris en transfrontalier) ?
+
+Oui, la majorité des publicationsscientifiques sont encore
+inaccessibles via le web,cachées  derrières des barrières de
+péage de site d'éditeurs.
+
+Se référer à la vie d'Aaron Swartz
+:https://en.wikipedia.org/wiki/Aaron_Swartz
+
+Il fut un informaticien de génie ayant contribué à la
+réalisation de logiciels et de normes mondialement utilisés
+(flux rss, format Markdown , site web reddit..), il ressentait
+comme beaucoup l'injustice du système actuel de publication
+scientifique quise dresse aujourd'hui comme une barrière entre
+les chercheurs. Il a même agi pour libérer le catalogue d'un
+gros éditeur américain JSTOR. Bien que l'éditeur n'ait pas
+entamé de poursuite, le MIT et le bureau du procureur des
+États-Unis l'ont trainé en justice. Il se suicida un mois
+avant le début du
+procès.(http://fr.wikipedia.org/wiki/Aaron_Swartz)
+
+48 -If there are problems, how would they best be
+solved?          
+
+S'il y a des problèmes, comment les résoudre ?
+
+Casser le monopole des maisons d'édition dîtes "scientifiques".
+Elles étaient nécessaires avant l'apparition d'Internet pour
+assurer une large diffusion des connaissances et avancées de la
+recherche, elles sont devenues des freins, en consacrant leurs
+ressources au maintient de leur rente de situation dans un
+monde ayant évolué.
+
+49 -What mechanisms exist in the Member States to facilitate the
+use of content for research purposes?How successful are they?
+
+Quels mécanismes existent dans l'Union Européenne pour faciliter
+l'utilisation decontenus à des fins de recherche ?
+
+Le lien suivant indexe un grand nombre d'initiatives visant la
+publication libre d'études scientifiques
+:http://www.ciep.fr/sitographie/ries-51.php#par
+
+L'usage se développe donc depuis une décénie.
+
+58 -(a)[In particular if you are an end user/consumer:]Have you
+experienced problems when trying to use pre-existing works or
+other subject matter to disseminate new content on the
+Internet, including across borders?
+
+Avez vous rencontré des problèmes en essayant d'utiliser des
+travaux existants pour la diffusion de nouveaux contenus sur
+Internet, y compris au delà des frontières ?
+
+Certaines de nos vidéos ont été arbitrairement retirées de
+YouTube au prétexte qu'elles contrevenaient présumément à un
+droit d'auteur imaginaire. L'article suivant détaille un
+exemple :http://www.framablog.org/index.php/post/2010/11/01/lgl_tf1-reclame-google-censure
+
+60 -(a)[In particular if you are an end user/consumer or a right
+holder):]Have you experienced problems when trying to be
+remunerated for the use of the work you have created (on the
+basis of pre-existing works)?
+
+Avez-vous rencontré des problèmes en essayant d'être rémunéré
+pour l'usage de votre travail (basés sur un travail
+pré-existant) ?
+
+Tout d'abord, la notion de création originale est une faiblesse
+d'analyse intellectuelle. Toute œuvre de l'esprit (qu'elle le
+revendique comme c'est souvent le cas ou non) est basée sur la
+mémoire de son auteur, elle-même remplie des souvenirs de
+toutes les autres œuvres qu'il a rencontré dans sa vie, et qui
+l'ont inspiré, même inconsciemment.
+
+Ensuite, compter sur la bonne fois du public pour être rémunéré
+est une solution qui existe depuis la nuit des temps, les
+spectacles au chapeau ne sont pas nouveaux. La même chose peut
+s'appliquer sur le net et une rémunération suivant un circuit
+court est la plus efficace en terme de rendement.
+
+Des systèmes comme Flattr permettent en outre d'installer
+facilement un circuit court entre l'artisteet son public. Des
+alternatives comme PayPal sont encore accessibles en quelques
+clics, mais deux mois sont nécessaires pour démarcher une
+banque et mettre en place un système de paiement par carte
+bancaire (quand la banque accepte l'opération).
+
+De nombreux artistes font état du fait qu'ils aient gagner plus
+d'argent en donnant un accès libre à leurs œuvres sur Internet
+et en laissant le public les rémunérer à leur guise : 
+
+-http://www.andyothling.com/what-happens-when-your-music-is-free-for-a-day/
+
+-http://www.techdirt.com/articles/20090201/1408273588.shtml
+
+64 -In your view, is  there a need to clarify at the EU level
+the scope and application of the  private copying and
+reprography exceptions2 in the digital environment?
+
+Parinux préconise de légaliser le partage en ligne des œuvres
+dans la mesure où il s'effectue entre individus et dans un
+cadre non marchand.
+
+65 - Should digital copies made by end users for private
+purposes in the context of a service that has been licensed by
+rightholders, and where theharm to the rightholder is minimal,
+be subject to private copying levies?
+
+Est-ce que les copies numériques des travaux sous copyrighft,
+faîtes par des utilisateurs pour leur usage privé, et où le
+péjudice fait à l'ayant droit est minime devraient être
+assujéties à prélèvements ?
+
+Non. Pas rentable pour les ayant droits, grave atteinte à la vie
+privée pour le public…
+
+66 -How would changes in levies with respect to the application
+to  online services (e.g. services based on cloud computing 
+allowing, for instance, users to have copies on different
+devices) impact the development and functioning of new business
+models on the one hand and rightholders’ revenue on the other?
+
+Comment est-ce qu'un changement dans le régime de paiement des
+œuvres de l'esprit,impacteraient les nouveaux modèles
+économiques d'un côté, et les ayant-droits de l'autre ?
+
+Une contribution créative, telle décrite par la Quadrature du
+Net serait indolore pour le public, rémunératrice pour les
+ayant-droits, et sans effet sur lebalbutiement d'offre légale.
+On observe depuis 20 ans que la légalité d'une offre n'est pas
+un argument marketing qui porte sur le public. Une offre
+rencontre du succès si elle simplifie la vie des clients : des
+contenus plus simples à trouver, téléchargésplus rapidement,
+éventuellement plus éthique envers les artistes…
+
+50 ans après la création d'Internet, c'est encore les bonnes
+volontés bénévoles qui arrivent aux meilleurs systèmes
+concernant la diffusion des œuvres : échange de pair à pair
+(BitTorrent), sélection collaborative des contenus (critiques
+ciné, notation ouvertes à tous), numérisation du domaine public
+(project Gutenberg, Team Alexandriz)…
+
+Concernant le Cloud Computing, c'est l'espionnage des états qui
+achève de convaincre les utilisateurs que se dépossèder
+soit-même de ses données est une mauvaise idée.
+
+67 -Would you see an added value in making levies visible on the
+invoices for products subject to levies?
+
+Est-ce que rendre les prélèvements visibles sur les factures de
+produit aurait une valeur ajoutée selon vous ?
+
+Ce que l'on connait en France, c'est la taxe sur les supports
+numériques. Les disques dur et clés USB sont vendus plus cher,
+et une partie de cet argent doit être consacrée à aider la
+création artistique. C'est un système injuste, car il présume
+de l'usage qui sera fait du support de donnée en question. S'il
+n'est stocké sur ces disques que des films et des photos de
+vacances, alors il y a vol, au prétexte que d'autre stockent
+des MP3 considérés comme aquis illégalement (loin de tout
+procès).
+
+Dans ces conditions, rendre la supercherie encore plus visible
+n'est bénéfique pour personne.
+
+76 -In particular, is the current legal framework  clear enough
+to allow for  sufficient involvement of intermediaries (such as
+Internet service providers, advertising brokers, payment service
+providers, domain name registrars, etc.) in inhibiting online
+copyright infringements with a commercial purpose? If not, what
+measures would be useful to foster the cooperation of
+intermediaries?
+
+En particulier, est-ce que le cadre légal actuel est
+suffisamment clair pour permettre aux intermédiaires (FAI,
+publicistes, services de paiement en ligne, registrars de nom
+de domaine…) de s'engager suffisamment dans la lutte contre les
+infractions au copyright à but commercial ? Si ce n'est pas le
+cas, quels mesures pourraient améliorer la coopération des
+intermédiaires ?
+
+Cette question est particulièrement insidieuse… Elle présente
+comme souhaitable la collaboration des intermédiaires
+techniques de l'accès à Internet et ses services. Et on
+arriverait logiquement, pour répondre à cette question, à
+expliquer qu'il faut inquiéter ces intermédiaires pour qu'il
+deviennent pro-actif dans la chimérique lutte contre un certain
+type de négligence vis à vis de certaines lois nationnales
+relatives aux droits d'auteurs. On retrouve ici la volonté de
+faciliter l'engagement de la  responsabilité des intermédiaires
+techniques qui était au cœur de la loi  SOPA aux États-Unis ou
+de l'accord ACTA contre lequel le parlementeuropéen s'est
+largement prononcé.
+
+Mais on arrive alors immédiatement à la situation vécue
+aujourd'hui sur YouTube, où sans la moindre vérification, si un
+usager clame détenir le copyright sur une musique de fond, ou un
+extrait de vidéo de votre propretravail, son signalement même
+mensonger entraine la suppression du contenu visé, sans autre
+forme de procès. Ce fut le cas avec TF1 et des vidéos postées
+par la Quadrature du Net, TF1 réclamant le copyright d'images
+libres de droit (prises de vue de l'assemblée nationnales)
+images qui, pour l'anecdote, auront de plus valu à la chaine de
+TV privée une sanction du CSA, quant à l'usage qui en était fait
+(illustration d'un évènement avec les images d'un autre
+évènement).
+
+Aujourd'hui, seul un juge peut ordonner le retrait de la
+publication d'un contenu (en ligne ou non). Si la
+responsabilité de cette publication engageait les
+intermédiaires techniques, et non plus les auteurs présumés
+des contenus visés, chacun ferait du zèle pour censurer comme
+il peut à sonéchelle. Ce serait la fin de la neutralité du net.
+
+Auteurs:
+
+Cette contribution a été rédigée par Simon Descarpentries et
+Magali Garnero, tous deux membres du bureau de Parinux.
+
+Simon Descarpentries, vice-président de Parinux, ingénieur
+eninformatique, est également trésorier de l'association FDN
+(French Data Network), du Fonds de Défense de la Neutrelité du
+Net (FDNN) et membre d'Honneur de l'association Framasoft.
+
+Magali Garnero, trésorière de Parinux, libraire, est également
+secrétaire de l'April et modératrice de l'Agenda du Libre.
+
+Contact :
+
+Simon Descarpentries :simon.descarpentries@d12s.fr+33 6 76 97 02
+53
+
+Magali Garnero :tresorier@parinux.org+33 6 86 81 06 66
+

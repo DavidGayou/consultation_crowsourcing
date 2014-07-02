@@ -1,0 +1,19 @@
+start consolidating texts in Tue Jun 10 2014 13:26:37 GMT+0200 (CEST)_txt_rep.json
+err cat "NOT REGISTERED/Users/Mail without attachment/derryck.msg" Error: stdout maxBuffer exceeded.
+err cat "institutional-users/emails-without-attachment/hengstberger_en.msg" Error: stdout maxBuffer exceeded.
+err cat "institutional-users/emails-without-attachment/hengstberger_en.msg" Error: stdout maxBuffer exceeded.
+err cat "institutional-users/emails-without-attachment/hengstberger_en.msg" Error: stdout maxBuffer exceeded.
+err odt2txt "institutional-users/poukens_en.odt" Error: stdout maxBuffer exceeded.
+err pdftotext -layout "others/vere_en.pdf" Error: stdout maxBuffer exceeded.
+err cat "users/emails-without-attachment/jackson_en.msg" Error: stdout maxBuffer exceeded.
+err cat "users/emails-without-attachment/jackson_en.msg" Error: stdout maxBuffer exceeded.
+err cat "users/emails-without-attachment/nobby_de.msg" Error: stdout maxBuffer exceeded.
+err cat "users/emails-without-attachment/nobby_de.msg" Error: stdout maxBuffer exceeded.
+err cat "users/emails-without-attachment/nobby_de.msg" Error: stdout maxBuffer exceeded.
+err cat "users/emails-without-attachment/nobby_de.msg" Error: stdout maxBuffer exceeded.
+err odt2txt "users/Rausch_DE.odt" Error: Command failed: Can't read from users/Rausch_DE.odt: Is it an OpenDocument Text?
+
+err odt2txt "authors/hornschuh_de.odt" Error: stdout maxBuffer exceeded.
+FATAL ERROR: JS Allocation failed - process out of memory
+Abandon (core dumped)
+

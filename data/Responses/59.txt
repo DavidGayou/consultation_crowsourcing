@@ -1,0 +1,3139 @@
+
+         Public Consultation on the review of the EU copyright rules
+
+                                  Contents
+
+Table of Contents
+Context of the consultation 2
+How to submit replies to this questionnaire  3
+Confidentiality  3
+Why is it not possible to access many online content services from anywhere
+in Europe?  7
+[The territorial scope of the rights involved in digital transmissions  and
+the segmentation of
+the market through licensing agreements]     7
+  Is there a need for more clarity as regards the scope of what needs to be
+                           authorised (or not) in
+digital transmissions? 10
+  [The definition of the rights involved in digital transmissions]  10
+  The act of "making available"   11
+  Two rights involved in a single act of exploitation    12
+  Linking and browsing 12
+  Download to own digital content 13
+Registration of works and other subject matter - is it a good idea? 14
+How to improve the use and interoperability of identifiers    15
+Term of protection - is it appropriate? 16
+Access to content in libraries and archives  19
+  Preservation and archiving 20
+  Off-premises access to library collections 21
+  E - lending    22
+  Mass digitisation    23
+Teaching    24
+Research    25
+Disabilities     26
+Text and data mining   27
+User-generated content 29
+
+
+                               I. Introduction
+
+A. Context of the consultation
+Over the last  two  decades,  digital  technology  and  the  Internet  have
+reshaped the ways in which content is created, distributed,  and  accessed.
+New opportunities have materialised  for  those  that  create  and  produce
+content (e.g. a film, a novel, a song), for new and  existing  distribution
+platforms, for institutions such  as  libraries,  for  activities  such  as
+research and for citizens who now expect to be able to access content - for
+information,  education  or  entertainment   purposes   -   regardless   of
+geographical borders.
+This new environment also presents challenges.  One  of  them  is  for  the
+market to continue to adapt to new forms of distribution and  use.  Another
+one is for the legislator to ensure that the system of rights,  limitations
+to rights and enforcement remains appropriate and is  adapted  to  the  new
+environment. This consultation focuses on the second of  these  challenges:
+ensuring that the EU copyright regulatory framework stays fit  for  purpose
+in the digital environment to support creation and innovation, tap the full
+potential of the Single Market, foster growth and investment in our economy
+and promote cultural diversity.
+In its "Communication on Content  in  the  Digital  Single  Market"[1]  the
+Commission set out two parallel tracks of  action:  on  the  one  hand,  to
+complete its on-going effort to review and to modernise  the  EU  copyright
+legislative framework23 with a view to a decision in  2014  on  whether  to
+table legislative  reform  proposals,  and  on  the  other,  to  facilitate
+practical  industry-  led  solutions  through  the   stakeholder   dialogue
+"Licences for  Europe"  on  issues  on  which  rapid  progress  was  deemed
+necessary and possible.
+The "Licences for Europe" process has been finalised now[2]. The Commission
+welcomes the practical solutions stakeholders  have  put  forward  in  this
+context and  will  monitor  their  progress.  Pledges  have  been  made  by
+stakeholders in all  four  Working  Groups  (cross  border  portability  of
+services, user-generated content, audiovisual and film  heritage  and  text
+and data mining). Taken together, the Commission expects these  pledges  to
+be a further step in making the user environment easier in  many  different
+situations. The Commission also takes note of the fact that  two  groups  -
+user-generated content and text and data mining - did not  reach  consensus
+among participating stakeholders on either the problems to be addressed  or
+on the results. The discussions and results of "Licences for  Europe"  will
+be also taken into account in the context of the review of the  legislative
+framework.
+As part of the review process, the Commission is  now  launching  a  public
+consultation on issues identified in the Communication on  Content  in  the
+Digital Single  Market,  i.e.:  "territoriality  in  the  Internal  Market,
+harmonisation, limitations and exceptions to copyright in the digital  age;
+fragmentation  of  the  EU  copyright  market;  and  how  to  improve   the
+effectiveness  and  efficiency  of  enforcement  while   underpinning   its
+legitimacy in the wider context of copyright reform". As highlighted in the
+October 2013 European Council Conclusions[3]  "Providing  digital  services
+and content across the  single  market  requires  the  establishment  of  a
+copyright regime  for  the  digital  age.  The  Commission  will  therefore
+complete its on-going review of the EU copyright framework in spring  2014.
+It is important to  modernise  Europe's  copyright  regime  and  facilitate
+licensing, while ensuring a high level protection of intellectual  property
+rights and taking into account cultural diversity".
+This consultation builds on previous consultations and public hearings,  in
+particular those  on  the  "Green  Paper  on  copyright  in  the  knowledge
+economy"[4], the "Green Paper on the  online  distribution  of  audiovisual
+works"[5] and "Content Online"[6]. These  consultations  provided  valuable
+feedback from stakeholders on a number of questions, on issues  as  diverse
+as  the  territoriality  of  copyright  and  possible  ways   to   overcome
+territoriality,  exceptions  related  to  the   online   dissemination   of
+knowledge, and rightholders' remuneration, particularly in the  audiovisual
+sector. Views were expressed by stakeholders representing all stages in the
+value  chain,  including  right  holders,  distributors,   consumers,   and
+academics. The questions elicited widely diverging views on the best way to
+proceed. The "Green Paper  on  Copyright  in  the  Knowledge  Economy"  was
+followed up by a Communication. The replies to  the  "Green  Paper  on  the
+online  distribution  of  audiovisual  works"  have  fed  into   subsequent
+discussions on the Collective Rights  Management  Directive  and  into  the
+current review process.
+
+B. How to submit replies to this questionnaire
+You are kindly asked to send your replies by 5 February 2014 in a MS  Word,
+PDF or OpenDocument format to the following e-mail address of  DG  Internal
+Market and Services: markt-copyright-consultation@ec.europa.eu. Please note
+that replies sent after that date will not be taken into account.
+This consultation is addressed to different categories of stakeholders.  To
+the extent possible, the questions indicate the category/ies of respondents
+most likely to be concerned by them (annotation  in  brackets,  before  the
+actual question). Respondents should nevertheless feel  free  to  reply  to
+any/all of the questions. Also, please note that, apart from  the  question
+concerning the identification of the respondent, none of the  questions  is
+obligatory. Replies containing answers only to part of the  questions  will
+be also accepted.
+You are requested to provide your answers directly within this consultation
+document. For the "Yes/No/No opinion" questions  please  put  the  selected
+answer in bold and underline it so it is easy for us to see your selection.
+In your answers to the questions, you are invited to refer to the situation
+in EU Member States. You are also invited in particular to indicate,  where
+relevant, what would be the impact of options you put forward in  terms  of
+costs, opportunities and revenues.
+The public consultation is available in English. Responses may, however, be
+sent in any of the 24 official languages of the EU.
+
+C. Confidentiality
+The contributions received in this round  of  consultation  as  well  as  a
+summary report presenting the responses in  a  statistical  and  aggregated
+form will be published on the website of DG MARKT.
+Please note that all contributions received will be published together with
+the identity of the contributor, unless  the  contributor  objects  to  the
+publication of their personal data on the
+grounds that such publication would harm his or her  legitimate  interests.
+In this case, the contribution will be published in anonymous form upon the
+contributor's explicit request.
+Otherwise the contribution will not be published nor will  its  content  be
+reflected in the summary report.
+Please read our Privacy statement.
+PLEASE IDENTIFY YOURSELF:
+
+Name:
+
+In the interests of transparency,  organisations  (including,  for  example,
+NGOs, trade associations and commercial enterprises) are invited to  provide
+the public with relevant information about themselves by registering in  the
+Interest Representative Register and subscribing to its Code of Conduct.
+   · If you are a Registered organisation, please indicate your Register  ID
+      number  below.  Your  contribution  will   then   be   considered   as
+      representing the views of your organisation.
+
+   · If your organisation is not registered, you  have  the  opportunity  to
+      register now. Responses from  organisations  not  registered  will  be
+      published separately.
+
+If you would like  to  submit  your  reply  on  an  anonymous  basis  please
+indicate it below by underlining the following answer:
+
+   · Yes, I would like to submit my reply on an anonymous basis
+TYPE OF RESPONDENT (Please underline the appropriate):
+ II. End user/consumer (e.g. internet user, reader, subscriber to music  or
+     audiovisual service, researcher, student)  OR  Representative  of  end
+     users/consumers
+     ^ for the purposes of this questionnaire normally referred to in
+     questions as "end users/consumers"
+
+III. Institutional user (e.g. school, university, research centre, library,
+     archive) OR Representative of institutional users
+     ^ for the purposes of this questionnaire normally referred to in
+     questions as "institutional users"
+
+ IV. Author/Performer OR Representative of authors/performers
+
+  V.   Publisher/Producer/Broadcaster        OR      Representative      of
+     publishers/producers/broadcasters
+
+     ^ the two above categories are, for the purposes of this
+     questionnaire, normally referred to in questions as "right holders"
+
+ VI. Intermediary/Distributor/Other service provider (e.g. online music  or
+     audiovisual service, games platform, social media, search engine,  ICT
+     industry)  OR  Representative   of   intermediaries/distributors/other
+     service providers
+     ^ for the purposes of this questionnaire normally referred to in
+     questions as "service providers"
+  VIICollective Management Organisation
+  VIIIPublic authority
+ IX. Member State
+  X. Other (Please explain):
+
+
+             II. Rights and the functioning of the Single Market
+
+A. Why is it not possible to access many online content services from
+   anywhere in Europe?
+
+[The territorial scope of the rights involved in digital transmissions  and
+the segmentation of the market through licensing agreements]
+Holders of copyright and related rights - e.g. writers, singers,  musicians
+- do not enjoy a single protection in the EU. Instead, they  are  protected
+on the basis of a bundle of national rights in  each  Member  State.  Those
+rights have been largely harmonised by the existing EU Directives. However,
+differences remain and the geographical scope of the rights is  limited  to
+the territory  of  the  Member  State  granting  them.  Copyright  is  thus
+territorial in the sense that rights are acquired and enforced on a country-
+by-country basis under national law9.
+The dissemination of copyright-protected content on the Internet - e.g.  by
+a music streaming service, or  by  an  online  e-book  seller  -  therefore
+requires, in principle, an authorisation for  each  national  territory  in
+which the content is communicated  to  the  public.  Rightholders  are,  of
+course, in a position to grant a multi-territorial or pan-European licence,
+such that content services can be provided in  several  Member  States  and
+across borders. A number of steps have been taken at EU level to facilitate
+multi-territorial licences: the proposal  for  a  Directive  on  Collective
+Rights  Management10  should  significantly  facilitate  the  delivery   of
+multiterritorial licences in  musical  works  for  online  services11;  the
+structured stakeholder dialogue  "Licences  for  Europe"12  and  market-led
+developments such as the on-going work in the Linked Content Coalition13.
+"Licences for Europe" addressed in particular the specific issue of  cross-
+border portability, i.e. the ability  of  consumers  having  subscribed  to
+online  services  in  their  Member  State  to  keep  accessing  them  when
+travelling temporarily to other Member States. As a result, representatives
+of the  audio-visual  sector  issued  a  joint  statement  affirming  their
+commitment to continue working towards the further  development  of  cross-
+border portability14.
+Despite progress,  there  are  continued  problems  with  the  cross-border
+provision of, and access to, services. These problems are most  obvious  to
+consumers wanting to access services that  are  made  available  in  Member
+States other than the one in which they live. Not all online  services  are
+available in all Member States and consumers face problems when  trying  to
+access such services across borders. In some instances, even if the  "same"
+service is available in all Member  States,  consumers  cannot  access  the
+service across borders (they can only access their "national" service,  and
+if they try to access the "same" service in another Member State  they  are
+redirected to the one designated for their country of residence).
+
+htt.p://ec.e^iropa.eu/internal_market/copyright/docs/licences-for-
+europe/131113_ten-pledges_en.pdf
+
+
+ This situation may in part stem  from  the  territoriality  of  rights  and
+ difficulties  associated  with  the  clearing  of   rights   in   different
+ territories. Contractual clauses  in  licensing  agreements  between  right
+ holders and distributors and/or between distributors and end users may also
+ be at the origin of some of the problems (denial of access, redirection).
+
+ The main issue at  stake  here  is,  therefore,  whether  further  measures
+ (legislative or nonlegislative, including market-led solutions) need to  be
+ taken at EU  level  in  the  medium  term[7]to  increase  the  cross-border
+ availability of content services in the Single Market,  while  ensuring  an
+ adequate level of protection for right holders.
+
+1. [In particular if you are an end user/consumer:] Have you faced  problems
+ when trying to access online services in an EU Member State other than  the
+ one in which you live?
+
+ YES. I was unable to buy some e-books from Germany and/or  the  UK.  I  was
+ unable to watch some TV shows online that were broadcast either in  Austria
+ or Germany.
+2. [In particular if you are a service provider:] Have  you  faced  problems
+ when seeking to provide online services across borders in the EU?
+
+ YES. I publish technical writings under a Creative Commons  license.  I  do
+ this in my spare time and don't intend to profit from it, but I would  like
+ to make sure my writings stay free for other people to read and use. It  is
+ unclear whether I must put a country-specific and/or a localised license on
+ my works or whether a generic English license text will suffice.
+
+3. [In particular if you are a  right  holder  or  a  collective  management
+ organisation:] How often are you asked to grant multi-territorial licences?
+ Please indicate, if possible, the number of requests per year  and  provide
+ examples indicating the Member State, the sector and the  type  of  content
+ concerned.
+
+ N/A
+
+ 4.If you have identified problems in the answers to any  of  the  questions
+ above — what would be the best way to tackle them?
+
+ It seems to me that common European copyright law that applies uniformly in
+ all member states would help with licensing. Additionally, it would greatly
+ benefit  the  end  users  if  it  were  made  impossible  to  license  some
+ copyrighted work for distribution in only part of the EU; it should be  all
+ or nothing. Distributors/publishers should be required to  make  all  works
+ they make available to residents of some EU member state available  to  all
+ EU citizens, under the same conditions. There should be no second-class  EU
+ citizens where dissemination of culture is concerned.
+
+ As copyright  monopoly  holders  are  motivated  by  profit,  forgoing  the
+ substantial market of the entire EU in order to avoid licensing a work  for
+ distribution in a list of specific countries is unlikely to be  seen  as  a
+ rational choice (especially considering that if the work is  not  available
+ through legally licensed channels, people will acquire it via other means).
+
+ 5. [In particular if you are a right  holder  or  a  collective  management
+ organisation:] Are there reasons why, even in cases where you hold all  the
+ necessary rights for all the territories in question, you would still  find
+ it necessary or justified to impose territorial restrictions on  a  service
+ provider (in order, for instance, to ensure that access to certain  content
+ is not possible in certain European countries)?
+
+
+NO. Additionally, I strongly believe such territorial  restrictions  should
+be impossible to enforce.
+
+6.  [In       particular  if  you  are  e.g.  a  broadcaster  or  a  service
+provider:] Are there reasons why, even in cases where you have acquired all
+the necessary rights for all the territories in question, you  would  still
+find it necessary or justified to impose territorial  restrictions  on  the
+service recipient (in order for instance, to redirect  the  consumer  to  a
+different website than the one he is trying to access)?
+
+NO.  Additionally,  I  believe  such  territorial  restrictions  should  be
+impossible to enforce.
+
+7. Do you think  that  further  measures  (legislative  or  non-legislative,
+including market-led solutions) are needed at  EU  level  to  increase  the
+cross-border availability of content services in the Single  Market,  while
+ensuring an adequate level of protection for right holders?
+
+YES. As explained in my reply to question 4 above, I  think  it  should  be
+made impossible to legally limit the availability of copyrighted works on a
+territorial basis within the EU. Attempts to  do  so  should  not  only  be
+unenforceable but also banned, including DRM.  This  would  help  foster  a
+common European cultural scene and be in line with  the  free  movement  of
+people, goods and services.
+
+B. Is there a need for more clarity as regards the scope of what needs to
+   be authorised (or not) in digital transmissions?
+
+[The definition of the rights involved in digital transmissions]
+The EU framework for the protection of copyright and related rights in  the
+digital environment is largely established by  Directive  2001/29/EC[8]  on
+the harmonisation of certain aspects of copyright and related rights in the
+information society. Other EU directives in this field that are relevant in
+the online environment are those relating to the protection of  software[9]
+and databases[10].
+
+Directive 2001/29/EC harmonises the  rights  of  authors  and  neighbouring
+rightholders[11] which are essential for the transmission of digital copies
+of works (e.g. an e-book) and other protected subject matter (e.g. a record
+in a MP3 format) over the internet or similar digital networks.
+
+The most relevant rights for digital  transmissions  are  the  reproduction
+right, i.e. the right to authorise or prohibit the  making  of  copies[12],
+(notably relevant at the start of the transmission - e.g. the uploading  of
+a digital copy of a work to a server in view of making it available  -  and
+at the users' end - e.g. when a user downloads a digital copy  of  a  work)
+and the
+
+communication to the public/making available  right,  i.e.  the  rights  to
+authorise  or  prohibit  the  dissemination  of  the   works   in   digital
+networks[13].  These   rights   are   intrinsically   linked   in   digital
+transmissions and both need to be cleared.
+
+1. The act of "making available"
+Directive 2001/29/EC specifies  neither  what  is  covered  by  the  making
+available right (e.g. the upload, the  accessibility  by  the  public,  the
+actual reception by the public) nor where the  act  of  "making  available"
+takes place. This does not raise questions if  the  act  is  limited  to  a
+single territory. Questions arise  however  when  the  transmission  covers
+several territories and rights need to be cleared (does the act of  "making
+available" happen in the country  of  the  upload  only?  in  each  of  the
+countries where the content is  potentially  accessible?  in  each  of  the
+countries where the content is effectively accessed?). The most recent case
+law of the Court of Justice of the European Union (CJEU)  suggests  that  a
+relevant  criterion  is  the  "targeting"  of  a  certain  Member   State's
+public[14]. According to this approach the  copyright-relevant  act  (which
+has to be licensed) occurs at least in those countries which are "targeted"
+by the online service provider. A service provider  "targets"  a  group  of
+customers residing in a specific country when it directs  its  activity  to
+that group, e.g. via advertisement, promotions, a language  or  a  currency
+specifically targeted at that group.
+
+ 8.Is the scope of the "making available" right in cross-border situations —
+ i.e. when content is disseminated across borders — sufficiently clear?
+
+ □ NO - Please explain how this could be clarified and what type of
+ clarification would be required (e.g. as in "targeting" approach explained
+ above, as in "country of origin" approach[15])
+
+ NO. I would like non-commercial sharing/copying of copyrighted material  by
+ end users to be explicitly excluded from "making available". It  should  be
+ impossible to prosecute individuals for sharing  files.  They  will  do  it
+ whether it is illegal or not: criminalising this behaviour  just  leads  to
+ unnecessary social  tension  and  creates  a  disconnect  between  everyday
+ reality and what is legal. If people routinely engage in illegal behaviour,
+ this erodes the authority of the law and undermines  its  rule.  We  should
+ avoid criminalising things millions of people do every day.
+
+ 9. [In particular if you are a right holder:] Could a clarification of the
+ territorial scope of the "making available" right have an effect on the
+ recognition of your rights (e.g. whether you are considered to be an author
+ or not, whether you are considered to have transferred your rights or not),
+ on your remuneration, or on the enforcement of rights (including the
+ availability of injunctive relief[16])?
+
+
+NO
+
+2. Two rights involved in a single act of exploitation
+Each act of transmission in digital networks entails (in the current  state
+of technology and law) several reproductions. This means that there are two
+rights that apply to digital transmissions: the reproduction right and  the
+making available right. This may complicate  the  licensing  of  works  for
+online  use  notably  when  the  two   rights   are   held   by   different
+persons/entities.
+
+10. [In particular if you are a service provider or a right  holder:]  Does
+the application of two rights to a single act of economic  exploitation  in
+the online environment (e.g. a download) create problems for you?
+
+NO. Not for me personally; however, I believe the fact that this question
+even arises points to the obsolescence of our current copyright system and
+the concepts it is based on.
+Perhaps it would be a better approach to concentrate on behaviours that
+generate revenue from copyrighted works (and regulate these, regardless of
+what specific acts are involved) and explicitly exonerate, de-criminalise
+not-for-profit behaviours of end-users.
+
+3. Linking and browsing
+Hyperlinks are references to data that lead a user from one location in the
+Internet to another. They are indispensable  for  the  functioning  of  the
+Internet as a network. Several cases are pending  before  the  CJEU[17]  in
+which the question has been raised whether the  provision  of  a  clickable
+link constitutes an act of communication to the public/making available  to
+the public subject to the authorisation of the rightholder.
+A user browsing the internet (e.g. viewing a  web-page)  regularly  creates
+temporary  copies  of  works  and  other  subject-matter  protected   under
+copyright on the screen and in  the  'cache'  memory  of  his  computer.  A
+question has been referred to the CJEU[18] as to whether  such  copies  are
+always  covered  by  the  mandatory  exception  for   temporary   acts   of
+reproduction provided for in Article 5(1) of Directive 2001/29/EC.
+
+11. Should the provision of a hyperlink leading to a work or other  subject
+matter protected under copyright,  either  in  general  or  under  specific
+circumstances, be subject to the authorisation of the rightholder?
+
+NO. To anyone with a technical background, this  is  absurd.  It  would  be
+practically unenforceable and very easy to circumvent; the law  would  have
+to be overbroad to cover even just the trivial circumventions.
+Also, the person who creates a link to content on a 3rd party server has no
+control over that content. At the time the link was created, it might  have
+referenced an innocuous, free image; by a later time, the target  may  have
+been replaced by a copyrighted  work  or  child  pornography,  without  the
+creator of the link knowing.
+Additionally, server software can and often does serve different content to
+different clients, even for the same "link".
+
+
+ Again, instead of focusing on a specific act (the placement of a  link),  I
+ think it would be more reasonable to regulate, broadly, all behaviours that
+ generate revenue by making use  of  copyrighted  works.  This  would  allow
+ commercial websites that link to copyrighted content to be prosecuted while
+ allowing individuals to share links without having to understand  copyright
+ (much the same  way  they  can  cook  for  each  other  without  having  to
+ understand food safety regulations).
+
+ 12. Should the viewing of a  web-page  where  this  implies  the  temporary
+ reproduction of a work or other subject matter protected under copyright on
+ the screen and in the cache  memory  of  the  user's  computer,  either  in
+ general or under specific circumstances, be subject to the authorisation of
+ the rightholder?
+
+ NO. If a browser is able to access a web page and display it  (without  any
+ form of authentication or access  control),  then  this  should  constitute
+ implicit permission of the owner of  the  copyright  of  the  web  page  to
+ perform all  steps  normally  associated  with  displaying  the  web  page,
+ including the creation of temporary copies in cache memory or disk,  or  on
+ proxy servers.
+
+ It is the responsibility of the rightholder to try to frustrate attempts to
+ display the web page without e.g. paying.
+
+ However, under no circumstances should rightsholders be allowed to prohibit
+ the creation of temporary copies of content in caches as this would  create
+ disproportional technical problems.  Since  it's  hardly  conceivable  that
+ people would pay extra to be allowed to cache something, the  rightsholders
+ would not benefit from such legislation either.
+
+ 4. Download to own digital content
+
+Digital content is increasingly being bought via digital transmission (e.g.
+ download to own). Questions arise  as  to  the  possibility  for  users  to
+ dispose of the files they buy in this manner (e.g. by selling  them  or  by
+ giving them as a gift). The principle of EU exhaustion of the  distribution
+ right applies in the case of the distribution of physical copies (e.g. when
+ a tangible article such as a CD or a book, etc. is sold, the  right  holder
+ cannot prevent the further distribution of that tangible article)[19].  The
+ issue that arises here is whether this principle can also be applied in the
+ case of an act of transmission equivalent in  its  effect  to  distribution
+ (i.e. where the buyer acquires the property of the copy)[20].  This  raises
+ difficult questions, notably relating to the practical application of  such
+ an approach (how to avoid re-sellers keeping and using a  copy  of  a  work
+ after they have "re-sold" it - this is often referred to  as  the  "forward
+ and delete" question) as well  as  to  the  economic  implications  of  the
+ creation of a second-hand market of copies of perfect  quality  that  never
+ deteriorate (in contrast to the second-hand market for physical goods).
+
+ 13. [In particular if  you  are  an  end  user/consumer:]  Have  you  faced
+ restrictions when
+ trying to resell digital files that you have purchased (e.g. mp3  file,  e-
+ book)?
+
+
+ YES. I own a number of computer games I bought on Steam™ that I cannot sell
+ or give away (even though the DRM would be  capable  of  enforcing  such  a
+ transaction). I own a DRM encumbered e-book that I may not be able to  sell
+ or give away (I haven't tried). (I also can't use it,  because  it's  in  a
+ format my reader doesn't support, and I can't convert  it  to  a  supported
+ format because of the DRM. I could probably break the DRM, but  that  would
+ be illegal. The vendor will neither refund my money nor furnish me  with  a
+ copy I can use.)
+ I think consumer protection laws should be strengthened to  prevent  abuses
+ by copyright holders.
+
+ 14. [In particular if you are a right holder or a service  provider:]  What
+ would be the consequences ofproviding a legal framework enabling the resale
+ ofpreviously purchased digital content? Please specify per market (type  of
+ content) concerned.
+
+ Consumers would benefit by being able to purchase digital goods at a  lower
+ price. Distributors may lose sales or be forced to reduce  prices  as  time
+ passes because their fresh "original copies" would  have  to  compete  with
+ used copies that are identical to originals. Market forces  would  tend  to
+ drive down the prices  of  digital  goods  as  supply  increases  (as  both
+ previously owned and new copies  would  compete  for  buyers).  This  would
+ result in demand increasing as well: I expect more people would  buy  these
+ digital goods at the lower prices that would establish themselves.
+
+ Such cheaper and wider accessibility of culture would be a benefit  to  the
+ public.
+ New business models may make it more appealing to be  first  owners  and/or
+ less appealing to sell what one bought; also, revenue channels not  related
+ to  the  distribution  of  copies  may  become  apparent  or  increase   in
+ importance.
+
+ C. Registration of works and other subject matter - is it a good idea?
+Registration is not often discussed in copyright in the EU as  the  existing
+international treaties in the area prohibit formalities as a  condition  for
+the protection and exercise of rights.  However,  this  prohibition  is  not
+absolute[21]. Moreover a system of registration does not  need  to  be  made
+compulsory or constitute a precondition for the protection and  exercise  of
+rights.  With  a  longer  term  of  protection  and   with   the   increased
+opportunities that digital  technology  provides  for  the  use  of  content
+(including older  works  and  works  that  otherwise  would  not  have  been
+disseminated), the advantages and disadvantages of a system of  registration
+are increasingly being considered[22].
+
+15. Would the creation of a registration system at  EU  level  help  in  the
+ identification and licensing of works and other subject matter?
+ Depending on specifics possibly with undesirable consequences that outweigh
+ the benefits, but otherwise of course, yes.
+
+16. What would be the possible advantages of such a system?
+
+ It's conceivable that the authors of some copyrighted works are unknown,
+ and therefore their works apparently cannot be legally distributed because
+ no permission to do so can be obtained from them. If authors were forced
+ (or just encouraged) to register, this would be
+
+ less often the case. Professional authors (including the content industry)
+ would register their copyright as a matter of course; this would
+ fractionally increase their overhead costs.
+
+17. What would be the possible disadvantages of such a system?
+
+If unregistered works were considered to be in the public domain or
+otherwise require no license for distribution or re-use in the creation of
+derived works, then - for example - everyone's casually published holiday
+photos could end up being used in advertising or as stock photos.
+
+Companies would have little incentive to find the rightsholder and could
+instead claim that a due-diligence search had failed, and since there was
+no registered copyright, they could use the work freely (see e.g.
+<http://www.theregister.co.uk/2013/04/29/err_act_landgrab/>). The bar to
+obtain copyright protection would be raised considerably to amateur
+creators, resulting in an uneven playing field where commercial content
+factories are at an even greater advantage.
+
+If registration were not a prerequisite to obtaining protection, and an
+unregistered work would enjoy the same protection as a registered one, then
+the only readily apparent downside is an increase in red tape; however, I
+have a hard time believing that lobby pressure from the content industry
+could be resisted for long. Eventually, unregistered works would no longer
+enjoy copyright protection, because that is what benefits the publishing
+industry most.
+See also my reply to question 80.
+18. What incentives for registration by rightholders could be envisaged?
+Benefiting from copyright levies built into the retail prices  of  products
+like data media.
+Being able to stop corporations from using own amateur works for profit
+without sharing that profit with the author.
+
+D. How to improve the use and interoperability of identifiers
+
+There are many private databases of works and other subject matter held  by
+producers, collective management organisations, and  institutions  such  as
+libraries, which are based to a greater or lesser  extent  on  the  use  of
+(more  or  less)  interoperable,  internationally   agreed   'identifiers'.
+Identifiers can be compared to a reference number embedded in a  work,  are
+specific to the sector in which they have been developed31,  and  identify,
+variously, the work itself, the owner or the contributor to a work or other
+subject matter. There are notable examples of where industry is undertaking
+actions to improve the interoperability of such identifiers and  databases.
+The Global Repertoire Database32 should, once operational, provide a single
+source of information  on  the  ownership  and  control  of  musical  works
+worldwide. The  Linked  Content  Coalition33  was  established  to  develop
+building blocks for the expression and management of rights  and  licensing
+across all content and media types. It includes the development of a Rights
+Reference Model (RRM) - a comprehensive data model for all types of  rights
+in all types of content. The UK Copyright Hub34 is  seeking  to  take  such
+identification
+
+31. E.g. the International Standard Recording Code (ISRC) is used to
+identify recordings, the International Standard Book Number (ISBN) is used
+to identify books.
+32. You will find more information about this initiative on the following
+website: http://www.globalrepertoiredat.abase.com/.
+33. You will find more information about this initiative (funded in part by
+the European Commission) on the following website:
+www.linkedcontentcoalition.org.
+34. You will find more information about this initiative  on  the  following
+website: http://www.copyrighthub. co.uk/.
+                                                                          14
+systems a step further, and to create a linked platform, enabling automated
+licensing across different sectors.
+
+19. What should be the  role  of  the  EU  in  promoting  the  adoption  of
+identifiers in the content sector, and in  promoting  the  development  and
+interoperability of rights ownership and permissions databases?
+
+I suppose it could be mandatory to label products with some established
+content ID; like ISBN numbers on books.
+
+E. Term of protection - is it appropriate?
+Works and other subject matter are protected under copyright for a  limited
+period of time. After the term of protection has expired, a work falls into
+the public domain and can be freely used by anyone (in accordance with  the
+applicable national rules on moral rights). The Berne Convention35 requires
+a minimum term of protection of 50 years after the death of the author. The
+EU rules extend this term of protection to 70 years after the death of  the
+author (as do many other countries, e.g. the US).
+
+With regard to performers in the music sector and phonogram producers,  the
+term provided for in the EU rules also  extend  20  years  beyond  what  is
+mandated in international agreements, providing for a term of protection of
+70 years after the first publication. Performers and producers in the audio-
+visual sector, however, do not  benefit  from  such  an  extended  term  of
+protection.
+
+20. ^re the current terms of copyright protection still appropriate in  the
+digital environment?
+
+NO. The point of granting exclusive rights (effectively, a monopoly,  which
+we should normally oppose) to creative authors is not to  pander  to  their
+financial interests. The sole purpose of copyright is to serve  the  public
+good by furthering the creation and availability  of  creative  works.  Any
+change to copyright law has to be evaluated not based on whether it  is  in
+the interest of authors or publishers, but on whether it is in  the  public
+interest. The public interest is twofold:
+1. new works should be created in sufficient number and quality.
+2. existing works should be available for consumption with few  restrictions
+(including adaptation, private copying and so on).
+It is these two  public  interests  that  have  to  be  balanced,  not  the
+interests of authors/publishers vs. the interests of the end-users. While a
+very long protection term  benefits  large  rightsholders,  it  is  dubious
+whether it fosters the creation of new works, and even if so, whether  that
+offsets the disadvantage of having to wait longer  for  existing  works  to
+enter the public domain. Any publisher who claims it needs several  decades
+of copyright protection in the future in order to publish now  should  have
+to (but would be hard pressed to) plausibly justify this claim.
+No extension of the copyright term must ever  be  retroactive,  because  it
+cannot possibly induce past authors to create more works, and this would be
+the only valid reason to extend copyright  terms.  Expectations  of  higher
+profits are not valid  reasons  because  the  public  interest  (access  to
+culture) is more important.
+
+35 Berne Convention for the Protection  of  Literary  and  Artistic  Works,
+http://www.wipo.int./treaties/en/ip/beme/.
+                                                                          15
+
+On  the  whole,  I  think  the  current  copyright  terms  should  be  made
+considerably shorter, perhaps as short as 20 years from the date  of  first
+publication (perhaps varying by medium and even genre; a 10-year  old  play
+is still relatively recent, whereas a 10-year old pop song is an oldie  and
+a 10-year old piece of software is probably nearing the end of  its  useful
+life). 20 years would still be ample time for authors  to  make  money  but
+would also benefit global culture by allowing the public domain to grow. It
+is not necessary to be able to become fabulously rich from  art;  a  decent
+living is sufficient.
+Also see my reply to question 80.
+
+            III. Limitations and exceptions in the Single Market
+Limitations and exceptions to copyright and related rights enable  the  use
+of  works   and   other   protected   subject-matter,   without   obtaining
+authorisation from the rightholders, for certain purposes and to a  certain
+extent (for instance the use for illustration purposes of an extract from a
+novel by a teacher in a literature class). At EU level they are established
+in a number of copyright directives, most notably Directive 2001/29/EC[23].
+Exceptions and limitations in the national and EU copyright  laws  have  to
+respect   international   law[24].   In   accordance   with   international
+obligations, the EU acquis requires that  limitations  and  exceptions  can
+only be applied in certain special cases  which  do  not  conflict  with  a
+normal exploitation of  the  work  or  other  subject  matter  and  do  not
+unreasonably prejudice the legitimate interest of the rightholders.
+Whereas the catalogue of limitations and exceptions included in EU  law  is
+exhaustive (no other exceptions can be applied to the rights harmonised  at
+EU level)[25], these limitations and exceptions are often optional[26],  in
+the sense that Member States are free to reflect in national legislation as
+many or as few of them as they wish. Moreover, the formulation  of  certain
+of the limitations and exceptions is general  enough  to  give  significant
+flexibility to the Member  States  as  to  how,  and  to  what  extent,  to
+implement them (if they decide to do so). Finally, it is worth noting  that
+not all of  the  limitations  and  exceptions  included  in  the  EU  legal
+framework for copyright are of equivalent significance in policy terms  and
+in terms of their potential effect on the functioning of the Single Market.
+In addition, in the same manner  that  the  definition  of  the  rights  is
+territorial (i.e. has an effect only within the  territory  of  the  Member
+State), the definition of the limitations and exceptions to the  rights  is
+territorial too (so an act that is covered by  an  exception  in  a  Member
+State "A" may still require the authorisation of the  rightholder  once  we
+move to the Member State "B")[27].
+
+
+The cross-border effect of  limitations  and  exceptions  also  raises  the
+question of fair compensation of rightholders. In  some  instances,  Member
+States are obliged to compensate rightholders for  the  harm  inflicted  on
+them by a limitation or exception  to  their  rights.  In  other  instances
+Member States are  not  obliged,  but  may  decide,  to  provide  for  such
+compensation. If a limitation or exception triggering a mechanism  of  fair
+compensation were to be given cross-border effect (e.g. the books are  used
+for illustration in an online course given by an  university  in  a  Member
+State "A" and the students are in a Member State "B") then there would also
+be a need to clarify which national law should determine the level of  that
+compensation and who should pay it.
+
+Finally, the question of flexibility and adaptability is being raised: what
+is the best mechanism to ensure that the EU and Member  States'  regulatory
+frameworks adapt when necessary (either to clarify that  certain  uses  are
+covered  by  an  exception  or  to  confirm  that  for  certain  uses   the
+authorisation of rightholders is  required)?  The  main  question  here  is
+whether a greater degree of flexibility can be introduced  in  the  EU  and
+Member States  regulatory  framework  while  ensuring  the  required  legal
+certainty,  including  for  the  functioning  of  the  Single  Market,  and
+respecting the EU's international obligations.
+
+21. Are there problems arising from  the  fact  that  most  limitations  and
+exceptions provided in the EU copyright directives  are  optional  for  the
+Member States?
+
+YES. For example in Hungary, songwriters can block parodies of their  songs
+from being made, even when those parodies would lampoon not the  songwriter
+but the  performer  associated  with  the  song  (not  that  I  think  this
+distinction  is  relevant).  I  think  this  places  an   unnecessary   and
+unreasonable limit on freedom of expression.
+
+Parodies in particular should always be allowed, like under "fair  use"  in
+the USA.
+
+22. Should some/all of the exceptions be  made  mandatory  and,  if  so,  is
+there a need for a higher level of harmonisation of such exceptions?
+
+YES. I believe a system similar to the American "fair use" doctrine  should
+be adopted and made mandatory EU-wide. In particular,  the  following  uses
+should  never  constitute  sanctionable  infringements  (they   should   be
+explicitly legal):
+
+1. parody.
+
+2. commentary/review (subject to reasonable limits of cited content).
+
+3. citation/reference, where the original author is given due credit (again
+subject to reasonable limits).
+
+4. educational use.
+
+5. use in political speech (subject to reasonable limits).
+
+6. elimination of DRM for the purpose of performing an action that does not
+violate copyright (for example, exercising a fair use right).
+
+7. modification, adaptation or reverse engineering in the interest of cross-
+platform compatibility or accessibility.
+
+8. private copying (including Internet file sharing), provided that the
+perpetrator doesn't make even an indirect monetary profit.
+9. archival by public bodies, including the  removal  of  DRM  (which  might
+otherwise hinder access to the work in the future).
+
+
+10. the removal/circumvention of outdated DRM (where an otherwise legal
+copy of a product no longer works due to some lapse at the vendor or
+associated provider).
+
+11. removal/circumvention of DRM from works that are in  the  public  domain
+(e.g. because their copyright term has expired, or for any  other  reason).
+
+
+
+23. Should any new limitations and exceptions be added to  or  removed  from
+the existing catalogue? Please explain by referring to specific cases.
+
+See  my  reply  to  question  22.  Additionally,  exceptions  should  apply
+universally to all manner of works (e.g. teaching  use  should  receive  an
+exception not only for text but also audiovisual media).
+24. Independently from the questions above, is there a need to  provide  for
+a greater  degree  of  flexibility  in  the  EU  regulatory  framework  for
+limitations and exceptions?
+
+NO. On the contrary, such  regulations  should  be  harmonised  across  all
+member states to reduce uncertainty about what is allowed where  and  when.
+The fair use provisions I suggested earlier would  help  foster  innovative
+use of culture.
+
+25. If yes, what would be the best  approach  to  provide  for  flexibility?
+(e.g. interpretation by national courts and the ECJ, periodic revisions  of
+the directives, interpretations by the  Commission,  built-in  flexibility,
+e.g. in the form of a fair-use or  fair  dealing  provision  /  open  norm,
+etc.)? Please explain indicating what would be the relative advantages  and
+disadvantages of such an approach as well as its possible  effects  on  the
+functioning of the Internal Market.
+
+If mandatory fair use exceptions constitute "flexibility", then they are  a
+good approach. In cases of doubt courts can provide interpretation, but the
+regulations should be clear enough to  self-evidently  apply  to  the  most
+common cases, so that pointless litigation is discouraged  and  its  threat
+can't be used to chill free expression.
+
+In the "copyright bargain", the public trades away certain rights (like the
+right to modify and distribute) in order to obtain creative works. We  must
+be careful not to trade away too many rights. While 70 years ago the  right
+to copy was irrelevant to the end-user, it is a very relevant right now and
+I no longer want to trade it away.
+
+Making private copying a fair use right would give this by now  very  basic
+right back to the public at the cost  of  possibly  slightly  reducing  the
+revenues of the content industry (I say "slightly" because  the  fact  that
+private copying is illegal today doesn't stop people from engaging  in  it,
+so that any damage this is causing is already being caused). On  the  other
+hand, it would free up law enforcement and legal resources because it would
+no longer be perceived as necessary (or possible) to prosecure  individuals
+who engage in copying.
+
+26.  Does  the  territoriality  of  limitations  and  exceptions,  in   your
+experience, constitute a problem?
+
+YES. While I have no personal experience, I think  it  creates  unnecessary
+uncertainty and restricts the free movement of goods, services  and  people
+if copyright exceptions are not harmonised.
+
+27. In the event that limitations and  exceptions  established  at  national
+level were to have cross-border effect, how should the  question  of  "fair
+compensation"  be  addressed,  when  such  compensation  is  part  of   the
+exception? (e.g. who pays whom, where?)
+
+
+ I think there should be no national level. Exceptions as well as
+ compensation should be handled at the European level.
+
+A. Access to content in libraries and archives
+Directive 2001/29/EC enables Member States to reflect in their national law
+a range of limitations and exceptions for the benefit of publicly
+accessible libraries, educational establishments and museums, as well as
+archives. If implemented, these exceptions allow acts of preservation and
+archiving[28] and enable on-site consultation of the works and other
+subject matter in the collections of such institutions[29]. The public
+lending (under an exception or limitation) by these establishments of
+physical copies of works and other subject matter is governed by the Rental
+and Lending Directive[30].
+
+Questions arise as to whether the current framework continues to achieve
+the objectives envisaged or whether it needs to be clarified or updated to
+cover use in digital networks. At the same time, questions arise as to the
+effect of such a possible expansion on the normal exploitation of works and
+other subject matter and as to the prejudice this may cause to
+rightholders. The role of licensing and possible framework agreements
+between different stakeholders also needs to be considered here.
+
+1. Preservation and archiving
+The preservation of the copies of works or other subject-matter held in the
+collections of cultural establishments (e.g. books, records,  or  films)  -
+the restoration or replacement of works, the copying of fragile works - may
+involve the creation of another copy/ies of these works  or  other  subject
+matter. Most Member States provide for an exception in their national  laws
+allowing for the making of such  preservation  copies.  The  scope  of  the
+exception differs from Member State to Member State (as regards the type of
+beneficiary establishments, the types of  works/subject-matter  covered  by
+the exception, the mode of copying and the number of reproductions  that  a
+beneficiary establishment may make). Also, the current legal status of  new
+types of preservation activities (e.g. harvesting  and  archiving  publicly
+available web content) is often uncertain.
+
+28. (a) [In particular if you are an institutional user:] Have you
+experienced specific problems when trying to use an exception to preserve
+and archive specific works or other subject matter in your collection?
+ (b) [In particular if you are a right holder:] Have you experienced
+ problems with the use by libraries, educational establishments, museum or
+ archives of the preservation exception?
+
+ NO.
+29. If there are problems, how would they best be solved?
+ Archival and digital preservation of copyrighted  works,  including  public
+ web pages, should be explicitly legal and "fair use". However, people - not
+ just copyright holders - should be allowed, as a form of  data  protection,
+ to have specific web pages removed from  publicly  accessible  archives  if
+ their continued public availability would  constitute  undue  prejudice  to
+ them. It should be noted that  the  public  interest  demands  that  public
+ archives be available
+
+ and as complete as possible; removals have to be justified. It  should  not
+ be possible to opt out of archival preemptively or in bulk.
+
+30. If your view is that a legislative solution is  needed,  what  would  be
+ its main elements? Which activities of the beneficiary institutions  should
+ be covered and under which conditions?
+ See my reply to question 29.
+31. If your view is that a different solution is needed, what would it be?
+ N/A
+
+ 2. Off-premises access to library collections
+ Directive 2001/29/EC provides an exception for the  consultation  of  works
+ and other subject- matter (consulting an e-book,  watching  a  documentary)
+ via dedicated terminals on the premises  of  such  establishments  for  the
+ purpose of research and private study. The online consultation of works and
+ other subject-matter remotely (i.e. when the library user  is  not  on  the
+ premises of the library) requires authorisation and is generally  addressed
+ in agreements between universities/libraries  and  publishers.  Some  argue
+ that the law rather than agreements should provide for the possibility  to,
+ and the conditions for, granting online access to collections.
+
+32. (a)  [In  particular  if  you  are  an  institutional  user:]  Have  you
+ experienced specific problems when  trying  to  negotiate  agreements  with
+ rights holders that enable you to provide remote access,  including  across
+ borders, to your collections (or parts thereof) for  purposes  of  research
+ and private study?
+b) [In particular if you are an end  user/consumer:]  Have  you  experienced
+ specific problems when trying to consult, including across  borders,  works
+ and other subject- matter held in the collections of institutions  such  as
+ universities and national libraries when you are not on the premises of the
+ institutions in question?
+c)  [In  particular  if  you  are  a  right  holder:]  Have  you  negotiated
+ agreements with institutional  users  that  enable  those  institutions  to
+ provide remote access, including across borders,  to  the  works  or  other
+ subject-matter in their collections, for purposes of research  and  private
+ study?
+ YES.  As  a  university  researcher  I  sometimes  found  it  frustratingly
+ difficult to access paywall-protected archives of scientific journals  from
+ outside the university.
+
+33. If there are problems, how would they best be solved?
+
+ Access to material stored in public libraries should be universal and free,
+ subject to reasonable but generous individual quotas. A single person  need
+ not be able to download the contents of an entire library in a day (not  in
+ consideration of the interests of rightsholders but in  order  to  conserve
+ the resources of the library), but research might entail downloading dozens
+ of books in a  single  day.  In  case  of  suspected  abuse,  it  would  be
+ acceptable to have the user justify their need for  such  a  high  rate  of
+ downloading.
+
+ Libraries could easily meter how often each work is  accessed.  This  could
+ form the basis for some sort of compensation for rightsholders (noting that
+ currently no such compensation necessarily  exists  in  all/any  EU  member
+ states, so that this would be a concession to rightsholders).
+
+
+34. If your view is that a legislative solution is  needed,  what  would  be
+ its main elements? Which activities of the beneficiary institutions  should
+ be covered and under which conditions?
+ N/A
+35. If your view is that a different solution is needed, what would it be?
+ NA
+ 3. E - lending
+ Traditionally, public libraries have loaned physical copies of works  (i.e.
+ books, sometimes also CDs and DVDs) to their  users.  Recent  technological
+ developments have made it technically possible  for  libraries  to  provide
+ users with temporary access to digital content, such as e-books,  music  or
+ films via networks. Under the current legal framework,  libraries  need  to
+ obtain the authorisation of the rights holders to organise  such  e-lending
+ activities.  In  various  Member  States,  publishers  and  libraries   are
+ currently experimenting with  different  business  models  for  the  making
+ available of works online, including direct supply of e-books to  libraries
+ by publishers or bundling by aggregators.
+
+36. (a) [In particular if you are a library:] Have you experienced  specific
+ problems when trying to  negotiate  agreements  to  enable  the  electronic
+ lending (e-lending), including across borders, of books or other  materials
+ held in your collection?
+b) [In particular if you are an end  user/consumer:]  Have  you  experienced
+ specific  problems  when  trying  to  borrow  books  or   other   materials
+ electronically (e-lending), including  across  borders,  from  institutions
+ such as public libraries?
+c)  [In  particular  if  you  are  a  right  holder:]  Have  you  negotiated
+ agreements with libraries to enable them to lend books or  other  materials
+ electronically, including across borders?
+
+ NO.
+
+37. If there are problems, how would they best be solved?
+
+ Insisting on creating artificial scarcity seems stupid and contrary to  the
+ public interest (which is what should matter  here).  The  reality  of  the
+ matter is that - contrary to what you may have heard - it is impossible  to
+ provide only "temporary access" to digital works.  Any  attempt  to  do  so
+ either requires placing unwarranted faith in some  copy  protection  scheme
+ and/or overbroad and ab ovo ineffective legislation  to  ban  circumvention
+ measures. In the face of this, and no doubt substantial pressure  from  the
+ content lobby, perhaps it would be acceptable to charge  users  of  digital
+ lending some very modest flat per month fee and distribute  proceeds  among
+ the rightsholders in proportion to the amount digital "lending" their works
+ see. In effect, this would be a public version of something like Netflix.
+ However, as a matter of principle, I think the purpose of libraries is  not
+ to "lend books" but to make culture available to as large  an  audience  as
+ possible, with as little cost to the audience as  possible.  We  can  start
+ thinking about compensating rightsholders when  they  start  going  out  of
+ business due to a sudden surge of e-lending.
+
+38. [In particular if you are an institutional user:]  What  differences  do
+ you see in the management of physical  and  online  collections,  including
+ providing access to your subscribers? What problems have you encountered?
+
+ N/A
+
+
+39. [In particular if you are a right holder:] What difference do  you  see
+between libraries' traditional activities such as on-premises  consultation
+or public lending  and  activities  such  as  off-premises  (online,  at  a
+distance) consultation and e-lending? What problems have you encountered?
+
+In the case of public lending, physical scarcrity  exists  and  thus  works
+that are in very high  demand  may  receive  more  sales  even  if  they're
+available from libraries (because libraries are  be  unable  to  serve  the
+demand).
+In the case of digital  lending,  no  practical  limit  on  the  number  of
+borrowed copies exists and a single library might in theory provide a  copy
+for every interested consumer. This would then allegedly lead to a loss  of
+sales; however, 1. people will still want to own physical  books  and  keep
+buying them; 2. the public interest should outweigh the  private  interests
+of publishers as long as sufficiently high-quality works are published at a
+sufficient rate.
+
+4. Mass digitisation
+The term "mass digitisation" is  normally  used  to  refer  to  efforts  by
+institutions such as libraries and archives to  digitise  (e.g.  scan)  the
+entire content or part of their collections with an objective  to  preserve
+these collections and, normally, to make  them  available  to  the  public.
+Examples are efforts by libraries to digitise novels form the early part of
+the 20th century or whole collections of pictures of historical value. This
+matter has been partly addressed at the EU level by the 2011 Memorandum  of
+Understanding (MoU) on  key  principles  on  the  digitisation  and  making
+available of out of commerce works (i.e. works which are no longer found in
+the normal channels of  commerce),  which  is  aiming  to  facilitate  mass
+digitisation efforts (for books and  learned  journals)  on  the  basis  of
+licence agreements between libraries and similar cultural  institutions  on
+the  one  hand  and  the  collecting  societies  representing  authors  and
+publishers on the other[31].  Provided  the  required  funding  is  ensured
+(digitisation projects are extremely expensive), the  result  of  this  MoU
+should be that books that are currently to be found only  in  the  archives
+of, for instance, libraries will be digitised and made available online  to
+everyone. The MoU is based on voluntary  licences  (granted  by  Collective
+Management Organisations on the basis of the  mandates  they  receive  from
+authors and publishers). Some Member States may need to  enact  legislation
+to  ensure  the  largest  possible  effect  of  such  licences   (e.g.   by
+establishing in legislation a presumption of representation of a collecting
+society or  the  recognition  of  an  "extended  effect"  to  the  licences
+granted)[32].
+
+40. [In particular if you are an institutional user, engaging or wanting  to
+engage  in  mass  digitisation  projects,  a  right  holder,  a  collective
+management organisation:] Would it be necessary in your  country  to  enact
+legislation to ensure that the results of the 2011 MoU (i.e. the agreements
+concluded between libraries and collecting societies)  have  a  crossborder
+effect so that out of commerce works can be accessed across the EU?
+
+NO OPINION.
+
+41. Would it be  necessary  to  develop  mechanisms,  beyond  those  already
+agreed for  other  types  of  content  (e.g.  for  audio-  or  audio-visual
+collections, broadcasters' archives)?
+
+
+ POSSIBLY. In this digital age, the differences between audio,  video,  text
+ etc. are becoming blurred, because it's  all  just  numbers.  It  would  be
+ absurd if it were not allowed to archive a number if  it  represents  audio
+ while it would be allowed to archive the same number if it represents text,
+ or vice versa.
+
+ B. Teaching
+ Directive 2001/29/EC[33]  enables  Member  States  to  implement  in  their
+ national  legislation  limitations  and  exceptions  for  the  purpose   of
+ illustration for non-commercial teaching. Such exceptions  would  typically
+ allow a teacher to use parts of or full works  to  illustrate  his  course,
+ e.g. by distributing copies of fragments of a book or of newspaper articles
+ in the classroom or by showing protected content on a smart  board  without
+ having to obtain authorisation from the right holders. The open formulation
+ of this (optional) provision allows for rather different implementation  at
+ Member States level. The  implementation  of  the  exception  differs  from
+ Member State to Member State, with several Member States providing  instead
+ a framework for the licensing of content for certain educational uses. Some
+ argue that the law should provide for  better  possibilities  for  distance
+ learning and study at home.
+
+42. (a) [In particular if you are an end user/consumer or  an  institutional
+ user:] Have you experienced specific problems when trying to use  works  or
+ other  subject-matter  for  illustration  for  teaching,  including  across
+ borders?
+ (b) [In particular if  you  are  a  right  holder:]  Have  you  experienced
+ specific problems resulting from the way in which works or  other  subject-
+ matter are used for illustration for teaching, including across borders?
+
+ I have no such first-hand experience, but I have read about cases where DRM
+ prevented or otherwise made it difficult to legally use  copyrighted  works
+ in classrooms.
+
+43. If there are problems, how would they best be solved?
+
+ Publishers of works should be required to furnish public schools with DRM
+ free versions of any and all works the schools justifiably need for their
+ teaching activities. Schools can be reasonably charged the price of one
+ copy of the work. Circumventing DRM for the purposes of teaching at public
+ schools should be a fair use right. Publishers should be required to assist
+ in removing/circumventing their DRM in such cases.
+
+44. What mechanisms exist in the market  place  to  facilitate  the  use  of
+ content for illustration for teaching purposes? How successful are they?
+
+ I'm not aware of any such mechanism, but then I only use my own "content"
+ when I teach (although some of it is derived from CC-licensed works of
+ others).
+
+45. If your view is that a legislative solution is  needed,  what  would  be
+ its main elements? Which activities of the beneficiary institutions  should
+ be covered and under what conditions?
+ See my reply to question 43.
+46. If your view is that a different solution is needed, what would it be?
+ N/Ā
+
+
+ C. Research
+ Directive  2001/29/EC[34]  enables  Member  States  to  choose  whether  to
+ implement in their national laws a  limitation  for  the  purpose  of  non-
+ commercial scientific research. The open  formulation  of  this  (optional)
+ provision allows for rather  different  implementations  at  Member  States
+ level.
+
+47. (a) [In particular if you are an end user/consumer or an institutional
+ user:] Have you experienced specific problems when trying to use works or
+ other subject matter in the context of research projects/activities,
+ including across borders?
+ (b) [In particular if  you  are  a  right  holder:]  Have  you  experienced
+ specific problems resulting from the way in which works or  other  subject-
+ matter are used in the context of research  projects/activities,  including
+ across borders?
+
+ YES. Paywall protected science archives make it unnecessarily difficult and
+ costly to obtain access to peer reviewed scientific publications (including
+ my own), even when they were  financed  from  public  funds.  The  business
+ practices of such archives are  often  dubious  (as  evidenced  by  several
+ boycotts and similar action against them from  members  of  the  scientific
+ community; see e.g. http://thecostofknowledge.com/).
+
+48. If there are problems, how would they best be solved?
+
+ The paywall model of scientific publication  must  die.  In  particular  if
+ public  funding  was  used  to  finance  some  research  (wholly  or  to  a
+ substantial  part),  the  resultant  publications  should  be   mandatorily
+ accessible to the public without paying a commercial 3rd party.  It  should
+ be noted that science publishers have very few justifiable costs (even peer
+ review is free these days).
+
+ Research organisations should be encouraged (and later required) to provide
+ their own, universal access to scientific publications  authored  by  their
+ employees. Additionally, a central repository (or at least index) of global
+ research could be set up by the EU, much like The Web of Science, but  with
+ an open access policy. This would be a sensible investment in science.
+
+ It should be impossible for researchers to enter  into  a  legally  binding
+ contract with paywall sites or publishers that limit their  own  rights  to
+ distribute their own papers. It should be illegal to demand payment (beyond
+ the  actual  cost  of  transmission  or  copying)  to   access   scientific
+ publications that received public funding.
+ Science is a service to humanity, not a business. The benefits of publicly
+ funded science should be freely available to all.
+
+49. What mechanisms exist in the Member States  to  facilitate  the  use  of
+ content for research purposes? How successful are they?
+
+ In Hungary, universities (and perhaps the government)  pay  for  access  to
+ paywall-protected  science  archives  and  then  provide  this  access   to
+ researchers. The system sort of works but there are cumbersome  limitations
+ (such as authentication by IP address).
+
+
+D. Disabilities
+Directive 2001/29/EC[35]  provides  for  an  exception/limitation  for  the
+benefit  of  people  with  a  disability.  The  open  formulation  of  this
+(optional) provision allows for rather different implementations at  Member
+States level. At EU and international level projects have been launched  to
+increase the accessibility of works and other  subject-matter  for  persons
+with disabilities (notably by increasing the number of works  published  in
+special formats and facilitating their  distribution  across  the  European
+Union) [36].
+
+The Marrakesh Treaty[37] has been adopted to facilitate access to published
+works for persons who are blind,  visually  impaired,  or  otherwise  print
+disabled. The Treaty creates a mandatory exception to copyright that allows
+organisations for the blind  to  produce,  distribute  and  make  available
+accessible  format  copies  to  visually  impaired  persons   without   the
+authorisation of the rightholders.  The  EU  and  its  Member  States  have
+started work to sign and ratify the Treaty. This may require  the  adoption
+of certain provisions at EU  level  (e.g.  to  ensure  the  possibility  to
+exchange accessible format copies across borders).
+
+50. (a) [In particular if you are a person with a disability or an
+organisation representing persons with disabilities:] Have you experienced
+problems with accessibility to content, including across borders, arising
+from Member States' implementation of this exception?
+b) [In particular if you are an organisation providing services for persons
+with disabilities:] Have you experienced problems when
+distributing/communicating works published in special formats across the
+EU?
+c) [In particular if you are a right holder:] Have you experienced  specific
+ problems resulting  from  the  application  of  limitations  or  exceptions
+ allowing for the distribution/communication of works published  in  special
+ formats, including across borders?
+ NO OPINION.
+51. If there are problems, what could be done to improve accessibility?
+ N/A
+52. What mechanisms exist in the market place  to  facilitate  accessibility
+ to content? How successful are they?
+
+ N/A
+
+E. Text and data mining
+Text and data mining/content mining/data analytics[38] are different  terms
+used to describe increasingly important techniques used  in  particular  by
+researchers for the exploration of vast amounts of existing texts and  data
+(e.g., journals, web sites, databases etc.). Through the use
+of software or other automated processes, an analysis is made  of  relevant
+texts and data in order to obtain new insights, patterns and trends.
+The texts and data used for mining are  either  freely  accessible  on  the
+internet  or  accessible  through  subscriptions  to  e.g.   journals   and
+periodicals that give access to the databases of publishers. A copy is made
+of the relevant texts and data  (e.g.  on  browser  cache  memories  or  in
+computers RAM memories or onto the hard disk of a computer), prior  to  the
+actual analysis. Normally, it is considered that to mine protected works or
+other subject matter, it is necessary  to  obtain  authorisation  from  the
+right holders for the making of such copies unless such  authorisation  can
+be implied (e.g. content accessible to general public without  restrictions
+on the internet, open access).
+
+Some argue that the copies required for text and data mining are covered by
+the exception for temporary copies in Article 5.1 of Directive  2001/29/EC.
+Others consider that text and data mining activities  should  not  even  be
+seen as covered by copyright. None of this is clear,  in  particular  since
+text and data mining does not consist only of a single method, but  can  be
+undertaken in several different ways. Important questions also remain as to
+whether the main problems arising in  relation  to  this  issue  go  beyond
+copyright (i.e. beyond the necessity or not to obtain the authorisation  to
+use content) and relate rather to the need to obtain  "access"  to  content
+(i.e. being able to use e.g. commercial databases).
+
+A specific Working Group was set up on this issue in the framework  of  the
+"Licences for Europe" stakeholder dialogue. No consensus was reached  among
+participating stakeholders on either the problems to be  addressed  or  the
+results. At the same time, practical solutions to facilitate text and  data
+mining  of  subscription-based  scientific  content   were   presented   by
+publishers as an outcome of "Licences for Europe"[39]. In  the  context  of
+these discussions, other stakeholders argued that  no  additional  licences
+should be required to mine material  to  which  access  has  been  provided
+through a subscription agreement and considered that a  specific  exception
+for text and data mining should be introduced, possibly on the basis  of  a
+distinction between commercial and non-commercial.
+
+53. (a) [In particular if you are an end user/consumer or  an  institutional
+ user:] Have you experienced obstacles, linked to copyright, when trying  to
+ use text or data mining methods, including across borders?
+b) [In particular if you are  a  service  provider:]  Have  you  experienced
+ obstacles, linked to copyright, when providing services based  on  text  or
+ data mining methods, including across borders?
+c) [In particular if you are a right holder:] Have you experienced  specific
+ problems resulting from the use of text and  data  mining  in  relation  to
+ copyright protected content, including across borders?
+ NO OPINION.
+54. If there are problems, how would they best be solved?
+ N/A
+55. If your view is that a legislative solution is  needed,  what  would  be
+ its main elements? Which  activities  should  be  covered  and  under  what
+ conditions?
+
+
+It is my view that text or data mining does not require a permanent copy of
+the work(s) being mined; thus, if access is provided and/or temporary
+copies can be made, text or data mining is already covered by existing law.
+
+56. If your view is that a different solution is needed, what would it be?
+
+N/A
+
+57.  Are  there  other  issues,  unrelated  to  copyright,  that  constitute
+barriers to the use of text or data mining methods?
+
+Many websites make it unnecessarily hard to access their text, by hiding it
+in images or pdf files or flash animations. This is not only a problem for
+data mining but also for screen readers used by blind people.
+
+F. User-generated content
+
+Technological and service developments mean that citizens can copy, use and
+distribute content at little to no financial cost. As  a  consequence,  new
+types of online activities are developing rapidly, including the making  of
+so-called "user-generated content". While users can create totally original
+content, they can also take  one  or  several  pre-existing  works,  change
+something in the work(s), and upload the result on  the  Internet  e.g.  to
+platforms and blogs53. User-generated content  (UGC)  can  thus  cover  the
+modification of pre-existing works even if  the  newly-generated/"uploaded"
+work does not necessarily require a creative effort and results from merely
+adding, subtracting or associating some pre-existing content with other pre-
+existing content. This kind of activity is not "new" as such. However,  the
+development of social networking and social media sites that  enable  users
+to share content widely has vastly changed the scale of such activities and
+increased the potential economic impact for those holding rights in the pre-
+existing works. Re-use is no longer  the  preserve  of  a  technically  and
+artistically adept  elite.  With  the  possibilities  offered  by  the  new
+technologies, re-use is open to all,  at  no  cost.  This  in  turn  raises
+questions with regard to fundamental rights such the freedom of  expression
+and the right to property.
+
+A specific Working Group was set up on this issue in the framework  of  the
+"Licences for Europe" stakeholder dialogue. No consensus was reached  among
+participating stakeholders on either the problems to be  addressed  or  the
+results or even the definition of UGC. Nevertheless, a wide range of  views
+were presented as to the best way to respond to this phenomenon.  One  view
+was to say that a new exception is needed to cover UGC, in particular  non-
+commercial activities by individuals such  as  combining  existing  musical
+works with videos, sequences of photos,  etc.  Another  view  was  that  no
+legislative change is needed: UGC is flourishing, and licensing schemes are
+increasingly available (licence schemes concluded between rightholders  and
+platforms as well as micro-licences concluded between rightholders and  the
+users generating the content. In any event,  practical  solutions  to  ease
+user-generated content and facilitate micro-licensing for small users  were
+pledged by rightholders  across  different  sectors  as  a  result  of  the
+"Licences for Europe" discussions54.
+
+58. (a)  [In  particular  if  you  are  an  end  user/consumer:]  Have  you
+experienced problems
+when  trying  to  use  pre-existing  works  or  other  subject  matter   to
+disseminate new content
+
+http://ec.europa.eu/internal_market/copvriüht/docs/licences-for-europe/l3l
+I I3_ten-pledges_en.pdf
+on    the  Internet,   including  across     borders?
+b) [In particular if you are  a  service  provider:]  Have  you  experienced
+problems when users publish/disseminate  new  content  based  on  the  pre-
+existing works or other subject- matter  through  your  service,  including
+across borders?
+c) [In particular if you are a right holder:] Have you experienced  problems
+resulting from the way the users are  using  pre-existing  works  or  other
+subject-matter to disseminate new content on the Internet, including across
+borders?
+
+As an end user: YES. I have  seen  many  creative  works  based  on  other,
+copyrighted creative works being taken down  from  e.g.  YouTube,  even  in
+cases where  applicable  American  law  would  have  provided  a  fair  use
+exception (e.g. because the work was a parody).
+
+As an author: YES. I  found  a  diploma  thesis  online  that  contained  a
+substantial excerpt from course material I had  written.  I  contacted  the
+website operator and at first they  didn't  understand  what  I  wanted  (I
+wanted my Creative Commons license enforced, but they thought I wanted  the
+diploma thesis taken down - no doubt the  result  of  bad  experience  with
+other authors in the past).
+
+59. (a) [In particular if you are an end user/consumer or a  right  holder:]
+Have you experienced problems when trying to ensure that the work you  have
+created (on the basis of pre-existing works)  is  properly  identified  for
+online use? Are proprietary systems sufficient     in   this  context?  (b)
+[In particular if you are a service provider:] Do you provide possibilities
+for users that are publishing/disseminating the works they have created (on
+the basis of pre-existing works) through your service to properly  identify
+these works for online use?
+
+NO OPINION.
+
+60. (a) [In particular if you are an end user/consumer or a right  holder):]
+Have you experienced problems when trying to be remunerated for the use  of
+the work you have created (on the basis of pre-existing works)?
+(b) [In  particular  if  you  are  a  service  provider:]  Do  you  provide
+remuneration schemes for users publishing/disseminating the works they have
+created (on the basis of pre-existing works) through your service?
+
+NO. In all cases where I created works on the basis of pre-existing  works,
+both the original work and my derived work were covered by a free  license,
+so that I was neither automatically entitled to remuneration nor did I seek
+it.
+
+However, I believe it would prove problematic for me to  collect  donations
+from users of my creative works, from a tax perspective.
+
+61. If there are problems, how would they best be solved?
+
+National tax laws should be updated to allow creators of  free/libre  works
+(e.g. free software, Creative Commons licensed art etc.) to easily  collect
+donations from end-users; for example, such donations could be treated like
+royalties from a tax perspective.
+
+Authors of free/libre works should  not  have  to  pay  a  portion  of  the
+proceeds to the national rights  management  outfit.  The  basis  for  such
+levies is  that  the  rights  management  outfit  would  help  enforce  the
+copyright of the author, which is in the interest of the author; therefore,
+it is fair for the author to pay for this service. However, in the case  of
+free/libre works, copyright doesn't serve the interests of the  author;  it
+serves the public interest, and
+
+therefore any enforcement on the part of the rights  management  outfit  is
+also in the public interest, not in the interest of the author. It would be
+unfair to have the author pay for it.
+
+Also see my reply to question 80.
+
+62. If your view is that a legislative solution is  needed,  what  would  be
+its main elements? Which  activities  should  be  covered  and  under  what
+conditions?
+
+It is in the public interest to  allow  derivative  creative  works  to  be
+created, and this interest  should  outweigh  the  financial  interests  of
+rightsholders. However, there must be reasonably high bar for a  derivative
+work to be considered original  enough  to  warrant  an  exception  to  the
+copyright of the  original  work(s).  Fair  use  exceptions  (such  as  for
+parodies) should of course apply too.
+The extent to which trademarks or patents can tresspass on fair use  rights
+should be limited somehow (e.g. if the name of Gandalf is  trademarked,  it
+should still be possible and legal for authors of  not-for-profit  Lord  of
+the Rings fan fiction to include the character in their works).
+
+63. If your view is that a different solution is needed, what would it be?
+NA
+
+                     IV. Private copying and reprography
+
+Directive 2001/29/EC enables Member States to implement in  their  national
+legislation exceptions or limitations to the reproduction right for  copies
+made for private use and photocopying[40]. Levies are  charges  imposed  at
+national level on goods typically used  for  such  purposes  (blank  media,
+recording equipment, photocopying machines, mobile listening  devices  such
+as  mp3/mp4  players,  computers,  etc.)  with  a  view   to   compensating
+rightholders for the harm they suffer when copies are  made  without  their
+authorisation by certain categories of persons (i.e. natural persons making
+copies for their private use) or through use  of  certain  technique  (i.e.
+reprography). In that context, levies are important for rightholders.
+
+With the constant developments in digital technology, the  question  arises
+as to  whether  the  copying  of  files  by  consumers/end-users  who  have
+purchased content online - e.g. when a person has bought an  MP3  file  and
+goes on to store multiple copies of that file (in her computer, her  tablet
+and her mobile phone) - also triggers, or should trigger,  the  application
+of private copying levies. It is argued that, in some cases,  these  levies
+may indeed be claimed by rightholders whether or not the licence  fee  paid
+by the service provider already covers copies made by the  end  user.  This
+approach could potentially lead to instances  of  double  payments  whereby
+levies could be claimed on top of service providers' licence fees5657.
+There is also an on-going discussion as to the application or not of levies
+to certain types of  cloud-based  services  such  as  personal  lockers  or
+personal video recorders.
+64. In your view, is there a need to clarify at the EU level the  scope  and
+ application of the private copying and reprography  exceptions[41]  in  the
+ digital environment?
+
+ As indicated before, I believe that it is no longer fair  to  bargain  away
+ the right of the public to create private copies, like it was 70 years  ago
+ (when copying,  especially  in  bulk,  was  only  available  to  commercial
+ enterprises). The copyright bargain should be amended so that, once  again,
+ copyright would be gone from people's living rooms and all  the  activities
+ an average person would want to engage in would automatically be legal.
+
+ Therefore, copyright should be reformed  so  that  private,  non-commercial
+ copying is simply not restricted anymore. This would just  codify  reality,
+ where people copy everything anyway; criminalising this just creates a huge
+ disconnect between what people experience as natural and what the  law  is,
+ which I think is bad for society as a  whole.  Laws  should  mostly  forbid
+ things that are intuitively wrong, and sharing culture is hardly wrong. Joe
+ Average should not be required to know or understand copyright in order  to
+ live his life legally.
+
+ An "illegal" copy does not equal a lost sale (see e.g. this report  by  the
+ US Government  Accountability  Office:  http://www.gao.gov/products/GAO-10-
+ 423); in fact copies can be seen as promoting uncopiable experiences,  such
+ as live performances in the case of music, which is probably why the income
+ of Scandinavian musicians increased markedly  since  the  advent  of  file-
+ sharing. Additionally, a greater variety of art (especially music)  is  now
+ available than before, when record labels controlled the supply.
+
+ Copies of many forms of art have become or are becoming, de  facto,  almost
+ free, so that businesses have to find  ways  of  making  money  other  than
+ selling copies. Thinking of copies  as  marketing  material  that  draws  a
+ concert audience seems to have worked for many musicians.
+
+65. Should digital copies made by end users  for  private  purposes  in  the
+ context of a service that has been licensed by rightholders, and where  the
+ harm  to  the  rightholder  is  minimal,  be  subject  to  private  copying
+ levies?[42]
+
+ If private copying were explicitly legal (in the  interest  of  the  public
+ good), then there would be no  justification  for  private  copying  levies
+ either, and this question would not even  arise.  I  think  this  would  be
+ desirable. Private copying levies cannot be expected to keep pace with  the
+ rate at which the amount of digital storage available to an  individual  is
+ increasing. Soon, it will be quite practicable to  carry  around  e.g.  all
+ music published since 1950 in one's pocket. This means that for every  Euro
+ of copying levy, people will be able  to  place  more  and  more  protected
+ "content" on their storage media. The logical conclusion is  that  after  a
+ point, levies will be negligible compared to the amount of "illegal" copies
+ stored and their alleged "worth" (due to the ease of creating copies, their
+ actual worth will be close to zero). The only sensible thing seems to be to
+ do away with these levies altogether; they only serve to help  conserve  an
+ obsolescent business  model  founded  on  the  commercial  distribution  of
+ copies. I predict that in a few decades it will be impossible to  make  any
+ substantial amount of money from selling  copies,  levies  notwithstanding.
+ Therefore, we should give the physical distribution businesses some  finite
+ time to finally adapt to the changed times (maybe 5 more  years)  and  then
+ abolish restrictions on private, not-for-profit copying completely.
+
+
+66. How would changes in levies with respect to the  application  to  online
+ services (e.g. services based on cloud computing  allowing,  for  instance,
+ users to have copies on  different  devices)  impact  the  development  and
+ functioning of new business models on  the  one  hand  and  rightholders  '
+ revenue on the other?
+
+ Currently, outdated copyright regulations are  acting  as  a  handbrake  on
+ innovation. For example, streaming and "making available for download"  are
+ often treated differently whereas they are the same thing (a stream can  be
+ stored instead of playing it back immediately). Innovating in this area  is
+ risky because if a new technology is perceived as  "facilitating  copyright
+ infringement" (i. e. private copying), the innovator can face  heavy  fines
+ or  even  jail  time  (authors  of  popular,  innovative  p2p  file-sharing
+ applications have been prosecuted even though they didn't infringe anyone's
+ copyrights, as have the authors of  Mulve,  a  search  engine  for  Russian
+ social       networking       website       ВКонтакте;       see       e.g.
+ http://torrentfreak.com/police-arrest-operators-of-mulve-downloading-app-
+ 101008/).
+
+ While publishers' revenue might decrease if copying restrictions were  more
+ lax (this  is  far  from  certain,  but  it's  possible),  their  financial
+ interests cannot be as important as the public interest, which is  ease  of
+ access to  culture.  The  financial  interests  of  rightsholders  must  be
+ protected only to the extent that a sufficient number of them are  able  to
+ make a decent living for new creative  works  to  keep  being  created  and
+ published.
+67. Would you see an added value in making levies visible  on  the  invoices
+ for products subject to levies?[43]
+
+ YES. It would allow consumers to see how much they are paying to support an
+ obsolescent business model. Increasing the visibility of these levies would
+ lead to a more informed public debate about the future of copyright.
+
+ Diverging national systems levy  different  products  and  apply  different
+ tariffs. This results in obstacles to the free  circulation  of  goods  and
+ services in the Single  Market.  At  the  same  time,  many  Member  States
+ continue to allow the indiscriminate application of private copying  levies
+ to all transactions irrespective of the person to whom the product  subject
+ to a levy is sold (e.g. private person or business). In that  context,  not
+ all Member States have ex  ante  exemption  and/or  ex  post  reimbursement
+ schemes which could remedy these situations and reduce the number of  undue
+ payments[44].
+
+68. Have you  experienced  a  situation  where  a  cross-border  transaction
+ resulted in undue levy payments, or duplicate payments of the same levy, or
+ other obstacles to the free movement of goods or services?
+
+ UNCERTAIN.
+
+69. What percentage of products subject to a levy is sold to  persons  other
+ than natural persons for purposes clearly unrelated to private copying?  Do
+ any of those transactions result  in  undue  payments?  Please  explain  in
+ detail the example you provide (type  of  products,  type  of  transaction,
+ stakeholders, etc.).
+
+
+ I have no idea as to the actual percentage, but  a  substantial  amount  of
+ e.g. optical media is sold to companies (and individuals!) who use them  to
+ archive their own data and not to store  "illegal"  copies  of  copyrighted
+ material.
+ Additionally, it is entirely possible and legal to obtain such  media  from
+ EU member states where the levies are  lowest  (as  it  should  be),  which
+ distorts the levy system.
+
+70. Where such undue payments  arise,  what  percentage  of  trade  do  they
+ affect?  To  what  extent  could  a  priori  exemptions  and/or   ex   post
+ reimbursement schemes existing in some Member States  help  to  remedy  the
+ situation?
+
+ As noted above, I believe all such levies should be abolished as they  will
+ necessarily become less and less effective anway, to the point  where  they
+ will be completely meaningless.
+71. If you have identified specific problems with  the  current  functioning
+ of the levy system, how would these problems best be solved?
+
+ Abolish levies. Legalise private, not-for-profit copying. Force the content
+ industry to move with the times, in the name of public interest.
+
+               V. Fair remuneration of authors and performers
+ The EU copyright acquis recognises for authors and performers a  number  of
+ exclusive rights and, in the case  of  performers  whose  performances  are
+ fixed in phonograms, remuneration rights. There are few provisions  in  the
+ EU  copyright  law  governing  the  transfer  of  rights  from  authors  or
+ performers to producers[45] or determining who the owner of the  rights  is
+ when the work or other subject matter is  created  in  the  context  of  an
+ employment contract[46]. This is an area that has been  traditionally  left
+ for Member States to regulate and  there  are  significant  differences  in
+ regulatory approaches. Substantial differences also exist between different
+ sectors of the creative industries.
+
+ Concerns continue  to  be  raised  that  authors  and  performers  are  not
+ adequately remunerated, in particular but not  solely,  as  regards  online
+ exploitation. Many consider that the  economic  benefit  of  new  forms  of
+ exploitation is not being  fairly  shared  along  the  whole  value  chain.
+ Another commonly raised issue concerns contractual  practices,  negotiation
+ mechanisms, presumptions of transfer of rights,  buy-out  clauses  and  the
+ lack of possibility to terminate contracts. Some stakeholders  are  of  the
+ opinion that rules at national  level  do  not  suffice  to  improve  their
+ situation and that action at EU level is necessary.
+
+ 72. [In particular if you  are  an  author/performer:]  What  is  the  best
+ mechanism (or combination of mechanisms) to  ensure  that  you  receive  an
+ adequate remuneration for the exploitation of your works and performances?
+
+ In the medium term, it will be hopeless to  make  money  trying  to  charge
+ people for copies of musical recordings except for very  successful,  high-
+ profile musicians. The copy, being easy to produce  at  no  cost,  will  be
+ practically worthless. Musicians will have to find other sources of  income
+ (such as concert tickets) and think of recordings as  a  way  of  promoting
+ their concerts. It will likely no longer be possible to  become  fabulously
+ rich by being a famous  musician,  but  on  the  other  hand  perhaps  more
+ musicians will be able to make a decent living.
+
+
+ The role of publishers and other intermediaries will (and should) diminish;
+ there is no longer a need for publishers to control the supply of music  as
+ the Internet and social networking allow people to find what they like  and
+ pay the artists directly. Additionally, national and EU level grants  could
+ be set up to finance music with high  artistic  value  but  low  commercial
+ potential/success. (Also see my reply to question 80.)
+
+ I am (among other  things)  a  technical  writer  and  lecturer/instructor.
+ Trying to sell  my  course  material  directly  is  not  something  I  have
+ seriously considered. Since it is most useful to the students in electronic
+ form, I publish it online under a Creative Commons license for all  to  see
+ and consider it a form of promoting  my  lectures.  When  I  get  hired  to
+ lecture, I'm the guy who wrote all that awesome, free course  material  and
+ am probably able to charge  more  than  other  lecturers  who  can't  claim
+ authorship of a useful online resource.
+73. Is there a need to act  at  the  EU  level  (for  instance  to  prohibit
+ certain clauses in contracts)?
+
+ YES. Music publishers (nowadays especially  iTunes)  have  disproportionate
+ power when negotiating contracts with artists. Some  clauses  are  directly
+ harmful to the interests of artists and should be prohibited; for  example,
+ it should be very hard to make music recordings "work for hire". It  should
+ be  difficult  or  impossible  for   copyright   to   transfer   from   the
+ composer/performer  to  a   publisher,   especially   indefinitely   and/or
+ exclusively.
+
+ Great transparency is needed to make sure publishers don't swindle  artists
+ (see e.g. the high profile  case  where  a  number  of  big  record  labels
+ "forgot" to pay artists for songs included in  compilation  CDs  (see  e.g.
+ http://www.dmwmedia.com/news/2009/12/08/artists-sue- canadi an-label s-over-
+ compilati on-album s).
+
+74. If you consider that the current rules are  not  effective,  what  would
+ you suggest to address the shortcomings you identify?
+
+ See my reply to questions 72 and 73.
+
+                           VI. Respect for rights
+Directive 2004/48/EE[47] provides for a harmonised framework for the  civil
+enforcement  of  intellectual  property  rights,  including  copyright  and
+related rights. The Commission has  consulted  broadly  on  this  text[48].
+Concerns have been raised as to whether some of its  provisions  are  still
+fit to ensure a proper respect for copyright in the digital age. On the one
+hand, the current measures seem to be insufficient to  deal  with  the  new
+challenges brought by the dissemination of digital content on the internet;
+on the other hand, there are concerns about  the  current  balance  between
+enforcement of copyright and  the  protection  of  fundamental  rights,  in
+particular the right for a private  life  and  data  protection.  While  it
+cannot be contested that enforcement measures should always be available in
+case of infringement of copyright, measures could be proposed to strengthen
+respect for copyright when the infringed content is used for  a  commercial
+purpose[49]. One means to do this could be to clarify the role
+
+of intermediaries in the IP infrastructure[50]. At  the  same  time,  there
+could be clarification of the safeguards for respect of  private  life  and
+data protection for private users.
+
+75. Should  the  civil  enforcement  system  in  the  EU  be  rendered  more
+ efficient for  infringements  of  copyright  committed  with  a  commercial
+ purpose?
+
+ YES. Injunctive relief should be readily available, across borders, against
+ parties that profit from  illegal  distribution  of  creative  works  on  a
+ commercial scale.
+
+ This must not, however, include authors of software used to commit the
+ infringement, or operators of a website 3rd parties use for infringement,
+ unless these people personally profit from the infringement and/or they
+ specifically market the software or the website as a means of obtaining
+ copyrighted content.
+
+76. In particular, is the current legal framework clear enough to allow  for
+ sufficient  involvement  of  intermediaries  (such  as   Internet   service
+ providers, advertising brokers,  payment  service  providers,  domain  name
+ registrars, etc.) in  inhibiting  online  copyright  infringements  with  a
+ commercial purpose? If not, what measures would be  useful  to  foster  the
+ cooperation of intermediaries?
+
+ Intermediaries should only be required to cooperate if so ordered by a
+ court. There should be a process by which a court order of the appropriate
+ jurisdiction can be easily obtained if one exists for a different
+ jurisdiction. This depends on copyright law being largely harmonised across
+ the EU.
+
+ Intermediaries should never be liable for copyright  infringements  of  3rd
+ parties.
+
+77. Does the current civil  enforcement  framework  ensure  that  the  right
+ balance is achieved between the right to have one's copyright respected and
+ other rights such as the protection  of  private  life  and  protection  of
+ personal data?
+
+ NO. We're seeing a push by the content industry to force internet service
+ providers to become "copyright cops": listen in on traffic and stop or
+ report suspected infringements (see e.g. <http://torrentfreak.com/isp-
+ secret-anti-bittorrent-piracy-talks-are-failing-120322/>,
+ <http://torrentfreak.com/music-industry-threaten-openbittorrents-new-
+ hosting-provider- 100711/>, <https://www.eff.org/deeplinks/2012/08/tpp-
+ creates-liabilities-isps-and-put-your- rights-risk> or
+ <http://torrentfreak.com/prs-wants-isps-to-pay-for-pirating-customers-
+ 100714/>). This push has been at least partially successful in e.g. the UK.
+ This goes too far. The right to privacy is much more important and
+ fundamental than copyright.
+
+ The solution is, again, the complete legalisation of non-commercial private
+ copying, which happens on a large scale anyway and is impossible  to  stop.
+ This would make the entire issue moot.
+
+                      VII. A single EU Copyright Title
+ The idea of establishing a unified EU Copyright Title has been  present  in
+ the copyright debate for quite some time now,  although  views  as  to  the
+ merits and the feasibility of such an objective are divided. A  unified  EU
+ Copyright Title would totally harmonise the area of copyright law in the EU
+ and replace national laws. There would then be a single EU title instead of
+ a bundle of national rights. Some see this as the only manner  in  which  a
+ truly Single Market for content protected  by  copyright  can  be  ensured,
+ while others believe that the
+
+ same objective can better be achieved by establishing  a  higher  level  of
+ harmonisation while allowing  for  a  certain  degree  of  flexibility  and
+ specificity in Member States' legal systems.
+
+78. Should the EU pursue the establishment of a single EU  Copyright  Title,
+ as a means of establishing a consistent framework for rights and exceptions
+ to copyright across the EU, as well as a single framework for enforcement?
+
+ YES. However, it should all strcitly happen in the public interest, not  in
+ the interest of the entertainment industry (domestic or American).
+
+79. Should this be the next step in the development of copyright in the  EU?
+ Does the current level of difference among  the  Member  State  legislation
+ mean that this is a longer term project?
+
+ N/Ā
+
+                             VIII. Other issues
+The above questionnaire aims to provide a comprehensive consultation on the
+most important matters relating to  the  current  EU  legal  framework  for
+copyright. Should  any  important  matters  have  been  omitted,  we  would
+appreciate if you could bring  them  to  our  attention,  so  they  can  be
+properly addressed in the future.
+
+ 80. ^re there any other important matters related to the EU legal framework
+ for copyright? Please explain and  indicate  how  such  matters  should  be
+ addressed.
+
+ Several issues come to mind. Please see below.
+
+                       Why does copyright even exist?
+The most fundamental issue is what the point of copyright is (I touched  on
+this  briefly  before).  I  would  like  to  quote  Richard  M.  Stallman's
+"Misinterpreting  Copyright  -  A  Series  of  Errors"   (downloaded   from
+httpy/www.gnu.org/philosophy/misinterpreting-copyright.html),   because   I
+agree with it and couldn't say it  better.  Note  that  while  the  USA  is
+mentioned in several places, the same principles apply or should  apply  to
+the EU as well.
+
+     "When the US Constitution was  drafted,  the  idea  that  authors  were
+     entitled  to  a  copyright  monopoly  was  proposed—and  rejected.  The
+     founders of our country adopted a different premise, that copyright  is
+     not a natural right of authors, but an artificial  concession  made  to
+     them for the sake of progress. The Constitution gives permission for  a
+     copyright system with this paragraph (Article I, Section 8):
+
+       [Congress shall have the power] to promote the  Progress  of  Science
+       and the useful Arts, by securing for limited  Times  to  Authors  and
+       Inventors the  exclusive  Right  to  their  respective  Writings  and
+       Discoveries.
+     The Supreme Court has repeatedly affirmed that promoting progress means
+     benefit for the users of copyrighted works. For example, in Fox Film v.
+     Doyal, the court said,
+
+       The sole interest of the United States  and  the  primary  object  in
+       conferring the [copyright]  monopoly  lie  in  the  general  benefits
+       derived by the public from the labors of authors.
+
+     This fundamental decision explains why copyright is not required by the
+     Constitution, only permitted as an option—and why  it  is  supposed  to
+     last for "limited times." If copyright were a natural right,  something
+     that authors have  because  they  deserve  it,  nothing  could  justify
+     terminating this right after a certain period of time,  any  more  than
+     everyone's house should become public property after a certain lapse of
+     time from its construction.
+
+
+The "copyright bargain"
+    The copyright system works by providing privileges and thus benefits to
+    publishers and authors; but it does not do this for their sake. Rather,
+    it does this to modify their behavior:  to  provide  an  incentive  for
+    authors to write more and  publish  more.  In  effect,  the  government
+    spends the public's natural rights, on the public's behalf, as part  of
+    a deal to bring the public more published works.  Legal  scholars  call
+    this concept the "copyright bargain." It is like a government  purchase
+    of a highway or an airplane using taxpayers'  money,  except  that  the
+    government spends our freedom instead of our money.
+    But is the bargain as it exists actually a good deal  for  the  public?
+    Many alternative bargains are possible; which one is best? Every  issue
+    of copyright policy is part of this question. If we  misunderstand  the
+    nature of the question, we will tend to decide the issues badly.
+    The Constitution authorizes granting copyright powers  to  authors.  In
+    practice, authors typically cede them to publishers; it is usually  the
+    publishers, not the authors, who exercise these powers and get most  of
+    the benefits, though authors may  get  a  small  portion.  Thus  it  is
+    usually the publishers that lobby  to  increase  copyright  powers.  To
+    better reflect the reality of copyright  rather  than  the  myth,  this
+    article refers to publishers rather than  authors  as  the  holders  of
+    copyright powers. It also refers to the users of copyrighted  works  as
+    "readers," even though using them does not always mean reading, because
+    "the users" is remote and abstract.
+
+The first error: "striking a balance"
+    The copyright bargain places the public first: benefit for the  reading
+    public is an end in itself; benefits (if any) for publishers are just a
+    means toward that end. Readers' interests and publishers' interests are
+    thus  qualitatively  unequal   in   priority.   The   first   step   in
+    misinterpreting the purpose  of  copyright  is  the  elevation  of  the
+    publishers to the same level of importance as the readers.
+    It is often said that US copyright law is meant to "strike  a  balance"
+    between the interests of publishers and readers. Those  who  cite  this
+    interpretation present it as a restatement of the basic position stated
+    in the Constitution; in other words, it is supposed to be equivalent to
+    the copyright bargain.
+    But the two interpretations are far from equivalent; they are different
+    conceptually, and different in their implications. The balance  concept
+    assumes  that  the  readers'  and  publishers'  interests   differ   in
+    importance only quantitatively, in how much weight we should give them,
+    and in what actions they apply to. The  term  "stakeholders"  is  often
+    used to frame the issue in this way;  it  assumes  that  all  kinds  of
+    interest in a policy decision are equally important. This view  rejects
+    the  qualitative  distinction  between  the  readers'  and  publishers'
+    interests which is at the root of the government's participation in the
+    copyright bargain.
+    The consequences of this alteration are far-reaching, because the great
+    protection for the  public  in  the  copyright  bargain—the  idea  that
+    copyright privileges can be justified only in the name of the  readers,
+    never in the name of  the  publishers—is  discarded  by  the  "balance"
+    interpretation. Since the interest of the publishers is regarded as  an
+    end in itself, it can justify copyright privileges; in other words, the
+    "balance" concept says that privileges can be justified in the name  of
+    someone other than the public.
+    As a practical matter, the consequence of the "balance" concept  is  to
+    reverse the burden of justification for changes in copyright  law.  The
+    copyright bargain places the burden on the publishers to  convince  the
+    readers to cede certain freedoms. The concept of balance reverses  this
+    burden, practically speaking, because there is generally no doubt  that
+    publishers will benefit from additional privilege. Unless harm  to  the
+    readers can be proved, sufficient to "outweigh" this  benefit,  we  are
+    led to  conclude  that  the  publishers  are  entitled  to  almost  any
+    privilege they request.
+    Since the idea of "striking a balance" between publishers  and  readers
+    denies the readers the primacy they are entitled to, we must reject it.
+
+Balancing against what?
+    [...]
+    In the copyright bargain, the government spends our freedom instead  of
+    our money. Freedom is more precious than money, so  [the]  government's
+    responsibility to spend our freedom wisely and frugally is even greater
+    than its responsibility to spend our money thus. Governments must never
+    put the publishers' interests on a par with the public's freedom.
+
+
+Not "balance" but "trade-off"
+    The idea of balancing the readers' interests against the publishers' is
+    the wrong way to judge copyright  policy,  but  there  are  indeed  two
+    interests to be weighed: two interests of the readers. Readers have  an
+    interest in their own freedom in using published  works;  depending  on
+    circumstances,  they  may  also  have  an   interest   in   encouraging
+    publication through some kind of incentive system.
+    The word "balance," in discussions of copyright, has come to  stand  as
+    shorthand for the idea of "striking a balance" between the readers  and
+    the publishers. Therefore, to use the word "balance" in regard  to  the
+    readers' two interests would be confusing. We need another term.
+    In general, when one party has two  goals  that  partly  conflict,  and
+    cannot completely achieve both of them, we  call  this  a  "trade-off."
+    Therefore, rather than speaking of "striking the right balance" between
+    parties, we should  speak  of  "finding  the  right  trade-off  between
+    spending our freedom and keeping it." [...]
+
+The second error: maximizing one output
+    The second mistake in copyright policy consists of adopting the goal of
+    maximizing—not just increasing —the  number  of  published  works.  The
+    erroneous concept of "striking a balance" elevated  the  publishers  to
+    parity with the readers; this second error places them  far  above  the
+    readers.
+    When we purchase something, we [...] generally [...] conserve funds for
+    other purchases, by buying only what we need of  any  particular  good,
+    and choosing a model of sufficient rather  than  highest  quality.  The
+    principle of diminishing returns suggests that spending all  our  money
+    on one particular good is [...] inefficient [...].
+    Diminishing returns applies to copyright just as to any other purchase.
+    The first freedoms we should trade away are those we  miss  the  least,
+    and whose sacrifice gives the largest encouragement to publication.  As
+    we trade additional freedoms that cut closer to home, we find that each
+    trade is a bigger sacrifice than the last,  while  bringing  a  smaller
+    increment in literary activity. Well before the increment becomes zero,
+    we may well say it is not worth its incremental price;  we  would  then
+    settle on a bargain whose overall result is to increase the  amount  of
+    publication, but not to the utmost possible extent.
+    Accepting the goal of maximizing publication rejects all  these  wiser,
+    more advantageous bargains in advance—it dictates that the public  must
+    cede nearly all of its freedom to  use  published  works,  for  just  a
+    little more publication.
+
+The rhetoric of maximization
+    In practice, the goal of maximizing publication regardless of the  cost
+    to freedom is supported  by  widespread  rhetoric  which  asserts  that
+    public copying is illegitimate, unfair, and intrinsically wrong. [... ]
+    The "pirate" rhetoric is typically accepted because it so pervades  the
+    media that few people realize  how  radical  it  is.  It  is  effective
+    because if copying by the public is fundamentally illegitimate, we  can
+    never object to the publishers' demand that we surrender our freedom to
+    do so. In other words, when  the  public  is  challenged  to  show  why
+    publishers should not receive some additional power, the most important
+    reason of all — "We  want  to  copy"  —  is  disqualified  in  advance.
+    [emphasis added]
+    This leaves no way to argue against increasing copyright  power  except
+    using side issues. Hence, opposition to stronger copyright powers today
+    almost exclusively cites side issues, and never dares cite the  freedom
+    to distribute copies as a legitimate public value.
+    As a practical matter, the goal of maximization enables  publishers  to
+    argue that "A certain practice is reducing our  sales—or  we  think  it
+    might—so we presume it diminishes publication by some  unknown  amount,
+    and therefore it should be prohibited." We are led  to  the  outrageous
+    conclusion that the public good is measured by publishers' sales[...].
+
+The third error: maximizing publishers' power
+    Once the  publishers  have  obtained  assent  to  the  policy  goal  of
+    maximizing publication output at any cost, their next step is to  infer
+    that this requires  giving  them  the  maximum  possible  powers—making
+    copyright cover every imaginable use of a work, or applying some  other
+    legal tool such as "shrink wrap" licenses to  equivalent  effect.  This
+    goal, which entails the abolition of "fair use" and the "right of first
+    sale," is being pressed at every available level  of  government,  from
+    states of the US to international bodies.
+
+
+    This step is erroneous because  strict  copyright  rules  obstruct  the
+    creation of useful new works. For instance,  Shakespeare  borrowed  the
+    plots of some of his plays  from  works  others  had  published  a  few
+    decades before, so if today's copyright law had  been  in  effect,  his
+    plays would have been illegal.
+    Even if we wanted the highest possible rate of publication,  regardless
+    of cost to the public, maximizing publishers' power is the wrong way to
+    get it. As a means of promoting progress, it is self-defeating.
+
+The results of the three errors
+    The current trend  in  copyright  legislation  is  to  hand  publishers
+    broader powers for longer periods of  time.  The  conceptual  basis  of
+    copyright, as it emerges distorted from the series  of  errors,  rarely
+    offers a basis for saying no. Legislators give lip service to the  idea
+    that copyright serves the  public,  while  in  fact  giving  publishers
+    whatever they ask for.
+    For example, here is what Senator Hatch said when introducing S. 483, a
+    1995 bill to increase the term of copyright by 20 years:
+       I believe we are now at such a point with respect to the question  of
+       whether  the  current  term  of  copyright  adequately  protects  the
+       interests of authors and the related question of whether the term  of
+       protection continues  to  provide  a  sufficient  incentive  for  the
+       creation of new works of authorship.
+    This bill extended the copyright on  already  published  works  written
+    since the 1920s. This change was  a  giveaway  to  publishers  with  no
+    possible benefit to the public, since there is no way to  retroactively
+    increase now the number of books published back then. Yet it  cost  the
+    public a freedom that is meaningful today—the freedom  to  redistribute
+    books from that era.
+    The bill also extended the copyrights of works yet to be  written.  For
+    works made for hire, copyright would  last  95  years  instead  of  the
+    present 75 years. Theoretically this would increase  the  incentive  to
+    write new works; but any publisher  that  claims  to  need  this  extra
+    incentive should be required  substantiate  the  claim  with  projected
+    balance sheets for 75 years in the future.
+[...]
+    Another law, passed in 1997, made it a felony to make sufficiently many
+    copies of any published work, even if you give  them  away  to  friends
+    just to be nice. Previously this was not a crime in the US at all.
+    An even worse law, the Digital Millennium  Copyright  Act  (DMCA),  was
+    designed to bring back copy protection (which computer users detest) by
+    making it a crime to break copy protection, or even publish information
+    about how to break it. This law ought to be called the  "Domination  by
+    Media Corporations Act" because it effectively  offers  publishers  the
+    chance to write their own copyright law. It says they  can  impose  any
+    restrictions whatsoever on the use of a work,  and  these  restrictions
+    take the force of law [emphasis added] provided the work contains  some
+    sort of encryption or license manager to enforce them.
+
+Finding the right bargain
+    What is the proper way to decide copyright policy? If  copyright  is  a
+    bargain made on behalf of  the  public,  it  should  serve  the  public
+    interest above all. The government's duty  when  selling  the  public's
+    freedom is to sell only  what  it  must,  and  sell  it  as  dearly  as
+    possible. At the  very  least,  we  should  pare  back  the  extent  of
+    copyright as much as possible while maintaining a comparable  level  of
+    publication.
+    Since we cannot find this minimum price in freedom through  competitive
+    bidding, as we do for construction projects, how can we find it?
+    One possible method is to reduce copyright privileges  in  stages,  and
+    observe the results. By seeing if and when  measurable  diminutions  in
+    publication occur, we will learn how much  copyright  power  is  really
+    necessary to achieve the public's  purposes.  We  must  judge  this  by
+    actual observation, not by what publishers  say  will  happen,  because
+    they have every incentive to make exaggerated predictions  of  doom  if
+    their powers are reduced in any way.
+    Copyright policy includes several independent dimensions, which can  be
+    adjusted separately. After we find the necessary minimum for one policy
+    dimension, it may still be  possible  to  reduce  other  dimensions  of
+    copyright while maintaining the desired publication level.
+
+
+     Another dimension of copyright policy is the extent of fair  use:  some
+     ways of reproducing all or part of a published work  that  are  legally
+     permitted even though it is copyrighted.  The  natural  first  step  in
+     reducing this dimension of copyright  power  is  to  permit  occasional
+     private small-quantity noncommercial  copying  and  distribution  among
+     individuals. This would eliminate the intrusion of the copyright police
+     into people's private lives, but would probably have little  effect  on
+     the sales of published works. (It may be necessary to take other  legal
+     steps to ensure that shrink-wrap licenses cannot be used to  substitute
+     for copyright in restricting such copying.) The experience  of  Napster
+     shows that we should also permit noncommercial verbatim  redistribution
+     to the general public—when so many of  the  public  want  to  copy  and
+     share, and find it so useful, only draconian measures will  stop  them,
+     and the public deserves to get what it wants.
+[...]
+     Changes like these could bring copyright into line  with  the  public's
+     wish to use digital technology to copy. Publishers will no  doubt  find
+     these proposals "unbalanced"; they may threaten to take  their  marbles
+     and go home, but they won't really do it, because the game will  remain
+     profitable and it will be the only game in town.
+     As we consider reductions in copyright power, we must make  sure  media
+     companies do not simply replace it with end-user license agreements. It
+     would  be  necessary  to  prohibit  the  use  of  contracts  to   apply
+     restrictions on  copying  that  go  beyond  those  of  copyright.  Such
+     limitations on what mass-market nonnegotiated contracts can require are
+     a standard part of the US legal system."
+I think it is time the EU made a stand and explicitly and  publicly  stated
+why copyright exists. Is its purpose to serve the public  interest?  Or  to
+serve the interests of  rightsholders  against  the  public  interest  (cf.
+"striking a balance")? I hope it's  the  former.  Unfortunately,  the  last
+decade or so of copyright legislation was mostly a largely unfettered land-
+grab by the publishing industry (it is worth pointing out that  if  today's
+publishing industry lobbyists had had their say, several things we take for
+granted      today      would       have       been       banned;       see
+<http://www.techdirt.com/articles/20100925/12401911168/a-look-at-the-
+technologies-industries-senators-leahy-     hatch-would-have-banned-in-the-
+past.shtml>). There have been very few legislative changes  that  benefited
+the end-user.
+
+              Differentiating between copyright and "copyleft"
+Copyright (esp. in connection with copyright  licenses)  can  currently  be
+used for one of two very  distinct  purposes:  1.  protecting  the  private
+interests of an author (or, much more frequently, a publisher), by  placing
+restrictions on  copying  and  the  production  of  derived  works;  or  2.
+protecting the interests of  the  general  public  by  explicitly  allowing
+copying, distribution and the creation of derived works  on  the  condition
+that copies and distributed derived works are distributed  under  the  same
+license, thereby guaranteeing the same freedoms to all users.  This  latter
+type of copyright license is commonly known as "copyleft"; notable examples
+of such licenses are the  GNU  General  Public  License  and  the  Creative
+Commons Attribution-ShareAlike license.
+I think it  would  be  reasonable  for  copyright  law  to  recognise  this
+distinction in the following way: the copyright on works distributed  under
+restrictive licenses (including the  case  where  no  explicit  license  is
+provided) should expire much sooner than the copyright on works distributed
+under "copyleft" licenses, because "copyleft" licensed  works  provide  the
+public with even greater benefits than works in the public domain:  a  work
+in the public domain can be  adapted  and  published  under  a  restrictive
+license, whereas when a work distributed  under  a  "copyleft"  license  is
+adapted, the adaptation can only be distributed under a free license,  thus
+granting the general public more freedoms.
+Considering this, and the fact that authors of  "copyleft"  licensed  works
+are essentially working directly for the public benefit, I  would  find  it
+reasonable for "copyleft" licenses to be enforced more strictly,  and  with
+more involvement of public law  enforcement,  than  conventional  copyright
+(where the rightsholder can be reasonably expected to step  up  himself  or
+herself in  order  to  protect  their  own  interests).  The  author  of  a
+"copylefted" work has comparatively little motivation to step up and expend
+even more of his or her own resources prosecuting  violators;  however,  in
+the case of such works, prosecuting violators is in the public interest.
+Once more, the key difference here is that "copyleft" licenses protect  the
+public interest, while traditional copyright protects a  private  interest.
+This fundamental difference, I think, merits different treatment in law  as
+well as its enforcement.
+
+
+                  The length of copyright protection terms
+As indicated earlier, I believe copyright protection  terms  are  much  too
+long. Allow me to share a personal anecdote. One of  my  great-grandfathers
+was a writer and playwright of some renown; a number of his plays are still
+being performed in theatres. Their copyright protection term hasn't expired
+yet because he passed away in 1964, less than 70 (or is it 90  now?)  years
+ago, but still more than a decade before I was born. Thus I obviously never
+knew him, or he me; it is unlikely that he  worked  because  he  wanted  to
+provide me with financial security. Throughout his career, he had many much
+more immediate problems: poverty; being imprisoned or having  to  flee  for
+his political views; and, occasionally, the prospect of starving along with
+his wife and four children.
+Still, theatres dutifully pay me (as the sole inheritor of his copyright) a
+few percent of their ticket income when they put his plays on.  Sadly,  I'm
+not sufficiently strong of character to refuse this  money  I'm  apparently
+entitled to, or to donate it to charities; however, I must  point  out  how
+unreasonable and unfair this state of affairs is.
+I'm pretty well off and can certainly make  a  living  even  without  these
+payments. (The income band where they would  make  the  difference  between
+being and not being able to make a living is very narrow.)
+I had no  part  in  the  creation  of  the  works  in  question,  not  even
+indirectly. I do little to promote them.
+The theatres are typically relatively poor.
+The artist who created these works suffered from poverty or  its  immediate
+prospect throughout his career.
+There probably are a number of other talented, notable artists  who  suffer
+similarly (and whose progeny  stands  to  benefit  from  their  labour  for
+decades after their death).
+Instead of having the theatres pay me (and others in my position), it would
+be better to use the  income  from  commercially  successful  art  to  help
+finance art and/or science that is not (yet) commercially successful but is
+of high artistic merit. Specifically, it  would  be  reasonable  to  divert
+royalty payments due people above a certain  income  level  to  a  communal
+culture fund of some sort even if no other change to the royalty system  is
+made.
+Of course, deciding what art merits support from the culture fund is  going
+to be fraught with controversy; some governments may attempt to abuse  such
+a system to supply artist  cronies  with  public  income  etc.  I  think  a
+possible way of avoiding this would  be  to  have  only  "foreign"  artists
+decide what "domestic" art to fund.
+Another potential problem with the current copyright system is that  I,  as
+the copyright inheritor, am allowed  to  block  publication  of  my  great-
+grandfather's works for any frivolous reason, thereby depriving the  public
+of these works. I think this power is too broad. While it may be  warranted
+in some cases to block the creation of certain derivative works (ones  that
+would, for example, be in such bad taste that they would reflect negatively
+on the memory of the original  author),  this  would  have  to  be  weighed
+against the protection of the freedom of expression. I'm undecided how this
+would be best resolved; perhaps some independent  arbitration  board  could
+adjudicate if necessary (but I don't know how to guarantee its independence
+of the publishing industry).
+I think it is reasonable to allow heirs to block publication of  works  the
+original author had never published, for quite a long time.
+On the whole, it seems that more differentiation than is currently possible
+would be beneficial. For example, the right to block the publication of so-
+far-unpublished works should expire later (probably decades later) than the
+right to collect royalties on publication of previously published works.
+It appears as though different genres should also  be  treated  differently
+(where, of course, classification of a specific work into a specific  genre
+may be difficult), based on how quickly works of a  genre  tend  to  return
+their investment. Hollywood blockbusters often make  more  money  on  their
+opening weekend than they cost  to  make;  therefore,  a  relatively  short
+copyright term of, say, 5-10 years seems reasonable  (it  still  gives  the
+studios plenty of time to make a profit). On the other hand, a longer  term
+may be warranted in e.g. poetry (where a single author has to  be  able  to
+make a living from selling his or her works).
+However, if we take a step back and ask ourselves what  the  point  of  the
+copyright monopoly is in the first place, a more elegant approach  presents
+itself. The copyright monopoly exists  because  artists  (as  well  as  the
+entertainment industry, whose output I would hesitate to unreservedly  call
+"art") need to be able to make a living in order to be able to produce  art
+(and then more art), and it is believed that this can be best guaranteed by
+giving authors exclusive distribution rights for a limited time. While  I'm
+not certain this assumption actually holds[51] (), let's go with it.
+
+
+If all we need to guarantee is that the copyright  monopoly  term  is  long
+enough to allow the author(s) to receive a sufficient amount of  money  for
+commercial  distribution,  then  we  could  dispense   with   genre   based
+differentiation and fixed copyright terms  altogether,  and  instead  focus
+only on allowing the artists (as well as involved 3 rd parties) to  make  a
+decent living. For example, a profit of 20-30% for works of industry or  an
+income of, say,  510  times  the  statutory  minimum  wage  for  individual
+artists, on average since first publication, seems  reasonable.  It  is  my
+understanding that Germany already has  similar  regulations  where  public
+procurement is concerned.
+After the author/publisher makes this much from monetising  a  work  (which
+would include income from merchandising, live performances, public  funding
+etc.  etc.),  exclusive  distribution  and  derivation  rights  granted  by
+copyright should expire, and the work should essentially enter  the  public
+domain. Additionally, the copyright monopoly should  also  expire  after  a
+fixed term of, say, 20 years after first publication unless  the  copyright
+holder can convincingly show that they need an extension in order to make a
+living (as  opposed  to  just  making  a  profit).  This  would  provide  a
+reasonable upper limit on the duration of the copyright monopoly while also
+allowing genuinely unsuccessful artists to keep trying  to  monetise  their
+work. An absolute maximum duration is also needed; 10 years after the death
+of the last living author of a work seems reasonable in almost  all  cases.
+(I  suppose  there  might  be  some  corner  cases  that  warrant   special
+treatment.)
+
+          The effects of a mandatory copyright registration regime
+Having to register creative works in order to obtain  copyright  protection
+for them would make copyright work more like patent law, and introduce many
+of the same problems into copyright.
+Let us consider the position of various players separately.
+Professional creative entity (e.g. writer, music publisher etc.) in the EU:
+obtaining copyright protection for new works  is  routine.  There  is  some
+associated cost which either decreases profits slightly or is passed on  to
+endusers. There is no tangible benefit for original works; it  justs  costs
+more to obtain the same protection they are awarded now.
+An advantage manifests if the work is not (wholly) original:  the  work  of
+amateurs who have failed to register their copyright can be re-used easily.
+The cost of creating semi-original works decreases.
+Professional  creative  entity  outside  the  EU:  either  the   EU   keeps
+recognising foreign copyrights without registration, in which  case  non-EU
+authors are put at  a  slight  advantage  because  they  receive  copyright
+protection automatically while domestic creators have to file paperwork  to
+get it; or the EU requires foreign creators to also register in  order  for
+their rights to be enforceable in the EU. I imagine the  latter  would  not
+play well with the US, in addition to being  incompatible  with  the  Berne
+Convention; additionally, what if every country in the world started  doing
+this?  Suddenly  you'd  have  to  register  your  copyright  in  dozens  of
+jurisdictions; maybe the Cayman Islands  would  make  it  so  difficult  or
+expensive to register there that almost nobody could do it  (maybe  require
+permanent residence?), and an offshore "piracy"  business  would  flourish,
+etc. etc. So I suppose requiring foreigners  to  register  is  out  of  the
+question; but then, why should domestic creators have a harder time of it?
+Copyright troll: depending on how exactly the legislation is worded,  maybe
+a new kind of copyright trolling would become profitable: find unregistered
+(and thus "de facto public domain") works, perhaps alter them in  minuscule
+ways if necessary, register the copyright, then sue the original author and
+anyone else who published it. No thanks; copyright already lends itself  to
+certain kinds of trolling (like threatening file-sharers with legal  action
+unless they pay up). Instead of giving parasites  more  ways  of  making  a
+profit, we should try to give them less.
+Semi-professional creator of not-for-profit works: suddenly it's no  longer
+enough to slap a Creative Commons license on your works to ensure they stay
+free. If you don't register your copyright (which costs time  and  probably
+also money), someone can produce a derived work and  make  it  proprietary.
+This is an  even  greater  problem  with  free  software:  any  proprietary
+software manufacturer could start adding proprietary extensions to e.g. GPL
+licensed software, and the license would no longer be able to  protect  the
+rights of the users because it would be unenforceable unless  the  original
+author registers their copyright. What if there are  hundreds  of  authors?
+(This can easily be the case with large open source projects.) Do they  all
+have to register? Either way, copyright registration would  be  a  disaster
+for free software and  a  major  inconvenience  for  the  authors  of  not-
+forprofit works; certainly fewer such works would  be  published,  and  the
+public would be poorer for it.
+Amateur: you post a holiday photo, or a picture  of  your  cat  or  kid  on
+Facebook, not thinking/knowing you have to do anything  to  stop  companies
+from using these pictures as they see fit. Such pictures are  harvested  by
+companies en masse and get added to stock photo collections, then  used  in
+advertising. Your kid could end  up  being  on  billboards  advertising  an
+alleged remedy for some awkward medical condition etc. Not good.
+
+
+On the whole,  it  appears  that  mandatory  copyright  registration  would
+chiefly benefit creators of certain classes of derivative works  and  would
+be detrimental to the legitimate interests of everyone else.
+
+               What is, and what is not a public performance?
+It is my understanding that in at least  some  member  states  of  the  EU,
+publishers  have  attempted  and  partly  succeeded  in  defining   "public
+performance" of music so broadly  that  even  the  music  a  private  phone
+exchange plays while the client waits to be connected qualifies, as well as
+ringtones of mobile phones. In the USA, a rights management outfit sort  of
+attempted to collect royalties for campfire songs sung by girl scouts  (see
+e.g.  http://www.nytimes.com/1996/12/17/nyregion/ascap-asks-royalties-from-
+girl-scouts-and-regrets-it.html). I'm actually surprised  that  it's  still
+legal to whistle popular tunes, without  paying  royalties,  while  walking
+along a street[52].
+I think the law should define "public performance" in a much narrower  way.
+Additionally, "performers" who are not paid for a "performance" should  not
+have  to  pay  royalties.  I  realise  this  gets  complicated  when   free
+performances of music are used to promote a later paid-for performance,  or
+when payment is not rendered directly for the performance but in a  fashion
+connected to it somehow, etc. Nevertheless, private individuals should  not
+normally have to consider paying  royalties  when  they  sing  or  play  an
+instrument as a hobby, even if they do this for some value of "publicly".
+
+                         Public funds, public domain
+If the public pays for the creation of a work, it is  only  fair  that  the
+public should be able to use the resulting work as freely  as  possible.  I
+think works produced using public financing (to an  extent  of,  say,  more
+than 15%) should be in the public domain (the US  has  a  similar  policy).
+This would include the text of laws; all  kinds  of  reports  published  by
+public agencies or governmental organisations; the text of court decisions;
+the minutes of parliament; standards published by publicly funded standards
+bodies; TV and radio programmes  paid  for  by  the  taxpayer;  news  items
+published by the government-run news agency; the web  pages  of  government
+bodies and public institutions; software  written  by  or  for  the  public
+sector; and so on.
+For example, in Hungary, the Academy of Sciences (which  of  course  mostly
+operates from public funding) drafted a new version of a set of  rules  for
+Hungarian  spelling  a  few  months  ago,  and  attempted   to   stop   its
+dissemination by claiming a copyright on it. I believe this  is  wrong  and
+shouldn't be allowed to happen. Likewise, if an internal memo of a  corrupt
+government agency is leaked by a whistleblower, the agency  should  not  be
+able to sue the newspapers that publish it for copyright infringement.  And
+so on.
+I'm not saying all works created using public funding should  automatically
+be published, just that they should not be copyrighted. It should still  be
+possible  to  classify  them  or  just  refrain  from  publishing  them  if
+necessary; but once they are public, they should be free to copy and use.
+Additionally, I believe that software written by or for the  public  sector
+should always be open source in addition to being in the public domain  (or
+licensed under a  strong  copyleft  license),  because  that  provides  the
+greatest benefit to the public. A good definition for software written "for
+the public sector' is needed to avoid having to make all software  used  by
+the public sector open source (although that would also have  benefits,  it
+would cause lobbyist outcry); a possible approach would be to check whether
+the software has a significant number of paying customers  in  the  private
+sector, or whether it was made to order from the public sector etc.
+As noted above, instead of such works being in the public domain, it  would
+be even better to have them copyrighted but licensed under a  strong,  free
+license (such as CC-BY-SA  or  GPLv3).  Of  course,  legislation  shouldn't
+mandate a specific license, just enumerate the main terms it must contain.
+In particular, it is important that the public's  right  to  use  something
+created using public financing isn't curbed by non-copyright rights of some
+third party, for example trademarks or patents; in  the  case  of  patents,
+whoever licenses the work for use  by  some  public  sector  entity  should
+automatically also license it to members of the general public who use  the
+publicly financed patented work (see GPLv3). In the case of trademarks, the
+public should be allowed to use the trademark if and only if  doing  so  is
+for some reason necessary to benefit from the publicly  financed  work;  if
+not, the public can always create a derived work that doesn't infringe  the
+trademark.
+
+
+Software procurement by the public sector
+As noted eariler, I think software written specifically  or  primarily  for
+the public sector should be either in the public domain, or licensed  under
+a strong open source license like the GPLv3.
+However, in addition to that, I think  it  would  be  beneficial  if,  when
+procuring software, the public sector would insist on favourable  copyright
+license terms in addition to specific features, support etc. In particular,
+it should insist on receiving the source code  as  well  as  the  right  to
+modify and distribute the  software.  This  doesn't  prejudice  proprietary
+software vendors because they are also free to provide their products under
+such licenses; they just typically choose not to.
+Such legislation exists in at least  Peru,  and  Peruvian  congressman  Dr.
+Edgar David Villaneuva Nuñez made a very persuasive case for it  before  it
+was passed; see e.g.   http://opensource.org/docs/peru_and_ms.php for
+an English translation.
+The benefits to the public would be manifold:
+1. In case the original vendor of the  software  goes  out  of  business  or
+   otherwise becomes uncooperative, it would still be possible  to  continue
+   development and support of the software, eliminating the need to purchase
+   a new solution at great cost.
+2. The source code could be audited in a crowd-sourced  fashion,  at  little
+to no cost to the public sector.
+
+3. Interoperability would be guaranteed by making  interface  specifications
+as well as implementation details
+   public.
+4. Competition would be spurned in the services  sector,  because  not  only
+   the original vendor would be able to provide the highest level of support
+   for the product.
+
+                         Rights management agencies
+The way common rights management agencies currently work  is  fraught  with
+controversy. For example, in some  cases,  not-for-profit  performances  of
+free music (either freely licensed  or  public  domain)  are  charged  with
+copyright enforcement  fees  that  are  then  redistributed  to  commercial
+performers or publishers; this must stop. Likewise, artists  are  currently
+disincentivised from releasing their works for free  download  because  (at
+least in Hungary) the rights  management  outfit  still  wants  to  collect
+license fees from them for each copy. It is  also  unnecessarily  (probably
+unreasonably) difficult to unsubscribe from the  common  rights  management
+system, especially en masse.
+Another area where these outfits tend to  receive  justified  criticism  is
+lack of transparency. I think copyright levies built  into  the  prices  of
+commercial goods, as well as royalties collected by the agencies, should be
+regarded as a form of taxation; proceeds should be accounted for completely
+transparently, with public oversight. Additionally, while I understand  the
+desire to "reimburse" commercially successful artists for supposed "losses"
+incurred due to "illegal" copying, I also think there are several important
+points which are currently ignored:
+a) it's far from certain that works that are  more  successful  commercially
+are also copied more;
+
+b) an  "illegal"  copy  does  not  equal  a  lost  sale  (contrary  to  what
+publishers commonly claim);
+c) having the most successful artists/publishers  benefit  from  the  levies
+   instead of using them to help finance commercially less successful art is
+   not in the public  interest.  The  commercially  successful  artists  are
+   already making a living; it would be better to use the levies to  promote
+   or finance art that has yet to (or will likely never) become commercially
+   successful, and/or art distributed under free licenses.
+Remember: all legislative decisions related to copyright should  always  be
+in the public interest. Copyright is not (or at  least  should  not  be)  a
+fundamental right; it is an arbitrary construct designed to induce  artists
+to create and publish works of art for the public benefit.
+In some instances, common rights management outfits like  GEMA  in  Germany
+are actively stifling the dissemination of culture[53]. For  example,  many
+YouTube videos that are freely viewable in the rest of the world have  been
+"Gema'd" (as Internet slang calls it) in Germany: German viewers can't  see
+them unless they resort to workarounds (of course, GEMA is trying to  shift
+the blame; see e.g. <http://torrentfreak.com/youtube-ordered-
+to-remove-illegal-copyright-blocking-notices-140226/>). This results in  no
+benefit to anyone (other than commercial VPN providers):
+1. It is highly doubtful that this practice increases "legal" sales  of  the
+   affected works. I think the opposite is likely true, as people who  don't
+   know the affected songs/videos will not get to know them and so will  not
+   buy  them,  or  other  records  of  the  musicians.  Sony  Music  CEO  of
+   International    Business    seems    to    agree    with     me;     see
+   <http://torrentfreak.com/sony-music-boss-censored-youtube-videos-cost-us-
+   millions-120224/>.
+2. In other  words,  GEMA  reduces  the  visibility  of  the  artists  whose
+interests it is supposedly representing;
+3. It doesn't take much to circumvent the GEMA filter  by  using  a  foreign
+   proxy or VPN, so that a person determined to "violate the rights  of  the
+   artist" can easily do so, rendering the measure largely ineffective;
+4. The German public's access to culture is diminished (Germans are  put  at
+   a disadvantage compared to most of the rest of the world);
+5. Members of the public who decide to  circumvent  the  GEMA  filter  waste
+   resources by doing work that shouldn't be necessary in the  first  place;
+   the work carried out by GEMA and Google  (YouTube)  is  also  essentially
+   wasted.
+6. YouTube is under pressure to filter more  broadly  than  necessary  (even
+   GEMA acknowledges this) because it wants to avoid infringments  it  could
+   be held liable for; the result is that even videos whose availability  in
+   Germany GEMA would not have legal grounds to object to are filtered.
+I realise the point could be made that Google would  unfairly  profit  from
+disseminating these copyrighted works without paying the musicians, but the
+end result of the quabble is not that the musicians  get  paid  but  rather
+that the general public is denied access to culture while the musicians get
+less exposure.
+I do not know for a fact whether this is the case, but I can  well  imagine
+that individual musicians are unable to have the GEMA filter  bypassed  for
+their own music, so that even if they would like to use YouTube to  promote
+their music without receiving payments  from  YouTube,  they  can't  do  so
+unless GEMA cooperates. Thus everyone loses.
+
+                             The YouTube problem
+The problem with YouTube in particular is a difficult one. Every one of the
+following factors is important to consider:
+    • Google is making a profit by selling advertisements that are displayed
+      alongside the videos.
+    • Google doesn't pay the creators of the videos if it can avoid it.  The
+      creators explicitly agree to this when they upload their videos.
+    • YouTube plays an  important  role  in  disseminating  culture  to  the
+      public, including a  vast  quantity  of  original  "content"  actually
+      created by the people who upload it. These people decide to make their
+      videos available to others for free  but  typically  can't  host  them
+      themselves.
+    • Google/YouTube doesn't charge the viewers for access to the videos.
+    • At the rate videos are being uploaded to YouTube, there is no feasible
+      way of making sure that the  uploaders  own  the  necessary  copyright
+      licenses to publish what they're uploading.  While  automatic  content
+      recognition helps, it will make mistakes; in particular it will not be
+      able to decide whether something is fair use or not.
+    • A substantial amount of YouTube videos  consist  mostly  of  "pirated"
+      material (e.g. a popular song with a  video  stream  consisting  of  a
+      sequence of barely relevant still images). There are also  many  mash-
+      ups  and  other  kinds  of  works  derived  from  copyright  protected
+      originals.
+    • It is unclear whether the artists whose  "content"  gets  uploaded  to
+      YouTube "illegally" make  more  or  less  money  as  a  result.  (It's
+      possible that the increased exposure helps them generate more  revenue
+      by other means; but it's also conceivable that their ability  to  sell
+      copies of their works diminishes.)
+    • It is unclear whether the publishers of this content make more or less
+      money as a result of it being available on YouTube. (Sony Music  seems
+      to think they make more; see <http://torrentfreak.com/sony- music-boss-
+      censored-youtube-videos-cost-us-millions-120224/>   and   the   linked
+      interviews with Sony Music executive.)
+
+
+    • Google does not market the YouTube service as a means of  distributing
+      copies of digital works without permission from the authors. Its  non-
+      infringing use is substantial  (depending  on  how  you  look  at  it,
+      probably much larger in volume than the infringing use).
+    • Google does not incentivise its users to commit copyright infringement
+      (e.g. by paying them for uploading popular videos).
+    • Making available for streaming and making available for  download  are
+      technologically the same. A client application  can  turn  a  download
+      into a stream or a stream into a download. The service provider has no
+      control over this as long as general purpose computers exist[54].
+    • It seems unfair to put outfits like GEMA into a  position  where  they
+      can decide that some videos should be unavailable in a country -  e.g.
+      by charging unrealistic amounts for their licensing. It even occurs to
+      me that they might influence the market by e.g. charging  Google  more
+      than some competing service, or vice versa.
+Publishers and rights management agencies believe that Google should either
+pay them for the "infringing" "content" YouTube users  upload  (and  Google
+profits  from  indirectly)  or  take  these  videos  down,  or  make   them
+unavailable in certain georgraphical regions (as if the Internet recognised
+borders), or some combination of these. "Infringing" is  typically  defined
+very  broadly,  with  little  or  no  regard  for  fair   use   (see   e.g.
+<http://torrentfreak.com/lawrence-lessig-wins-damages-for-bogus-youtube-
+takedown-140228> for a higher than usual profile case where a publisher had
+something taken down even though it was fair use).
+Several questions arise:
+1. Should Google be paying anybody? (e.g. the video creators;  the  artists;
+the publishers; the rights management agencies; the Holy See etc.)
+2. If yes, who should determine how much Google  should  pay?  (e.g.  market
+forces; publishers; legislators; rights management agencies; etc.)
+3. What factors should be considered when deciding how  much  Google  should
+pay? (E.g. flat annual fee; or a flat fee per video;  or  a  flat  fee  per
+view; or some fraction of the advertising revenue; or maybe there should be
+more expensive and less expensive videos; etc.)
+There is no immediately obvious "right" solution. It does seem unethical to
+allow Google to profit from the work of others without permission, even  if
+only indirectly; then again, maybe it's a win-win situation and the  artist
+who is being "ripped off' is actually being promoted at no  cost  to  them?
+(Surely this is the reason why many artists upload their own  "content"  to
+YouTube.) It also feels wrong - anachronistic - that Google should be  made
+to implement geographic restrictions on "content", or that GEMA  should  be
+allowed to dictate how much money Google has to pay in order to be  allowed
+to show videos to Germans.
+Since there appears to be no solution  that's  obviously  right,  maybe  we
+should instead consider what changes to the legal landscape would make  the
+problem moot.
+If Google were explicitly not liable for the  behaviour  of  its  users  (a
+strengthening of "safe harbour" provisions eroded by court rulings such  as
+this  one:   <http://www.businessweek.com/news/2012-04-20/google-s-youtube-
+must-help-detect-illegal-uploads-court-says>), the problem would change but
+it wouldn't go away. Instead of demanding royalties from Google,  GEMA  and
+their ilk would issue mass takedown notices to get  "infringing"  "content"
+removed, with no regard for fair use. They may even try  to  prosecute  the
+individuals who uploaded  the  videos  in  question.  This  is  costly  for
+everyone concerned and there is no clear  benefit  to  anyone  (other  than
+lawyers).
+Nevertheless, I believe legislation would be  necessary  to  clearly  state
+what measures a provider like Google has to take  to  avoid  liability  for
+copyright infringement perpetrated by its users. Major  commercial  players
+with significant market power, like YouTube, can be  expected  to  do  more
+than small-time or not-for-profit ones.
+Another - quite radical - approach would be to declare  digital  copies  of
+published audiovisual material to have no worth and not be covered  by  the
+exclusivity  of  the  author's  right  to  copy.  While  this  would   have
+advantages, in the specific case  of  YouTube  it  wouldn't  help,  because
+people not only share straight-up copies of protected  "content"  but  also
+derivative works.
+
+
+To legalise those as well, it would be necessary  to  declare  the  private,
+not-for-profit production of derivative works  fair  use,  and  award  these
+derivative works a degree  of  copyright  protection  (certainly  enough  to
+allow the creator to license them to Google/YouTube).
+Another - and perhaps the simplest - possibility would be to  raise  royalty
+levies on sites like YouTube like on digital media. After  all,  it  doesn't
+seem feasible to identify which  specific  videos  possibly  infringe  whose
+copyrights; taking down infringing videos is fraught with problems (such  as
+adjudicating whether something is fair use); maybe it's best to have  Google
+pay some fraction of its advertising revenue to rights  management  agencies
+like GEMA and be done with all copyright claims. It should  however  be  the
+legislature who decides what fraction of the  advertising  revenue  services
+like YouTube have to pay, not the collecting  agencies.  (Of  course,  there
+are many important details: like  deciding  which  country  or  geographical
+region is responsible for how much ad revenue; or whether to consider  other
+revenue channels etc.) This approach would eliminate the haggling over  per-
+view rates that led to the current controversy in Germany, and it would  put
+neither GEMA nor Google into an unfairly strong position.
+It is important that such levies be a fraction of the revenue  generated  by
+the site and not some lump sum, so that not-for-profit services are viable.
+
+                             Online enforcement
+Online copyright enforcement frequently conflicts with basic  human  rights.
+The  right  to  privacy  is  laid  down  in  Article  12  of  the  Universal
+Declaration of Human Rights as well as Articles 7 and 8 of  the  Charter  of
+Fundamental Rights of the  European  Union.  Copyright  is  not  universally
+understood to be a fundamental right (and neither should it be);  therefore,
+any measures that aim to protect or enforce  it  cannot  conflict  with  any
+fundamental rights[55].
+In an online context, for  example  where  peer  to  peer  file  sharing  is
+concerned, copyright enforcement necessarily has to involve  differentiating
+between "legal" and "illegal" transmissions. The publishing lobby is  trying
+to get either ISPs or authorities to inspect all transmissions (in order  to
+block "illegal" ones and/or persecute the people  who  allegedly  engage  in
+"illegal" communication), which would violate the right to privacy. This  is
+in addition to all the  practical  problems  of  mis-identifying  infringing
+transmissions,  prosecuting  the  wrong  individuals,  the   potential   for
+copyright  trolling  as  done  by,  for  example,  Prenda  Law   (see   e.g.
+http://en.wikipedia.org/wiki/Prenda_Law), and so on.
+As  things  currently  stand,  online  enforcement  is  costly   (with   the
+publishers in whose sole interest it  takes  place  naturally  unwilling  to
+foot the bill) and also highly ineffective.  As  a  person  with  a  PhD  in
+network security I don't think there is any reason to  expect  a  change  on
+either  count  (other  researchers  tend  to  agree  with   me;   see   e.g.
+http://msl1.mit.edu/ESD10/docs/darknet5.pdf). "Illegal" private  copying  of
+copyrighted        works        is         rampant         (see         e.g.
+http://www.theguardian.com/technology/2008/apr/07/digitalmusic.drm) and  can
+be expected to stay so. Ramping up penalties  changes  nothing  (as  studies
+have  shown);  three-strikes  measures  are  also  ineffective   (see   e.g.
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2380522).   Technological
+measures to curb "piracy" are and will be  ineffective  as  well.  And  most
+importantly, the battle  against  private  copying  is  not  in  the  public
+interest (it is likely not even in the interest  of  artists,  just  in  the
+perceived interest of publishers); therefore, it should stop  and  certainly
+not receive public funding or legislative support.
+The public shouldn't have to perceive  copyright  as  someone's  ability  to
+stop people sharing interesting things with each other.
+
+                             Automatic filtering
+Automatic filtering of "infringing" content is  causing  problems  for  uses
+that are legal even under the current regime. On  the  one  hand,  see  e.g.
+<https://www.eff.org/deeplinks/2012/09/copyrights-robot-wars-heat-
+algorithms-block-live-streams-first-and-ask-questions>  for  a  high-profile
+case where automatic copyright enforcement filters blocked  perfectly  legal
+live streams of an event; on the other hand, automatic filters can never  be
+expected to recognise instances of fair use, so that  they  are  necessarily
+overbroad with typically little recourse left for  the  end  user.  If  such
+filters were to become the norm, fair use (which is in the public  interest)
+would take a great hit in order to protect  the  private  interests  of  the
+publishing industry.
+I would like such automatic filters to be  strictly  regulated  even  if  no
+other changes to copyright law are made; for example, it should be  possible
+to have any filter affecting a live stream lifted promptly (as well as  have
+the stream cleared in advance); it should  be  possible  for  end  users  to
+contest filtering decisions with a minimum of
+effort on fair use grounds; operators of filters with a high false  positive
+rate should be required to fix their filters in addition  to  paying  fines;
+etc. The private interests of the  publishers  are  almost  irrelevant;  all
+legislation  should  serve  the  public  interest  (and  serve  the  private
+interests of the publishers only  to  the  extent  this  itself  serves  the
+public interest).
+YouTube seems to have made deals with some record labels that  allow  these
+labels to have content removed from YouTube even  if  the  content  is  not
+infringing their  copyright  (e.g.  because  it  is  fair  use);  see  e.g.
+<http://torrentfreak.com/youtube-deal-with-universal-blocks-dmca-counter-
+notices-130405/>. I believe such deals should be illegal;  fair  use  needs
+more protection from arbitrary censorship by copyright holders.
+
+                           "Intellectual property"
+The EU should make a point of avoiding referring to copyright, patents  and
+trademarks collectively as "intellectual property", because this gives  the
+impression that there is a fundamental  similarity  between  the  right  to
+private property and copyright (as well as between copyright, patent  right
+and trademarks), whereas in fact there is none. The right to  own  property
+is a fundamental human right (recognised in Article  17  of  the  Universal
+Declaration of Human Rights). Copyright is  not,  which  is  why  copyright
+protection, as well as patents,  can  and  indeed  should  expire  after  a
+certain time (also see http://www.gnu.org/philosophy/not-ipr.html). If they
+can expire, they cannot be fundamental  rights;  how  could  a  fundamental
+right expire?
+Unfortunately, "intellectual property" is mentioned in the  EU  charter  of
+fundamental rights, so that  the  term,  misleading  as  it  is,  would  be
+difficult to get rid of even if the will to do  so  were  to  exist.  Alas,
+having the EU protect "intellectual property" at the same level it protects
+the right to fundamental human rights recognised everywhere  (also  by  the
+UN) seems to suggest that in the EU, copyright is not  subordinate  to,  or
+derived from, the public interest, which puts the European public in a much
+worse position than the American public.
+Thankfully, Article 17 of the EU charter  only  states  that  "intellectual
+property shall be protected" and doesn't go as far as claiming that it is a
+fundamental right. Care must be taken to avoid further eroding the role  of
+the public interest in copyright legislation.
+There is no need for the laws governing trademarks, patents  and  copyright
+to be similar to each other (which is what lumping  them  together  into  a
+single category suggests) or to the laws governing real property (which  is
+what calling "intellectual property" "property" insinuates). It would be  a
+great step forward if the charter could be amended, in  due  time,  to  say
+"Copyright, trademarks and patents shall be protected to the extent this is
+in the public interest".
+
+                      Publishers are becoming obsolete
+The way publishers currently do business can be summed up as follows:
+1. Select creative works that are likely to be commercially successful.
+2. Create many copies.
+3. Promote the works.
+4. Sell the copies.
+5. Profit.
+6. Optionally: pay the author of the published work.
+Step 6 is optional because the authors of works in the public domain  don't
+need to be paid, but also because in many cases publishers  don't  pay  the
+authors at all (for example, if record sales are not high enough, the music
+label typically keeps all proceeds).
+This business model depends on the ability to sell copies, which depends on
+copies having value.
+In today's increasingly digital world, copies have less and less  intrinsic
+value because the effort required to create and  store  perfect  copies  is
+diminishing. Publishers are trying to  maintain  the  value  of  copies  by
+pushing for legislation that makes it illegal (as  well  as  harder,  using
+DRM) for the general public to make their own copies. This is  somewhat  as
+if e.g. apple tree owners were expecting the legislature to make it illegal
+for other people to plant the seeds of the apples they buy, as well  as  to
+spend public funds enforcing this prohibition.
+Publishing in the conventional sense is rapidly becoming obsolete as  cheap
+and efficient online distribution channels become available  to  individual
+artists. The middle man isn't really needed anymore (or soon won't be,  for
+many branches of publishing); I strongly believe it would be wrong  to  use
+legislation to prop up a business
+                                                                          47
+
+model our civilisiation has surpassed technologically. The public stands to
+benefit greatly from the digital age: access to culture is becoming  easier
+by the minute; the publishers no longer have the power to dictate what gets
+published at all; and while it is now arguably more difficult  for  authors
+to become spectacularly rich than,  say,  30  years  ago,  I  believe  more
+authors can now make a decent living by selling directly to  the  end  user
+instead of supporting a middleman than 30 years ago. This belief  seems  to
+be       corroborated       by       studies       such       as       e.g.
+<http://www.scribd.com/doc/37406039/Thesis-Bjerkoe-Sorbo>.
+The  music  business  in  particular  is  changing.  Whereas  earlier  live
+performances were seen as promoting record sales, now the opposite is  true
+(see   e.g.    http://www.cato-unbound.org/2008/06/09/rasmus-fleischer/the-
+future-of- copyright/): recordings, which are copies, have almost no worth,
+but a live performance is uncopiable and unrepeatable; experiencing  it  is
+therefore valuable. This is also reflected in  the  findings  of  Peter  C.
+DiCola,            among            others;            see             e.g.
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2199058   ("Money   from
+Music: Survey Evidence on Musicians' Revenue and  Lessons  About  Copyright
+Incentives"): only about 6% of a musician's income comes from record sales.
+Thus, even if musicians made no money from selling recorded music, it would
+barely affect their total income. Clearly it is a fallacy to  pretend  that
+preventing the private copying of music is a vital  interest  of  musicians
+(it is only a vital interest of music publishers).
+When blacksmiths and fletchers became largely obsolete, legislators  didn't
+step in to make alternatives to these trades illegal, or  to  cross-finance
+affected craftsmen ("stakeholders"[56]) from the income of other craftsmen.
+I don't think publishers merit special treatment either.
+
+Self-serving legal action
+Publishers routinely sue people for copyright infringement  (or  even  just
+"facilitating" it). However, even when the plaintiffs  collect  substantial
+amount of money, that money is not, as a rule, used  to  actually  pay  any
+artist  (see  e.g.  <https://torrentfreak.com/pirate-bay-loot-with-artists-
+120728/>). Instead, the money is  used  to  fund  more  lawsuits  or  anti-
+"piracy" campaigns, i.e. for the own purposes of the publishing industry.
+I believe that when a defendant is ordered by a court to pay damages  as  a
+consequence of copyright infringement, that money should be used to support
+art directly - either by giving it to  the  artist(s)  or  author(s)  whose
+copyright was violated (especially if a "copyleft" license was  violated  -
+after all, the author is labouring in the public interest in this case, and
+it appears fair to support them  financially  using  funds  recovered  from
+parties who sought to unlawfully deprive the public of the benefit of their
+labour), or  by  transferring  it  into  a  cultural  fund.  It  should  be
+impossible for artists/authors to enter  into  agreements  with  publishers
+that would grant publishers custody of such awards. As a  rule,  it  should
+not be more profitable for publishers to litigate than to publish, in order
+to eliminate copyright trolling.
+
+                                     DRM
+DRM stands for "Digital Rights  Management"  and  refers  to  a  family  of
+technological measures intended, broadly, to make it more difficult to make
+perfect copies of a digital work, and to restrict how people  can  use  the
+copies they have obtained (by whatever means). In the USA, as well  as  the
+EU, circumventing DRM is a crime. This has the unfortunate consequence that
+companies get to introduce arbitrary restrictions on  the  use  of  digital
+media and have those restrictions enforced by the power of  law;  see  e.g.
+http://www.theguardian.com/technology/blog/2014/feb/05/digital-rights-
+management:
+     "Ever since Reimerdes [Universal City Studios, Inc v Reimerdes,  2000],
+     it's been clear that DRM isn't the right to prevent  piracy:  it's  the
+     right to make up your own copyright laws. The right  to  invent  things
+     that people aren't allowed to do - even though the law permits it - and
+     to embed these  prohibitions  in  code  that  is  illegal  to  violate.
+     Reimerdes also showed us that DRM is the right to suppress speech:  the
+     right to stop people from uttering code or keys or other expressions if
+     there is some chance that these utterances  will  interfere  with  your
+     made-up copyright laws."
+I think it should be elected legislators, not companies who decide what end-
+users are allowed to do or not.
+The  DMCA  has   many   well   documented   harmful   effects;   see   e.g.
+<https://www.eff.org/wp/unintended- consequences-under-dmca>. For  example,
+it paradoxically makes  it  illegal  to  reverse  engineer  DRM  encumbered
+software       to        prove        license        violations;        see
+<http://www.flora.ca/documents/drm-abuse.html>.
+The US is trying to use international  "free  trade"  treaties  to  try  to
+insinuate even stricter regulations into the laws of  other  nations.  ACTA
+was one such attempt; CETA (see <https://www.eff.org/deeplinks/2012/10/ceta-
+ replicates-acta>); TTIP and the Trans-Pacific Partnership are now  another
+- see e.g.
+
+
+http://www.smh.com.au/federal-politics/political-news/trade-deal-could-be-
+bitter-medicine-20131113- 2xh4p.html or
+<https://www.eff.org/deeplinks/2012/08/tpp-creates-liabilities-isps-and-put-
+your-rights-risk> (although of course copyright enforcement is/was by far
+not the only provision of these treaties). This is a matter in which I
+expect the EU to stand fast against pressure from the US. We don't need the
+US entertainment industry dictating our laws.
+DRM has a track record of creating  interoperability  problems  (there  are
+many  high-profile,  well-documented  usability   disasters),   introducing
+security holes (see e.g. the infamous Sony rootkit), inhibiting legal  uses
+of copyrighted content, trespassing on fair use rights etc. While it  would
+probably be excessive to ban DRM,  it  should  not  be  awarded  any  legal
+protection and the damage it can  do  should  be  statutorily  limited.  It
+should be illegal for DRM mechanisms to inhibit  legal  uses  and  restrict
+fair use rights; publishers of infringing DRM encumbered content should  be
+required to reimburse users and pay statutory fines  to  discourage  future
+infringements. This should be seen as a form of  consumer  protection:  DRM
+encumbered goods are "defective by design"  in  the  sense  that  they  are
+deliberately making it harder for users to use them, even  in  cases  where
+the intended use is legal even under the  current  regime.  This  way,  DRM
+currently actually acts as an incentive to obtain unlicensed copies instead
+of licensed ones, simply  because  those  are  less  painful  to  use.  For
+example, in 2008 Electronic Arts released a game called "Spore" that, in an
+attempt to curtail "privacy", prevented paying customers from installing it
+more than three times, ever. Less than  a  day  after  its  publication,  a
+cracked version appeared that could be  installed  as  many  times  as  the
+"pirates" wanted, so that even people who had paid for the  game  preferred
+the cracked version. See e.g.
+<http://www.theregister.co.uk/2008/09/10/spore_drm_amazon_effect/>.
+There are many documented cases of high profile DRM abuse. Examples include
+the case when in 2005, Sony BMG sold audio CDs that  installed  malware  on
+computers     the     CDs      were      played      back      on      (see
+<http://www.theregister.co.uk/2006/01/16/sony_bmg_rootkit_still_widespread/>
+); when in 2009, copies of Orwell's "1984" were remotely deleted from the e-
+book readers of people who had bought the book - along with any notes  they
+had taken  (see  <http://www.theguardian.com/technology/2009/jul/17/amazon-
+kindle-1984>); Microsoft was, for the time being, forced to back out  of  a
+DRM policy where they would have made it very difficult  to  sell  or  lend
+purchased Xbox One games (see
+<http://www.theguardian.com/technology/2013/jun/19/xbox-one-drm-second-hand-
+restrictions-abandoned>); and, in December 2013, Disney temporarily
+prevented people from watching movies they had purchased in order to
+increase its pay TV revenues (see <http://boingboing.net/2013/12/15/amazon-
+takes-away-access-to-pu.html>).
+DRM is also used by companies to create  artificial  incompatibilities  and
+thus vendor lock-in; for example, to make sure music  can  only  be  played
+back on specific types of playback equipment (sold by the same company that
+sells the music). See e.g. <http://en.windows7sins.org/drm/> and the  other
+pages it links to. I believe this practice should  be  either  illegal,  or
+circumventing  it  (removing  DRM  in  the   interest   of   cross-platform
+compatibility) should be explicitly legal.
+DRM as it exists today on products already sold will not change to  reflect
+changes in laws (especially changes that grant the end  users  more  rights
+than before). It will also not expire when the copyright term  of  the  DRM
+encumbered work expires. This is wrong. Again, the legislature should  have
+more authority in these matters than corporations.
+
+                  A possible business model for publishing
+It seems clear to me that the current business model of publishing is
+doomed in the medium term; but what alternatives are there?
+In this section I propose a model that perhaps merits thinking about.
+A writer wants to get paid for writing, but instead we currently have the
+readers pay for reading. This seems backwards.
+In proposing an alternative, I'm working from the following premises:
+1. Authors of creative works need to be able to make a living.
+2. The public wants to be allowed to copy creative works.
+3. It is impossible to prevent copying of works that can be represented
+   digitally without resorting to overbroad, totalitarian measures (and it
+   may not be possible even then).
+4. Natural scarcity of a commodity that is in  demand  motivates  people  to
+pay for that commodity.
+
+
+A creative work that can be represented digitally is only scarce before  it
+is first published. After publication, an arbitrary number of copies can be
+made at a vanishingly small cost. Therefore, one  of  the  motivations  for
+paying - scarcity - is eliminated by the act of publication.
+Currently, the end users typically don't pay the author to produce creative
+works. Instead, some publisher pays the author and the end  users  pay  the
+publisher for the privilege of being granted a copy. The publisher  uses  a
+portion of its profits to pay future authors. Authors  need  publishers  to
+provide them with a less erratic cash-flow than if they were  dealing  with
+end-users themselves. This also has the  side  effect  of  causing/allowing
+publishers to control the supply of culture.
+This model is crumbling because publishers - allegedly  -  find  themselves
+unable to sell a sufficient number of copies due to  the  large  volume  of
+private copying. Assuming this is really the case, it follows that  payment
+for new works is best collected before publication (and not necessarily  by
+the publisher).
+A successful system to collect pledges of monetary support already  exists:
+crowdfunding, as done by e.g. kickstarter.com. The idea is that a person or
+organisation that wishes to undertake a project (for example, write a  book
+or develop a video game) posts a proposal and names a budget: the amount of
+money required to make the project worthwhile  to  them.  Others  can  then
+pledge whatever sum they are willing to spend to help fund the project.  If
+the sum of the pledged amounts exceeds the target, the  money  is  actually
+collected from the supporters and transferred to the pledgee who  can  then
+start their project.
+Once the work is complete, it is free to copy  (the  distribution  monopoly
+granted by copyright need not apply because the reason for  it  -  allowing
+the creator to make a living from their work - is no longer valid).
+The advantages over the traditional publishing model are clear:
+1. The creator is guaranteed to either receive  enough  money  to  fund  the
+project before even starting work on the project, or to know with certainty
+by a fixed deadline that sufficient funding is not available.
+2. The public gets to copy the work as much as they want.
+3. It is no longer necessary  to  waste  money  and  effort  on  prosecuting
+people who copy the work privately, because private copying  is  explicitly
+allowed.
+Of course, I realise this model would not work for all copyrightable works.
+Authors who are not well known  would  have  a  harder  time  of  gathering
+support; culturally valuable but relatively unpopular art  would  still  be
+difficult to finance.
+It is not clear whether legislation is necessary to  enable  this  business
+model; however, there are some aspects that lend themselves to a degree  of
+regulation. For example, public cultural funds could pledge  contributions;
+or, it might be possible to set up a  system  of  "hidden  pledges",  where
+sufficient public funds are allocated to  start  a  particularly  appealing
+project but this is not made clear until  the  deadline,  so  that  private
+individuals and companies are still motivated to enter pledges. If there is
+still not enough money when the deadline expires, public funding  steps  in
+and covers what is still necessary (perhaps up to a fixed sum and  a  fixed
+proportion of all financing). Naturally, such public financing  would  have
+to be decided on transparently, by  a  nonpartisan,  independent  committee
+with no conflicts of interest.
+Additionally, perhaps fraud regulations have to be  updated  to  deal  with
+authors who don't deliver what they were paid for.
+
+                           International treaties
+As noted above, corporations are trying to bypass  parliament  by  lobbying
+for international "free trade" agreements that give them rights and  powers
+at the expense of the rights of the general public.
+
+I believe laws should be passed that prohibit the  EU  from  even  entering
+into  negotiations  of  such  treaties  unless  some  criteria   are   met.
+Transparency should be one such criterion; additionally, the EU  should  be
+unable to ratify treaties that would require diminishing the rights  and/or
+freedom of its citizens.
+2     As announced in the Intellectual Property Strategy ' A single  market
+for Intellectual Property Rights: COM
+2011) 287   final, 24/05/2011.
+3     "Based on market studies and impact  assessment  and  legal  drafting
+work" as announced in the Communication
+2012) 789.
+
+
+56     Communication  "Unleashing  the  Potential  of  Cloud  Computing   in
+Europe", COM(2012) 529 final.
+57    These issues were addressed in the recommendations of Mr António
+Vitorino resulting from the mediation on private copying and reprography
+levies. You can consult these recommendations on the following website:
+http://ec.europa.eu/intemal market/copyriaht/docs/levy reform/130131 levies-
+vitorino- recommendations_en.pdf.
+
+-----------------------
+[1]   COM (2012)789 final, 18/12/2012.
+[2]   See the document "Licences for Europe -  tem  pledges  to  bring  more
+content online": http://ec.europa.eu/intemal market/copvright/docs/licences-
+for-europe/131113 ten-pledges en.pdf .
+[3]   EUCO 169/13, 24/25 October 2013.
+[4]   COM(2008) 466/3,
+ht.tp://ec.eiiropa.ei]/int.emal_market./copyright./copyright.- infso/index
+en.htm#maincontentSec2.
+[5]        COM(2011)      427      final,      http://ec.europa.eu/internal
+market/consultations/2011/audiovisual en.htm.
+[6]
+http://ec.europa.eu/internal_market/consultations/2009/content_online_en.htm
+.
+[7] For possible long term measures such as the establishment of a European
+Copyright Code (establishing a  single  title)  see  section  VII  of  this
+consultation document.
+[8]   Directive 2001/29/EC of the European Parliament and of the Council of
+22 May 2001 on the  harmonisation  of  certain  aspects  of  copyright  and
+related rights in the information society.
+[9]   Directive 2009/24/EC of the European Parliament and of the Council of
+23 April 2009 on the legal protection of computer programs.
+[10]  Directive 96/9/EC of the European Parliament and of the Council of 11
+March 1996 on the legal protection of databases.
+[11]  Film and record producers, performers and broadcasters are holders  of
+so-called "neighbouring rights"  in,  respectively,  their  films,  records,
+performances and broadcast.  Authors'  content  protected  by  copyright  is
+referred to as a "work" or "works", while content protected by  neighbouring
+rights is referred to as "other subject matter".
+[12]  The right to "authorise or prohibit direct or indirect,  temporary  or
+permanent reproduction by any means and in any form, in whole  or  in  part"
+(see  Art.  2  of  Directive  2001/29/EC)   although   temporary   acts   of
+reproduction  of  a  transient  or  incidental  nature  are,  under  certain
+conditions, excluded (see art. 5(1) of Directive 2001/29/EC).
+[13]  The right to authorise or prohibit any communication to the public  by
+wire or wireless means and to authorise or prohibit the making available  to
+the public "on demand" (see Art. 3 of Directive 2001/29/EC).
+[14]  See in particular Case C-173/11 (Football Dataco vs  Sportradar)  and
+Case C-5/11 (Donner) for copyright and related rights,  and  Case  C-324/09
+(L'Oréal vs eBay) for trademarks. With  regard  to  jurisdiction  see  also
+joined Cases C-585/08 and C-144/09 (Pammer and Hotel Alpenhof) and  pending
+CaseC-441/13 (Pez Hejduk); see however, adopting a different approach, Case
+C-170/12 (Pinckney vs KDG Mediatech).
+[15]  The objective of implementing a "country of  origin"  approach  is  to
+localise the copyright relevant act  that  must  be  licenced  in  a  single
+Member State (the "country of  origin",  which  could  be  for  example  the
+Member State in which the content is uploaded or where the service  provider
+is established), regardless of in how many Member States  the  work  can  be
+accessed or received. Such an approach has already  been  introduced  at  EU
+level with regard to broadcasting by satellite (see Directive  93/83/EEC  on
+the coordination of certain rules concerning copyright  and  rights  related
+to   copyright   applicable   to   satellite    broadcasting    and    cable
+retransmission).
+[16]  Injunctive relief is a temporary  or  permanent  remedy  allowing  the
+right holder to stop or prevent an infringement of his/her right.
+[17]  Cases C-466/12 (Svensson), C-348/13 (Bestwater International)  and  C-
+279/13 (C More entertainment).
+[18]  Case C-360/13 (Public Relations Consultants Association Ltd). See
+also http://\v\v\v.si.ipremecoi.irt.gov.i.ik/decided-c;ises/docs/Ul<.SC_20l
+l_0202_PressSummarv.pdf.
+[19]  See also recital 28 of Directive 2001/29/EC.
+[20]  In Case C-128/11 (Oracle vs. UsedSoft) the CJEU ruled that  an  author
+cannot oppose the resale of a secondhand  licence  that  allows  downloading
+his computer program from his website and using it for an  unlimited  period
+of time. The exclusive right  of  distribution  of  a  copy  of  a  computer
+program covered by such a licence is exhausted on its first sale.  While  it
+is thus admitted that the distribution right may be  subject  to  exhaustion
+in case of computer programs offered for download with  the  right  holder's
+consent, the Court was careful to emphasise that it  reached  this  decision
+based on  the  Computer  Programs  Directive.  It  was  stressed  that  this
+exhaustion rule constituted a lex specialis in relation to  the  Information
+Society Directive (UsedSoft, par. 51, 56).
+[21]  For example,  it  does  not  affect  "domestic"  works  -  i.e.  works
+originating in the country imposing the  formalities  as  opposed  to  works
+originating in another country.
+[22]  On the basis of Article  3.6  of  the  Directive  2012/28/EU  of  the
+European Parliament and of the  Council  of  25  October  2012  on  certain
+permitted uses of orphan works, a publicly accessible  online  database  is
+currently being set up by the Office  for  Harmonisation  of  the  Internal
+Market (OHIM) for the registration of orphan works.
+[23]   Plus  Directive  96/9/EC  on  the  legal  protection  of   databases;
+Directive 2009/24/EC on the  legal  protection  of  computer  programs,  and
+Directive 92/100/EC on rental right and lending right.
+[24]  Article 9(2) of the Berne Convention for the  Protection  of  Literary
+and Artistic Works (1971); Article 13 of the TRIPS Agreement (Trade  Related
+Intellectual Property Rights) 1994; Article 16(2)  of  the  WIPO  Performers
+and Phonograms Treaty (1996); Article 9(2)  of  the  WIPO  Copyright  Treaty
+(1996).
+[25]  Other than the grandfathering of the exceptions of  minor  importance
+for analogue uses existing in Member States at  the  time  of  adoption  of
+Directive 2001/29/EC (see, Art. 5(3)(o)).
+[26]  With the  exception  of  certain  limitations:  (i)  in  the  Computer
+Programs Directive, (ii) in the Database Directive, (iii)  Article  5(1)  in
+the Directive 2001/29/EC and (iv) the Orphan Works Directive.
+[27]  Only the exception established in the recent  Orphan  Works  Directive
+(a mandatory exception to copyright and related rights  in  the  case  where
+the rightholders are not known or  cannot  be  located)  has  been  given  a
+crossborder effect, which means that, for instance, once a literary  work  -
+for instance a novel - is considered an orphan work in a Member State,  that
+same novel shall be considered an orphan work in all Member States  and  can
+be used and accessed in all Member States.
+[28]  Article 5(2)c of Directive 2001/29.
+[29]  Article 5(3)n of Directive 2001/29.
+[30]  Article 5 of Directive 2006/115/EC.
+[31]  You will  find  more  information  about  his  MoU  on  the  following
+website:             htt.p://ec.europa.eu/mt.ernal_market/copyright/out.-of-
+commerce/mdex_en.htm .
+[32]  France and Germany  have  already  adopted  legislation  to  back  the
+effects of the MoU. The French  act  (LOI  n°  2012-287  du  1er  mars  2012
+relative à l'exploitation numérique des livres indisponibles du xxe  siècle)
+foresees collective management, unless the author or publisher  in  question
+opposes such management. The German act (Gesetz zur Nutzung  verwaister  und
+vergriffener Werke und einer  weiteren  Änderung  des  Urheberrechtsgesetzes
+vom 1. Oktober 2013) contains a legal presumption  of  representation  by  a
+collecting society in relation to works whose rightholders are  not  members
+of the collecting society.
+[33] Article 5(3)a of Directive 2001/29.
+[34] Article 5(3)a of Directive 2001/29.
+[35]  Article 5 (3)b of Directive 2001/29.
+[36]  The European Trusted Intermediaries Network (ETIN)  resulting  from  a
+Memorandum of Understanding  between  representatives  of  the  right-holder
+community  (publishers,  authors,  collecting  societies)   and   interested
+parties   such   as   associations   for   blind   and   dyslexic    persons
+(ht.tp://ec.europa.eu/int.emal_market/copyright/init.iat.ives/access/index_e
+nht.m) and the Trusted  Intermediary  Global  Accessible  Resources  (TIGAR)
+project in WIPO (ht.t.p://www.visionip.org/port.al/en/).
+[37]  Marrakesh Treaty to Facilitate Access to Published Works  by  Visually
+Impaired Persons and Persons with Print Disabilities, Marrakesh, June 17  to
+28 2013.
+[38]  For the purpose of the present  document,  the  term  "text  and  data
+mining" will be used.
+[39] See the document "Licences for Europe - ten pledges to bring more
+content online": http://ec.europa.eu/intemal market/copyright/docs/licences-
+for-europe/^U^ ten-pledges en.pdf .
+[40]  Article 5. 2)(a) and (b) of Directive 2001/29.
+[41]  Art. 5.2(a) and 5.2(b) of Directive 2001/29/EC.
+[42]  This issue was also addressed in the  recommendations  of  Mr  Antonio
+Vitorino resulting from the mediation on  private  copying  and  reprography
+levies
+[43]  This issue was also addressed in the  recommendations  of  Mr  Antonio
+Vitorino resulting from the mediation on  private  copying  and  reprography
+levies.
+[44]  This issue was also addressed in the  recommendations  of  Mr  Antonio
+Vitorino resulting from the mediation on  private  copying  and  reprography
+levies.
+[45]  See e.g. Directive 92/100/EEC, Art.2(4)-(7).
+[46]  See e.g. Art. 2.3.  of  Directive  2009/24/EC,  Art.  4  of  Directive
+96/9/EC.
+[47]  Directive 2004/48/EC of the European Parliament and of the Council  of
+29 April 2004 on the enforcement of intellectual property rights.
+[48]  You will find more information on the following website:
+http://ec.europa.eu/intemal market/iprenforcement/directive/index en.htm
+[49]  For example when the infringing content is offered on a website  which
+gets advertising revenues that depend on the volume of traffic.
+[50]  This  clarification  should  not  affect  the  liability   regime   of
+intermediary  service  providers  established  by  Directive  2000/31/EC  on
+electronic commerce, which will remain unchanged.
+[51] An international copyright monopoly did not exist until the early  20th
+   century, when the Berne  Convention  was  signed;  the  UK  didn't  fully
+   implement it until 1988 and the  USA  didn't  sign  it  until  1989,  yet
+   rightsholders inexplicably still got by.
+[52] I mean, other people could hear! Someone who keeps pace with you may
+   hear the entire piece ! And so could law enforcement listening through
+   surveillance drones!
+[53] As I understand it, the problem is that GEMA  wants  to  collect  money
+   from Google (the owner of YouTube) per video per user; Google thinks  the
+   amount sought is too high. GEMA sued Google  and  the  court  ruled  that
+   YouTube had to make "infringing" content unavailable in Germany. Now GEMA
+   would not like to be seen  as  being  responsible  for  this,  because  -
+   predictably - it has become unpopular as a result.
+[54] Outlawing general purpose computers (that are fully controlled by  the
+   private individuals who buy  them)  in  order  to  enforce  a  difference
+   between  streaming  and  downloading  would  be   a   good   example   of
+   disproportionate, unnecessary and likely ineffective legislation  -  like
+   so much that has been going on in the copyright arena lately.
+[55] Although I note with dismay that the EU charter of fundamental rights
+   does include mention of "intellectual property" in Article 17, as if it
+   were the same as actual property; more on this later.
+[56] Sometimes quite literally.
+
+-----------------------
+5
+
+46
+
+52
+
+

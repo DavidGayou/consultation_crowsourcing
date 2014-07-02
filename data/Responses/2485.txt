@@ -1,0 +1,1107 @@
+                       FEBRUARY 2014
+
+
+
+
+NETWORKED SOCIETY
+
+
+
+
+        DG MARKT PUBLIC CONSULTATION
+   ON THE REVIEW OF THE EU COPYRIGHT RULES
+
+
+                    Ericsson submission
+    European Commission
+    Internal Market and Services DG
+    Unit D1 - Copyright
+    SPA 2 04/085
+    1049 Brussels
+    Belgium
+
+    Electronic submission via: markt-copyright-consultation＠ec.europa.eu
+
+
+    Re: Public Consultation on the review of the EU copyright rules
+
+    Ericsson welcomes the opportunity to contribute to the Commission’s consultation and is
+    pleased to be able to participate in this very important discussion regarding modernization of
+    copyright in the context of growth, creativity, innovation and values.
+
+    Some key Ericsson facts:
+
+       Ericsson is the world's largest mobile telecom infrastructure and services company with net
+        sales revenue in 2012 amounting to SEK 227.8 billion (USD 33.8 billion). Today, more than
+        40 percent of the world’s mobile traffic passes through networks provided by Ericsson.
+
+       Ericsson is world market leader in Multi-screen TV solutions, IPTV solutions and media
+        compression technologies. More than 40% of world wide pay-TV subscribers recieve on-
+        demand content enabled by Ericsson solutions. Ericsson is the pioneer of LTE-Broadcasting
+        technologies.
+
+       Ericsson is the world's number one mobile network, real-time charging and billing, and
+        telecom services provider. More than 1.4 billion consumers are charged and billed through
+        Ericsson’s solutions.
+
+       Ericsson reached a milestone in May 2013, providing managed services to networks that
+        serve more than 1 billion subscribers and Ericsson has signed more than 300 contracts
+        worldwide.
+
+       As the world’s leading technology provider, Ericsson plays a key role in the development of
+        standards in fixed and mobile voice, data (IP) and TV/video technologies, and hence is a key
+        actor in the digital economy by enabling and empowering innovation with technological
+        means and solutions.
+
+       Ericsson employs over 110,000 staff worldwide and over 20% or 24,000 of those are
+        dedicated to R&D. Ericsson invested SEK 32.8 billion (USD 4.9 billion) in R&D in 2012 of
+        which predominant share was invested in EU based research facilities.
+
+
+
+
+2   © Telefonaktiebolaget LM Ericsson
+                                                                                       Public Document
+    1 ENABLING SUSTAINED SOCIO-ECONOMIC PROGRESS
+    Increased adoption of ICT and broadband enhances productivity in virtualy all sectors of
+    the economy and hence is a key input source for economic growth, job creation, and
+    new business creation across all sectors of the economy. Furthermore, understanding
+    the transformative impact of general purpose technologies such as ICT and
+    broadband (BB) on the overal economy and society is crucial.1 This sort of economic
+    impact is more significant than for example the impact on economy from increased
+    expenditure of consumer goods. This is because increased use of and expenditure on
+    ICT can transform economies by putting them on to new and long lasting growth
+    creating trajectories. In other words the impact of ICT must primarily be understod from
+    its consequence on all other sectors of the economy and not on the ICT industry as such.
+    Some important economic effects caused by ICT and broadband that have been
+    identified are2:
+
+                 Building knowledge society by improving human capital. Increased ICT intensity
+                  creates demand for higher skilled labor.
+                 Driver of multifactor productivity growth, which includes the impact of intangible
+                  investments and innovation such as organizational changes, new distribution and
+                  production processes, and new methods of doing business due to the increased
+                  adoption of ICT technology.
+                 For every 10 percentage point increase in broadband penetration the isolated
+                  economic effect on GDP growth is around 1% of GDP, with estimates varying
+                  between 0.5% - 2%.
+                 For every 1,000 additional broadband users, around 80 jobs are created, with
+                  estimates varying between 20 and 130.
+                 Doubling the average attained broadband speed for an economy increases GDP
+                  by 0.3% points.
+                 +1% point increase in BB penetration > 3,5% increase in new business
+                  registration
+
+
+    1.1 CONTENT AVAILABILITY A VITAL LINK TO REALIZE IMPACT
+
+    A vital link exists between the economic impact of ICT and broadband described above
+    and the availability of digital content such as audiovisual and other creative works (see
+    figure 1). Availability of digital content and services is an initial trigger that motivates the
+
+    1
+        OECD Broadband and the Economy, Future of Internet 2008.
+    2
+     The literature is enormous for some prominent examples see; Wired For Innovation – How IT is Reshaping the Economy,
+    Brynjolfsson and Saunders; MIT 2010. The Economics of the Digital Society, Soete and Wheel, 2005. The Rise of the Network
+    Society, Second Edition, Castells 2010. Boston Consulting Group, Socio-economic impact of allocating 700 MHz band to mobile in
+    Asia Pacific, 2010, EPC/Copenhagen Economics – The Economic Impact of a European Digital Single Market, 2010. ADL,
+    Socioeconomic impact of broadband network investments, 2010. See also http://www.ericsson.com/news/1550083 Ericsson Press
+    Release: “New study quantifies the impact of broadband speed on GDP” and Stockholm School of Economics.
+
+
+3       © Telefonaktiebolaget LM Ericsson
+                                                                                                                   Public Document
+    mass adoption3 of ubiquitous high-speed broadband services. Supply side broadband
+    policies that promote availability of high-speed broadband rollout are of course
+    necessary but unfortunately insufficient since mass adoption of broadband is also
+    interdependent upon additional factors, see figure1.
+
+    FIGURE 1: FACTORS INFLUENCING ECONOMIC IMPACT OF DIGITAL SINGLE
+    MARKET
+
+
+
+
+                                            Source: COPENHAGEN ANALYTICS, BOOZ&CO AND ERICSSON ANALYSIS
+
+    Consequently, sound demand-side broadband drivers such as the availability of on-
+    demand digital creative works (see figure 2) need to be in place to stimulate the up-take
+    of high-speed broadband services and consequently realize the economic impact. These
+    demand side drivers include:
+
+                 Increasing economies of scope by increasing the availability of digital on-demand
+                  content and services; hereby expanding the scope of trade in digital goods and
+                  services including digital creative works,
+                 Increasing the scale of economies by creating a single digital market; i.e.
+                  maximizing the geographic size of a EU borderless digital market,
+                 Lowering transaction costs and distortions in the market, such as due to market
+                  fragmentation, market conduct (windowing, hold-back etc.) and outdated
+                  regulatory regimes (rights clearing, clearing exchange mechanisms, film state aid
+                  rules, differentiated VAT4-rates etc.)
+
+
+
+    3
+      In addition see New Zealand’s Commerce Commission Demand Study: http://www.comcom.govt.nz/media-
+    releases/detail/2012/commerce-commission-releases-final-issue-paper-on-high-speed-broadband-demand-side-
+    study/
+    4
+        Ericsson recognizes and welcomes the changes to VAT Directive coming into force January 2015.
+
+4       © Telefonaktiebolaget LM Ericsson
+                                                                                               Public Document
+             Stimulating consumer demand by increasing the level of mass-personalization of
+              content services according to individual preferences (choice, time, device and
+              place of consumption) and purchasing power.
+
+
+    FIGURE 2: DIGITAL CONTENT A KEY DRIVER OF HIGH SPEED BROADBAND
+
+
+
+
+                                        SOURCE: COPENHAGEN ECONOMICS STOCKHOLM JANUARY 2012
+
+
+
+    The creative industry is normally understood as comprising of individuals and
+    organizations that create and distribute content designed to inform, educate and
+    entertain particular audiences. The fact that the sector’s prime activity is content
+    generation means that issues concerned with content, its creation and its effects on
+    audiences and society, tend to dominate industry discourse.
+
+    However, recognizing that creative works are both economic and cultural goods, the
+    economic dimension is much more versatile than traditionally considered, i.e. not only
+    limited to the creative sectors. As explained above the socio-economic impact from ICT
+    and broadband is dependent upon adoption of high-speed broadband services, which
+    subsequently is dependent upon the availability of digital content and services triggering
+    adoption. This interdependency is crucial to emphasize in progressive economic
+    policy making as its transcending consequences reach far beyond Creative and
+    ICT industries immediate and narrower priorities. Or more shortly, as expressed in a
+    World Economic Forum Publication Jan. 2014 “Norms and Values in Digital Media:
+    Rethinking Intellectual Property in the Digital Age” page 6:
+
+    “Expand access to content: Offer a wide range of means for the public to reach content,
+    enabled by the Internet and other technologies, maximizing societal and economic
+    benefit.”
+
+
+
+5   © Telefonaktiebolaget LM Ericsson
+                                                                                  Public Document
+    It is essential to also recognize that increasing access to content, such as European
+    feature film is in the interest of European film industry as pointed out recently by
+    European Commission:
+
+    “… suggests that the European film industry can increase revenues by exploiting
+    different types of profit-making online platforms to increase the availability of films and
+    reach new audiences..”
+
+    Furthermore, that online/on-demand platforms can help to bridge the urban-rural cultural
+    divide in the EU:
+
+    “14% of respondents have no access to cinemas within 30 minutes of their home. This
+    figure rises to 37% in Romania, 27% in Lithuania and 16% in Croatia”
+
+    1.2 THE TRANSFORMATIONAL (IN)CAPACITY OF COPYRIGHT
+
+    Given the significant role of digital content and services triggering and driving mass-
+    adoption of high speed broadband services and consequently enabling the realization
+    of socio-economic benefits, the degree of digital transition of creative industries
+    becomes a critical measure to assess the creative industries participation and
+    contribution to drive mass-adoption and ultimately realization of socio-economic
+    benefits.
+
+    An evidence-based approach to measure the degree of digital transition in creative
+    industries is to relate the share of digital revenues to total (digital and non-digital)
+    revenues, hereby avoiding the pitfalls of blunt measures such as a mere count 5 of digital
+    services. Regrettably as shown in figure 3, one can only conclude that digital creative
+    transition in the EU is quite under-developed and a creative digital market is still in its
+    infancy not to mention the absence of a European Digital Single Market. Thus it seems
+    more than reasonable to apprehend that the current underdeveloped state of
+    creative digital transition in the EU must be considered as one of the primary
+    public policy objectives that need to be addressed in the current copyright
+    consultation.
+
+
+
+
+    5
+      Mere count of digital services does not recognize important factors to assess the level of success of a digital services such as;
+    timely availability, the range and depth of titles available, business models (subscription, download to own, advertising), ability to
+    time/format/device shift content, payment methods (credit card, pre-paid), easy of use and affordable price points. Please note a
+    revenue based approach is less appropriate for Public TV service provider but rather a comparison of digital programming to total
+    programming would be more appropriate alternative.
+
+
+6       © Telefonaktiebolaget LM Ericsson
+                                                                                                                            Public Document
+    FIGURE 3: EUROPEAN DIGITAL CREATIVE TRANSITION 2011
+
+
+
+
+              SOURCE: PWC GLOBAL ENTERTAINMENT OUTLOOK 2011-2015, % DIGITAL REVENUE SHARE OF TOTAL
+              SECTOR REVENUES.
+
+
+
+
+7   © Telefonaktiebolaget LM Ericsson
+                                                                                            Public Document
+    2. ERICSSON’S RESPONSE TO SELECTED QUESTIONS
+
+    Q 1[In particular if you are an end user/consumer:] Have you faced problems when
+    trying to access online services in an EU Member State other than the one in
+    which you live?
+
+    High price and lack of availability of content is the key domestic/national market barrier
+    today in Europe for watching on-demand/online content. Naturally, from this follows that
+    access to on-demand/online content across territories becomes even more cumbersome
+    and restrictive due to territorial copyright restrictions, licensing conduct, geo-blocking,
+    price discrimination hold-back and windowing.
+
+    FIGURE 4 NATIONAL TOP 5 BARRIERS TO WATCH ON-DEMAND CONTENT
+
+
+                                 National Top 5 barriers to watch on-demand TV/Video Content
+                                                              2013
+
+        I am unable to access on-demand TV / video
+     services because my broadband connection is too
+                             slow
+         Accessing and watching on-demand TV-/video
+          content takes too long and is cumbersome - I
+                    don't have the patience
+     The on-demand TV-/video content is not available
+                  on main TV screen
+
+       Poor selection of on-demand TV/video available;
+               titles are not relevant or too old
+
+                 The price for on-demand TV/Video is too
+                             expensive for me
+
+                                                           0   5   10   15   20   25   30   35   40   45    50
+    Source: Ericsson ConsumerLab TV & Media Study 2013
+
+    Consumers’ understanding of access to TV/Video content is changing as time spent in
+    front of main screen is stabilizing/declining (see page 6 Consumerlab TV/Media Study
+    2013) while at the same time spent consuming content using a smartphone, tablet
+    and/or laptop continue to grow both in terms of adoption and average time spent. Since
+    these new devices offer mobility and/or nomadic access to content outside home,
+    content that is available on the first screen but not on the second and third screen will
+    become evident for these consumers. This means that consumers conceptualization of
+    already relatively poor on-demand content availability (figure 4) on the first screen will
+    further decline on second and third screen while these very same consumers are away
+    from home and particularly when crossing national borders. In 2011, more than 1 billion
+
+
+8   © Telefonaktiebolaget LM Ericsson
+                                                                                                           Public Document
+    holiday trips were made by EU residents (EU-27) of which ~1/4 or 240 million visits
+    where made in another member state. In addition in 2011 about 140 million work related
+    trips where made by EU residents (EU-27).6 These big numbers tell us at least one
+    story, as opportunity to access “home”/ 1st Screen-TV content via mobile and/or nomadic
+    devices grows, it is very likely to assume that EU consumers’ while attempting to access
+    to their “home-content” outside their home territories not only becomes an evident
+    benchmark of the absent Creative Digital Single Market but also frequently experienced
+    situation in the whole EU internal market.
+
+    Or more shortly, we have now come to the point when leading insiders of the creative
+    industry, like Kevin Spacey, are also calling for increased availability of content:
+
+    Audience wants the freedom.. they want control….“give consumers what they want,
+    when they want it and in the format they want it and at reasonable price..”
+
+
+
+    Q7 Do you think that further measures (legislative or non-legislative, including
+    market-led solutions) are needed at EU level to increase the cross-border
+    availability of content services in the Single Market, while ensuring an adequate
+    level of protection for right holders?
+
+    Before going into the need for further measures, a comment on justification for additional
+    measures is required. Ericsson offers four distinct reasons that justify further
+    interventions:
+
+                 Any improvement of cross-border availability of content services must start with
+                  the assessment of national content availability and in particular the
+                  availability of digital on-demand/on-line content since this is a prerequisite for
+                  effective cross border content dissemination and also is an existing policy
+                  imperative for the Digital Single Market. In other words, EU-wide synchronized
+                  DVD release schedule is neither relevant nor sufficient ambition of EU Digital
+                  Agenda and the EU DSM.
+                 From a territorial/member state perspective, increased availability of digital on
+                  demand/online content is also relevant to narrow down the national cultural
+                  gap in terms of access to physical content in urban vs. rural areas, since access
+                  to cultural outlets, such as cinema, theater and opera is significantly more limited
+                  in rural areas. Not only will increased digital creative content availability of on-
+                  demand/on-line distribution increase the opportunities for rural European regions
+                  to enjoy culture and hereby foster cultural inclusion but furthermore it will
+                  increase the opportunity to spread cultural diversity across the EU frontier.
+
+
+
+
+    6
+     http://epp.eurostat.ec.europa.eu/portal/page/portal/product_details/publication?p_product_code=KS-SF-
+    12-028
+
+9       © Telefonaktiebolaget LM Ericsson
+                                                                                             Public Document
+                  From a consumer point of view, accessing culture and entertainment via physical
+                   and/or appointment based methods comes with following short comings:
+
+                        the physical availability is restricted to certain locations, to certain days,
+                         certain times of the day and the amount of available seats, which limits
+                         consumption opportunities,
+                        physical screen limitations (number of screens per theatre/city) restrict the
+                         range of titles available at any given time, which excludes non-block-buster
+                         types of films, such as independent creations, regional and local productions
+                         which limits cultural diversity.
+
+                  Given the socio-economic effects described in section one, Ericsson argues that
+                   it is in the public interest and hence policy maker’s interest to balance the
+                   self-interest of Creative sectors with the aim to: promote open and
+                   competitive markets in licensed and exempt digital on-demand/on-line
+                   content, with the aim to increase availability of more legitimate pan-European
+                   digital content services, in ways and at prices which appeals to consumers and to
+                   decrease digital cultural exclusion caused by licensing conduct and to make
+                   exceptions more flexible and harmonized, with the aim to promote innovation and
+                   growth of the DSM.
+
+     What should the interventions aim to achieve?
+
+     There is no doubt about the importance of copyright regime and the incentives it creates
+     for certain market behavior and hence licensing conduct. And in the case of the EU
+     Internal Market it is unfortunately still too much about non-digital incentives as confirmed
+     by data presented in figure 4. One can also add to this observation with the observations
+     of Ruth Towse7; that it is not just enforcement but also the established exploitations
+     models exclusive rights & licensing that a copyright regime maintains in a market that
+     create moral hazard effect on incumbent firms to rely on the law rather than adopt new
+     technologies and business models to deal with new technologies.
+
+                  Increase availability of on-demand/on-line digital content for territorial and cross-
+                   border dissemination, by limiting market/licensing miss-conduct that restricts on-
+                   demand/on-line availability vs. other formats/platforms.
+
+                         a. Address the complete absence of legal digital alternatives in the first
+                            release window. Limit the length of exclusive first release windows and
+                            prohibiting the use of exclusive windows for films with less than 100 copies
+                            (the number is relative to size of the home cinema market) in the theatres.8
+                         b. Assure technology neutral public funding schemes of European
+                            audiovisual productions, allowing digital first window to emerge e.g.
+                            prohibit digital on-demand/on-line discrimination.
+
+     7
+      Ruth Towse, “what we know, what we don’t know and what policy makers would like us to know about the economics of copyright”
+     Review of Economic Research on Copyright Issues, 2011, vol. 8(2), pp.101-120.
+     8
+         http://www.culturecommunication.gouv.fr/var/culture/storage/culture_mag/rapport_lescure/index.htm#/
+
+
+10       © Telefonaktiebolaget LM Ericsson
+                                                                                                                  Public Document
+                   c. The growing practice of Hold Back Practices, some distributors can obtain
+                       from right holders the holding back of VOD rights during the whole TV
+                       exploitation. Holdback periods are currently not regulated and hence
+                       depend on contractual negotiations, alone which have important
+                       drawbacks for VOD aggregators, as it hollows out the breadth and depth of
+                       a VOD content library.
+                   d. A harmonized VAT-rate for audiovisual and other creative services and
+                       products across the EU frontier should apply regardless of distribution
+                       channel or platform used to distribute digital or physical content.
+              Clearly distinguish between roaming content or remote access to home country
+               content access while being in another EU member state from multi-territorial
+               licensing.
+              Increase market efficiency to clear European works more effectively across
+               EU/EES territories by decreasing search, match and clearing transaction costs
+               e.g. via a registry, data base or similar.
+
+     Furthermore, Ericsson is not advocating that there must be a condition for the
+     creator to produce competition in its own exclusive right. However, once a creator
+     has made the free choice to make its work available in the EU internal market,
+     concerns may arise when a licensing arrangement harms competition, cultural
+     inclusion and/or innovation among entities that would have been actual or likely
+     potential competitors in a relevant market in the absence/presence of a particular
+     license. For example a restraint in a licensing arrangement may harm
+     competition, innovation, cultural diversity and/or consumer choice, for example, if
+     it facilitates market division or price-fixing. In addition, license restrictions with
+     respect to one market may harm competition in another market by for
+     example anticompetitive foreclosing access for the digital on-
+     demand/online platforms vs. physical cinema, and DVD physical
+     distribution markets.
+
+
+     Q11 Should the provision of a hyperlink leading to a work or other subject matter
+     protected under copyright, either in general or under specific circumstances, be
+     subject to the authorisation of the rightholder?
+
+     NO
+
+     Ericsson is of the opinion, that in the digitized world where copyright protected content is
+     made available on the internet by the right holder, it would limit the availability to the
+     content if the provisioning of a hyperlink to such content should be subject to the right
+     holder’s authorization. Such limitation for the consumer, distributor or new innovator is in
+     Ericsson’s opinion not in proportion to the potential benefits of control for the right
+     holder. Furthermore, the provision of a hyperlink does not amount to the transmission
+     of an actual work, which is a necessary condition for the consideration of a
+     communication to the public. Secondly, it does not amount to an act of communication
+
+11   © Telefonaktiebolaget LM Ericsson
+                                                                                     Public Document
+     to a new public.9
+
+
+     Q12 Should the viewing of a web-page where this implies the temporary
+     reproduction of a work or other subject matter protected under copyright on the
+     screen and in the cache memory of the user’s computer, either in general or under
+     specific circumstances, be subject to the authorisation of the rightholder?
+
+     NO
+
+     Ericsson is of the opinion, that in the digitized world where copyright protected content is
+     made available on the internet by the right holder, it would limit the availability to the
+     content if such viewing of a web-page should be subject to the right holder’s
+     authorization. Such limitation for the consumer, platform provider or new innovator is in
+     Ericsson’s opinion not in proportion to the potential benefits of control for the right holder.
+     Any change towards a more restrictive approach makes no sense at all in the digital age.
+
+     Temporary reproductions are not considered to be copies other than temporary and are
+     exempted from the reproduction right in Directive 2001/29, Article 5.1. there is no need
+     to modify this rule. Furthermore, everyday interactions of users with digital technology
+     give rise to multiple temporary digital reproductions of fragments of content. These are
+     essential to the functioning of digital technologies, devices, networks, etc. Hence,
+     according to the UK Supreme Court and some academics, requiring permission from the
+     newspaper licensing agency for such uses would break down the internet and “would
+     make infringers of many millions of ordinary users of the internet across the EU”.
+
+     Q15 Would the creation of registration system at EU level in the identification and
+     licensing of works and other subject matter?
+
+
+     A registration system developed at a EU-wide level would definitely improve the
+     identification and licensing of copyright works in digital settings. At the moment copyright
+     operates by default, i.e. by mere operation of the law, and does not require any
+     registration for the author of a creative work to gain protection and to enjoy the very
+     broad exclusive rights conferred by national systems. As a result, today’s copyright ends
+     up covering not only traditional types of creative work but also millions of works created
+     every day (e.g. Twitter or Facebook posts, blogs, etc) for which nobody claims copyright
+     protection.
+
+     Copyright law has traditionally addressed professionally created content. The absence
+     9
+
+     http://curia.europa.eu/juris/document/document.jsf?text=&docid=147847&pageIndex=0&doclang=EN&mo
+     de=req&dir=&occ=first&part=1&cid=28135
+
+12       © Telefonaktiebolaget LM Ericsson
+                                                                                        Public Document
+     of a registration requirement has been seen, also at international level, as an important
+     element that ensured a better and immediate protection for the author, who did not need
+     to comply with any formalities in order to acquire copyright ownership. With the advent of
+     digital technologies, however, creativity has changed radically and has become a much
+     broader concept. In addition to professional content, which continues to be produced
+     successfully, we have increasingly broader types and amounts of creative content that is
+     either produced unprofessionally (i.e. with no expectations of financial gain by amateurs)
+     or released on the Internet under licensing schemes (e.g. Creative Commons) through
+     which copyright holders relinquish their rights (or a part of their rights) in order the to
+     make their works freely accessible. What is known as ‘user-generated content’ is a
+     significant element of a portion of content not produced professionally that is
+     increasingly shared and transmitted across digital networks, online content platforms
+     and social networks. Applying traditional copyright rules to this kind of technology-
+     enabled creativity does not seem desirable, and creates legal uncertainty for users and
+     right-holders alike.
+
+
+     Q16 What would be the possible advantages of such system?
+
+
+     Ericsson believes that the implementation of a registration system in Europe would
+     greatly help online intermediaries keep professional content distinct from user-generated
+     content (or from content for which their creators do not seek remuneration or copyright
+     protection). On the one hand, the formalization of such distinction would enable online
+     content providers to let users of their services freely exchange unregistered materials. At
+     the same time, content providers could easily adopt technologies aimed at detecting all
+     copyright (i.e. registered) content that has not been licensed and make such content not
+     available to the platform users. On the other hand, a registration system would give a
+     boost to the development and effective implementation of copyright work databases and
+     rights identification and management technologies that could be connected to each
+     other at European level. As acknowledged by the European Commission in its
+     Recommendation of 27 October 2011 on the digitization and online accessibility of
+     cultural material and digital preservation, rights information databases are a very
+     important tool to bring down transaction costs for rights clearance. If initiatives such as
+     the Global Repertoire Database in the music sector were developed more efficiently, in
+     close cooperation with all stakeholders, copyright licensing on a EU-wide basis would
+     become much easier. It seems obvious to Ericsson that one cannot obtain a license for
+     a copyrighted work unless he or she knows who owns the relevant right. Nonetheless, in
+     spite of the attempts made by stakeholders to develop voluntary copyright databases,
+     these attempts have not succeeded yet. A registration system would make these tools
+     and technologies indispensable, so that all parties would have an incentive to have them
+     at hand and to update them constantly and efficiently.
+
+     In short, a copyright registration system would provide several advantages:
+
+     •         Right-holders would have a simple, clear and legally effective means to establish
+
+
+13   © Telefonaktiebolaget LM Ericsson
+                                                                                    Public Document
+     their authorship and/or ownership.
+     •      Society would be better off since registration would also help delimit the public
+     domain, consequently facilitating access to freely available creative content;
+     •      National copyright registries may constitute a repository of cultural works through
+     deposit.
+
+
+     Q17 What would be the possible disadvantages of such system?
+
+
+     The biggest disadvantage (or obstacle) in the implementation of a copyright registration
+     system in the EU would be the risk of non-compliance with the principle of formality-free
+     protection embodied in the Berne Convention for the protection of literary and artistic
+     property, as amended in 1971 by the Paris Act. After this amendment, Article 5(2) of the
+     convention provides that copyright shall not be subject to any formality. In spite of the
+     formality-free principle set out at international level, in Ericsson’s view EU policy makers
+     should consider implementing those forms of registration for copyright works that do not
+     seem to enter into conflict with the Berne Convention. For domestic works, for instance,
+     any Member State or the EU itself could impose mandatory registration as a condition to
+     have access to certain infringement actions or remedies, as it happens in the US.
+     Moreover, Member States or the EU could impose such formalities for copyright holders
+     to obtain those privileges and additional forms of legal protection that are not
+     incorporated in the legal framework (i.e. the Berne Convention) where the principle of
+     formality-free protection is provided. In this regard, formalities could be required to
+     obtain protection in relation to phonograms, broadcasts, non-original databases and for
+     the legitimate application of TPM and/or DRM. Finally, any Member State or the EU
+     could condition benefits such as prima facie evidence of ownership of rights on securing
+     a certificate of registration.
+
+
+     Q19 What should be the role of the EU in promoting the adoption of identifiers in
+     the content sector, and in promoting the development and interoperability of
+     rights ownership and permissions databases?
+
+
+     In Ericsson’s view, rights identification systems and repertoire databases are, and will
+     continue to be, essential for copyright to apply effectively in sectors such as online
+     music, films and other types of digital content. Markets for products like copyright works
+     can only function in so far as all information and data concerning rights and their
+     ownership is made available openly, i.e. in standardized and interoperable formats.
+     Content licensing in the EU Digital Single Market would be greatly facilitated if all content
+     owners and licensees had proper access to the data collected in the database.
+
+     One example of such tools is the Global Repertoire Database (GRD) in the music
+     sector, which has been supported by the European Commission. The GRD project is
+     trying to build up a comprehensive database of global copyright ownership of musical
+
+
+14   © Telefonaktiebolaget LM Ericsson
+                                                                                      Public Document
+     works, openly available to songwriters, publishers, collecting societies, and users.
+     Unfortunately, a few years after its launch, the GRD is still moving slowly because of the
+     uncertainties concerning the conditions under which copyright holders and collecting
+     societies will make metadata available to the whole working group.
+
+     Ericsson believes that the European Commission should continue to monitor the
+     development and make it sure that data and metadata related to rights ownership and
+     permissions databases are effectively made available to commercial and non-
+     commercial users and, more generally, to the public by their respective holders. In
+     addition, we believe that such data and metadata should become available under open
+     access licenses and should also facilitate full interoperability through the adoption of
+     non-proprietary and standardized formats.
+
+     Q20 Are the current terms of copyright protection still appropriate in the digital
+     environment?
+
+     NO - it is absolutely essential that copyright is based on rational economic principles.
+
+     In Ericsson’s view, today’s term of copyright protection in the EU (life plus 70 years) is
+     far too long. As a result of the term extension directive of 1993, this term is 20 years
+     longer than the minimum term of protection set out under Article 7 of the Berne
+     Convention (the author’s life plus 50 years). The main justification for such a long
+     duration, for the Convention parties, was that of taking care of the author and his or her
+     family. More than a century after the entry into force of the Convention, the fact that
+     copyright is normally assigned to, or contractually acquired by, enterprises (i.e. non-
+     natural persons) no longer justifies a term of protection whose main parameter is the life
+     of the author. Such a parameter is even more flawed if one thinks that authors are not
+     the main beneficiaries of copyright protection in the long run, especially in sectors where
+     authors are not assisted by collecting societies, which act as authors’ unions helping
+     them share their rights with publishers. Enterprises are not people and does not need
+     such a long copyright term (see below) in order to make their investments in the creative
+     sectors profitable.
+
+     In Ericsson’s view, given that nowadays copyright is more and more often used to
+     protect technology, a good parameter for copyright’s term of protection could be that of
+     patents, i.e. 20 years. Such a term falls precisely within the duration range that
+     academic research has presented as the optimal term of copyright protection, from 15 to
+     38 years (see below). These are all term options that are significantly different from the
+     current 70 years after the author’s death.
+
+
+
+
+15   © Telefonaktiebolaget LM Ericsson
+                                                                                     Public Document
+     Ericsson would like to provide additional information regarding economics of copyright in
+     form of an abstract from Ruth Towse paper10:
+
+
+            Almost all economists are agreed that the copyright term is now
+             inefficiently long with the result that costs of compliance most likely exceed
+             any financial benefits from extensions (and it is worth remembering that the
+             term of protection for a work in the 1709 Statute of Anne was 14 years with the
+             possibility of renewal as compared to 70 years plus life for authors in most
+             developed countries in the present, which means a work could be protected for
+             well over 150 years).
+            One point on which all economists agree is that there can be no possible
+             justification for retrospective extension to the term of copyright for existing
+             works since it defies the economic logic of the copyright incentive, something
+             that nevertheless has been enacted on several occasions.
+               A further aspect of the incentive value of copyright has to do with practicalities.
+                Copyright law only stipulates the copyright standard and the rights that
+                protect authors, but authors almost always have to contract with an
+                intermediary or distributor in order to market their work and it is the terms
+                of the contract between them that determine the eventual financial reward
+                to the author. Research on artists’ total earnings including royalties shows that
+                only a small minority earn an amount comparable to national earnings in other
+                occupations and only ‘superstars’ make huge amounts. Copyright produces
+                limited economic rewards to the ‘ordinary’ professional creator.
+               Copyright could become more similar to a patent by having an initial term of
+                protection of a work, say of 20 years, renewable for further terms. The advantage
+                of this is twofold: it enables a ‘use it or lose it’ regime to function and, more
+                relevant to the economics of copyright, it enables the market to function
+                better in valuing a work (the vast majority of works, as we know, are anyway out
+                of print because they are deemed to have no commercial value while the
+                copyright is still valid); knowing that renewal would be necessary would also alter
+                contractual terms between creators and intermediaries, thereby improving the
+                efficiency of contracting and the prospect of fairer contracts.11
+
+     Furthermore, other academic sources point to additional issues related to current terms
+     of protection:
+
+     Lack of evidence of any benefits:
+        ● Academic research: optimal term of protection for copyright of 15 to 38 years.
+           This is a significant difference from the current 70 years post mortem auctoris.
+        ● Extensive terms of protection do not benefit artists - see joint statement by
+           European Academics (2009);
+
+     10
+       Ruth Towse, “what we know, what we don’t know and what policy makers would like us to know about the economics of copyright”
+     Review of Economic Research on Copyright Issues, 2011, vol. 8(2), pp.101-120.
+     11
+          See Kretschmer (2011) http://www.cippm.org.uk/publications/Kretschmer-term-reversion.pdf
+
+16    © Telefonaktiebolaget LM Ericsson
+                                                                                                                  Public Document
+          ● Investments in the creation of works are not motivated by rewards 70 years after
+            the death of their creators. Even in capital intensive creative sectors, the
+            timespan for recouping an investment is much shorter. Extensive terms of
+            protection are a windfall.
+
+     Disadvantages from extensive term of protection:
+        ● Consumers bear the costs of long terms of protection: Paul Heald showed that
+           for major publishers books in copyright have a typical list price of USD 8.90, while
+           out of copyright books have a list price of USD 6.3012 and that longer copyright
+           terms restrict price competition. Since then, with the development of e-books and
+           e-readers, many public domain books are available for free.
+        ● Extensive copyright terms limit the availability of content. See NYT, European
+           Copyright Laws Lead to Rare Music Releases (December 11, 2013); Paul Heald
+           ‘How Copyright Makes Books and Music Disappear’ (2013). “of the 10,027 books
+           published in 1930, only 174 were still in print in 2001” (Landes and Posner, The
+           Economic Structure of Intellectual Property Law, 2003, p. 212)
+
+     Q 64 In your view, is there a need to clarify at the EU level the scope and
+     application of the private copying and reprography exceptions 13 in the digital
+     environment?
+
+     YES.
+
+     The scope, application and level of copyright levies continue to increase rapidly and vary
+     substantially between Member States. Industry faces a fragmented market with
+     substantial legal and financial uncertainties. An obligation for Member States to file with
+     the Commission all their copyright levies and the publication by the Commission of
+     exhaustive up-to-date data would greatly increase industry visibility and reduce legal
+     uncertainty.
+
+     Clarification on the scope is also needed regarding illegal copies, user-generated-
+     content, professional use, public domain, and all other elements which should not fall
+     within the scope of the exception.
+
+     Regarding the compensation for acts of private copying, it has to be unambiguously
+     confirmed that compensation for private copying is exclusively based on harm and
+     therefore should only exist if there is a proven substantial harm to right holders. Also the
+     term “harm” must be more precisely defined.
+
+     In the absence of such clarifications on the scope and the application of the exception,
+     12
+        Paul Heald, ‘Property Rights and the Efficient Exploitation of Copyrighted Works: An Empirical Analysis
+     of      Public     Domain        and      Copyrighted     Fiction    Best     Sellers’,   available     at
+     http://papers.ssrn.com/sol3/papers.cfm?abstract_id=955954.
+     13
+        Art. 5.2(a) and 5.2(b) of Directive 2001/29/EC.
+
+17    © Telefonaktiebolaget LM Ericsson
+                                                                                                 Public Document
+     the levy system is clearly out of control as historic definitions allow unlimited claims from
+     collecting societies leading to an unreasonable and unjustified accumulation of levies for
+     consumers and industry.
+
+     Finally as noted by Towse :” …copyright levy… has been almost universally opposed by
+     economists on the grounds that its remuneration to creators bears no resemblance to
+     the market value of the works and therefore could not act as a valid incentive to
+     creators”.14 This observation made by most economist points to a failure or a broken
+     concept in current copy right system that fails to deliver on key policy objective and that
+     should make up for the key basis to grant rights holders with statutory monopoly powers
+     with the aim to stimulate investments in intellectual property. In other words, in the
+     absence of such economic incentive, the statutory monopoly power is reduced to a
+     narrow privilege.
+
+
+
+     Q65. Should digital copies made by end users for private purposes in the context
+     of a service that has been licensed by right holders, and where the harm to the
+     right holder is minimal, be subject to private copying levies?15
+
+     NO
+
+     Licensed copies should not trigger the application of private copying levies. Mr. Vitorino
+     concludes that content licensed through online business models, e.g. legal downloading
+     and streaming services, should not be subject to levies (“licensed copies should not
+     trigger the application of levies. The opposite view would pave the way for double
+     payments. Consumers cannot be expected to show understanding for such double
+     payments”).
+
+     As he summarizes, right holders have already received compensation for licensed
+     content including subsequent copies in the framework of licensing contracts between
+     right holders and users. In this respect, it appears that the private copying of licensed
+     copies does not cause any additional harm to right holders; therefore no extra
+     compensation is justified. Any additional payment on top of the amounts that were
+     already paid as part of the license fees would paramount to double-compensation. The
+     current private copying system does not consider this fact and creates a significant
+     problem of double payment as a result. This is harming the licensing model. Also, the
+     CJEU confirmed in its judgment in the VG Wort case that compensation is due only
+     when harm is suffered.
+
+     Applying private copying levies to authorized copies of licensed content is in direct
+     contradiction with paragraph 4 of Article 6(4) of the Copyright Directive. In such regard,
+
+     14
+       Ruth Towse, “what we know, what we don’t know and what policy makers would like us to know about the economics of copyright”
+     Review of Economic Research on Copyright Issues, 2011, vol. 8(2), pp.101-120.
+     15
+      This issue was also addressed in the recommendations of Mr Antonio Vitorino resulting from the
+     mediation on private copying and reprography levies
+
+18    © Telefonaktiebolaget LM Ericsson
+                                                                                                                  Public Document
+     art. 6(4) provides:
+
+     “4. Notwithstanding the legal protection provided for in paragraph 1, in the absence of
+     voluntary measures taken by right holders, including agreements between right holders
+     and other parties concerned, Member States shall take appropriate measures to ensure
+     that right holders make available to the beneficiary of an exception or limitation provided
+     for in national law in accordance with Article 5(2)(a), (2)(c), (2)(d), (2)(e), (3)(a), (3)(b) or
+     (3)(e) the means of benefiting from that exception or limitation, to the extent necessary
+     to benefit from that exception or limitation and where that beneficiary has legal access to
+     the protected work or subject-matter concerned.
+
+     A Member State may also take such measures in respect of a beneficiary of an
+     exception or limitation provided for in accordance with Article 5(2)(b), unless
+     reproduction for private use has already been made possible by right holders to the
+     extent necessary to benefit from the exception or limitation concerned and in
+     accordance with the provisions of Article 5(2)(b) and (5), without preventing right holders
+     from adopting adequate measures regarding the number of reproductions in accordance
+     with these provisions.
+
+     The technological measures applied voluntarily by right holders, including those applied
+     in implementation of voluntary agreements, and technological measures applied in
+     implementation of the measures taken by Member States, shall enjoy the legal
+     protection provided for in paragraph 1.
+
+     The provisions of the first and second subparagraphs shall not apply to works or other
+     subject-matter made available to the public on agreed contractual terms in such a way
+     that members of the public may access them from a place and at a time individually
+     chosen by them”
+
+     Q66 How would changes in levies with respect to the application to online
+     services (e.g. services based on cloud computing allowing, for instance, users to
+     have copies on different devices) impact the development and functioning of new
+     business models on the one hand and right holders’ revenue on the other?
+
+
+     It seems incomprehensible to extend the levy system which is not functioning in the
+     offline world to online services. The Vitorino report clearly indicates that the attempts to
+     broaden the interpretation of the private copying exception not only are to the detriment
+     of right holders and legal offers based on license agreements, but are also legally
+     questionable and should not be supported.
+
+     Right holders already receive compensation for licensed content including subsequent
+     copies in the framework of licensing contracts between right holders and users. Applying
+     the unfair copyright levy system to cloud services would result in unjustified triple
+     payment by consumers (for the licensed content, for the connected device, and for the
+     cloud service).
+
+
+19   © Telefonaktiebolaget LM Ericsson
+                                                                                         Public Document
+     It should also be noted that private copying levies are currently applied to devices which
+     contain a storage capacity, as it was assumed that since devices with a storage capacity
+     can be used to copy protected content they should all be subject to levies. In the case of
+     access based cloud services, storage capacity is not needed and applying levies on
+     them is thus irrelevant.
+
+     One of the main advantages of cloud services is their global nature; therefore imposing
+     territorial/national levy systems on global services seems unfeasible and absurd,
+     especially considering the principles of the Single Market.
+
+     Cloud computing allows easier access to digital content for consumers and provides
+     artists with new distribution models. In the digital era, consumers need to be able to
+     access digital content from several connected devices at all times and from anywhere.
+     European consumers and internet users would be the first victims of the imposition of
+     levies on cloud services since prices would most certainly raise because of levies.
+     Companies of all sizes, which are increasingly using cloud services, would also face this
+     consequence.
+
+     Imposing levies on cloud services would also have negative impact on European cloud
+     service providers, as the obligation to pay levies added to new administrative burden
+     would significantly limit their competitiveness in the global market. The negative impact
+     on new business models would be immediate, as levies would raise prices and thus limit
+     the attractiveness, competitiveness and future development of business models based
+     on new technologies.
+
+
+
+     Q 67 Would you see an added value in making levies visible on the invoices for
+     products subject to levies?
+
+     Visibility of the levy in the invoice of those products that are subject to levies would bring
+     increased transparency and awareness among customers even if this could also
+     increase the risk of “copyright levies shopping” between Member States. Ericsson
+     believes that the burden of providing information should be borne by those who benefit
+     from the revenues of the levies. In case the EC decides otherwise, we believe that
+     proportionality requires that the costs are borne by rights-holders. Distributors should not
+     have to pay copyright levies and bear the financial burden of informing end-users.
+
+
+
+
+20   © Telefonaktiebolaget LM Ericsson
+                                                                                      Public Document
+     Q 71 If you have identified specific problems with the current functioning of the
+     levy system, how would these problems best be solved?
+
+     Regarding the issue of liability for payment of levies, Ericsson recommends
+     maintaining the existing liability regime:
+
+         shifting liability to retailers was rejected by Member States during the
+          Competitiveness Council of 29 May 201316
+         maintaining liability with manufacturers in combination with predictable ex ante
+          exemption schemes was identified as one possible option in the Vitorino report 17,
+          (while shifting liability to retail was the other option).
+         maintaining liability with manufacturers/importers has also been suggested in the
+          Castex report18 and is supported by most JURI Committee members 19
+         manufacturers market shares are more concentrated and consistent across member
+          states than relevant retail market shares20
+         a few, concentrated, global manufacturers are better equipped ( due to consistent
+          pan-European market presence, better resourced and operate on higher economies
+          of scale) to come up with an efficient common pan-European technical solution to
+          collect levies effectively than retailers, especially SMB, who are less concentrated
+          and less homogenous across the internal market.
+         the case made by those promoting shift to retail is constructed on complex
+          argumentation based on several interdependent policy actions being implemented
+          beforehand, e.g. “if and then” assumptions about policy implementations regarding:
+          common definitions, improved governance, improved tariff negotiation process,
+          greater transparency and overall simplification. Obviously, the necessity of such
+          complex argumentation regarding what would seem to be a seemingly straight
+          forward issue, questions fundamentally the merits and sensibility of the case for a
+          shift.
+
+
+     Respect for rights
+
+     The current civil enforcement framework at European level remains sound and is based
+     on principles that are still relevant today as confirmed by the recent European Court of
+     Justice (ECJ) decisions. The European Court of Justice has given important and useful
+     indications in two well-known cases (Promusicae and Tele2), asking Member States and
+     their respective authorities to take measures that, while balancing both rights, should
+     respect the principle of proportionality. The European Court of Justice decisions imply
+     also that Internet service providers cannot assume the responsibility of balancing rights
+     and becoming controllers of the Internet. As a consequence, ETNO believes that the
+
+     16
+        Mlex, 30 May 2013: “EU Ministers reject proposal to have retailers collect copyright levies”.
+     17
+        http://ec.europa.eu/internal_market/copyright/docs/levy_reform/130131_levies-vitorino-recommendations_en.pdf
+     18
+        http://www.europarl.europa.eu/meetdocs/2009_2014/documents/juri/pr/1005/1005980/1005980en.pdf
+     19
+        http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-521.789+01+DOC+PDF+V0//EN&language=EN
+     20
+       Gartner PC market shares Q2 2013 http://www.gartner.com/newsroom/id/2570220, IDC Mobile Phone market shares Q2 2013
+     http://www.idc.com/getdoc.jsp?containerId=prUK24312613, for retail market shares :“The Competitiveness of EU electrical and electronics goods
+     markets with a focus on pricing and pricing strategies” (DG Enterprise – 2009).
+
+
+
+21    © Telefonaktiebolaget LM Ericsson
+                                                                                                                                     Public Document
+     enforcement framework, completed by the ECJ ruling, achieves the right balance
+     between copyright and the right to privacy and protection of personal data.
+
+     The balance between fundamental rights should include also other fundamental rights,
+     e.g. the presumption of innocence, right to a fair trial, the confidentiality of
+     communications. In addition and since the SABAM case, the European Court of Justice
+     has also considered the right to conduct business as a fundamental right that should be
+     taken into consideration during the overall balancing process. The Advocate General
+     Villalon in his opinions delivered with regard to the cases Case C 70/10 and C-314/12
+     has touched on a further important element which is the question of a concrete legal
+     basis necessary in case the enforcement measure is restricting fundamental rights. This
+     is indeed a very important point as it would guarantee a democratic process and debate
+     before imposing measures such as the filtering of systems or blocking obligations on
+     ISPs. In a recent judgment in Germany (21.11.2013 OLG Hamburg 5 U 68/10), it was
+     confirmed that any measure imposing blocking or filtering mechanisms on an access
+     provider in Germany must be based on a law defining in detail how the access to the
+     infringing content should be impeded.
+
+     The current enforcement system, under the Intellectual Property Rights Enforcement
+     Directive (IPRED), has played and continues to play a crucial role in providing rights-
+     holders with a high level of intellectual property right protection. This legal text is based
+     upon principles that remain valid today and that should be maintained. Any future
+     eventual revision should be coherent with the current intermediary liability regime. In
+     addition, any reinforcement of the contribution of intermediaries in the fight against illegal
+     file sharing must remain compliant with the right to a presumption of innocence, the right
+     to a fair trial, the right to privacy and the right to the confidentiality of communications.
+
+
+
+
+22   © Telefonaktiebolaget LM Ericsson
+                                                                                      Public Document
+     Finally, the enforcement of intellectual property rights should not be seen as the sole
+     solution having just one dimension. A more holistic view is necessary, focusing on:
+
+            Increasing availability of lawful digital content is the best way to fight “free”
+              as there is an inverted relationship between lawful and unlawful access to
+              content:
+
+     FIGURE 5 LAWFUL SERVICES DISPLACING “FREE”
+
+
+
+
+                                                     Source: Ericsson ConsumerLab TV & Media Study 2013
+
+
+
+            Economists have expressed concerns that copyright has a moral hazard
+             effect on incumbent creative firms, by encouraging them to rely on
+             enforcement of the law rather than adopt new technologies and business models
+             to deal with new technologies21 .
+
+     Hence, enforcement should not become a tool to protect businesses from competition,
+     changing business realities and changes in consumer exactions, hereby allowing them
+     to continue to hold on to outdated business models.
+
+
+
+
+     21
+       Ruth Towse, “what we know, what we don’t know and what policy makers would like us to know about the economics of copyright”
+     Review of Economic Research on Copyright Issues, 2011, vol. 8(2), pp.101-120.
+
+
+23    © Telefonaktiebolaget LM Ericsson
+                                                                                                                  Public Document
+             Enforcement must be facts based
+
+     It is absolutely essential that enforcement debate and policy is not based on
+     manufactured claims, exaggerations and deceptions that will in the long run risk
+     resulting in a negative public sentiment concerning intellectual property. Empirical data
+     on the impact of copyright infringement over the last two decades is deeply contested
+     and in some case to such a level that it is being ridiculed. This is highly undesirable
+     development for the perception of copyright and by extension intellectual property in
+     general by the broader public.
+
+             Ineffective solutions should not be pursued by policy makers.
+
+
+     “There is no evidence demonstrating a causal connection between graduated response and reduced
+     infringement. If “effectiveness” means reducing infringement, then it is not effective” 22
+
+     “There is no convincing proof that any variety of graduated response increases the size of the
+     legitimate market. If “effectiveness” means increasing the market, then it is not effective.”23
+
+
+             Enforcement solutions should be targeted at the organized sources polluting
+              networks with pirated content – a review of PPP polluter pays principle as
+              established in environmental law should be considered.
+
+     MPAA: “Approximately ninety percent of newly released movies that are pirated can be
+     traced to thieves who use a digital recording device in a movie theater to literally steal
+     the image and/or sound off the screen”.
+
+     In summary, Ericsson believes that a rethinking of the release windows mechanisms is
+     necessary, an introduction of a premium digital window in conjuncture with
+     physical window is absolutely necessary. In a recent study published by Spotify one
+     of the questions was examining the impact of holdout strategies on sales and illegal
+     torrent volumes. The result was that “artists who delayed their release on Spotify
+     suffered higher levels of piracy than those who did not”. (Spotify report: Adventures in
+     the Netherlands: Spotify, Piracy and the new Dutch experience). The availability of the
+     most recent content from legal sources online would therefore be a very effective tool to
+     reduce copyright infringements. Furthermore, if further enforcement measures are
+     required, it is time that policy makers target the sources that pollute the
+     communication networks with unlawful content.
+
+
+
+
+     22
+          http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2322516
+     23
+          Ibid.
+
+24    © Telefonaktiebolaget LM Ericsson
+                                                                                       Public Document
+     Walter van der Weiden, Director European Affairs
+
+     Ericsson Brussels Office
+     Avenue de Tervueren 12
+     Brussels 1040
+     Belgium
+     Mobile +32496862233
+     Email walter.van.der.weiden@ericsson.com
+
+
+     Rene Summer, Director Government and Industry Relations
+
+     LM Ericsson
+     Thorshamnsgatan 21
+     Stockholm 164 83
+     Sweden
+     Mobile +46 702 453 668
+     Email    rene.summer@ericsson.com
+
+
+     ___________________________________________________________________
+
+     Ericsson is the world's leading provider of communications technology and services. We are enabling the
+     Networked Society with efficient real-time solutions that allow us all to study, work and live our lives more
+     freely in sustainable societies around the world.
+
+     Our offering comprises services, software and infrastructure within Information and Communications
+     Technology for telecom operators and other industries. Today more than 40 percent of the world's mobile
+     traffic goes through Ericsson networks and we support customers' networks servicing more than 2.5 billion
+     subscribers.
+
+     We operate in 180 countries and employ more than 110,000 people. Founded in 1876, Ericsson is
+     headquartered in Stockholm, Sweden. In 2012 the company's net sales were SEK 227.8 billion (USD 33.8
+     billion). Ericsson is listed on NASDAQ OMX, Stockholm and NASDAQ, New York stock exchanges.
+
+
+
+
+25   © Telefonaktiebolaget LM Ericsson
+                                                                                                     Public Document
+

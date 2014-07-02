@@ -1,0 +1,21 @@
+start consolidating texts in Tue Jun 10 2014 16:07:52 GMT+0200 (CEST)
+err odt2txt "authors/hornschuh_de.odt.zap" Error: Command failed: authors/hornschuh_de.odt.zap: Aucun fichier ou dossier de ce type
+
+err odt2txt "authors/hornschuh_de.odt.zap" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/merchorus_nl.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/stross.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/stross.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/stross.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/ponti_en.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/ponti_en.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/ponti_en.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/ponti_en.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/guilyardi_en.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/guilyardi_en.msg" Error: stdout maxBuffer exceeded.
+err cat "authors/emails-without-attachment/guilyardi_en.msg" Error: stdout maxBuffer exceeded.
+err odt2txt "authors/p.-thomson_en.odt" Error: stdout maxBuffer exceeded.
+err pdftotext -layout "publishers/cherche-midi-editeur_en.pdf" Error: stdout maxBuffer exceeded.
+err antiword -s "registered/institutional-users/the-royal-library_en.doc" Error: stdout maxBuffer exceeded.
+err pdftotext -layout "registered/publishers/emma_en.pdf" Error: stdout maxBuffer exceeded.
+err pdftotext -layout "registered/cmos/buma-stemra_en.pdf" Error: Command failed: registered/cmos/FRO_EN.doc is not a Word Document.
+

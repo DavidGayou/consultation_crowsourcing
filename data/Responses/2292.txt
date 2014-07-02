@@ -1,0 +1,141 @@
+The Digital Repository of Ireland (DRI) is an interactive, trusted digital repository for social and cultural
+content held by Irish institutions. By providing a central internet access point and interactive multimedia
+tools, the DRI facilitates engagement with contemporary and historical data, allowing the public,
+students, and scholars to research Ireland’s cultural heritage and social life in ways never before
+possible.
+The DRI is also acting as a focal point for digital best practices by collaborating on the development of
+guidelines, and working to inform national policy on digital preservation and access. The DRI promotes
+awareness of the benefits of preservation and open access to data, while respecting the importance of
+ownership, copyright, intellectual property, privacy and confidentiality.
+The DRI was launched in 2011, when it received funding from the Irish Government's PRTLI cycle 5 for
+€5.2M over four years. The Royal Irish Academy is the lead partner in the DRI consortium, which is also
+composed of the following partners: National University of Ireland Maynooth (NUIM), Trinity College
+Dublin (TCD), Dublin Institute of Technology (DIT), National University of Ireland Galway (NUIG), and
+National College of Art and Design (NCAD). The DRI Research Consortium are currently collaborating with
+a network of cultural, social, academic and industry partners, including the National Library of Ireland
+(NLI), the National Archives of Ireland (NAI) and RTÉ.
+
+
+   Submission to the Public Consultation on the Review of the EU Copyright Rules on
+                    behalf of the Digital Repository of Ireland (DRI)
+
+Type of Respondant: Institutional User
+
+
+
+Access Rights
+
+2. Have you faced problems when seeking to provide online services across borders in the EU?
+Despite not having launched to the general public, DRI is already considering issues of how to
+appropriately license and control access to material from users in different jurisdictions. This is
+especially the case with material that is deposited by broadcasters, both national and local. Even
+within the island of Ireland there are already restrictions on online access to broadcast material
+even though the radio and television signals, obviously, don’t observe the border. DRI would
+suggest that some rationalization of the rules for online redistribution, with greater flexibility for
+cultural, heritage and educational purposes be considered.
+Linking and browsing
+11. Should the provision of a hyperlink leading to a work or other subject matter
+protected under copyright, either in general or under specific circumstances, be subject to
+the authorisation of the rightholder?
+DRI strongly believes that linking to online materials should not require the permission of the
+rights holder of that object, nor should the rights holder have any power to compel the removal of
+links to their material. Linking is fundamental to the operation of the Internet and the proposed
+requirement is both anathema to an open Internet as well as effectively unworkable.
+
+12. Should the viewing of a web­page where this implies the temporary reproduction of
+a work or other subject matter protected under copyright on the screen and in the cache
+memory of the user’s computer, either in general or under specific circumstances, be
+subject to the authorisation of the rightholder?
+
+No, because it is covered by a copyright exception under article 5.1 of Directive 2001/29/EC
+which considers ‘the harmonisation of certain aspects of copyright and related rights in the
+information society’.
+The UK Supreme Court highlights, in their 2013 Press Release (Public Relations Consultants
+Association Limited (Appellant) v The Newspaper Licensing Agency Limited and Others
+(Respondents) [2013] UKSC 18),
+
+       rejects the idea that article 5.1 does not apply to temporary copies generated by an
+       end­user of the internet. Recital 33 to the Directive makes clear it was intended to
+       “include acts which enable browsing as well as acts of catching to take place.” Browsing
+       by its very nature is an end­user function. These acts are “acts of temporary
+       reproduction” which “enable” browsing and are the making of temporary copies in the
+       end­user’s cache and screen.
+
+
+Copyright Registry
+15. Would the creation of a registration system at EU level help in the identification and
+licensing of works and other subject matter?
+
+YES
+
+16. What would be the possible advantages of such a system?
+DRI agrees with the concept that copyright exists from the moment a work is created. We do not
+believe that compulsory registration is required or desirable. However, a voluntary registration
+system could help protect the rights of small producers of copyright material.
+
+17. What would be the possible disadvantages of such a system?
+DRI would be against a situation where a de­facto position of not owning the copyright unless
+you were the registrar for the object existed.
+
+
+Identifiers
+19. What should be the role of the EU in promoting the adoption of identifiers in the
+content sector, and in promoting the development and interoperability of rights ownership
+and permissions databases?
+In principle, identifiers are a good idea. However, there are potential issues with how they would
+operate in practice. In the absence of a central register (as per Q15), how are identifiers
+created? Perhaps the EU should look to the models taken by the Linked Data community where
+de­facto authorities have been created through community efforts rather than a centralized,
+controlled authority.
+
+
+Length of Copyright Term
+20. Are the current terms of copyright protection still appropriate in the digital
+environment?
+Copyright is effectively an agreement between creators and the common good to allow exclusive
+access to commercial exploitation of creative works in the knowledge that in the future the work
+enters the public domain and can be exploited by all. At the moment this agreement seems to be
+heavily skewed against the general public with ever extending term lengths being granted to
+copyright holders. We would support a reduction in the term length, ideally to match patent
+lengths, but failing that 50 years seems to be a reasonable term.
+DRI would also favour a rationalization of copyright terms, with a single term length covering all
+works from date of creation, whether created by individuals or corporate entities.
+
+Exceptions
+21. Are there problems arising from the fact that most limitations and exceptions
+provided in the EU copyright directives are optional for the Member States?
+It would be beneficial if the limitations and exceptions were uniformly applied across the EU. This
+would remove confusion for both rights holders and end users. Clarity would also potentially
+open up new opportunities for innovation and entrepreneurship.
+
+Preservation and Archiving
+28. (a) [In particular if you are an institutional user:] Have you experienced specific
+problems when trying to use an exception to preserve and archive specific works or other
+subject matter in your collection?
+
+While DRI has not yet experienced specific problems in preserving digital material, we believe
+that cultural, heritage and educational institutions should be given maximum freedom in
+preserving and archiving. At some point the copyright term will expire and the works will enter the
+public domain and these types of institutions are best placed to ensure that the works are
+available for future generations.
+Single EU Copyright
+78. Should the EU pursue the establishment of a single EU Copyright Title, as a means
+of establishing a consistent framework for rights and exceptions to copyright across the
+EU, as well as a single framework for enforcement?
+
+The establishment of a single EU Copyright Title would significantly simplify the copyright
+clearance work of cultural, heritage and educational institutions, and remove confusion for both
+rights holders and end users. There are already precedents of European legislation designed to
+help interoperability, data access and data sharing, for instance through the INSPIRE Legislation
+for geo­spatial data:http://inspire.jrc.ec.europa.eu/index.cfm/pageid/3, to which all member
+states in the EU must adhere. DRI would be supportive of an initiative along similar lines
+regarding copyright.
+
+79. Should this be the next step in the development of copyright in the EU? Does the
+current level of difference among the Member State legislation mean that this is a longer
+term project?
+Given the level of difference in copyright legislation among member states, this needs to be a
+longer term project. However, there is also a need to update copyright legislation in order to
+remove barriers to innovation, particularly regarding online activity. Therefore the project should
+not be so long term that it becomes obsolete.
+

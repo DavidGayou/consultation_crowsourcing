@@ -1,0 +1,560 @@
+European Commission
+Internal Market and Services DG,
+Unit D1 --- Copyright
+
+Via E-Mail: markt-copyright-consultation@ec.europa.eu
+                                                                                          Vienna, 5 March 2014
+
+
+
+Reference:      Public Consultation on the review of the EU copyright rules
+                Relating to a possible Amendment of ‚European Copyright’
+
+
+
+Ladies and Gentlemen,
+
+The Association Littéraire et Artistique Internationale (ALAI) is a well known International
+Organisation of Copyright Lawyers, academics and interested circles dealing with copyright
+questions, the activities of which on the international and European level need not to be explained in
+detail. The Austrian Group of ALAI is the national ‘arm’ of this international organization dealing
+in the first line with European and national copyright problems and working closely together with
+ALAI International. The further development of EU copyright in the interest of rightholders as well
+as distributors at all levels and end-users is a heartfelt concern of our group, the members of which
+in the first line are academics.
+We thank you for giving us the opportunity to participate in this public consultation, which shall be
+carried out first and foremost by this letter outside the narrow corset of the Consultation, but dealing
+with most of the questions raised therein. The format and order the of the Consultation shall,
+therefore, be more or less followed.
+
+II.   Rights and the functioning of the Single Market
+A.    Why is it not possible to access many online content services from anywhere in Europe
+(aa) Preliminary remark
+      Prior to touching upon this point the fundamental question must be discussed, whether the
+      author (and other rightholders) must be able to effectively control the exploitation of their
+      creations on the grounds of their exclusive rights granted in the Single Market by national
+      laws also in the context of online-use. In favour of such control one can argue on the basis of
+      the very purpose and function of exclusive rights as established in International and European
+      Copyright and on the grounds of the legitimate interests of rightholders.
+      If this should be the case, it also must be possible for rightholders to restrict a licence in
+      regard of its territorial extent in the Single Market, if there is no evidence of a predominant
+      general interest to the contrary. Whether this is the case or not, must be discussed in depth
+
+
+        Association Littéraire et Artistique Internationale - Internationale Vereinigung für Literatur und Kunst
+        A-1080 Wien, Laudongasse 25/6 – Tel +43/1/402 45 000 – Fax: +43/1/402 45 00 22 – E-Mail: austria@alai.at
+                             Registrierter Verein Bundespolizeidirektion Wien Reg Nr X-4482
+            Bankverbindung, ERSTE Bank AG, IBAN: AT43.20111.0000.244.1268 BIC: GIB.AAT.WWXXX
+                                                       -2-
+
+
+
+       prior to postulating that online-services necessarily are to be accessible from anywhere in
+       Europe. In discussing this question it must be born in mind that different media and situations
+       may have to be treated differently.
+(bb) The impact of the the Services-Directive
+       However this may be, the Services-Directive, in our view, is no obstacle, since the ECJ
+       recently decided with regard to a possible monopoly of collecting societies under the national
+       law of a Member State1 that copyright is exempted from the application of this Directive.
+(cc) The territorial splitting of licences
+       It may be worthwhile to be mentioned that the so-called territoriality of intellectual property
+       rights has nothing to do with the question of territorial restriction of the exploitation rights.
+       Even in the case of a unitary European copyright title the question would arise whether a
+       territorial restriction of exploitation rights (licences) should be effective or not, as this is the
+       case under national law with regard to the national territory or parts thereof (provinces and the
+       like).
+
+
+B.     Is there a need for more clarity as regards the scope of what needs to be authorized (or
+       not) in digital transmissions?
+       1. The act of “making available”
+(a)    Preliminary remarks
+       The Austrian Group of ALAI holds that the making available of copyright subject matter (on
+       the internet) is to be considered as a single act that is completely performed in offering such
+       matter for downloading and/or streaming on the internet, irrespective of whether the protected
+       material in fact is downloaded or streamed (‘consumed’), as this is the case in regard of
+       broadcasting. This fact appears to be the very reason, why exceptions and limitations have
+       been set out in the Infosoc-Directive (Article 5).
+       The reproduction of protected subject matter on the ‘transportation route’ (in proxy servers) is
+       covered by the (mandatory) exception in favour of transient or incidental copies (Art 5 para 1
+       of the Infosoc-Directive), whereas the (transient or incidental) reproduction generated on the
+       user’s computer (in the RAM-memory of the user’s computer) pursuant to the second case of
+       this very provision is exempted from copyright protection as well. However, the application of
+       the latter provision is dependent upon the fact that the applicable national law of the Member
+       State, where the reproduction takes place on the user’s computer, provides for an exemption
+       (in favour of one’s private use), since otherwise there is no ‘lawful user’.
+       The same holds true as regards permanent downloading of copyright material, which may be
+       covered by an exception provided for private copying as alluded to in Art 5 para 2 lit b of the
+       Infosoc-Directive (or in rare cases will not be covered by such exceptions), according to the
+       relevant Member State’s legislation.
+       Thus the question arises, whether the downloading or streaming from a (legitimate) internet-
+       platform is an activity, which is relevant from the point of view of copyright protection at all.
+
+
+1     See ECJ 27 February 2014 case C-351/12 – „Ochranný svaz autorský pro práva k dílům hudebním, o.s. (OSA)“.
+                                                       -3-
+
+
+
+       In the view of the Austrian Group of ALAI the price paid to such platforms rather is due to the
+       rendering this service than to paying copyright fees. Of course, the operator of such platform
+       makes works available to the public and, therefore, needs the rightholders’ consent. As a rule
+       he will shift the payments made to rightholders to his subscribers. However, such payments
+       are not caused by the reproduction of copyright subject matter, but by making it available to
+       the public by the operator.
+       This seems to be the very reason, why Article 5 para 2 lit b of the Infosoc-Directive explicitly
+       stated that such payments are to be taken into consideration nevertheless in fixing the „fair
+       compensation“ for private copying. The Austrian Group of ALAI, therefore, holds that the
+       provision of Article 3 of the Infosoc-Directive does not need any further clarification.
+(b)    Differentiation between various acts of exploitation on the internet
+       However, there might be a need for clarification in regard of drawing the line of demarcation
+       between the making available of a work and the broadcasting (on the internet). In the view of
+       the Austrian Group, broadcasting is to be circumscribed by making copyright matter available
+       to the public by any means of communicating it in the form of (pre-made) programs, which is
+       not the case when such material is made available interactively, in particular in the form of
+       podcasts so-called.
+       Furthermore the pushing of copyright material on the internet e.g. as an attachment of mass-e-
+       mails should be considered as sort of distribution according to article 4 of the Infosoc-
+       Directive.
+       However, since all such differentiation is disputed, clarification may be advisable in this
+       regard.
+2.     Two rights involved in a single act of exploitation
+       The fact that two different exploitation rights are involved, when copyright subject matter is
+       made available on the internet, namely the reproduction right on the one hand and the making
+       available right as such on the other, in no case appears to be an obstacle for any mode of
+       exploitation on the internet. The involvement of two (or even more) exploitation rights is
+       known from other forms of exploitation as well, as is the case e.g. as regards reproduction for
+       broadcasting purposes. As a rule, both exploitation rights are managed by the same rightholder
+       (collecting society) anyway.
+3.     Linking and Browsing
+(a)    Browsing
+       As far as browsing is concerned, this use, as a rule, is covered by the exception in favour of
+       transient or incidental copying pursuant to Article 5 para 1 of the Infosoc-Directive. There is
+       no need of further clarifying this situation.
+(b)    Linking
+       As regards linking the ECJ recently decided that either form of linking is independent the
+       rightholder’s consent2. Whereas linking is to be considered as an act of communication to the
+       public, the criterion of public is not fulfilled, since there is no “new public” addressed by any
+
+2     See E CJ 13 February 2014 case C-466/12 – „Nils Svensson/Retriever Sverige“.
+                                                       -4-
+
+
+
+        form of linking.The criterion of ‘new public’ is understood as a public, which was not already
+        taken into consideration by the rightholder in making the copyright matter available (on the
+        internet)3 without providing for technical protection measures.
+        Of course, one could argue that the judgment of the ECJ is not convincing as far as inline-
+        linking (framing) is concerned. If one agrees with this argumentation, one could think of
+        clarifying Article 3 of the InfoSoc-Directive with this regard. Furthermore, it could be taken
+        into consideration to clarify, by which means, apart from technical protection measures,
+        rightholders may express their will that the copyright subject matter placed on a website shall
+        only be accessed by direct visitors and not through linking.
+4.      Download to own digital content
+(a)     The problem of online-exhaustion
+        This question refers to the basic problem, whether in the case of downloads of copyright
+        material with the author’s consent the principle of exhaustion should apply as this is the case,
+        when physical copies are distributed (by transfer of ownership) pursuant to Article 4 of the
+        Infosoc-Directive. In principle, it seems to be clear that there is no difference between a case
+        where e.g. a computer program is downloaded against payment and a case where a physical
+        CD or DVD is sent to the acquirer by traditional mail4.
+(b)     The ECJ’s jurisprudence with regard to computer progrms
+        As regards computer programs the ECJ has confirmed this opinion in its „Oracle“-judgment5.
+        However, the Court left open, whether this ‘opening’ of the exhaustion principle also applies
+        to other categories of works or other subject matter of protection. In our opinion the minor
+        differences in the wording of the later Directives in comparison with the Computer Program
+        Directive are only due to the fact that the latter Directive was the first Directive to be adopted
+        in the field of copyright and related rights; the slightly differing wording is no argument for a
+        differing solution.
+(c)     Extension of this ruling to other copyright subject matter (?)
+        Against the application of the exhaustion principle to downloaded copies of other subject
+        matter of protection than computer programs it may be argued that the obligation to delete the
+        first copy6 in case of further distributing (online or offline) of the program (work) may only be
+        monitored with difficulties, if at all. Further one could argue that such copies may not be
+        recognized from their outward appearance as a legitimate copy on the market. The application
+        of the exhaustion principle, therefore, would impede the prosecution of copyright
+        infringements.
+
+3     E.g. on a web-site.
+4                                                                                                    o
+      For details see Walter/Riede in Walter/v Lewinski, European Copyright --- A Commentary (2010) N 11.4.53ff and
+      Walter, Handbuch des Urheberrechts I Rz 594ff.
+5     EuGH 03.07.2012 C-128/11 – „Oracle/UsedSoft“MR Int 2012, 34 (Walter) = MR 2012, 256 (Schmitt) = GRUR Int
+      2012, 759 = ZUM 2012, 661 (Malte Stieper ZUM 2012, 668) = GRUR 2012, 904 = CRi 2012, 116 (Michaela
+      Witzel) = CR 2012, 498 (Hansen/Wolff-Rojczyk) = EuZW 2012, 658 = MMR 2012, 586 (Truiken J Heydn) =
+      ecolex 2012/368, 905 (Axel Anderl) = ZfRV 2012/36, 215 = ÖBl 2012/58, 244 (Kulka) = jusIT 2012/57, 127
+      (E Staudegger) = Zak 2012/469, 242 = = jusIT 2012/58, 132 = ZTR 2012, 188 = SWI 2012, 378 = RdW
+      2012/467, 445.
+6     See German Federal court of Justice (BGH) 17 July 2013 GRUR 2014, 264 (Malte Stieper).
+                                                      -5-
+
+
+
+       As a conceivable approach to solving the problem it could be discussed to oblige online-
+       distributors to provide their clients with physical copies of the copyright material made
+       available for downloading, if they wish so7. Thus the application of the exhaustion principle
+       could be restricted to such cases and such physical copies (de lege ferenda), whereas the
+       distribution right does not exhaust as regards the downloads themselves.
+C.     Registration of works and other subject matter – is it a good idea?
+       In our view the Registration of works and other subject matter (as a prerequisite of protection,
+       of a longer protection, or of certain special rights) appears to be a rather bad idea. As a
+       precondition of protection such registration is to be discarded, furthermore, with regard to the
+       non-formality requirement of the Berne Convention. Though this principle does not apply in
+       the country of origin of a work, which – by the way – is rather difficult to be defined in the
+       online world8, it is not advisable to return to outdated models.
+       If registration may be expedient in special circumstances, as e.g. in the context with orphan
+       works, can only be discussed in the context of such special circumstnces. In any case it must
+       be taken into consideration that registration would cause considerable costs and could turn out
+       to be an obstacle for adequate protection in particular with regard to certain categories of
+       works and other subject matter of protection. The failed attempt to establish an international
+       register for cinematographic works may serve as an example.
+D.     How to improve the use and interoperability of identifiers
+       No comments on account of missing experience.
+E.     Term of protection – is it appropriate?
+       In our view the term of protection of seventy years pma as set out in the Term-Directive
+       (1993/2006/2011) still appears to be adequate irrespective of the fact that the expectancy of
+       life further increased since the adoption of the Term-Directive in 1993. This holds true also
+       with regard the extension of the term of protection for producers of phonograms and
+       performing artists whose presentations are fixed on phonograms (in the strict sense), since the
+       extension from 50 years to 70 eventually was moderate und now prevents performing artists
+       from seeing their recordings falling in the public domain at a time when they were still alive.
+       Only marginally: The comparable long duration of protection for copyright works does not
+       play any role in practice as far as works are concerned, which ceased to be in demand ‘on the
+       market’.
+       However, it could be discussed to extend the prolongation of protection also to other related
+       rights than those for producers of phonograms and performing artists, since it may be argued
+       that there is a considerable conflict of valuation. However, performing artists should be in the
+       fore, since their artistic achievements are most likely comparable with those of authors.
+
+
+
+
+7    Such copies must, of course be compatible with electronic reading devices for e-books.
+8    See ALAI (2012), Determination du pays d’origine lorsqu’une œuvre est divulguée publiquement pour la premiere
+     fois sur internet (Jørgen Blomqvist, Mihály Ficsor, Ysolde Gendreau, Jane Ginsburg, Silke von Lewinski, Delia
+     Lipszyc, Antoon Quaedvlieg, Sam Ricketson, Paolo Spada et Michel Walter. To be found at:
+     http://www.alai.org/assets/files/resolutions/pays-origine.pdf).
+                                                       -6-
+
+
+
+      If eventually a shortening of the terms of protection should be taken into consideration, it
+      should in any case be discussed to organize such curtailing of the terms in the form of domain
+      public payant as far as the period of shortening is concerned, as was proposed by Adolf Dietz
+      for the extension of the terms in 19939.
+
+
+III. Limitations and exceptions in the Single Market
+A.    Access to content in libraries and archives
+1.    Preservation and archiving
+      Preservation and archiving activities (of libraries, museums and archives etc) are a legitimate
+      concern, which may be discussed. However, in our view such exceptions should be discussed
+      and provided for on the national level rather than on the European, which did provide the
+      framework for such measures already in the Infosoc-Directive. Most national legislations thus
+      already provide for respective exceptions as this is the case e.g. in Austria10.
+      As far as measures are concerned, which go beyond preservation activities and aim at
+      archiving and harvesting of publicly available web content, such measures should be rendered
+      possible in amending Article 5 para 2 lit c of the Infosoc-Directive. It must be taken into
+      consideration that such publicly available web content may be put on the net only temporarily.
+      All details, however, should be reserved to licensing agreements concluded between collective
+      management organisations and the respective users. To make sure that such general
+      agreements allow archiving and harvesting of publicly available web content irrespective of
+      the repertory of collection society concerned, such general agreements should be applicable
+      also to non-members (third party effect).
+      In any case such use must be dependent upon the payment of an equitable remuneration („fair
+      compensation“). Such remuneration may be assured in upholding exclusive rights and in the
+      same time providing for mandatory collective management. With this regard see the example
+      set out in Article 9 of the Satellite-Cable Directive.
+2.    Off-premises access to library collections
+      The Off-premises access to library collections should strictly be reserved to license
+      agreements. In no case exceptions or limitations should be taken into consideration. Such
+      exceptions are not considered to be just and reasonable from the point of view of rightholders,
+      since they would be of an direct impact on the normal exploitation of copyright material. Such
+      exceptions, therefore, would in no case comply with the Three-Step-Test as set out in Article
+      5 para 5 of the Infosoc-Directive and in International Copyright.
+3.    E-lending
+      This holds true with regard to E-lending as well. Exceptions and limitations in this case are
+      not reasonable. If this issue should be further discussed, the Rental- and Lending Right
+      Directive would have to be completely revised and the interests of authors as well as
+      publishers safeguarded in particular as regards the impact on primary exploitation.
+
+
+9 Das Urheberrecht in der Europäischen Gemeinschaft (SchrR Europäische Wirtschaft 91) (1978).
+10 See for instance § 42 para 7 of the Austrian Copyright Act.
+                                                  -7-
+
+
+
+4.    Mass digitization
+      The mass digitization of copyright material in our view is to be restricted to temporary web-
+      content and to books out of print, for which the Memorandum of Understanding has already
+      set out the guidelines. Some Member States have already provided for special provisions. This
+      issue may dealt with by the Austrian legislature on the occasion of implementing the Orphan
+      Works Directive still in 2014. As this is mentioned in the Consultation paper also with this
+      regard a collective management in combination with third party effect of general agreements
+      may be worthwhile to be discussed. However, the details should be left to the national
+      legislature of the Member States.
+B.    Teaching
+      The wording of the exception as set out in Article 5 para 3 lit a Infosoc-Directive is wide and
+      leaves considerable leeway to the national legislature of the Member States with regard to this
+      non-mandatory exception. Since exceptions may be provided in the context with the
+      reproduction right and distribution right as well as with the making available right, in our
+      view this provision does not need to be extended with regard to ‘distance teaching’ and
+      ‘home-studies’. In any case such exceptions should be left to the national legislature as well.
+      Since the exception as set out in the Infosoc-Directive is restricted to non-commercial
+      institutions, it could be made clear that such provisions may be applied to commercial
+      enterprises (class book-publishers etc) as well on the condition that such exploitation must be
+      carried out on the grounds of an (upheld) exclusive right rendered flexible through mandatory
+      collective management (with third party effect) as this is the case already in Austria11.
+
+D.    Text and data mining
+      A precondition to text and data-mining is the mass digitization of copyright material. It
+      substitutes to a large extent the physical reading of big quantities of texts and possibly also the
+      understanding of (new) interrelations. Such search activities as such could be discussed to be
+      rendered free by means of a strictly circumscribed (new) exception, if this should no be the
+      case already with regard to existing exceptions and limitations.
+      In this context the ECJ in its „Infopaq I“-judgment12 already has made clear that the storing
+      (printing) of short parts of (literary) works13 may be of relevance from the point of view of
+      copyright, and would not be covered by the transient and incidental copying exception either,
+      since such copies are deemed to be permanent and not temporary. If the copyright material,
+      however, is scanned and the texts searched by means of a search engine without being print
+      out, such data mining in the European Court’s opinion is covered by the exception of Article 5
+      para 1 of the Infosoc-Directive14; according to the Court this holds true even if the scanning is
+      carried out by hand. This judgment may be disputed for two reasons: First, is appears
+
+11 See § 59c of the Austrian Copyright Act.
+12 EuGH 16.07.2009 C-5/08 – “Infopaq I/Danske Dagblades/elf Wörter“ MR-Int 2009, 56 = jusIT 2009/62, 133
+   (Staudegger) = ÖBl-LS 2009/293, 252 (Büchele) = RdW 2009/481, 505 = EuGRZ 2009, 480 = MR-Int 2010, 91 =
+   ecolex 2010/58, 175 = EuZW 2009, 655 = GRUR 2009, 1041 = Cri 2009, 142 (Petersen) = ZUM 2009, 945.
+13 In this case eleven words.
+14 See ECJ 17 January 2011 C-302/10 – „Infopaq II“ MR-Int 2014/1 (Walter) = GRUR Int 2012, 336 = ZUM 2012,
+   398 = MMR 2013, 45.
+                                                          -8-
+
+
+
+       questionable whether such procedure indeed is deemed to be a ‘technical process’; second, the
+       court did not deal with the question of deleting the scans immediately after the completion of
+       specific search procedure.
+       Since the scanning and permanent storing of texts and data is a precondition for the reasonable
+       functioning of data mining procedures, the storing would have to be permanent, which is in no
+       case covered by the mentioned exception for transient or incidental copies. Thus the enabling
+       of such activities – in our view exclusively in favour of scientific research and in no case for
+       commercial purposes – through amending the existing exceptions would be necessary as well
+       as the providing of a „fair compensation“for rightholders. Here again, a system of upheld
+       exclusive rights in combination with mandatory collective management with third party effect
+       appears to be preferable, because the differing situations and interests are dependent upon
+       specific cases, which could be taken into consideration only through licencing-contracts
+       agreed upon by the involved parties.
+
+E.     User-generated content
+1.     As far as User-Generated Content so-called is concerned, first and foremost it should be made
+       clear that the single end-user as well as internet-platforms, operators of social networks and
+       the like are liable for possible copyright infringements jointly and severally. In the view of the
+       Austrian Group of ALAI the opinion, according to which internet-platforms only are to be
+       understood as host-providers and, therefore, not liable for the copyright material made
+       available through their services in principle, cannot be agreed with. Because it is not the end-
+       user who makes such content available to the public in uploading the material to the platform,
+       but rather the platform that is carrying out the restricted act of making available. It is
+       worthwhile noting in this context that in copyright the situation is far different from that in
+       trademark cases or other intellectual property rights.
+       Furthermore, also Article 14 of the E-Commerce-Directive only alludes to the reproduction
+       right and in no way to the making available right15.
+       In any event moral rights as well as the adaptation right must be strictly reserved to
+       rightholders. This all the more, since moral rights are not at all dealt with in the European
+       copyright related Directives.
+2.     However, it may be worthwhile discussing the rendering the licensing of UGC (containing
+       copyright material of third parties) easier for end-users. In this context as well a mandatory
+       collective management (with third party effect) might be a reasonable solution.
+3.     With regard to moral rights, which have not been dealt with on the level of Union law so far,
+       it appears to be worthwhile to reconsider the reluctance of the EU legislature with this respect.
+       It may be noted in this context that according to the jurisprudence of the ECJ the provisions of
+       the Berne Convention dealing also with moral rights (Article 6bis) already actually form part of
+       Union law, since the substantial provisions of the Berne are to be applied pursuant to article 1
+       para 4 of the WCT to which the EU is a party. Furthermore, the differences between the
+
+
+15   Article 14 para 1 of the EC-Directive reads as follows:
+     ‘Where an information society service is provided that consists of the storage of information provided by a recipient
+     of the service … ’.
+                                                   -9-
+
+
+
+      differing concepts of the Member States first and foremost concern the duration of moral
+      rights, which could be left to the national legislature of the Member States.
+4.    This holds true with respect to the adaptation right as well, which only is alluded to in the
+      Computer Program-Directive.
+
+
+IV.   Private copying and reprography
+1.    General Remark
+      As to private copying and reprography it must be noted that there are rather different
+      situations to be taken into consideration with this regard. The reproduction on paper (Article 5
+      para 2 lit a of the Infosoc-Directive) may cause different possible problems than is the case
+      with regard to private copying (Article 5 para 2 lit b of the Infosoc-Directive). As far as both
+      situations are concerned it is to be noted that the ECJ’s jurisprudence already solved a series
+      of problems. However, there are still questions to be solved on the EU level.
+2.    The notion of ‘damage’ in the ‘Padawan’ case
+      As regards the judgment in the case „Padawan“ it is to be mentioned that the allusion made by
+      the Court to the notion of ‘damage’ inflicted on the rightholders by the (legitimate) copying
+      for private use, is only one aspect to be taken into consideration. In our view this aspect
+      should not be overemphasized and must in no case be understood in the strict sense of the
+      word as the real ‘damage’ occurred by private copying. In any event, apart from such damage,
+      also the aspect of remunerating the (free) use (legitimately) made of works or other subject
+      matter is decisive.
+
+
+3.    The ‘illegitimate source’ problem
+(a)   As to downloads from illegitimate sources (platforms or ‘peer2peer’ networks) of whatever
+      kind, it may be argued with good reasons that private copying from such platforms or
+      ‘peer2peer’ networks is illegitimate itself (problem of the legitimate source). There will be
+      soon shed light into this question through the jurisprudence of the ECJ16. According to the
+      opinion of the Advocate General Pedro Cruz Villalón dated 9 January 2014 in the case „ACI
+      Adam/Thuiskopie“ the legitimacy of the source is a precondition for private copying.
+      However, on the other hand, the Advocate General in this procedure held that the claim to
+      ‘fair compensation’ only serves as compensation for legitimate private copying. As a
+      consequence Article 14 of the Enforcement Directive is not applicable either since in the case
+      of ‘fair compensation’ there is no enforcement of intellectual property in the strict sense.
+(b)   If the Court should follow this opinion, which will presumably be the case, this leads to the
+      consequence that on the one hand such infringements may not be prosecuted in practice or at
+      least only with considerable difficulties and on the other hand not even a claim to a ‘fair
+      compensation’ being due. With this regard, in our opinion, the argument of ‘double payment’
+      is not convincing, since the equitable remuneration is minim and could be deducted from a
+      possible damage, if a suing for copyright infringement in fact should be carried out. It follows
+
+16 See preliminary procedure initiated by the Nederlandse Hoge Raad by judgment of 26 September 2012 – „ACI
+   Adam/Thuiskopie“ C-435/12.
+                                                 - 10 -
+
+
+
+      from the aforesaid that it should be made clear in Article 5 para 3 lit a) und b) that a ‘fair
+      compensation’ must be due also as regards illegitimate copying for one’s own use (lit a) or
+      one’s private use (lit b).
+(c)   Only marginally: As to reproductions on other material than paper the Austrian Copyright Act
+      provides for claims to an equitable remuneration („fair compensation“) also in other cases
+      than private use on the grounds of other exception (e.g. libraries).
+4.    The national systems of ‘fair compensation’
+(a)   It appears to be evident that the definite use of ‘blank tapes’ or other storing material (CDs,
+      DVDs, mini-disks, external and internal computer hard disks, USB-Sticks, memory cards or
+      whatever storage medium) and/or devices often cannot be assessed at the time, when such
+      material or devices are brought on the market by producers or importers. In Austria, therefore,
+      the Act as well as the practice of the competent collecting society (austro-mechana) efficiently
+      works on a twofold basis: First no compensation is collected if the producer or importer
+      furnishes prima facie evidence that the media will be used for purposes other than private
+      copying or other copying permitted by the Act. Second, persons who bought blank media for
+      which the „fair compensation“ already was paid have a claim to reimbursement against the
+      competent collecting society.
+      In our view, this system is fully in compliance with Union Law as was confirmed in principle
+      by the ECJ recently17, taken over by the French legislature18 already in 2011, and could serve
+      as a model for other Member States’ legislation as well as for a possible harmonization on the
+      EC level. On the other hand the shifting of the duty of payment to retailers, as was proposed
+      by the Vitorino Mediation Report of 31 January 2013, appears to be as well inefficient as
+      burdensome for all parties (collecting societies as well as thousands of retailers).
+5.    Trans-border delivery
+      As to trans-border deliveries of media or devices the ECJ (‘amazon’ case) already has made
+      clear the „fair compensation“ is to be paid in the country of definitive use (target/import
+      country). Furthermore, the Court emphasized that the legislation of the ‘export county’ is to
+      provide for a reimbursement of the remuneration already paid. It may be worthwhile
+      discussing whether this obligation of the legislator in the Member States should be enshrined
+      explicitly in the Infosoc-Directive in order to prevent ‘double payment’.
+
+
+V.    Fair remuneration of authors and performers
+1.    Exceptions and limitations
+(a)   In our view the catalogue of exceptions and limitations should be reviewed in order to add the
+      obligation of providing for a ‘fair compensation’ for one or the other case, as this is the case in
+      Article 5 para 2 lit a) und b) with regard to copying for one’s own use on paper (lit a) and
+
+
+
+17 See ECJ 27 Juni 2013 C-521/11 austro mechana/Amazon Gesellschaften17 [2013] MR 172 (M Walter) = [2013]
+   ecolex 337, 812 (A Anderl) = [2013] GRUR 1025 = [2013] GRUR Int 949 = [2013] EuZW 741 = [2013] CRi 632
+   = [2013] ÖBl 69, 283 = [2013] ZUM 780 = [2013] ZIR 378 (Sascha Jung/Georg Streit).
+18 Loi du 20 Décembre 2011.
+                                                    - 11 -
+
+
+
+      private copying (lit b). Hence in particular in regard of free use for educative purposes and/or
+      libraries, archives etc such compensation should be rendered mandatory.
+(b)   If other cases of exceptions and limitations should be taken into consideration than already set
+      in Article 5 of the Infosoc-Directive, such claim to a „fair compensation“ should be provided
+      for as well. Of course, this would be dependent upon the special case at issue.
+2.    Mandatory collective management and third party effect
+(a)   With this regards it could be made clear that Member States are allowed to establish exclusive
+      rights, which in special cases only may be claimed by collecting societies representing also
+      rights and claims for third parties (non-members). This system, as was already alluded to
+      several times above, appears to be in line with Union Law as well as more practicable than
+      mere claims to an equitable remuneration.
+(b)   Only marginally it may be worthwhile noting that the Austrian Copyright Act as early as 1936
+      already had introduced such system19 and thus anticipated the Swedish ‚school model‘ as well
+      as the system established by the Satellite-Cable Directive.
+
+
+VI.   Respect of rights
+1.    Claim for information
+      The respect of rights is a rather important issue, since the enforcement has turned out to be
+      rather difficult – if at all possible – in the digital environment. The Austrian Group of ALAI
+      holds that in the first line Article 8 of the Enforcement Directive should be amended and
+      explicitly stated that internet providers (intermediaries) mandatorily are to store such data for
+      a certain period of time (e.g. six month), which are necessary to fulfil their obligation to
+      render information as regards infringers using their services. Furthermore it should clearly be
+      stated that providers are allowed to process personal traffic data for this purpose, irrespective
+      of the protection of personal data. This should be made clear in regard of civil procedures as
+      well as with respect to criminal procedures.
+2.    The obligation under Article 8 para 3 of the InfoSoc-Directive
+      Furthermore it may be worthwhile discussing which measures must be taken by access-
+      providers in order to comply with their obligation to prevent copyright infringements by
+      persons using their services according to Article 8 para 3 of the Infosoc-Directive. For the
+      time being, however, the outcome of the preliminary proceeding in the case „kino-to“20 will
+      have to be waited for.
+3.    Liability of internet-platforms and organizers of social media
+      As was already mentioned above, internet platforms of whatever kind must be liable for the
+      copyright material made available by them. The Austrian Group of ALAI holds that the
+      opinion, according to which such platforms are deemed to be host providers, is incorrect at
+      least as far as copyright and related rights infringements are concerned. It must be emphasized
+      in this context that intellectual property rights must not necessarily be treated on a par; in
+
+19 § 59 in regard of public broadcasting reception.
+20 Case C-314/12. See opinion of the Advocate General Cruz Villalón dated 26 November 2013.
+                                                        - 12 -
+
+
+
+      particular copyright and related rights are to be regarded as a special kind of intellectual
+      property.
+
+
+VII. A single EU Copyright title
+      The Austrian Group of ALAI holds that time not yet ripe for an unitary copyright title. First
+      and foremost the acquis communautaire should be further developed and amendments taken
+      into consideration as described above. As already mentioned above a unitary copyright title
+      has nothing to do with the question of territorial splitting of licences and is, therefore, not a
+      precondition of a (cautious) regulation of this question. Furthermore, the leeway given to the
+      national legislature also may serve as a field of experimentation in particular in relation to
+      new (technical or commercial) developments21.
+
+
+
+
+Thank you once more for giving us the opportunity to submit our view in regard of the questions
+raised in the Consultation Paper.
+
+
+                                                   Kind regards
+
+
+
+
+                                        (HonProf Dr Michel Walter)
+                              President of the national Group of ALAI Austria
+
+
+
+
+21                                                                                              o
+     For details see Walter in Walter/v Lewinski, European Copyright --- A Commentary (2010) N 16.0.126ff --- Status of
+     harmonization --- Outlook.
+

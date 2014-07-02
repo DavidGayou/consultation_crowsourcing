@@ -1,0 +1,438 @@
+             European Commission
+             Internal Market and Services DG
+             Unit D1 - Copyright
+             SPA 2 04/085
+             1049 Brussels
+             Belgium
+
+             TO: markt-copyright-consultation@ec.europa.eu
+
+                                                                                           Vienna, 17th February 2014
+
+             ISPA COMMENT ON THE PUBLIC CONSULTATION ON THE REVIEW OF THE EU
+             COPYRIGHT RULES
+
+
+             Dear Sir/Madame,
+
+             ISPA (Internet Service Providers Austria; Identification Number: 56028372438-43) is pleased that
+             the European Commission has issued this public consultation on the review of the EU copyright
+             rules.
+
+             ISPA would like to emphasize that it is very pleased that the aim of the public consultation lies in
+             adapting the EU copyright regulatory framework to meet the challenges of the digital reality. ISPA
+             is convinced that the current European copyright legislation needs to be revised in order to improve
+             and harmonise rights management and to adapt them to the development of the Information
+             Society. ISPA supports the harmonisation of IPR for digital content; the fragmentation needs to be
+             solved.
+
+             The limitations and exceptions provided in the EU copyright directives in ISPA’s opinion lack the
+             flexibility to adapt to the changes occurring in a rapidly evolving online environment and therefore
+             need to be revised. The terms of copyright protection should be also adjusted to the digital
+             environment. ISPA stresses that the civil enforcement system for infringements of copyright with a
+             commercial purpose in the EU should be revised in the context of the IPRED and the E-Commerce
+             directive and not separately in the Information Society Directive (Directive 2001/29/EC). ISPA
+             would like to point out that in its opinion the provision of hyperlinks and the viewing of a web page
+             should not be a subject to the authorisation of the rightholder. Digital copies made by end users for
+             private purposes in the context of a service that has been licensed by rightholders should not be
+             subject to private copying levies, as this would create a situation of double payment. ISPA
+             furthermore suggests that levies should be made visible on the invoices of such products.
+
+
+
+
+    ISPA – Internet Service Providers Austria
+    Währingerstrasse 3/18, 1090 Veinna, Austria   UniCredit Bank Austria AG
+      +43 1 409 55 76                             Account-No.: 00660 491 705, BLZ: 12000     Identification No.: 56028372438-43
+      office@ispa.at                              BIC: BKAUATWW                              VAT-No.: ATU 54397807
+      www.ispa.at                                 IBAN: AT59 1200 0006 6049 1705             ZVR-No.: 551223675
+
+,
+                  1. The territorial fragmentation of rights should not apply for digital content
+
+             Question: 1. Have you faced problems when seeking to provide online services across borders in
+             the EU? and
+
+             Question: 7. Do you think that further measures (legislative or non-legislative, including market-led
+             solutions) are needed at EU level to increase the cross-border availability of content services in the
+             Single Market, while ensuring an adequate level of protection for right holders?
+
+             Despite the fact that there are no legislative obstacles preventing or prohibiting the provision of
+             cross-border digital services and the development of a unique continental market for online
+             content, the commercial practices actually put in place by rights-holders have the result or the
+             scope to create a pervasive territorial fragmentation. This has very much to do with the fact that
+             online rights are still managed in many cases in bundle with other forms of distribution
+             (broadcasting for instance) for which the territorial dimension still makes more sense that the
+             European one.
+
+             Licensing of content by right holders (major studios, independent producers, and broadcasters) is,
+             in fact, still managed at national level based on the concept of the territorial exclusivity. This means
+             that in acquiring the content in a given country, for instance, a video on demand (VOD) operator
+             can only make the content available in that given country and has to put in place DRM measures
+             (geo-filtering of IP addresses) to prevent EU citizens living in different countries from acquiring that
+             content. A provider willing to put together a cross-national EU VOD service, would then need – for
+             each content item in the library - to negotiate and sign a specific contract in each specific territory.
+
+             The territory-by-territory acquisition of rights does not entail simply having different libraries for
+             each territory, but also different economic conditions, retail prices, availability dates, usage
+             limitations, as again the condition at which the right is negotiated depends by the local branch
+             dealing with it. This creates another important barrier to the establishment of a pan European
+             digital service, as the usage condition and billing models of the content may vary from country to
+             country.
+
+             Beside the above issues, the impact of the collective right management system on the digital single
+             market is also relevant, creating additional complexities. In practice, even when rights are acquired
+             by on-line platform operators for each country, a further territory-by-territory clearance has to be
+             gained through the national based Collective Management Organizations (CMOs) each with a
+             different spread of (national) rights holders. The relevance in this context of the restrictive
+             behaviour of collecting societies was confirmed by the European Commission in the antitrust
+             decision of 2008.
+
+             As a result, under the current system, most digital content that could easily be distributed through
+             an online platform for the entire continent’s consumption may then be subject to several deals and
+             to clearance 28 times through at least 28 different Collective Management Organizations, not
+             taking into account a large number of mayors and independent labels in many cases not
+             represented by CMOs. All such deals involve significant transaction costs and potential restrictions
+             dramatically hampering the roll-out of start-ups and cross-border services. This frustrates and
+
+
+
+    ISPA – Internet Service Providers Austria
+    Währingerstrasse 3/18, 1090 Veinna, Austria   UniCredit Bank Austria AG
+      +43 1 409 55 76                             Account-No.: 00660 491 705, BLZ: 12000   Identification No.: 56028372438-43
+      office@ispa.at                              BIC: BKAUATWW                            VAT-No.: ATU 54397807
+      www.ispa.at                                 IBAN: AT59 1200 0006 6049 1705           ZVR-No.: 551223675
+
+,
+             brakes innovative and competitive players which, in the absence of the above obstacles, could
+             easily develop online content offers with continental reach, thanks to the capability of the Internet
+             protocol and the wide presence of broadband and high-speed connections.
+
+             Therefore at ISPA’s opinion, a comprehensive review of Directive 2001/29/EC on Copyright in the
+             Information Society would be needed along with clear measures specifically aimed at ending the
+             current restrictive licensing practices.
+
+
+
+                  2. The provision of a hyperlink should not be a subject to the authorisation of the
+                     rightholder
+
+             Question: 11. Should the provision of a hyperlink leading to a work or other subject matter
+             protected under copyright, either in general or under specific circumstances, be subject to the
+             authorisation of the rightholder?
+
+             A hyperlink is a reference to data that the reader can directly follow to find an already available
+             content. Their function is to link any information to any other information over the Internet;
+             hyperlinks are therefore essential to the creation and functioning of the World Wide Web. A link is
+             not a transmission or communication of the work but a reference to an already available work.
+
+             Furthermore, sharing hyperlinks on the internet is one of the most common activities. Requiring the
+             authorisation of a rightholder before sharing a hyperlink would not only be cumbersome but would
+             also severely undermine the fundamental right of free speech.
+
+             Hyperlinking in general should not be considered as an act of communication to the public (see
+             European Copyright Society Opinion on Case C-466/12 Svensson)1 as:
+
+                  “Firstly, the right of communication to the public requires a transmission that is absent when
+                  merely a hyperlink is provided. It is merely a location tool, but exists independently from the
+                  actual availability of the work. Secondly, the communication should address a public or a “new”
+                  public. The hyperlink does not extend the public of the work, published online: those who had
+                  access to the web page will still have access, those who did not have access (e.g. absent the
+                  payment of a fee) will not gain access through the hyperlink.”
+
+
+
+
+             1
+                De Wolf & Partners, Study on the application of Directive 2001/29/EC on copyright and related rights in the
+             information society, 2013 http://ec.europa.eu/internal_market/copyright/docs/studies/131216_study_en.pdf
+             European Copyright Society Opinion on The Reference to the CJEU in Case C-466/12 Svensson, 15 February 2013
+
+
+
+
+    ISPA – Internet Service Providers Austria
+    Währingerstrasse 3/18, 1090 Veinna, Austria   UniCredit Bank Austria AG
+      +43 1 409 55 76                             Account-No.: 00660 491 705, BLZ: 12000   Identification No.: 56028372438-43
+      office@ispa.at                              BIC: BKAUATWW                            VAT-No.: ATU 54397807
+      www.ispa.at                                 IBAN: AT59 1200 0006 6049 1705           ZVR-No.: 551223675
+
+,
+                  3. The viewing of a web-page should not be subject to the authorisation of the
+                     rightholder
+
+             Question: 12. Should the viewing of a web-page where this implies the temporary reproduction of
+             a work or other subject matter protected under copyright on the screen and in the cache memory of
+             the user’s computer, either in general or under specific circumstances, be subject to the
+             authorisation of the rightholder?
+
+             The viewing of web-pages is a widely accepted, general practice and part of the everyday life of
+             users all around the world. If merely viewing, without downloading or printing a website was subject
+             to copyright, many people are likely to infringe copyright while browsing the internet and coming
+             across websites containing copyright protected material.2
+
+             Although the normal use of the internet involves the creation of copies, this is the automatic result
+             of browsing the internet. The making of such copies in the cache is indispensable for efficient web-
+             browsing and therefore in line with Article 5 (1) of the Directive 2001/29/EC. The copies retained on
+             the screen or in the cache are merely the incidental consequence of the use of a computer, and
+             are temporary.
+
+             Furthermore, as suggested in the opinion of the UK Supreme Court “it has never been an
+             infringement, in either English or EU law, for a person merely to view or read an infringing article in
+             physical form.”3
+
+
+
+                  4. The terms of copyright protection should be adjust to the digital environment
+
+             Question: 20. Are the current terms of copyright protection still appropriate in the digital
+             environment?
+
+             The current terms are excessively long and are nowadays a crucial limitation to the availability of
+             content online. The term of 50 years after the death of the author prescribed by the Berne
+             convention of 1886 are not fit for the digital environment, which has the unlimited potential of
+             dissemination of cultural material. The 70 years after the death of the author term of protection
+             provided by the EU is hardly incentivizing the production of content and its dissemination.
+
+             Shortening the term of protection at least until the minimum 50 years provided by the Berne
+             Convention would create a competitive advantage to EU enterprises creating and distributing
+             content as they would gain accessibility to 20 years of currently protected material.
+
+
+
+
+             2
+               See UK Supreme Court 17 April 2013, Public Relations Consultants Association Limited v The Newspaper Licensing
+             Agency Limited and others, [2013] UKSC 18, accessible via http://www.supremecourt.gov.uk/decided-
+             cases/docs/UKSC_2011_0202_Judgment.pdf , (UKSC Meltwater).
+             3
+               UK Supreme Court 17 April 2013, Public Relations Consultants Association Limited v The Newspaper Licensing
+             Agency Limited and others, [2013] UKSC 18, accessible via http://www.supremecourt.gov.uk/decided-
+             cases/docs/UKSC_2011_0202_Judgment.pdf , (UKSC Meltwater).
+
+
+
+
+    ISPA – Internet Service Providers Austria
+    Währingerstrasse 3/18, 1090 Veinna, Austria   UniCredit Bank Austria AG
+      +43 1 409 55 76                             Account-No.: 00660 491 705, BLZ: 12000   Identification No.: 56028372438-43
+      office@ispa.at                              BIC: BKAUATWW                            VAT-No.: ATU 54397807
+      www.ispa.at                                 IBAN: AT59 1200 0006 6049 1705           ZVR-No.: 551223675
+
+,
+                  5. The limitations and exceptions provided in the EU copyright directives lack flexibility
+                     and therefore need to be revised
+
+             Question: 21. Are there problems arising from the fact that most limitations and exceptions
+             provided in the EU copyright directives are optional for the Member States? and
+
+             Question: 24. Independently from the questions above, is there a need to provide for a greater
+             degree of flexibility in the EU regulatory framework for limitations and exceptions?
+
+             ISPA believes that the current European copyright legislation needs to be revised in order to
+             improve and harmonise rights as well as protection systems and adapt them to the development of
+             the Information Society. Some areas of traditional copyright rules risk to be unable to keep peace
+             with the changes in the way intellectual property circulates over communications networks.
+
+             Furthermore, the exhaustive list of strictly defined exceptions lacks flexibility to adapt to the
+             changes occurring in a rapidly evolving environment for content, creation, access and distribution.
+
+             In the interest of all stakeholders, it is essential to offer the broadest, reasonable and most
+             predictive scope to the exceptions in Article 5, under the condition that these be read within the
+             context of the three-step test described in Article 5.5.
+
+
+
+                  6. New limitations and exceptions should be added to the existing catalogue
+
+             Question: 23. Should any new limitations and exceptions be added to or removed from the
+             existing catalogue? Please explain by referring to specific cases.
+
+             [Open question]
+
+             Considering the large size and increasing number of user-generated content, failure to adopt the
+             copyright regime to the digital reality risks creating a situation where activities perceived as normal
+             by users are made illegal. This would undermine the credibility of copyright law among average
+             users and thus threaten broader right holder interest.
+
+             In order to clearly recognise the difference between the use of protected material as part of user-
+             generated new content (e.g. mashups) and illegal file sharing of a work, it would be necessary to
+             adapt the copyright regime to include audiovisual content which incorporates users’ creative
+             output, creating this way a completely new work. ISPA believes that the exceptions for non-
+             commercial use should be broadened.
+
+
+
+
+    ISPA – Internet Service Providers Austria
+    Währingerstrasse 3/18, 1090 Veinna, Austria   UniCredit Bank Austria AG
+      +43 1 409 55 76                             Account-No.: 00660 491 705, BLZ: 12000   Identification No.: 56028372438-43
+      office@ispa.at                              BIC: BKAUATWW                            VAT-No.: ATU 54397807
+      www.ispa.at                                 IBAN: AT59 1200 0006 6049 1705           ZVR-No.: 551223675
+
+,
+                  7. Digital copies made by end users for private purposes should not be a subject to
+                     private copying levies
+
+             Question: 65. Should digital copies made by end users for private purposes in the context of a
+             service that has been licensed by rightholders, and where the harm to the rightholder is minimal,
+             be subject to private copying levies?
+
+             Licensed copies should not trigger the application of levies. According to Recital 35 of Directive
+             2001/29/EC, “In cases where rightholders have already received payment in some other form, for
+             instance as part of a license fee, no specific or separate payment may be due.”
+
+             Making these digital copies subject to levies would create a situation of double payment and would
+             go against the view and expectations of the end users as service providers usually acquire license
+             from the right holder that covers all relevant acts in the given service, including reproduction by the
+             end user.
+
+             ISPA therefore strongly rejects private copy levies but urges to simplify and harmonise the process
+             of granting licenses to ISPs. The acquisition of content or services licensed by the rightholders
+             implies already the usage of digital copies for private purposes. Therefore such copies should not
+             be a subject to private copying levies in order to avoid a situation of double payment as the right to
+             copy content several times is usually covered by the license fee paid by the consumer.
+
+
+
+                  8. Levies should be made visible to end customers
+
+             Question: 67. Would you see an added value in making levies visible on the invoices for products
+             subject to levies?
+
+             Making levies visible on the invoices for products subject to levies, on the one hand would create a
+             trusted relationship with the user. On the other hand transparency of the system would also
+             contribute to the better remuneration of authors. ISPA therefore strongly supports the idea of
+             making copyright levies visible to end users. ISPA emphasise however that the appropriate way of
+             making the levies visible to the end users is through displaying it on the invoice and not through
+             marketing communication (advertising).
+
+
+
+
+    ISPA – Internet Service Providers Austria
+    Währingerstrasse 3/18, 1090 Veinna, Austria   UniCredit Bank Austria AG
+      +43 1 409 55 76                             Account-No.: 00660 491 705, BLZ: 12000   Identification No.: 56028372438-43
+      office@ispa.at                              BIC: BKAUATWW                            VAT-No.: ATU 54397807
+      www.ispa.at                                 IBAN: AT59 1200 0006 6049 1705           ZVR-No.: 551223675
+
+,
+                  9. The civil enforcement system for infringements of copyright committed with a
+                     commercial purpose in the EU should be done in the context of the IPRED and not
+                     separately in the Information Society Directive
+
+             Question: 75. Should the civil enforcement system in the EU be rendered more efficient for
+             infringements of copyright committed with a commercial purpose? and
+             Question: 77. Does the current civil enforcement framework ensure that the right balance is
+             achieved between the right to have one’s copyright respected and other rights such as the
+             protection of private life and protection of personal data?
+
+             ISPA considers that the current framework, the Directive 2004/48/EC on the enforcement of
+             intellectual property rights (IPRED) together with the E-Commerce Directive 2000/31/EC offer a
+             well-balanced and functioning framework to address in particular online IPR infringements. The
+             reason for this is that IPRED contains checks and balances for enforcement which are not present
+             in the Copyright Directive. They ensure that the protection of IPR is balanced with fundamental
+             freedoms and rights.4
+
+             If problems arise in the uniform respect of copyright, they stem from the late or uncompleted
+             implementation of the IPRED at national level and not from its legal provisions. However, should
+             there be in the future a need to address the enforcement of copyright, this should be done in the
+             context of the IPRED and not separately in the Information Society Directive, for the reasons
+             mentioned above.
+
+
+
+                  10. The current legal framework is clear enough to inhibit online copyright infringements
+                      with a commercial purpose
+
+             Question: 76. In particular, is the current legal framework clear enough to allow for sufficient
+             involvement of intermediaries (such as Internet service providers, advertising brokers, payment
+             service providers, domain name registrars, etc.) in inhibiting online copyright infringements with a
+             commercial purpose? If not, what measures would be useful to foster the cooperation of
+             intermediaries?
+
+             [Open question]
+
+             Articles 9 and 11 of the IPRED already foresee the possibility of injunctions against intermediaries
+             whose services are used by a third party for any proven IPR infringement, and lay down the
+             minimum legal conditions that must be adhered to by national courts when formulating injunctive
+             measures.
+
+             At the same time article 12-15 of the E-Commerce Directive demand that such injunctions are
+             proportionate and cannot result in general monitoring obligations. In the past years the Court of
+             Justice of the European Union kept refining the possible scope of injunctions against internet
+
+             4
+               freedoms of expression, the free movement of information, the protection of personal data in paragraphs 2 and 15 of
+             Directive 2004/48/EC, Article 2 (3) (a) of Directive 2004/48/EC
+
+
+
+
+    ISPA – Internet Service Providers Austria
+    Währingerstrasse 3/18, 1090 Veinna, Austria   UniCredit Bank Austria AG
+      +43 1 409 55 76                             Account-No.: 00660 491 705, BLZ: 12000     Identification No.: 56028372438-43
+      office@ispa.at                              BIC: BKAUATWW                              VAT-No.: ATU 54397807
+      www.ispa.at                                 IBAN: AT59 1200 0006 6049 1705             ZVR-No.: 551223675
+
+,
+             intermediaries (e.g. C-324/09 - L’oreal./.eBay; C-70/10 - Scarlet Extended, C-360/Sabam/Netlog)
+             and made clear that such injunctions need to be very specific with regards to the measures to be
+             taken by intermediaries and must not merely be success oriented. General filtering systems
+             installed for the prevention of copyright infringements were held disproportionate by the court.
+
+             Multi-stakeholder cooperation should not be limited to ISP cooperating with rightholders to defend
+             the latter existing business models. Cooperation should also concern:
+
+                     Widespread availability of legal online content in affordable price
+                     Empowerment and education of consumers
+
+             Furthermore, currently DG Marked of the Commission is working on an Action Plan addressing IPR
+             infringement.5
+
+             The initiative recognises the wide range of intermediaries and aims at exploring non-legislative
+             initiatives, such as:
+
+                     improve exchange of information and cooperation between relevant authorities in charge of
+                      enforcement of IPR in the Member States
+                     strengthen due diligence across the entire supply chains for products/services which
+                      depend heavily on intellectual property
+                     develop an MoU on advertising/ ‘Follow the Money’ approach
+
+
+             ISPA would like to reiterate that it is very thankful for this opportunity to contribute. For further
+             information or any questions please do not hesitate to contact us.
+
+             Sincerely,
+
+             ISPA Internet Service Providers Austria
+
+
+
+
+             Dr. Maximilian Schubert
+
+             General Secretary
+
+
+
+             About ISPA: ISPA is the Austrian association of Internet Service Providers, representing
+             approximately 200 ISPs. ISPA is a major voice of the Austrian Internet industry. Our goal is to
+             shape the economic and legal framework to support optimal growth of the Internet and Internet
+             services. We regard the use of the Internet as an important cultural skill and acknowledge the
+             resulting socio-political responsibilities.
+             5
+               Commission Roadmap on the Communication on an Action Plan addressing Intellectual Property infringements,
+             12/2013 http://ec.europa.eu/smart-regulation/impact/planned_ia/docs/2013_markt_047_ip_infringements_en.pdf
+
+
+
+
+    ISPA – Internet Service Providers Austria
+    Währingerstrasse 3/18, 1090 Veinna, Austria   UniCredit Bank Austria AG
+      +43 1 409 55 76                             Account-No.: 00660 491 705, BLZ: 12000   Identification No.: 56028372438-43
+      office@ispa.at                              BIC: BKAUATWW                            VAT-No.: ATU 54397807
+      www.ispa.at                                 IBAN: AT59 1200 0006 6049 1705           ZVR-No.: 551223675
+
+,
+

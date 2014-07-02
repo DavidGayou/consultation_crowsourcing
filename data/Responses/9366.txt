@@ -1,0 +1,698 @@
+  Public Consultation of the European Commission
+
+
+
+
+            The review of the EU Copyright rules
+
+
+
+
+                           ORANGE contribution
+
+
+
+                                      March 2014
+
+
+
+
+Contact: Vianney.hennes@orange.com
+
+Transparency Register : N°76 70 43 42 72 1 4
+
+
+
+
+             Orange - European Commission - Consultation the review of the EU copyright rules
+                                             March 2014
+
+                                                   1/13
+Introduction
+
+
+
+
+Orange thanks the European Commission for the opportunity to provide inputs to its public
+consultation on the review of the European copyright rules.
+
+Orange would like to reaffirm that copyright is fundamental to innovation and copyright
+owners need to be properly remunerated for their works. As part of an innovative industry,
+Orange supports a sound regulatory framework for copyright and an appropriate protection
+mechanism. But the current regulatory framework for copyright faces many challenges in
+the internet era. Orange thus believes it is appropriate that the European Commission
+questions the adequacy of the current regime in the digital context.
+
+We would also like to highlight that Information and Communication Technologies are an
+enabler of new content distribution mechanisms and services bringing enormous
+opportunities. As such, Orange is investing heavily to ensure that the underlying
+infrastructure is in place to support this innovation and believes that all players benefitting
+from the digital environment should contribute to its growth and investment.
+
+In the following, Orange provides insights on the questions which are relevant to Orange’s
+activities, namely: provision of content, exceptions and limitations to copyright, copyright
+levies and enforcement of rights.
+
+
+
+
+Answers
+
+
+Question 2: Have you faced problem when seeking to provide online services across
+border in the EU?
+
+
+
+Although Orange operates in seven countries of the European Union1, cross-border trade is
+currently limited in our organization. Copyright is one of the reasons of such limited
+development but barriers to cross-border trade go far beyond copyright issues.
+
+Cross-border availability of content is essential for the development of cross-border services
+and must be facilitated: 1/ when customers that have subscribed to online services in the
+Member State of their residence want to access these services when travelling abroad (via
+roaming, Wi-Fi connections, fixed access, etc.); 2/ when customers wish to access content
+distributed by a provider based in another country. Orange shares the view that European
+customers need a content single market.
+
+1
+    France, Poland, Belgium, Spain, Romania, Slovakia and Luxembourg
+
+
+               Orange - European Commission’s consultation on the review of the EU copyright rules
+                                                March 2014
+
+                                                      2/13
+The fact that copyright and licensing are national-based is an obstacle to the achievement of
+the European single market. But series of other obstacles do exist such as the existence of
+national cultures and languages; the need for the adoption of open standards for content
+delivery; the cost of compliance with different national consumer protection laws and fiscal
+regulations; the cost of providing customer care and customer complaints in several
+languages; the risk of fraud and non-payments and the diverse economic realities which
+make a single price impossible.
+
+
+
+
+4. If you have identified problems in the answers to any of the questions above –what
+would be the best way to tackle them? [Open question]
+
+
+
+  I.    Identified issues
+National cultures and languages
+
+European content is nationally segmented because content is related to national cultures
+and languages. This is particularly true for audio-visual works. Subtitling and dubbing films
+helps to overcome these difficulties but these solutions carry a cost which online distributors
+are not always able to support, especially when consumers’ interest is low. Also for
+marketing and budget reasons, European works are not as attractive as US ones outside
+their country of origin. This is true not only for television programs (news, games, etc.), but
+also for most films.
+
+Distributors will typically not take the risk of financing films produced in other Member
+States as it is also difficult for those distributors to find interested advertisers. In this context
+and considering these barriers, distributors are legitimately reluctant to undertake
+international online provision of content in other Member States of the European Union.
+
+
+
+Standards for content delivery
+
+Standardization is necessary to achieve convergence in the audio-visual business. These
+standardization processes should involve all the stakeholders of the value chain, from
+content providers to Internet Service Providers and home network technology vendors,
+including transit network operators. This is crucial to make cross-border distribution to end
+users efficient.
+
+Industry initiatives are important and should be accompanied by institutional efforts focused
+on achieving and ensuring adoption of open standards for online services. The European
+Commission should nonetheless refrain from mandating any standard which has not proven
+to be widely accepted by the market in terms of market share and sales figures. Indeed,
+mandating standards can hinder innovation.
+
+The promotion of standards via bodies such as ETSI could foster market penetration of
+standards on a voluntary basis and thereby help to achieve more interoperability. This
+definitively enhances the competitiveness of telecom and content industries in the European
+Union.
+
+
+
+             Orange - European Commission’s consultation on the review of the EU copyright rules
+                                              March 2014
+
+                                                    3/13
+Many standardisation activities are developed in order to enable the provisioning of
+NGA/NGN services across networks in a multi-carrier environment. Some of these standards
+dedicated to the future networks could also facilitate content delivery and online
+distribution of audio-visual media services.
+
+As identified by one of the 11 proposals of the industry in their “How to achieve the 2020
+European Digital Targets”, there is an immediate need for Europe to promote open and
+interoperable standards for IP-based Quality of Service Interconnection (such as IPX) as well
+as for next generation bit-stream access and other NGA products. They are essential to
+enable the provisioning of NGA/NGN services across networks in a multi-carrier
+environment.
+
+
+
+Consumer protection law
+
+Notwithstanding the Citizen Rights Directive2 to be implemented this summer, the laws
+regulating consumer contracts are varied across Member States. This constitutes an obvious
+barrier to cross-border trade. The lack of harmonisation generates legal uncertainty for
+service providers, as well as additional costs, and impedes the development of cross-border
+online distribution of works.
+
+
+
+Personal data protection and privacy
+
+Creating, promoting and adopting a global set of principles based on a harmonised and
+consistent approach to privacy would primarily benefit users. Enjoying the same level of
+protection no matter where the websites are based is a crucial issue. European businesses
+should also be able to compete on the same level playing field with non-European market
+leaders. Harmonisation would greatly reduce privacy compliance costs, which is an
+important step for the take-up of new activities, such as cloud computing, in the European
+Union.
+
+On this issue, Orange welcomes the ambitious plan to revise European data protection rules,
+among whose clauses there are measures the telecoms industry has long wanted to see
+improved.
+
+
+
+Tax issues
+
+The current tax system in place in the European Union is an obstacle to the development of
+cross-border content offers. Opportunistic companies distributing content cross-border may
+escape European tax obligations. The changes in the European Value Added Tax (VAT) rules
+are an important step in the right direction to limit VAT forum shopping for those players
+that are not linked by establishment in a specific European Union country, such as some
+“Over The Top” internet companies.
+
+
+
+
+2
+  Directive 2011/83/EU of 25 October 2011 on consumer rights, amending Council Directive
+93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing
+Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council
+
+
+             Orange - European Commission’s consultation on the review of the EU copyright rules
+                                              March 2014
+
+                                                    4/13
+Cross-border payments
+
+Reducing the compliancy costs of online cross-border payments is another key target for
+regulators.
+
+
+
+  II.   Proposal for improvements
+
+
+Orange believes that transparency in the process of establishing “who owns what rights” is
+key. It is essential to both define the scope of the rights and identify the collecting
+society(ies) or the rights holders competent to grant a license. In cross-border businesses,
+this is even more important. Currently, developing cross-border services requires providers
+to repeat costly and time consuming negotiations to clear distribution rights in each
+Member State where the service is to be made available. This is clearly unsatisfactory.
+
+
+In relation to on-line music content, the new Directive on Collective Rights Management
+could help to solve some problems such as the lack of transparency, the excessive
+transaction costs in the negotiation and implementation of license agreements with
+collecting societies, the lack of clarity on rights ownership and the complexity of rights
+management. In this respect, national implementations will be key and Orange calls on the
+Commission to closely monitor the different national transposition processes.
+
+
+As regards the introduction of pan-European licenses for audio-visual works covering the
+entire European Union’s footprint, Orange questions whether it would be an appropriate
+solution. It would not suit the reality of the market and would impose on distributors
+clearance of very expensive rights available in 28 Member States with no guarantee of
+return on investment in each of them (return from consumers' subscriptions, advertising,
+etc.). Pan-European licencing would rather tend to benefit only to large players that are
+already established in the market or which have the economic capacity to bear the related
+investments. The revision of the European licensing schemes should therefore consider the
+current market structure in order not to grant competitive advantages to selected players.
+
+
+Regarding taxes, Orange considers the current fragmented system as an obstacle to the
+efficient and competitive development of the media services industry in the European
+Union.
+
+Such a fragmented situation allows either undertakings from outside the European Union or
+opportunistic European players to provide services from the most advantageous Member
+States regarding taxation, even more because Member States can only levy a tax on a
+company turnover if it is established on its territory.
+
+That is why Orange supports the planned evolutions of taxing rules and in particular the
+country of consumption of services principle. Implementation of the European principle of
+the taxation in the country of consumption in 2017-2018 will be a first positive step to
+improve the situation. In addition, implementation of a harmonized European VAT for online
+content would not only reduce costs of managing cross-border trade but would also remove
+a source of competition distortion. The process should consist in applying a harmonized
+reduced VAT rate to the online and physical versions of the same content and to linear and
+
+            Orange - European Commission’s consultation on the review of the EU copyright rules
+                                             March 2014
+
+                                                   5/13
+non-linear services. Last of all, corporate taxes are not harmonized in the EU and apply
+differently between Member States where companies are established.
+
+
+
+
+6. Are there reasons why, even in cases where you have acquired all the necessary rights
+for all the territories in question, you would still find it necessary or justified to impose
+territorial restrictions on the service recipient (in order for instance, to redirect the
+consumer to a different website than the one he is trying to access)?
+
+
+Creating a single market for content in the European Union by improving the licensing
+framework may tend to favour large players that are already established in the market or
+those which have the economic capacity to bear the related investments. Maintaining some
+territorial restrictions would be beneficial for those actors that need, as a first step, the
+removal of non-copyright related barriers in the single market to develop. Orange is in
+favour of this second approach.
+
+
+
+
+21        Are there problems arising from the fact that most limitations and exceptions
+provided in the EU copyright directives are optional for the Member States?
+22       Should some/all of the exceptions be made mandatory and, if so, is there a need
+for a higher level of harmonisation of such exceptions?
+ 24      Independently from the questions above, is there a need to provide for a greater
+degree of flexibility in the EU regulatory framework for limitations and exceptions?
+
+
+
+Ideally, the European single market should be based on consistent and harmonised rules.
+The fact that limitations and exceptions vary from one Member State to another does not
+encourage nor facilitate pan-European business models and cross-border trade. However,
+we acknowledge that, in the field of copyright, Member States have their own specificities
+and that it would be very difficult to achieve a mandatory and unique regime of limitations
+and exceptions.
+
+Orange believes that a reasonable way out would be to maintain exceptions and limitations
+to copyright rules optional for Member States but having a full harmonised regime in case
+they decide to implement exceptions and/or limitations in their national legal system.
+
+As an example, in Member States where the private copy regime is applied, this regime
+would have to be the same with full harmonisation, especially in relation to the criteria for
+the determination of the tariffs, the fair compensation principle, the double compensation,
+etc.
+
+
+
+
+            Orange - European Commission’s consultation on the review of the EU copyright rules
+                                             March 2014
+
+                                                   6/13
+26      Does the territoriality of limitations and exceptions, in your experience, constitute
+a problem?
+
+
+The territoriality of limitations and exceptions creates uncertainty for distributors. It is
+difficult to have a full knowledge of the applicable regime in place and to understand the
+conditions under which content/product can be legitimately distributed in each Member
+State a distributor operates or wishes to operate in. The private copy levy regime is one of
+the most striking examples of fragmentation: this exception is not provided for by all
+Member States (e.g. in the United Kingdom), but also the conditions for its application vary
+significantly. Both the requirements triggering its application, the devices it applies to and
+the amount of fair compensation differ from one Member State to another.
+
+
+
+
+27     In the event that limitations and exceptions established at national level were to
+have cross-border effect, how should the question of “fair compensation” be addressed ,
+when such compensation is part of the exception? (e.g. who pays whom, where?)
+
+
+
+The concept of ‘fair compensation’ should be addressed at European level. Orange reminds
+that the ‘fair compensation’ is an autonomous concept of European Union law since the
+ECJ’s Padawan decision3. This requires a uniform interpretation for Member States having
+introduced the private copy exception. A uniform approach is essential to ensure an efficient
+functioning of the copyright regime in the age of cloud computing developments (for further
+development on the issue, please see Annex 1).
+
+
+
+
+64      In your view, is there a need to clarify at the EU level the scope and application of
+the private copying and reprography exceptions in the digital environment?
+
+
+Both the scope and the application of private copying and reprography exceptions need
+clarification at European level. This is a fundamental requirement to ensure legal certainty.
+Currently, we face diverging national systems targeting different products and applying
+different tariffs. This results in obstacles to the free circulation of goods and services in the
+Single Market.
+In addition, some Member States continue to allow the indiscriminate application of private
+copy levies to transactions irrespective of the person to whom the product is sold (e.g.
+private person or business). Orange reminds that the Padawan decision4 has clearly stated
+that private copy levy does not cover professional uses. But not all Member States have ex-
+ante exemption and/or ex-post reimbursement schemes to remedy these situations and
+
+3
+    ECJ, 10 octobre 2010, Padawan vs SGAE (C-467/08)
+4
+    See footnote 3
+
+
+               Orange - European Commission’s consultation on the review of the EU copyright rules
+                                                March 2014
+
+                                                      7/13
+reduce the number of undue payments. It is therefore important to ensure this is
+implemented in a harmonised way in order to avoid competition distortions. It has to be
+unambiguously confirmed that compensation for private copying is exclusively targeted to
+private copy and must not be extended to professional use.
+Compensation should be based on real harm and should therefore not exist if there is no
+proven substantial harm to right holders. In addition, private copy levies should be paid
+once: double payment in the context of cross-border transactions must be avoided.
+
+
+
+
+65      Should digital copies made by end users for private purposes in the context of
+a service that has been licensed by rightholders, and where the harm to the rightholder is
+minimal, be subject to private copying levies?5
+
+
+No. In cases where a service has been licensed by right holders and includes a number of
+digital copies which generates minimal harm to these right holders, imposing private copy
+levies is not justified. Compensation should be based on real harm and should therefore not
+exist if there is no proven substantial harm to right holders. Considering that compensation
+is needed would run the risk of hindering the digital distribution economy.
+
+
+
+
+66      How would changes in levies with respect to the application to online services (e.g.
+services based on cloud computing allowing, for instance, users to have copies on
+different devices) impact the development and functioning of new business models on the
+one hand and rightholders’ revenue on the other?
+
+
+The extension of the current levy system – which was conceived within the analogue world –
+to the online environment needs to be properly assessed, in order not to hamper the
+development of innovative technologies and services. The Vitorino report6 presents
+arguments against the extension of levies to services based on cloud: attempts to broaden
+the interpretation of the private copying exception are not only to the detriment of rights-
+holders and legal offers based on license agreements, but are also legally questionable.
+
+The development of innovative technologies and services, in particular on demand services,
+allowing users to enjoy digital content over different platforms and devices has led to the
+emergence of new business models, in particular around music and audio-visual works.
+Consumers want to be able to access digital content from several connected devices, at all
+times and from where they want. In that sense, cloud computing responds to their demands.
+
+
+5
+ This issue was also addressed in the recommendations of Mr Antonio Vitorino resulting from the
+mediation on private copying and reprography levies
+6
+  Recommendations resulting from the mediation on private copying and reprographying levies,
+Antonió            Vitorino,           Brussels,           31          January         2013,
+http://ec.europa.eu/internal_market/copyright/docs/levy_reform/130131_levies-vitorino-
+recommendations_en.pdf
+
+
+            Orange - European Commission’s consultation on the review of the EU copyright rules
+                                             March 2014
+
+                                                   8/13
+It allows users to enjoy digital content they recorded without having to store it on a physical
+support. European consumers and Internet users would therefore be the first victims of the
+imposition of levies on cloud services since prices would most certainly rise because of
+levies.
+Imposing levies on cloud services would also have a negative impact on European cloud
+service providers. The obligation to pay levies added to new administrative burden would
+significantly limit their competitiveness on the global market. The negative impact would be
+immediate, as levies would raise prices and thus limit the attractiveness, competitiveness
+and future development of business models based on new technologies.
+
+Moreover in the digital world, rights-holders already receive compensation for licensed
+content including subsequent copies in the framework of licensing contracts. In these cases,
+applying the copyright levy system to cloud services would result in an unjustified triple
+payment by consumers (i.e. for the licensed content, for the connected device, and for the
+cloud service).
+
+If such a system would nonetheless be envisaged, calculating the amount of the
+compensation based on the general capacity of a server to store digital content would not
+only be contrary to the basic principles of the private copy levy but would also seriously
+threaten innovation. Moreover, due to the global nature of cloud services, imposing
+territorial/national levy systems on global services would require to overcome the lack of
+harmonization of the private copy levy system, in particular for the calculation of the tariffs.
+In addition, offers of cloud services have been launched throughout the European Union but
+are subject to different regulatory regimes. There is a strong need to ensure that the
+regulatory framework applicable to this kind of service is future-proof and fosters
+investment in innovation.
+
+
+
+
+67      Would you see an added value in making levies visible on the invoices for products
+subject to levies?
+
+
+Yes. Despite the risk of increasing the ”copyright levies forum shopping”, visibility of the levy
+on the invoice of those products that are subject to levies would increase transparency and
+awareness among customers.
+Orange believes that the burden of providing information should be borne by those who
+benefit from the revenues of the levies. In case the European Commission decides that
+information should be delivered by distributors, proportionality requires that costs are
+borne by right holders. Distributors should not have to pay copyright levies and, in addition,
+to bear the financial burden of informing end-users.
+
+
+
+
+            Orange - European Commission’s consultation on the review of the EU copyright rules
+                                             March 2014
+
+                                                   9/13
+71     If you have identified specific problems with the current functioning of the levy
+system, how would these problems best be solved?
+
+
+
+Please refer to combined answer to questions 21, 22 and 24.
+
+
+
+
+75. Should the civil enforcement system in the EU be rendered more efficient for
+infringements of copyright committed with a commercial purpose?
+
+
+Yes. Orange recognizes the importance for right holders to be compensated for their works
+and highlights the necessity of enforcement of Intellectual Property Rights. However, Orange
+would like to remind the European Commission that it should not be seen as the sole
+solution against piracy. A more holistic approach is needed to fix this problem and to ensure
+an efficient protection of intellectual property rights. Focusing on how to increase the offer
+and the consumption of legal content is key also to ensure the protection of right holders.
+
+
+
+
+76. In particular, is the current legal framework clear enough to allow for sufficient
+involvement of intermediaries (such as Internet service providers, advertising brokers,
+payment service providers, domain name registrars, etc.) in inhibiting online copyright
+infringements with a commercial purpose? If not, what measures would be useful to foster
+the cooperation of intermediaries?
+
+
+The current system on enforcement such as the Intellectual Property Rights Enforcement
+Directive (IPRED) has played and continues to play a crucial role in providing right holders
+with a high level of intellectual property rights’ protection. These texts are based upon
+principles that are still valid today and that should be maintained.
+In addition, any future eventual revision must be coherent with the intermediary liability
+regime in place today. The current EU legal framework on e-commerce - in particular the
+provisions related to intermediaries’ liability - strikes the right balance amongst the interests
+of the different stakeholders and this should not be undermined by any eventual review of
+the copyright framework.
+Moreover, it is also crucial to recognize that counterfeiting and online Intellectual Property
+infringements are different in nature, and require different approaches.
+
+
+The transposition of the IPRED has unfortunately led to big differences amongst Member
+States, impacting the efficiency of the enforcement regime. Orange would like to alert the
+European Commission on measures which may jeopardize the balance of the entire system.
+The IPRED is meant to regulate the procedures in front of the judicial authority and the lack
+of IPRED harmonisation does not guarantee the same level of impartiality and control. For
+example, several Member States provide for a right of information only in the context of
+judicial proceedings while other Member States provide for a right of information even
+before formal proceedings as a provisional measure. This goes far beyond the IPRED
+
+
+            Orange - European Commission’s consultation on the review of the EU copyright rules
+                                             March 2014
+
+                                                   10/13
+provisions and their objective and its application must remain compliant with privacy
+regulation.
+As a remark, Orange would like to highlight that internet service providers have always
+worked in collaboration with judicial authorities to protect copyright in a way that
+guarantees citizens’ fundamental rights: presumption of innocence, fair trial, privacy and
+confidentiality of communications. However, efficient enforcement depends also on a global
+approach where all internet players of the value chain have to cooperate. But as the current
+approach is mainly focused on internet service providers working in collaboration with
+judicial authorities, it can only have a limited reach.
+
+
+
+
+77.     Does the current civil enforcement framework ensure that the right balance is
+achieved between the right to have one’s copyright respected and other rights such as the
+protection of private life and protection of personal data?
+
+
+Yes. The current civil enforcement framework remains sound and is based on principles that
+are still valid today. Implementation measures must be viable for all stakeholders and
+proportionate to the gravity of infringement.
+Orange shares the views of the European Commission on the necessity to find the correct
+balance between fundamental rights and especially between the right of property and the
+right to privacy. Both have to coexist. The European Court of Justice has given important and
+useful indications in two well-known cases (Promusicae7 and Tele28), asking Member States
+and their respective authorities to take measures that, while balancing both rights, should
+respect the principle of proportionality. The European Court of Justice decisions imply also
+that internet service providers cannot assume the responsibility to balance the rights and
+become controllers of the Internet. As a consequence, the enforcement framework
+completed by the European Court of Justice ruling achieves a right balance between
+copyright and the right to privacy and protection of personal data.
+In addition, other fundamental rights should be taken into account. This is the case the
+presumption of innocence, fair trial, confidentiality of communications for instance. Since
+the SABAM case9, the European Court of Justice has considered the right to conduct a
+business as a fundamental right that should be taken into consideration during the balance
+process.
+
+
+
+
+7
+    ECJ, 29 janvier 2008, Promusicae (C-275/06)
+8
+    ECJ,19 February 2009, Tele 2, (C‑557/07)
+9
+    ECJ 24 novembre 2011, SABAM (C-70/10)
+
+
+               Orange - European Commission’s consultation on the review of the EU copyright rules
+                                                March 2014
+
+                                                      11/13
+                                              ANNEX 1
+
+        Limitations and exceptions in the Single Market
+
+
+21.    In the event that limitations and exceptions established at national level were to
+have cross-border effect, how should the question of “fair compensation” be addressed,
+when such compensation is part of the exception? (e.g. who pays whom, where?)
+
+
+Il est indispensable de renforcer l’harmonisation des règles applicables en matière de droit
+d’auteur sur l’ensemble du territoire l’Union Européenne au risque de faire émerger et
+prospérer des distorsions de concurrence préjudiciables pour le marché intérieur.
+
+Conformément à la Directive 2001/29/CE du Parlement européen et du Conseil du 22 mai
+200110 sur l'harmonisation de certains aspects du droit d'auteur et des droits voisins dans la
+société de l'information, l’exception pour copie privée doit permettre de maintenir un
+niveau élevé de protection de la propriété intellectuelle tout en encourageant « des
+investissements importants dans des activités créatrices et novatrices, notamment dans les
+infrastructures de réseaux » et favorisant ainsi « la croissance et une compétition accrue de
+l'industrie européenne (...) aussi bien dans le secteur de la fourniture de contenus que dans
+celui des technologies de l'information » (cons. 4).
+
+En effet les entreprises innovantes contribuent à la vitalité économique nationale et à la
+diffusion des technologies et des produits nouveaux sur le marché et dans la société. C'est
+pourquoi la loi doit leur assurer un environnement juridique stable et incitatif.
+
+Ainsi il est admis que les règles en matière de droit d’auteur doivent être adaptées pour
+tenir compte des réalités économiques sauf à ce que les Etats membres fassent l’impasse sur
+les innovations technologiques et économiques. Une posture contraire freinerait
+grandement la compétitivité à la fois de notre industrie mais aussi de notre secteur culturel
+à l’heure où des acteurs étrangers proposent des services équivalents sans rémunérer les
+ayants droit.
+
+De même, cet impératif d’adaptation doit se conjuguer avec celui de l’harmonisation des
+règles du droit d’auteur dès lors qu’une disparité dans l’application des normes porte
+atteinte au bon fonctionnement du marché intérieur, comme le rappelle le considérant 7 de
+la Directive 2001/29/CE :
+
+“Le cadre législatif communautaire relatif à la protection du droit d'auteur et des droits
+voisins doit donc aussi être adapté et complété dans la mesure nécessaire au bon
+fonctionnement du marché intérieur. Il convient, à cet effet, d'adapter les dispositions
+nationales sur le droit d'auteur et les droits voisins qui varient sensiblement d'un État
+membre à l'autre ou qui entraînent une insécurité juridique entravant le bon fonctionnement
+du marché intérieur et le développement de la société de l'information en Europe et il
+importe d'éviter que les États membres réagissent en ordre dispersé aux évolutions
+
+
+10
+     http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001L0029:fr:HTML
+
+
+               Orange - European Commission’s consultation on the review of the EU copyright rules
+                                                March 2014
+
+                                                      12/13
+technologiques. En revanche, il n'est pas nécessaire de supprimer ou de prévenir les
+disparités qui ne portent pas atteinte au fonctionnement du marché intérieur”.
+
+A cet égard, Orange relève qu’une application non homogène du droit d’auteur dans les
+différents Etats membres permet à certains prestataires d’exploiter, sur le fondement de
+l’exception de copie privée, des services de type « cloud computing » sans pour autant
+s’acquitter d’une compensation équitable (rémunération pour copie privée).
+
+Orange constate par exemple que le Luxembourg a introduit dans sa législation nationale 11
+l’exception de copie privée mais que néanmoins le mécanisme de compensation équitable
+qui en est le corollaire nécessaire n’a pas encore été fixé, de sorte qu’une entreprise établie
+au Luxembourg peut tout à fait commercialiser un service fondé juridiquement sur
+l’exception de copie privée sans payer de compensation équitable.
+
+En pratique, cela revient à créer une situation d’iniquité voire de réelles distorsions de
+concurrence entre un exploitant établi au Luxembourg et un autre établi en France, dès lors
+que les services (de cloud computing) des deux concurrents s’adressent aux consommateurs
+français.
+
+A titre d’illustration, la société The Digital Nation, établie au Luxembourg, commercialise un
+service de type cloud computing dénommé « Streamnation »12 destiné aux consommateurs
+français. De par son établissement social, cette société bénéficie d’un avantage
+concurrentiel par rapport aux sociétés françaises, avantage qui repose sur un transposition
+différente (parce qu’incomplète au Luxembourg) entre les Etats membres de la Directive
+2001/29/CE.
+
+Dans ces conditions, Orange invite la Commission à renforcer le processus d’harmonisation
+des règles applicables en matière de rémunération pour copie privée, d’autant plus que la
+compensation équitable est désormais une « notion autonome » en droit de l’Union
+européenne13.
+
+
+
+
+11
+  Article 10 4° de la Loi du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de
+données : http://www.legilux.public.lu/leg/a/archives/2001/0050/a050.pdf#page=2 .
+
+12 https://www.streamnation.com
+
+13 CJUE, 10 octobre 2010, Padawan c/ SGAE (Affaire C-467/08).
+
+
+             Orange - European Commission’s consultation on the review of the EU copyright rules
+                                              March 2014
+
+                                                    13/13
+

@@ -1,0 +1,457 @@
+PUBLIC CONSULTATION ON THE REVIEW OF EU COPYRIGHT RULES
+
+Response on behalf of CREATe by Martin Kretschmer, Ronan Deazley, Lilian Edwards,
+Kristofer Erickson, Burkhard Schafer and Daniel John Zizzo*
+
+CREATe (www.create.ac.uk) is the Centre for Copyright and New Business Models in the
+Creative Economy, a UK national research hub jointly funded by the AHRC (Arts &
+Humanities), EPSRC (Engineering & Physical Sciences) and ESRC (Economic & Social
+Sciences). CREATe is a pioneering interdisciplinary initiative, and globally the first effort to
+investigate the relationship between Creativity, Regulation, Enterprise and Technology
+(=CREATe) through the lens of copyright law. The research programme has a strong
+empirical focus. CREATe is a consortium of seven universities, centred at the University of
+Glasgow.
+
+This response attempts to make two contributions: (1) the process of policy formation
+matters for the evolution of the EU legal framework, and so we offer a short critique of the
+consultation format; (2) we summarise available evidence in seven thematic areas where
+CREATe has developed, or is developing research (term of protection, libraries and
+archives, disabilities, text and data mining, user-generated content, fair remuneration for
+authors and performers, and respect for rights). CREATe understands evidence here as
+empirically grounded, but open to historical and comparative approaches.
+
+
+INTRODUCTION: FORMAT OF THE CONSULTATION
+The Consultation follows a structured survey format more familiar from social science
+research. This appears congruent with ambitions for evidence-based policy making. The
+questionnaire becomes a ‘fact finding’ mission in 80 detailed questions rather than an
+invitation to collect pre-written ‘position papers’ by organised stakeholders. As an
+independent, empirically-minded research centre we should welcome this.
+The questionnaire is mostly organised in a closed format that will allow responses to be
+reported in percentage numbers, a useful device for framing future policies: “x percent
+agree that the scope of the ‘making available’ right in cross-border situations is sufficiently
+clear” (Q8). However, taking the social science perspective seriously, we are not optimistic
+that the findings will be valid; that is: the percentage numbers may not measure what they
+
+
+
+
+*Martin Kretschmer is Professor of Intellectual Property Law, University of Glasgow, and Director of CREATe
+(www.create.ac.uk); Ronan Deazley is Professor of Copyright Law, University of Glasgow; Lilian Edwards is
+Professor of Internet Law, Strathclyde University; Kristofer Erickson is Lord Kelvin Adam Smith Research
+Fellow in Social Sciences, University of Glasgow; Burkhard Schafer is Professor of Computational Legal
+Theory, University of Edinburgh; Daniel John Zizzo is Professor of Economics, University of East Anglia.
+
+                                                                                                         1
+are trying to measure. Let us briefly outline some common problems in collecting and
+reporting survey data in this form.
+Many survey questions follow technical legal categories to which only a small number of
+experts (typically trained as lobbyists) have access. So in many cases, answers will be a
+sample of an already highly selective population. The Consultation may not elucidate what
+is empirically happening but what, for example, collecting society representatives see (or
+want to see). Artists, consumers, non-profit memory institutions and digital innovators in
+particular will find it difficult to see the world through the lenses offered in the survey, and
+are unlikely to be able to contribute meaningfully.
+If the aim of the Consultation was to attract a wide range of potential policy solutions, a
+format aiming for participation beyond organised groups would be recommended. Here a
+form of content analysis might be an appropriate form of reporting responses (Favale and
+Kretschmer, 2012).
+If the aim of the Consultation was to establish facts, a survey of attitudes may not be the
+best starting point. Q1 asks: “[In particular if you are an end user/consumer:] Have you
+faced problems when trying to access online services in an EU Member State other than the
+one in which you live?” Commissioned research, using scraping techniques to test
+streaming services and online stores, would be able to create this evidence quickly, and
+robustly.
+It should also be noted that many questions are not looking for empirically grounded
+evidence but normative solutions. For example: (1) Q11/12: “Should the provision of a
+hyperlink/viewing of a web-page … be subject to authorisation of the rightsholder?”; (2)
+Q19: “What should be the role of the EU role in promoting the adoption of identifiers …?;
+(3) Q22: “Should … exceptions be made mandatory …?”; (4) Q27: “[H]ow should the
+question of ‘fair compensation’ be addressed …?”
+In order to respond meaningfully within the constraints outlined above, we group answers
+to a range of questions around areas where empirical knowledge is emerging and should,
+hopefully, influence any future legislative action. No one benefits from a distorted
+worldview. We attempt to follow the broad themes of the Consultation.
+
+References
+Favale, M. and Kretschmer, M. (2012), ‘An Analysis of the Public Consultation on Open
+Standards: Open Opportunities’ (62pp), Analysis report commissioned by the Cabinet Office,
+available at:
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78890/
+Response-Analysis.pdf
+Kretschmer, M. and Towse, R. (2013), What Constitutes Evidence for Copyright Policy?
+(135pp), CREATe Working Paper 2013/1, available at:
+http://www.create.ac.uk/publications/what-constitutes-evidence-for-copyright-policy-
+digital-proceedings-of-esrc-symposium/
+
+
+
+                                                                                              2
+TERM OF PROTECTION
+In this section we respond to question 20
+It is the consensus among economists and intellectual property scholars that the current
+term of copyright protection far exceeds what is necessary to incentivise creative
+production and imposes unnecessary costs on innovators.
+The four main arguments used by incumbent rightsholders to seek longer terms have been
+rehearsed extensively in the context of the recent term extension directive for performers
+and sound recordings (Directive 2011/77/EU): (1) artists will earn more as a result of
+copyright extension; (2) more (and more diverse) works will be produced; (3) consumers
+will not pay more; (4) jurisdictions with a longer term will have a competitive advantage.
+The empirical evidence points against each of these arguments (Joint Academic Statement
+on Term Extension, 2008).
+Research on the effects of the copyright term is hampered by the methodological difficulty
+of comparing like with like; that is, two works that only differ in copyright status and
+nothing else. Following the recent extension for sound recordings from 50 to 70 years (that
+came into force in EU member states before the end of 2013), there is now an opportunity
+for a natural experiment: comparing the market for 1962 recordings (which are now out of
+copyright) with the market for 1963 recordings (protected for another 20 years). The
+CREATe consortium is conducting such a study.
+Given that the copyright term affects all three pillars of European copyright policy (the
+single market, innovation and economic growth, and cultural diversity: Consultation, p.2) it
+would be appropriate for the Commission to issue a statement on the onus of proof for any
+future change.
+
+References
+Collection of materials on the copyright term, available at:
+http://www.cippm.org.uk/copyright_term.html
+Directive 2011/77/EU of the European Parliament and of the Council of 27 September
+2011 amending Directive 2006/116/EC on the term of protection of copyright and certain
+related rights
+Joint Academic Statement on Term Extension (CIPPM/CIPIL/IViR/MPI-IP), 27 October
+2008, available at: http://www.cippm.org.uk/copyright_term.html
+
+
+LIBRARIES AND ARCHIVES
+In this section we respond to questions 28 to 41
+Although the questions in this part of the consultation ostensibly are concerned with
+stakeholders’ opinions on limitations and exceptions that benefit all types of cultural
+institution (libraries, museums and archives), in reality they are principally directed at
+copyright rules as they impact the use of and access to library collections. For example,
+
+                                                                                          3
+when considering the challenges posed by mass digitisation projects, the Consultation
+presents the 2011 Memorandum of Understanding on key principles on the digitisation and
+making available of out of commerce works as a partial solution to this generalised problem:
+“the result of this MoU should be that books that are currently to be found only in the
+archives of, for instance, libraries, will be digitised and made available to everyone” (p.22).
+The MoU is a partial solution but only for library collections. Indeed, this evident
+preoccupation with the digitisation of library collections shapes the way in which the
+archive is conceptualised within the Consultation itself: that is, as a space within a library, a
+repository of rare books.
+Library collections and archive collections are two very different phenomena. Libraries
+aggregate, organise, enable access to, and assist users in navigating the world’s
+accumulated knowledge. In this regard, library collections are primarily concerned with
+commercially published material. Archive collections, however, are primarily concerned
+with the unique records produced by organisations, families, and individuals during their
+day-to-day activities or business. And while these records have considerable social, cultural,
+academic and historic significance, the nature of these records is such that they are rarely
+created for the purposes of commercial exploitation, and only a very small proportion of
+these works have any intrinsic commercial value. Indeed, it is the organic nature of the
+records selected for inclusion within an archive that makes these records so reliable,
+authentic and trustworthy (ISO 15489-1, 2001, 7.2).
+Moreover, the type of material held within archives typically does not fall within the
+repertoire of collecting societies. For this reason, encouraging and enabling mass
+digitisation initiatives on the basis of voluntary licensing schemes between cultural
+institutions and collecting societies will skew Europe’s accessible digital cultural record
+towards commercially published material held in libraries.
+European copyright policy should, of course, address the challenges presented by e-lending
+and off-premises access to library collections, and in ways that enable the widest possible
+access to Europe’s library collections for the purposes of research and private study, while
+at the same time appropriately protecting the commercial interests of publishers. But, our
+copyright framework must also be responsive to the needs and interests of different
+cultural institutions in making their collections digitally accessible (Deazley and Stobo,
+2013). Devising and implementing copyright policy to facilitate mass digitisation initiatives
+must draw on a research base that extends beyond studies of diligent search and rights
+clearance within the publishing and library sectors. There is a policy need to understand
+the way in which the work of different institutions within the cultural heritage sector is
+shaped by the copyright regime. CREATe is committed to developing this research base
+(Stobo et al, 2013; Deazley and Stobo, 2014), and we advocate further research within this
+domain.
+
+References
+Deazley, R., and Stobo, V. (2013), Archives and Copyright: Risk and Reform (55pp), CREATe
+Working Paper 2013/3, available at: http://www.create.ac.uk/publications/archives-and-
+copyright-risk-and-reform/
+
+                                                                                               4
+Deazley, R., and Stobo, V. (2014), Archives and Copyright: Developing an Agenda for Reform
+(118pp), CREATe Working Paper 2014/4, available at:
+http://www.create.ac.uk/publications/archives-and-copyright-developing-an-agenda-for-
+reform/
+ISO 15489-1: 2001(E), Information and Documentation: Records Management, available at:
+http://www.iso.org/iso/catalogue_detail?csnumber=31908
+Stobo, V., Deazley, R., and Anderson, I. (2013), Copyright and Risk: Scoping the Wellcome
+Digital Library Project (60pp), CREATe Working Paper 2013/10, available at:
+http://www.create.ac.uk/publications/copyright-risk-scoping-the-wellcome-digital-
+library-project/
+
+
+DISABILITIES
+In this section we respond to questions 50 to 52
+The Information Society Directive (2001/29/EC) has given member states “the option of
+providing for certain exceptions or limitations for cases such as [...] for use by people with
+disabilities.” Making disability exceptions merely optional creates the obvious danger of
+creating free movement barriers for EU citizens with disabilities. More research is needed
+to establish the variance with which member states made use of this permission, and if, as a
+result, movement of citizens with disability between EU member states was impeded.
+A similar fragmentation may have happened in the market for assistive technologies and
+products. The Consultation refers to the Marrakesh Treaty. While the Treaty is welcomed
+in principle, the exclusive focus on it further entrenches another fragmentation, this time
+between different forms of disability, for which there is no convincing rationale. The
+Marrakesh Treaty focuses exclusively on visual impairment. This partly reflects the fact
+that the visually impaired have experienced the most obvious access barriers caused by
+copyright (and they have effective representation through the European Blind Union
+(EBU)). Potential copyright barriers exist also for other media. For citizens with hearing
+impairment for instance, timely provision of caption services is as important. In this field
+there is at least some evidence that member states differ in their treatment of ‘unofficial’
+caption providers of films and videos, who supply the material before the right holder has
+issued their own version (which can be much later, if at all). Another example identified
+during CREATe research are copyright barriers to modify audio and music files for tinnitus
+sufferers, where legal uncertainty creates barriers for innovation in medical products for
+the disabled.
+Particularly large groups which have so far received little consideration in the debate are
+citizens with mental health problems and those with learning disabilities. For the latter
+group in particular, focus on format is less relevant than ‘easy read’ versions with
+simplified language (also relevant for some deaf citizens), modified sentence structure or
+symbol support. Memory impairment represents another significant constituency, and one
+which due to an aging population in Europe will continue to grow in the future. For them,
+search facilities that supplant their own memory can be important, as might be a right to
+
+                                                                                            5
+create a recording of live events and performances which they attend. Some assistive
+technologies such as Sensecam may inadvertently violate copyright when used this way in
+a memory enhancing function.
+While more research into the empirical impact of copyright on various groups of
+disabilities is therefore needed, from a normative–conceptual perspective, harmonised and
+uniform exceptions for disability purposes that are neutral towards the technology in
+question and also neutral with regard to the disability seem desirable.
+
+References
+CREATe project Self-enforcing IP Law: Life after DRM, available at:
+http://www.create.ac.uk/research-programme/theme-3/wp3c1-self-enforcing-ip-law-life-
+after-drm/
+Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on
+the harmonisation of certain aspects of copyright and related rights in the information
+society
+Directives on the Prohibition of Discrimination (2000/43/EC & 2000/78/EC)
+Suzor, N. P., Harpur, P. D., and Thampapillai, D. (2008), ‘Digital copyright and disability
+discrimination: From braille books to bookshare’, Media & Arts Law Review 13(1)
+Hammerschmid, R., Miesenberger, K., and Stöger, B. (2002), ‘Harmonisation of the
+Copyright Law throughout the European Union – A Challenge for All Print Disabled People,
+Computers Helping People with Special Needs’, Lecture Notes in Computer Science Volume
+2398, 321-328
+
+
+TEXT AND DATA MINING
+In this section we respond to questions 54 and 55
+Text and data mining are acknowledged to have enormous potential both for European
+industry and non-commercial research. As things stand, European copyright law
+represents a sizeable barrier to exploitation by both camps since no current fair dealing
+exemption clearly applies. This was acknowledged partially in the UK Hargreaves Review
+where a statutory exemption for “data analysis for non-commercial research” was
+proposed. Although a statutory instrument to implement this was drafted and put out for
+consultation the fate of this instrument still seems uncertain at time of writing. In the EU, a
+voluntary industry-based licensing solution seems to be currently favoured rather than
+adding an exemption to the list permitted in the Information Society Directive
+(2001/29/EC), though negotiations have been troubled and so far inconclusive.
+CREATe takes the view, after a multi-jurisdictional survey, that a Hargreaves-like
+exemption needs urgently implemented as part of an EU regulatory instrument, but that
+consideration should also be given to taking text mining entirely out of the copyright arena
+(in particular mass digitisation projects where the textbase is solely used to create new
+products, not to allow full or partial public access to the original text). Discussion also
+
+                                                                                              6
+needs to be had as to whether an equivalent exemption needs developed for the database
+right regime, and if so, exactly what shape that should take.
+There are two main arguments behind this, one practical, one principled. First, the United
+States have effectively legalised (pending appeals) text mining as a matter of
+transformative use in the HathiTrust (2012) and Google Book (2013) cases. This will allow
+their data and text mining industries an enormous advantage over European counterparts;
+and the Google Book judgment acknowledges as one of its foundations the enormous
+potential data mining has to create new research of societal and economic value. Secondly,
+from a principled point of view there are severe doubts that copying and mining text
+should be regarded as an infringement of copyright at all. Copyright famously protects
+expression not ideas, and data and text mining exploit data and metadata not the
+expressive value of the texts. As Matthew Sag, a leading scholar in the field, commented at
+a recent CREATe symposium: “Copyright is ultimately about the communication of
+expression to someone, to the public, and so when things are copied purely for internal
+computational reasons, and not to convey their expression to the public, then that is
+something that should not be recognized as copyright infringement” (Deazley and Stobo,
+2014, p.91).
+
+References
+Authors Guild v. HathiTrust (2012) 902 F.Supp.2d 445, 104 U.S.P.Q.2d 1659
+Authors Guild v. Google (14 November 2013) 05 Civ. 8136 (DC)
+Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on
+the harmonisation of certain aspects of copyright and related rights in the information
+society
+Deazley, R., and Stobo, V. (2014), Archives and Copyright: Developing and Agenda for Reform
+(118pp), CREATe Working Paper 2014/4, available at:
+http://www.create.ac.uk/publications/archives-and-copyright-developing-an-agenda-for-
+reform/
+
+
+USER GENERATED CONTENT
+In this section we respond to questions 58 to 63
+The CREATe consortium is undertaking research to respond to the policy need to
+understand how online user communities interact with and are impacted by copyright.
+Within the UK context, we are specifically interested in measuring the impact of user-
+created works on the economic exploitation of corresponding, copyright works. Early
+results have shown an economic benefit to allowing more liberal user uptake of copyright
+materials in online, networked settings (Erickson et al, 2013; Erickson and Kretschmer,
+2014).
+Contrary to the proposition put forth in the Consultation (p.29), User Generated Content
+(UGC) is not flourishing in all cases. Particularly with respect to the uptake and re-use of
+
+                                                                                          7
+copyright material by consumers, the European position is unknown, ambiguous, or
+unenforced.
+There are three domains where our research has identified problems, but these are
+indicative of a wider lack of legislative innovation. First, while many Member States have
+adopted copyright exceptions for the purposes of parody, data show that European and UK
+user parodies continue to be removed from platforms such as YouTube at a higher rate
+than parodies of US material (Erickson and Kretschmer, 2014). Secondly, ‘machinima’
+creators (videographers who use third-party video game engines to create new animation
+storylines) have encountered legal roadblocks in their efforts to commercialise their new
+content, despite attracting large and viable audiences on internet platforms (Haefliger et al,
+2010). Thirdly, research into fan video game production demonstrates that consumers
+unable to license use of original source code have sometimes re-produced new, open-
+source versions of old software, meeting a market demand (Mavridou and Sloan, 2013).
+This activity is often blocked by rightsholders ex post facto, although further research is
+required to understand the economic cost/benefit of allowing fan works to exist parallel to
+commercial re-issues.
+We advocate a rigorous programme of empirical research to identify the contributions of
+user creativity to the information businesses in the common market and to explore ways to
+support innovation and growth. For example, new research is required in order to: (1) map
+the processes by which value is generated from user activities involving copyright works;
+(2) understand the scope for impact of EU law on digital platforms that are frequently
+designed for one large, undifferentiated mass of users; (3) identify areas for social and
+commercial innovation to the competitive advantage of European creative industries.
+Dissemination of this research and policy stance should stake a competitive position for the
+EU which sets a high bar for the protection and encouragement of user creativity.
+
+References
+Erickson, K., Kretschmer, M., & Mendis, D. (2013), Copyright and the Economic Effects of
+Parody: An empirical study of music videos on the YouTube platform, and an assessment of
+regulatory options (38pp), CREATe Working Paper 2013/4, available at:
+http://www.create.ac.uk/publications/copyright-and-the-economic-effects-of-parody/
+Erickson, K., and Kretschmer, M., eds (2014), Research Perspectives on the Public Domain
+(58pp), CREATe Working Paper 2014/3, available at:
+http://www.create.ac.uk/publications/research-perspectives-on-the-public-domain/
+Haefliger, S., Jäger, P., and Von Krogh, G. (2010), ‘Under the radar: Industry entry by user
+entrepreneurs’, Research Policy, 39(9), 1198-1213
+Mavridou, O., and Sloan, R. J. (2013), ‘Playing outside the box: Transformative works and
+computer games as participatory culture’, Participations, 10(2), 246-259
+
+
+
+
+                                                                                               8
+FAIR REMUNERATION OF AUTHORS AND PERFORMERS
+In this section we respond to questions 72 to 74
+The available data on authors’ and artists’ earnings come from three different sources:
+government statistics (census, labour market surveys, tax); questionnaire surveys of
+specific professional groups; and collecting society payments. For the purposes of assessing
+the link between copyright and contract regulation, two aspects are of particular interest:
+(1) the level and distribution of earnings of creators, compared to other professions; (2)
+earnings from the principal artistic activity compared to other sources of earnings. There is
+now a robust body of evidence regarding both these matters which should form the basis
+for any legislative intervention (Atladottir et al, 2013; Thomson and Cook, 2012-14;
+Kretschmer et al, 2010; Kretschmer et al, 2011).
+Key findings include: (1) creators’ occupational profiles reveal risky, often stuttering
+careers; (2) earnings from non-copyright, and even non-artistic activities are an important
+source of income for most creators; (3) many more creators attempt to embark on artistic
+careers than are able to sustain them; (4) the more copyright related the income stream,
+the more extreme is the distribution of income, reflected in very high Gini coefficients (a
+measure of inequality); (5) a small number of very high earners earn a disproportionate
+share of total income.
+The Commission needs to be clear if they envisage any attempted regulation of copyright
+contracts to be effective against this underlying ‘winner-take-all’ current of cultural
+markets.
+
+References
+Atladottir, K., Kretschmer, M. and Towse, R. (2013), ‘Artists, authors’ rights and copyright’,
+in Handbook of the Digital Creative Economy, Ch. Handke, and R. Towse, eds (Cheltenham:
+Edward Elgar), 274-83
+Thomson, K. and Cook, J. (2012-14), Artist revenues streams: How are musicians earning
+money?, Future of Music Coalition: Online data repository, available at:
+http://money.futureofmusic.org/
+Kretschmer, M., Bently, L., Singh, S., and Cooper, E. (2011), Copyright Contracts and
+Earnings of Visual Creators: A survey of 5,800 British designers, fine artists, illustrators, and
+photographers (179pp), DACS/CIPPM/CIPIL, available at:
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1780206
+Kretschmer, M., Derclaye, E., Favale, M. and Watt, R. (2010), The Relationship between
+Copyright and Contract Law: A Review commissioned by the UK Strategic Advisory Board for
+Intellectual Property Policy (SABIP) (172pp), available at:
+http://www.ipo.gov.uk/ipresearch-relation-201007.pdf
+
+
+
+
+                                                                                                    9
+RESPECT FOR RIGHTS
+In this section we respond to questions 75, 76 and 80
+Questions 75 and 76 seem to make the case that the civil enforcement system is insufficient
+to meet the challenges of the internet revolution. We start by noting that any intervention
+on the enforcement of intellectual property rights should be based on an understanding of
+the causes and effects of unlawful behavior. Using systematic reviewing techniques drawn
+from the medical sciences, CREATe has undertaken a scoping review of all evidence
+published between 2003-2013 into the welfare implications and determinants of unlawful
+file sharing (Watson et al, 2014). Articles on unlawful file sharing for digital media
+including music, film, television, videogames, software and books, were methodically
+searched; non-academic literature was sought from key stakeholders and research centres.
+54,441 sources were initially found with a wide search and were narrowed down to 206
+articles which examined human behavior, intentions or attitudes.
+Whether unlawful file sharing confers a net societal cost or benefit to welfare remains
+unclear based on the available evidence, with both of the approaches employed – (1)
+looking at the association between sales and unlawful file sharing, and (2) examining
+people’s willingness to pay with and without the possibility of unlawful file sharing –
+suffering from serious limitations. This conclusion casts doubt on approaches which
+strengthen the civil enforcement system to meet the challenges of the internet revolution,
+at least without clearer evidence of demonstrable benefits of specific measures.
+CREATe has developed a utility framework to understand potentially relevant factors
+whether to engage in unlawful downloads, legal purchases (or neither). They include
+financial and legal utility – where the civil enforcement system is clearly potentially
+relevant – as well as unrelated aspects such as experiential utility, technical utility, social
+utility, and moral utility. The findings of our scoping review have been visualised in a cubic
+space where the number of sources of evidence identified for each proposed determinant
+of unlawful file sharing are split according to evidence type and specific media (see below).
+It demonstrates that our current knowledge of file sharing is dramatically skewed by
+method and sector.
+The unlawful file sharing debate seems to have been predominantly determined by
+evidence from music files. Movies and software are a distant second. There is very little on
+videogames, books, or TV content. However, there is evidence to suggest that the
+determinants and welfare implications of one medium may not apply equally to another.
+Therefore there is a danger in basing policy decisions upon evidence heavily biased toward
+a single medium.
+
+
+
+
+                                                                                            10
+The vast majority of the studies found in our scoping review employ cross sectional survey
+studies which make attributions of causality extremely difficult. Furthermore, our scoping
+review also shows the comparative scarcity of studies that employ observed behavior as a
+measured outcome, whether from the experimental laboratory or from the natural world.
+This is a problem, particularly as there is often a gap in findings between studies that use
+behavior and studies that do not. In the context of financial and legal utility, we find that as
+new enforcement laws are introduced, there is limited behavioral data which could confirm
+a causal effect, particularly in the long term.
+There is a definite need for more experimental economic and longitudinal samples capable
+of identifying causality links and starting to assess the potential of policy changes to affect
+unlawful file sharing behavior. There is also a need to explore, more systematically, a wider
+spectrum of markets, as copyright frameworks do not normally differentiate across
+markets. Policies and assessments purely considered in terms of music files, or even a
+combination of music files and movies, may not be fit for purpose when considering other
+markets. Better evidence-based policy is needed.
+
+References
+Watson, S.J., Zizzo, D.J., and Fleming, P. (2014) Determinants and Welfare Implications of
+Unlawful File Sharing: A Scoping Review, CREATE Working Paper, April (report to be
+launched       at     London       event,     April    11,    2014),     available     at:
+http://www.create.ac.uk/event/stakeholders-event-uea-sharing-streaming-stealing-or-
+socialising/
+
+
+                                                                                             11
+

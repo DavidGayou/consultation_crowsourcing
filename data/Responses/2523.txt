@@ -1,0 +1,715 @@
+             CONSULTATION ON THE REVIEW OF THE
+                   EU COPYRIGHT RULES
+                                            MARCH 2014
+
+
+1.         PRELIMINARY REMARKS
+
+EuroISPA is the pan European association of European Internet Services Providers
+Associations (ISPAs). We are recognized as the voice of the EU ISP industry and are the
+largest umbrella association of Internet Service Providers in the world. EuroISPA regularly
+participates in the Commission’s public consultations among others on matters related to
+intellectual property rights.1
+
+2          RESPONSES TO THE CONSULTATION QUESTIONS
+
+Rights and the functioning of the Single Market
+
+A. Why is it not possible to access many online content services from anywhere in
+    Europe?
+2. Have you faced problems when seeking to provide online services across borders in
+the EU?
+
+Despite the fact that there are no legislative obstacles preventing or prohibiting the provision of
+cross-border digital services and the development of a unique continental market for online
+content, there’s still a country-by-country commercial repartition. This artificial fragmentation is
+the result of commercial practices actually put in place by rightholders, as described below:
+
+a)       Licensing of content by right holders (major studios, independent producers, and
+broadcasters) is, in fact, still managed at national level based on the concept of the territorial
+exclusivity. This means that in acquiring the content in a given country, for instance, a video on
+demand (VOD) operator can only make the content available in that given country and has to
+put in place DRM measures (geo-filtering of IP addresses) to prevent EU citizens living in
+different countries from acquiring that content. A provider willing to supply a cross-national EU
+VOD service, thus exploiting the low distribution costs entailed by digital distribution, would then
+need – for each content item in the library - to negotiate and sign a specific contract in each
+specific territory. This has very much to do with the fact that online rights are still managed in
+
+
+
+1
+ Previous contributions of Euroispa on similar or related matters include:
+EuroISPA Response to the European Commission’s Consultation on: A Communication on content online , 13 October
+2006
+Contribution to the Commission’s reflection document on “Creative Content in a European Digital Single Market:
+Challenges for the Future”, January 2010
+EuroISPA Response to the European Commission’s Content Online consultation, 29 February 2008
+EuroISPA Response to the European Commission Green Paper on Copyright in the Knowledge Economy, November
+2008
+High Level Statement on the Collective Management of Copyright and Related Rights and Multi-Territorial Licensing,
+April 2013
+Green Paper Preparing fora Fully Converged Audiovisual World, September 2013
+EuroISPA IPRED Statement, March 2013
+
+
+
+
+EuroISPA                                               -1-                                  Copyright consultation
+many cases in bundle with other forms of distribution (broadcasting for instance) for which the
+territorial dimension still makes more sense that the European one.
+
+b)       The territory-by-territory acquisition of rights does not entail simply having different
+libraries for each territory, but also different economic conditions, retail prices, availability dates,
+usage limitations, as again the condition at which the right is negotiated depends by the local
+branch dealing with it. This creates additional issue for to the establishment of a pan European
+digital service, as it would be extremely difficult for a digital operator, and confusing vis-à-vis the
+customers, justify why the same title is offered only in some countries and not in others, at very
+different dates, pricing and release conditions
+
+Remarkably, the European Commission (DG COMP) has recently (13 January 2014) opened an
+investigation covering such commercial practices with the aim to find out whether they reflect
+anti-competitive behaviours.
+
+c)       Beside the above issues, the impact of the collective right management system on the
+digital single market is also relevant, creating additional complexities. In practice, even when
+rights are acquired by on-line platform operators for each country, a further territory-by-territory
+clearance has to be gained through the national based Collective Management Organizations
+(CMOs). The relevance in this context of the restrictive behaviour of collecting societies was
+confirmed by the European Commission in the antitrust decision of 2008.
+
+As a result, under the current system, most digital content that could easily be distributed
+through an online platform for the entire continent’s consumption may then be subject to several
+deals and to clearance 28 times through at least 28 different CMOs, not taking into account
+mayor and a large number of independent labels. All such deals involve significant transaction
+costs and potential restrictions dramatically hampering the roll-out start-ups and of cross-border
+services. This frustrates and brakes innovative and competitive players which, in the absence of
+the above obstacles, could easily develop online content offers with continental reach, thanks to
+the capability of the Internet protocol and the wide presence of broadband and high-speed
+connections.
+
+To sum up, the fragmentation of digital distribution across Europe is, rather than the result of
+(fragmented) legal framework, the scope of commercial and contractual practice of rights-
+holders which has led to a rigid segmentation of the market in order to maximise profits on a
+country by country basis, to the detriment of consumers and the single market. The above
+scenario seriously frustrates the emergence of EU-wide offers (as well as national ones), unlike
+the US, where there is a huge development of premium content VOD platforms. The material
+advantage of the US market with respect to the EU is that in the US VOD/online rights are
+distributed in a one-stop shop approach for the whole territory and in a non-exclusive way,
+which has allowed several players competing on quality of service and business models to
+emerge. We believe the artificial fragmentation in Europe plays the major role in the different
+level of development of VOD and digital content services in Europe compared to the US, while
+other elements (such as national fragmentation, linguistic differences, lack of harmonization)
+play a minor role and are frequently overestimated.
+
+As the result of the above, various undertakings, which are members of EuroISPA’s national
+associations have encountered problems with or even abandoned the launch of pan-European
+digital services.
+
+
+
+
+EuroISPA                                          -2-                               Copyright consultation
+7.      Do you think that further measures (legislative or non-legislative, including
+market-led solutions) are needed at EU level to increase the cross-border availability of
+content services in the Single Market, while ensuring an adequate level of protection for
+right holders?
+
+YES – A comprehensive review of Directive 2001/29/EC on Copyright in the Information Society
+would be needed along with clear measures specifically aimed at ending the current restrictive
+licensing practices. The recent decision of the ECJ Nintendo vs.PC Box2 suggests that it is time
+to reconsider whether the copyright framework in force still fits the new digital and technological
+environment. See question 21 below.
+
+
+B.     Is there a need for more clarity as regards the scope of what needs to be
+authorised (or not) in digital transmissions?
+
+The act of “making available”
+
+8.     Is the scope of the “making available” right in cross-border situations – i.e. when
+content is disseminated across borders – sufficiently clear?
+
+NO - In general, the distinction between communication and reproduction rights when
+distributing rights over the Internet should be deeply revised. Such distinction is the result of
+customary commercial practices applied in the traditional pre-Internet era and the simple
+transposition into the digital world is questionable. In addition, such a distinction creates
+complexities and uncertainties for undertakings and people willing to license rights for digital
+content with the result that businesses and creativity are hindered, while piracy may be
+somehow even encouraged. The EU should therefore start to analyse whether a unique ad-hoc
+communication right should be created for the exploitation of content through digital networks.
+This said, we note that the territorial scope of the “making available” right may have the effect of
+legally sealing the current partition between national territories within the EU for copyright
+purposes. Also for this reason, the EU should have the ambition of harmonizing copyright law
+and thus creating a single EU territory for copyright purposes.
+
+10.     Does the application of two rights to a single act of economic exploitation in the
+online environment (e.g. a download) create problems for you?
+
+YES (see the answer above to question 8) – Measures aimed at making less burdensome the
+licensing process would be beneficial, including the legal “bundling of rights” provided that it
+does not create anti-competitive incentives for the licensing body, which must always seek the
+objective of maximum distribution along with efficient revenues.
+
+
+Linking and browsing
+
+11. Should the provision of a hyperlink leading to a work or other subject matter
+protected under copyright, either in general or under specific circumstances, be subject
+to the authorisation of the rightholder?
+
+NO - A Hyperlink is a reference to data that the reader can directly follow to find an already
+available content. Their function is to link any information to any other information over the
+Internet; they are therefore integral to the creation and functioning of the World Wide Web.
+Technically speaking, a link is not a transmission or communication of the work but a reference
+
+
+2
+    Decision of January 23, 2014 (case C-335/12).
+
+
+
+EuroISPA                                            -3-                          Copyright consultation
+to an already available work. Fact is, sharing hyperlinks on the internet is one of the most
+common activities. Requiring the authorisation of a rightholder before sharing a hyperlink would
+not only be cumbersome but would also undermine the fundamental right of free speech.
+
+We note the recent decision of the Court of Justice of the European Union in the Svensoon
+case (case C-466/12 Nils Svensson and Others v Retriever Sverige AB) whereby hyperlinking
+has been considered as an act of communication to the public pursuant to the Copyright
+Directive (Directive 2001/29/EC). However, the court has specified that, in the concrete
+circumstances of the provision on a website of clickable links to works freely available on
+another website, copyright protection does not apply and, therefore, authorization from the
+rights-holder is not required.
+EuroISPA welcomes favourably the decision taken by the court in the concrete circumstances of
+the case, however disagrees on the principle, whether a simple hyperlink should be considered
+as an act of communication pursuant to the Copyright Directive. The legal interpretation of the
+European judges is clearly due to the current wording of the Copyright Directive, which was
+conceived in an era when social networking and content sharing models were not imaginable.
+Therefore, the European institutions should clearly intervene in order to adapt the notion of “act
+of communication” to the needs of the digital economy as evolved until now.
+
+12. Should the viewing of a web-page where this implies the temporary reproduction of a
+work or other subject matter protected under copyright on the screen and in the cache
+memory of the user’s computer, either in general or under specific circumstances, be
+subject to the authorisation of the rightholder?
+
+NO - Viewing of webpages is a widely accepted, general practice and part of the everyday life of
+users all around the World. If merely viewing, without downloading or printing a website was
+subject to copyright, many people are likely to infringe copyright while browsing the internet and
+coming across websites containing copyright protected material.3
+
+Although the normal use of the internet involves the creation of copies, this is the automatic
+result of browsing the internet. The making of such copies in the cache is indispensable for
+efficient web-browsing and therefore in line with Article 5 (1) of the Directive 2001/29/EC. The
+copies retained on the screen or in the cache are merely the incidental consequence of the use
+of a computer, and are temporary.
+
+Furthermore, as suggested in the opinion of the UK Supreme Court “it has never been an
+infringement, in either English or EU law, for a person merely to view or read an infringing article
+in physical form.”4
+
+20.    Are the current terms of copyright protection still appropriate in the digital
+environment?
+
+NO – The current terms are excessively long and are nowadays a crucial limitation to the
+availability of content online. The term of 50 years after the death of the author prescribed by
+the Berne convention of 1886 are not fit for the digital environment, which has the unlimited
+potential of dissemination of cultural material. The 70 years after the death of the author term of
+protection provided by the EU is hardly incentivizing the production of content and its
+dissemination.
+
+
+
+3
+  See UK Supreme Court 17 April 2013, Public Relations Consultants Association Limited v The Newspaper Licensing
+Agency Limited and others, [2013] UKSC 18, accessible via http://www.supremecourt.gov.uk/decided-
+cases/docs/UKSC_2011_0202_Judgment.pdf , (UKSC Meltwater).
+4
+  UK Supreme Court 17 April 2013, Public Relations Consultants Association Limited v The Newspaper Licensing
+Agency Limited and others, [2013] UKSC 18, accessible via http://www.supremecourt.gov.uk/decided-
+cases/docs/UKSC_2011_0202_Judgment.pdf , (UKSC Meltwater).
+
+
+
+EuroISPA                                              -4-                                  Copyright consultation
+Shortening the term of protection at least until the minimum 50 years provided by the Berne
+Convention would create a competitive advantage to EU enterprises creating and distributing
+content as they would gain accessibility to 20 years of currently protected material.
+
+
+Limitations and exceptions
+
+21. Are there problems arising from the fact that most limitations and exceptions
+provided in the EU copyright directives are optional for the Member States?
+
+YES - The starting point should be that from an EU law perspective, IPRs are obstacles to the
+free movement of goods and services – which are scrutinised for their justification. The
+difficulties in cross-border situations stem from the fact that IPRs are territorial and limitations
+are optional and different from one MS to the next. But the most significant obstacle to the
+internal market is the possible creation of new national IPRs - which should not be permitted
+given the high level of harmonisation of rights.
+
+EuroISPA believes that the currently European copyright legislation in force needs to be revised
+in order to improve and harmonise rights as well as protection systems and adapt them to the
+development of the Information Society. Some areas of traditional copyright rules risk to be
+unable to keep peace with the changes in the way intellectual property circulates over
+communications networks.
+
+Furthermore, the exhaustive list of strictly defined exceptions lacks flexibility to adapt to the
+changes occurring in a rapidly evolving environment for content, creation, access and
+distribution.
+
+In the interest of all stakeholders, it is essential to offer the broadest, reasonable and most
+predictive scope to the exceptions in Article 5, under the condition that these be read within the
+context of the three-step test described in Article 5.5.
+
+The example about the private copy is self-explanatory. Member States are allowed to adopt
+their own copyright limitations. Article 5.2.b of the Directive enables Member States to provide
+for exceptions and limitations "in respect of reproductions on any medium made by a natural
+person for private use and for ends that are neither directly nor indirectly commercial, on
+condition that right-holders receive fair compensation which takes account of the application or
+non-application of technological measures referred to in Article 6 to the work or subject-matter
+concerned". However, only a few Member States have implemented article 5.2.b and the States
+that made it, had regulated the exception in a heterogeneous way. The absence of clear
+principles has also generated ambiguity in identifying the possible technologies that individuals
+may use for the purposes of creating a private copy. As an example, in some Member State the
+legislative framework seems to allow use of old technology of copy called “PVR3” (as DVD
+recorder) that works off line while preventing the use of enhanced technologies as Network
+PVR4.
+
+The absence of clear principles of technological neutrality in the private copy exception currently
+allows Member States to implement national rules that discriminate between recording
+devices/technologies with same functionalities, only on the basis of their respective
+technological features. This could prevent parties in the Single Market from pursuing in the
+online environment practices, which would not be restricted in the offline environment. As a
+result, business ventures dealing with digital content will require more time and money to
+acquire all necessary permits. The above generates distortion in the market and prevents the
+development of technological innovation.
+
+
+
+
+EuroISPA                                        -5-                              Copyright consultation
+22.     Should some/all of the exceptions be made mandatory and, if so, is there a need
+for a higher level of harmonisation of such exceptions?
+
+YES - The number of exceptions presented in the list of Articles 5.2 to 5.5 of the 2001/29/CE
+Directive should become made mandatory (instead of optional) anytime this is necessary to
+protect and ensure fundamental citizens’ rights, effective availability of digital content as well as
+proper cross-border circulation of the same.
+
+23. Should any new limitations and exceptions be added to or removed from the existing
+catalogue? Please explain by referring to specific cases.
+[Open question]
+
+Considering the large size and increasing number of user-generated content, failure to adopt
+the copyright regime to the digital reality risks creating a situation where activities perceived as
+normal by users are made illegal. This would undermine the credibility of copyright law among
+average users and thus threaten broader right holder interest.
+
+In order to clearly recognise the difference between the use of protected material as part of
+user-generated new content and illegal file sharing of a work, it would be necessary to adapt the
+copyright regime to include audiovisual content which incorporates users’ creative output,
+creating this way a completely new work.
+
+24. Independently from the questions above, is there a need to provide for a greater
+degree of flexibility in the EU regulatory framework for limitations and exceptions?
+
+YES – (See answer to question 21.) There are of course already open norms in the EU, such as
+the three-steps-test, or proposals such as Article 5.5. of the ‘Wittem European Copyright Code’5,
+or the Irish ‘Modernising Copyright’ proposal6. One way of addressing this issue is to encourage
+member states to make use of existing flexibilities and provide open exceptions at national level.
+
+Private copying
+
+64.     In your view, is there a need to clarify at the EU level the scope and application of
+the private copying and reprography exceptions in the digital environment?
+
+YES – In general, there is a need to rethink the entire private copy model as far as the fair
+compensation mechanism provides for abuses, competition distortion and detriment for the
+growth of broadband and digital services. One should therefore4 consider whether a fair
+compensation mechanism is still needed.
+
+Also, the idea that devices or connectivity is purchased for the purposes of making private
+copies of professional content ignores the growth of User Generated Content (UGC).
+In the EU-28, according to Eurostat, close to 23 million Europeans engaged in creating a
+website or blog in 2012, including 14% of EU citizens aged between 16 and 24 years old. Over
+83 million Europeans uploaded self-created content to a website, including 47% of 16 to 24 year
+olds. 11% of Europeans posted opinions on civic or political issues via websites. WordPress
+users produce about 36.3 million new posts and 63.1 million new comments each month, there
+are more than 77,000 active contributors to Wikipedia working on more than 22,000,000 articles
+in 285 languages. There are more than 41 000 posts a second on Facebook, 5 700 Tweets a
+second on Twitter and 758 million photos a day were uploaded and shared online in 2013.
+
+
+5
+ http://www.copyrightcode.eu/index.php?websiteid=3
+6
+    Modernising     Copyright:   The      Report  of   the    Copyright   Review   Committee   (Dublin,   2013),
+http://www.enterprise.gov.ie/en/Publications/CRC-Report.pdf
+
+
+
+EuroISPA                                                -6-                                Copyright consultation
+Today the overwhelming majority of content produced and shared on the internet, on digital
+services and using connected devices does not belong to rightholder organisations. These
+activities are clearly excluded from the scope of private copying levies. Yet the bluntness of
+levies catches all this content.
+
+
+65. Should digital copies made by end users for private purposes in the context of a
+service that has been licensed by rightholders, and where the harm to the rightholder is
+minimal, be subject to private copying levies?
+
+NO - Licensed copies should not trigger the application of levies. According to Recital 35 of
+Directive 2001/29/EC, “In cases where rightholders have already received payment in some
+other form, for instance as part of a license fee, no specific or separate payment may be due.”
+Making these digital copies subject to levies would create a situation of double payment and
+would go against the view and expectations of the end users as service providers usually
+acquire license from the right holder that covers all relevant acts in the given service, including
+reproduction by the end user.
+
+It should be kept in mind that the levy system was created in a situation where there was
+reproduction of works that fell within the scope of the exclusive right but licensing was not
+possible due to high transaction costs and the fact that the copying took place in private homes.
+In digital realm it is possible to license even the smallest usages with a reasonable cost and
+hence levies should not be brought to digital environment.
+
+
+Further, consumers acquire originals under the assumption that they can make copies, and
+rightholders know these copies will occur. The ability to make copies is priced into distribution to
+the consumer7. Put simply, another way of looking at this is that consumers cannot reasonably
+be expected to purchase separate originals for their home audio system, their car, their MP3
+player and their computer. The exception for private copying is a legitimate expectation of
+consumers - and as such not having an exception would bring the law into disrepute; but
+requiring further payments for such acts is not. The acquisition of content or services licensed
+by the rightholders implies already the usage of digital copies for private purposes. Therefore
+such copies should not be a subject to private copying levies in order to avoid a situation of
+double payment as the right to copy content several times is usually covered by the license fee
+paid by the consumer.
+There is no evidence of harm to rightholders in such cases, and these situations should be
+considered de minimis. Mr. Vitorino came to the same conclusion8 in his report on copyright
+levies where he rightly argued that applying a levy on a licensed service would pave the way for
+
+7
+  “Economic theory suggests that the benefits consumers derive from any copyright exceptions will be incorporated
+automatically into the demand for the original creative work. Consumers will recognise that buying the original entitles
+them to use the product in various ways and hence their demand decision will reflect this”: Mark Rogers, Joshua
+Tomalin and Ray Corrigan, ‘The economic impact of consumer copyright exceptions: A literature review’ (2013), page
+30; Ian Hagreaves, Digital Opportunity, ‘A Review of IP and Growth’, section 5.30: “As right holders are well aware of
+consumers’ behaviour in this respect, our view is that the benefit of being able to do this is already factored into the
+price that right holders are charging. A limited private copying exception which corresponds to the expectations of
+buyers and sellers of copyright content, and is therefore already priced into the purchase, will by definition not entail a
+loss for right holders”; Martin Kretschmer, ‘Private Copying and Fair Compensation’ (2011) page 68: “a certain amount
+of copying can already be priced into the retail sale of the first copy if the consumer understands these benefits”;
+H.A.Varian (2005), ‘Copying and Copyright’, Journal of Economic Perspectives 19(2): 121-138; p. 129; ‘Modernising
+Copyright: The Report of the Copyright Review Committee’ (Dublin, 2013), page 60.
+8
+  As recognized in the 2013 recommendations of Antonio Vitorino on Copyright Levies “Usually, a service provider
+acquires a license from the rightholder that covers all copyright relevant acts involved in the provision of the service,
+including the reproduction of copyright protected content by the end user. Such licensing agreements also reflect the
+view and the expectations of the end user. A person paying for e.g. the download of a song expects that this payment
+does not only cover the first download of that song onto his or her personal computer but also the subsequent copying
+of that song to a certain number of his or her mobile devices, as determined by the usage rules of the service provider.
+Similarly, a person subscribing to a music streaming service is usually not only paying for the online streaming to his or
+her device/s but also for the possibility to create "playlists" that can be listened to when "offline". […]”
+
+
+
+EuroISPA                                                   -7-                                      Copyright consultation
+multiple payments and be incomprehensible to consumers as it would be inconsistent users’
+reasonable assumptions and basic expectations.
+
+
+66. How would changes in levies with respect to the application to online services (e.g.
+services based on cloud computing allowing, for instance, users to have copies on
+different devices) impact the development and functioning of new business models on
+the one hand and rightholders’ revenue on the other?
+
+Private copying levies should not be applied to cloud services to the extent that copies that are
+made by end users for private purposes in the context of a service that has been licensed by
+rights-holders do not cause any harm that would require additional remuneration in the form of
+private copying levies.
+
+A different approach would creatie uncertainty and competition distortion, since the entire
+Internet and the main services (mail, social network, platforms) can be considered as a cloud.
+
+It has already been noted that levies have adverse consequences on growth 9. Levies have
+significant adverse impact on the development of the economy and the digital economy in
+particular. Innovation and opportunity costs are by definition difficult to predict, but there is a
+growing body of evidence correlating copyright and innovation policy10. Harvard professor Josh
+Lerner recently evaluated that legal uncertainty on cloud services lead to a reduction in VC
+investment in the cloud of $4.6m and $2.8m respectively per quarter in France and Germany
+(see Josh Lerner, The Impact of Copyright Policy Changes in France and Germany on Venture
+Capital Investment in Cloud Computing Companies, June 2012). In the UK, the government
+estimates that reforming copyright, including a reform of private copying, will be “adding
+between 0.3% and 0.6% to the size of the UK economy by 2020 – between £5 billion and £8
+billion [€5.72 billion and €9.15 billion] – and cutting deadweight costs in the economy by over
+£750 million [€858 million]” (Vince Cable, George Osborne and Jeremy Hunt, The Government
+Response to the Hargreaves Review of Intellectual Property and Growth (London: HM
+Government, 2011). In relation to levies, the UK IPO estimates that economic benefits to GBP
+258.67 million11.
+
+
+67. Would you see an added value in making levies visible on the invoices for products
+subject to levies?
+
+YES - making levies visible on the invoices for products subject to levies, on the one hand
+would create a trusted relationship with the user. On the other hand transparency of the system
+would also contribute to the better remuneration of authors. We emphasise however that the
+appropriate way of making the levies visible to the end users is through displaying it on the
+invoice and not through marketing communication (advertising).
+
+68. Have you experienced a situation where a cross-border transaction resulted in undue
+levy payments, or duplicate payments of the same levy, or other obstacles to the free
+movement of goods or services?
+
+YES – Our Members’ experience is that, in cross-border sales, national collecting societies
+charge copy levies twice: once in the country where a product is brought into circulation for the
+first time in the EU (first wholesale purchase, the “country of origin”), and again when the item is
+
+9
+  H.M. Government, The Government Response to the Hargreaves Review of Intellectual Property and Growth (2011),
+http://www.ipo.gov.uk/ipresponse-full.pdf; Modernising Copyright: The Report of the Copyright Review Committee
+(Dublin, 2013), page 60, http://www.enterprise.gov.ie/en/Publications/CRC-Report.pdf.
+10
+   See: Matthew Sag, Copyright and copy-reliant technology, 103 Northwestern University Law Review (2009); Carrier
+Michael A., Copyright and Innovation: The Untold Story (October 24, 2012).
+11
+   http://www.ipo.gov.uk/consult-ia-bis1055.pdf.
+
+
+
+EuroISPA                                               -8-                                  Copyright consultation
+sold to an end-customer located in a different country (the “country of destination”). In practice,
+this leads to double payment by the retailer: collecting societies and the CJEU refer to
+reimbursement schemes and ask the retailer to seek a refund of levies paid in the country of
+origin; however, a majority of Member States do not have reimbursement schemes in place.
+Where they do exist, they are often not publicized or widely known, are difficult to access, and
+ultimately put the burden of reporting sales and risk of loss on the requesting retailer. Very few,
+if any, of the reimbursement schemes meet the standard of being “effective” and “not
+excessively difficult”, as set forth by the ECJ in its judgment in Case C-521/11 Austro Mechana.
+
+If, for example, an end customer purchases a blank DVD from an online retailer who physically
+stores its stock in Germany and wants it delivered into Belgium, the German collecting society
+will have charged a levy on the blank DVD when it was first brought into circulation in Germany
+and the vendor will have passed this levy onto the retailer in its wholesale price. Subsequently,
+the Belgian collecting society will charge the retailer a levy on that same blank DVD, since it is
+being sold to an end customer in Belgium who, as presumed under national law, will likely use it
+to make private copies of protected works. National collecting societies are therefore charging
+copy levies on items both upon importation into their territory and – in case of cross-border
+sales – upon retail sale within their territory. This results in undue double payments amounting
+to millions of euros in hypothetical setoff rights that could be claimed from collecting societies
+that unduly charge copy levies and that are required by the ECJ to offer a refund.
+
+Beyond imposing heavy administrative burdens on cross-border traders for reporting and paying
+the levies, this situation creates a complex and unpredictable environment for businesses, and
+leads to a reluctance of traders to sell across internal EU borders because of the costs attached
+to paying copyright levies, thereby hindering the pan-European online retail single market. This
+situation induces manufacturers to avoid or minimize levy payments and, therefore, to withdraw
+specific types of devices from a national market, or to downgrade the specifications of a device
+(by adopting smaller inbuilt memories, for example) to the detriment of end-customers.
+Consumers are penalised by a limited choice of products and technology. The system’s failure
+to take into account the specificities of the online retail business model undermines cross-border
+trade and the single market itself, in view of the fact that online retailers are those at the
+forefront of driving cross-border offers.
+
+The fact that levies may be charged both at the country of origin and at the country of
+destination renders the exercise of an EU Fundamental Freedom less attractive, since cross-
+border retailers are the only ones to actually suffer from double payment, and will only belatedly
+be able to file claims for reimbursement at origin ex post, as and if reimbursement schemes
+become widely available under national regulations. In any given period of time, therefore,
+cross-border retailers will have to accept the burden of paying two identical levies on the same
+products while waiting for a reimbursement to be processed at the country of origin.
+Strictly national retailers, on the other hand, will have only paid once all along and will be at a
+considerable competitive advantage, seeing as copy levies may be well over 15% of an item’s
+retail price. This is precisely the definition of a measure having an effect equivalent to a
+quantitative restriction on imports, strictly forbidden under Article 34 of the TFEU. We believe no
+mandatory requirement (whether the protection or the promotion of culture, or the protection of
+legitimate IP rights) could justify a system that results in paying the same levies twice and
+doubling non-national retailers’ costs and risks in comparison to national retailers, since the
+ultimate purpose of copy levies is to correctly remunerate copyright holders for acts of private
+copying of their works by individuals – something that has no bearing whatsoever on the
+shipment of a product from one Member State to another.
+
+71. If you have identified specific problems with the current functioning of the levy
+system, how would these problems best be solved?
+
+
+
+
+EuroISPA                                        -9-                             Copyright consultation
+In our view, the only way to fully reconcile the existence of private copy levies with the
+requirements of the Free Movement of Goods is to limit the number of Member States that can
+lawfully charge levies on any single item to one, and ultimately disregard the fact that an item
+has crossed internal EU borders as a factor that attracts subsequent copy levy payments. The
+way to achieve this is by implementing a full, upfront exemption on copy levies for products that
+are already in free circulation within the EU. This would result in levies being paid by
+manufacturers or by importers upon placement of the goods in a Member State for the first time
+in the EU, and retailers not paying any subsequent levies when selling to end customers cross-
+border within the EU. In other words, products would only be subject to a levy in the source
+country of origin, with collecting societies objectively determining how to best allocate resources
+amongst themselves to address any issues arising from the differences in copy levy tariffs
+between countries or the differing catalogues for which each society is legitimately entitled to
+collect levies.
+
+
+Enforcement of copyright
+
+75. Should the civil enforcement system in the EU be rendered more efficient for
+infringements of copyright committed with a commercial purpose?
+
+NO - EuroISPA considers that the current framework, the Directive 2004/48/EC on the
+enforcement of intellectual property rights (IPRED) as it stands and the E-Commerce Directive,
+Directive 2000/31/EC, offers a well-balanced and functioning framework to address in particular
+online IPR infringements. The reason for this is that IPRED contains checks and balances for
+enforcement that are not present in the Copyright Directive. It ensures that the protection of IPR
+is balanced with fundamental freedoms and rights.12 The IPRED also provides for injunctions
+against intermediaries whose services are used by a third party for any proven IPR
+infringement, and lays down the minimum legal conditions that must be adhered to by national
+courts when formulating injunctive measures; while the E-Commerce Directive ensures that
+such injunctions cannot result in general monitoring obligations.
+
+If problems arise in the uniform respect of copyright, they stem from the late or uncompleted
+implementation of the IPRED at national level and not from its legal provisions. However, should
+there be in the future a need to address the enforcement of copyright, this should be done in the
+context of the IPRED and not separately in the Information Society Directive, for the reasons
+mentioned above.
+
+76. In particular, is the current legal framework clear enough to allow for sufficient
+involvement of intermediaries (such as Internet service providers, advertising brokers,
+payment service providers, domain name registrars, etc.) in inhibiting online copyright
+infringements with a commercial purpose? If not, what measures would be useful to
+foster the cooperation of intermediaries?
+[Open question]
+
+YES - Articles 9 and 11 of the IPRED already introduced injunctions against intermediaries
+whose services are used by a third party for any proven IPR infringement, and lays down the
+minimum legal conditions that must be adhered to by national courts when formulating injunctive
+measures. These mechanisms proved to be efficient for rightholders in the enforcement of their
+rights, especially with regards to commercial infringement, and are largely used across Europe.
+
+At the same time article 12-15 of the E-Commerce Directive ensure that such injunctions are
+proportionate and cannot result in general monitoring obligations. In the past years the Court of
+
+12
+   freedoms of expression, the free movement of information, the protection of personal data in paragraphs 2 and 15 of
+Directive 2004/48/EC, Article 2 (3) (a) of Directive 2004/48/EC
+
+
+
+EuroISPA                                                - 10 -                                  Copyright consultation
+Justice of the European has also explicitly dealt with the possible scope of injunctions against
+internet intermediaries (e.g. C-324/09 - L’oreal./.eBay; C-70/10 - Scarlet Extended, C-
+360/Sabam/Netlog) and made clear that such injunctions need to be very specific with regards
+to the measures to be taken by intermediaries and must not merely be success oriented. For
+example general filtering systems installed for the prevention of copyright infringements were
+held disproportionate.
+
+Multi-stakeholder cooperation should not be limited to ISP cooperating with rightholders to
+defend the latter existing business models. Cooperation should also concern:
+     Widespread availability of legal online content in affordable price
+     Education of consumers
+
+Furthermore, currently DG Markt of the Commission is working on an Action Plan addressing
+IPR infringement. 13 The initiative recognises the wide range of intermediaries and aims at
+exploring non-legislative initiatives, such as:
+
+          Improve exchange of information and cooperation between relevant authorities in
+           charge of enforcement of IPR in the Member States
+          strengthen due diligence across the entire supply chains for products/services which
+           depend heavily on intellectual property
+          develop an MoU on advertising/ ‘Follow the money approach’
+
+77. Does the current civil enforcement framework ensure that the right balance is
+achieved between the right to have one’s copyright respected and other rights such as
+the protection of private life and protection of personal data?
+
+See answer to question 75.
+
+
+Registry of rights holders
+
+80.    Are there any other important matters related to the EU legal framework for
+copyright? Please explain and indicate how such matters should be addressed.
+[Open question]
+
+EuroISPA feels the need to point out the abuse of the notice and take down procedure.
+Copyright holders are abusing their privilege to issue takedown notices to hosting providers by
+providing poor quality notices, notices that fail to identify the infringing material, notices that
+falsely claim material is infringing, notices relating to content for which they are not the rights
+holder or even “robo-notices” (generated automatically by machine). ISPA would like to
+emphasize that ISPs should not be burdened with the obligation of monitoring the content and
+verifying its lawfulness. ISPA is convinced that the legitimacy of content should, especially in
+regards to access providers, solely be verified by courts or judicial authorities.
+
+The privilege of issuing takedown notices is also abused by using it against material which,
+while incorporating some copyright protect content, uses it in a minimal fashion with no
+economic harm to the rights holder, and in conformity with legitimate exceptions such as news
+reporting, comment and study, parody, etc.
+
+These abuses arise because rights holders do not have any incentive to be accurate, or even to
+refrain from making malicious false claims. Indeed they are able to circumvent exceptions to
+copyright protection provided for by law by alleging infringement when an exception clearly
+applies, without any fear of recourse.
+
+
+
+13
+  Commission Roadmap on the Communication on an Action Plan addressing Intellectual Property infringements,
+12/2013 http://ec.europa.eu/smart-regulation/impact/planned_ia/docs/2013_markt_047_ip_infringements_en.pdf
+
+
+
+EuroISPA                                              - 11 -                               Copyright consultation
+We therefore propose the creation of a “Registry of rights holders” to regulate this activity and
+restrain abuse. The registry would ensure that:
+         a) The privilege of issuing take-down notices direct to a hosting provider is limited to
+         registered parties.
+
+           b) Non-registered parties will continue to be able to vindicate their rights before a court,
+           and will not impact on the court competence in instructing a hosting provider to remove
+           infringing content.
+
+           c) Hosting providers would cease to be liable for infringing content even after they have
+           actual knowledge of the material, unless they have received a valid takedown order
+           from a court, or a notice from a registered rightsholder, where the notice complies with
+           minimal formal requirements.
+
+           d) The registration body should be a public authority, and it should have a duty to
+           establish a code of conduct for rightsholders issuing takedown notices. It should be
+           required to consult publicly before making the code of conduct. It should be responsible
+           for hearing complaints about breaches of the code of conduct, and have the power to
+           suspend registered parties. Registered parties, while suspended, should no longer have
+           the privilege of issuing takedown notices direct to hosting providers (suspended
+           rightsholders could still go to court) until their suspension is lifted.
+
+           e) All copyright holders, including individuals, would be entitled to apply for registration.
+           However, reasonable conditions on registration should be set, including identification
+           and a commitment to adhere to the code of conduct.
+
+           f) Enforcement agents of copyright holders (e.g. law firms) should not be entitled to be
+           registered in their own name; a valid notice from a registered party must be made with
+           the authority of the registered party.
+           A registered rightsholder may allow its agents (e.g. a law firm) to issue takedown
+           notices on its behalf, but must be responsible for its agent's adherence to the code of
+           conduct (and if they fail to comply, the registered party's registration should be at risk).
+
+           g) The costs of operating the registration body, including the costs of hearing and
+           deciding upon complaints and appeals against suspension, should be funded through a
+           registration fee.
+
+
+
+
+EuroISPA is the world’s largest association of Internet Services Providers (ISPs) representing
+the interests of more than 1800 ISPs across the EU and the EFTA countries. EuroISPA is a
+major voice of the Internet industry on information society subjects such as cybercrime, data
+protection, e-commerce regulation, EU telecommunications law and safe use of the Internet
+(www.euroispa.org). Contact: Eszter Bakó, Policy Executive (+32 2 503.22.65/
+eszter@euroispa.org).
+
+
+
+EuroISPA                                           - 12 -                            Copyright consultation
+

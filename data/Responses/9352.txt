@@ -1,0 +1,138 @@
+DIGITAL INTEROPERABILITY FORUM (DIF) RESPONSE TO COPYRIGHT
+CONSULTATION
+Transparency Register No. 77946677931-57
+
+The Digital Interoperability Forum (DIF)1 represents major players involved in the pay TV
+value chain on EU technology policy issues. DIF members2 represent all parts of the
+broadcasting, communications and multimedia paid-for content value chain, including
+transmission, hardware, software, middleware, platform operation and content provision.
+DIF members have a strong interest in the continuing success of digital TV and information
+society services in Europe and are actively involved in the provision of hybrid services and
+products3.
+
+
+
+7. Do you think that further measures (legislative or non-legislative, including marketled
+solutions) are needed at EU level to increase the cross-border availability of content
+services in the Single Market, while ensuring an adequate level of protection for right
+holders?
+
+
+NO DIF considers that the cross-border availability of content is a commercial issue; with the
+existence of a viable market being a key criterion determining what and how much content
+is available. Contrary to the views expressed by some stakeholders any alleged
+shortcomings in cross-border availability of content is not a consequence of the lack of
+technological interoperability, i.e., between devices, platforms, etc. Where content is
+available on device A in one country but not in another is not attributable to insoluble
+technological barriers but the result of commercial decisions take by rights holders. In the
+circumstances there would appear to be no case for EU intervention – whether legislative or
+non-legislative.
+
+DIF welcomes the acknowledgement that sufficient protection must be afforded to rights
+holders. However, it is not evident that there is insufficient protection available from the EU
+
+
+1
+ www.difgroup.eu
+2
+ DIF members are: BSkyB, Deutsche Telekom, Irdeto, Liberty Global, Microsoft, Nagravision, NDS part of Cisco,
+Pace, Sky Deutschland, Sky Italia, Viaccess-Orca, and ZetaCast.
+3
+http://www.difgroup.eu/index.php?mact=DocsAndMediaManager,cntnt01,details,0&cntnt01documentid=56
+&cntnt01dateformat=%25d%20%25b%20%2C%25Y&cntnt01returnid=58
+aquis and which would deter rights holders from making content available on a cross-border
+basis if sufficient demand existed.
+
+
+19. What should be the role of the EU in promoting the adoption of identifiers in the
+content sector, and in promoting the development and interoperability of rights ownership
+and permissions databases?
+
+DIF members have many years of experience in identifying and obtaining the rights required
+for their services, resulting in the delivery of a vast, diverse and growing range of innovate
+services to customers. They also have substantial experience in working in standards and
+specifications groups such as DVB on the development of metadata specifications, content
+referencing standards, etc. Many such standards exist. It can be tempting to argue that the
+mere existence of multiple technologies demands that there must be a lack of
+interoperability which must be addressed. DIF considers that this is a somewhat naïve view
+that fails to recognise that stakeholders will choose the approach best suited to their needs.
+
+For instance, in the pay TV sector ownerships and permissions are a matter for contracts –
+between the rights holder and the broadcaster and the broadcaster (or pay TV operator)
+and subscriber. Who owns and who is entitled to what is clear.
+
+Accordingly DIF believes that the EU should not favour or promote any one system over
+another. This is a situation in which no-one system of identifiers or database is appropriate
+for all sectors. In this context DIF notes that even the Linked Content Coalition approach
+which has been supported by the Commission and which emerged from the publishing
+sector appears to acknowledge that the applicability of the rights reference model may not
+be appropriate to all sectors.
+
+52. What mechanisms exist in the market place to facilitate accessibility to content?
+How successful are they?
+
+DIF members already provide accessibility features including subtitles, audio description,
+adapted devices (including remote controls, variable loudness, EPG fonts and colours, etc.)
+and specialised call centre support for those with accessibility requirements.
+
+
+64. In your view, is there a need to clarify at the EU level the scope and application of
+the private copying and reprography exceptions58 in the digital environment?
+YES There is an urgent need for clarity regarding the scope and application of the current
+levy system. The system - which was developed to account for offline copying of
+unprotected physical works – is out of place in the digital age. It is questionable what role, if
+any, private copying levies should play in digital distribution models that incorporate the
+cost of private use and copying in the price that consumers pay. DIF encourages the
+Commission to look into the levies regime as a priority with a view to phasing out the
+current system.
+
+_
+65. Should digital copies made by end users for private purposes in the context of
+a service that has been licensed by rightholders, and where the harm to the rightholder is
+minimal, be subject to private copying levies?59
+
+ NO DIF notes the various reports and other studies which have attempted to find a
+resolution to the issue of the application of copy levies to digital devices. From these it
+would appear that – with the exception of only a few Member States – the imposition of
+private copying levies on devices is widespread and does not discriminate between the
+actual amounts of copying – or alleged “harm” to the rights holder - which occurs.
+
+Any attempt to introduce some discriminatory approach to the application of levies would
+serve only to divert attention from solving the real problem, i.e., the imposition of a tax
+(ultimately on consumers although many pay TV operators who provide free devices will
+absorb the tax) which has its origins in a totally different era. DIF notes that copyright levies
+result effectively in many millions of euro being paid by consumers to rights holders for
+content they may not even copy in the devices subject to the levy or for which they have
+already paid a fee that covers such private copying activities. Moreover, in an era where
+there is a vastly greater amount of content available and many more distribution outlets for
+content (compared to when the copyright levy was first applied) the original rationale for a
+copyright levy – to reward and support the content industry – no longer exists. It is simply
+no longer valid when the content industry has burgeoned on the back of investment by
+industry in new devices, distribution platforms, etc., that some sectors of the content
+industry should be artificially supported by consumers or device manufacturers and
+providers.
+
+66. How would changes in levies with respect to the application to online services (e.g.
+services based on cloud computing allowing, for instance, users to have copies on different
+devices) impact the development and functioning of new business models on the one hand
+and rightholders’ revenue on the other?
+Following from the response to Question 65, DIF considers that the use of levies should not
+be extended (and should be repealed). Contractual arrangements underpin many (if not
+most) of the circumstances where content is available via the cloud to different devices (see
+for example, UltraViolet) in which case the cost of copying the copyright work for private
+purposes has already been incorporated into the contractual arrangement. Any levy would
+constitute an unjustifiable double payment. There may be circumstances in which such
+contractual underpinnings are not in place (e.g., ugc). However, the solution in those cases
+does not lie in the widespread application of copyright levies.
+
+67. Would you see an added value in making levies visible on the invoices for products
+subject to levies?60_
+
+YES As a matter of principle the visibility of taxes is a good idea. However, where a device is
+not sold (but is rented or provided for free) the tax would not be visible. Such a system has
+the potential to be distortionary and thus requires further analysis.
+
+
+
+Digital Interoperability Forum                                                 February 2014
+

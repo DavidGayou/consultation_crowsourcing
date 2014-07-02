@@ -1,0 +1,569 @@
+
+
+
+
+                             Public Consultation
+                   on the review of the EU copyright rules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please identify yourself:
+
+
+
+
+
+Name:
+
+
+Ole-Andreas Rognstad
+
+
+
+
+
+
+
+
+Type of respondent (Please underline the appropriate):
+
+
+   ← X End user/consumer (e.g. internet user, reader, subscriber  to  music
+     or audiovisual service, researcher, student) OR Representative of  end
+     users/consumers
+
+
+     ( for the purposes of  this  questionnaire  normally  referred  to  in
+     questions as "end users/consumers"
+
+
+
+
+
+   ←  Institutional  user  (e.g.  school,  university,   research   centre,
+     library, archive)  OR Representative of institutional users
+
+     ( for the purposes of  this  questionnaire  normally  referred  to  in
+     questions as "institutional users"
+
+
+
+
+
+
+   ← Author/Performer OR Representative of authors/performers
+
+
+
+
+
+
+   ←     Publisher/Producer/Broadcaster      OR      Representative      of
+     publishers/producers/broadcasters
+
+
+
+
+
+
+     (  the  two  above  categories  are,  for   the   purposes   of   this
+     questionnaire, normally referred to in questions as "right holders"
+
+
+
+
+
+
+   ← Intermediary/Distributor/Other service  provider  (e.g.  online  music
+     or audiovisual service, games platform, social media,  search  engine,
+     ICT industry) OR Representative  of  intermediaries/distributors/other
+     service providers
+
+
+     ( for the purposes of  this  questionnaire  normally  referred  to  in
+     questions as "service providers"
+
+
+
+
+
+
+   ← Collective Management Organisation
+
+
+
+
+
+
+   ← Public authority
+
+
+
+
+
+
+   ← Member State
+
+
+
+
+
+
+   ← Other (Please explain):
+
+
+  Law Professor at University of Oslo, Norway
+
+
+
+
+
+The reply contains answers to questions 8, 10, 11 and 12. Besides these
+specific comments, which reflect my own personal views (only) on the
+definitions of the economic rights, I refer to the reply of the European
+Copyright Society, to which I also am a signatory.
+
+
+
+
+  II. Rights and the functioning of the Single Market
+
+
+
+
+
+B.    Is there a need for more clarity as regards the scope  of  what  needs
+to be authorised (or not) in digital transmissions?
+
+
+[The definition of the rights involved in digital transmissions]
+
+
+The EU framework for the protection of copyright and related rights  in  the
+digital environment is largely established  by  Directive  2001/29/EC[1]  on
+the harmonisation of certain aspects of copyright and related rights in  the
+information society. Other EU directives in this field that are relevant  in
+the online environment are those relating to the protection  of  software[2]
+and databases[3].
+
+
+Directive 2001/29/EC harmonises  the  rights  of  authors  and  neighbouring
+rightholders[4] which are essential for the transmission of  digital  copies
+of works (e.g. an e-book) and other protected subject matter (e.g. a  record
+in a MP3 format) over the internet or similar digital networks.
+
+
+The most relevant rights for  digital  transmissions  are  the  reproduction
+right, i.e. the right to authorise or  prohibit  the  making  of  copies[5],
+(notably relevant at the start of the transmission – e.g. the  uploading  of
+a digital copy of a work to a server in view of making it  available  –  and
+at the users’ end – e.g. when a user downloads a digital  copy  of  a  work)
+and the communication to the public/making available right, i.e. the  rights
+to  authorise  or  prohibit  the  dissemination  of  the  works  in  digital
+networks[6]. These rights are intrinsically linked in digital  transmissions
+and both need to be cleared.
+
+
+The act of “making available”
+
+
+Directive 2001/29/EC  specifies  neither  what  is  covered  by  the  making
+available right (e.g. the upload,  the  accessibility  by  the  public,  the
+actual reception by the public) nor where  the  act  of  “making  available”
+takes place. This does not raise questions  if  the  act  is  limited  to  a
+single territory. Questions  arise  however  when  the  transmission  covers
+several territories and rights need to be cleared (does the act  of  "making
+available" happen in the  country  of  the  upload  only?  in  each  of  the
+countries where the content  is  potentially  accessible?  in  each  of  the
+countries where the content is effectively accessed?). The most recent  case
+law of the Court of Justice of the European Union  (CJEU)  suggests  that  a
+relevant  criterion  is  the  “targeting”  of   a certain   Member   State's
+public[7]. According to this approach the copyright-relevant act (which  has
+to be licensed) occurs at least in those countries which are  “targeted”  by
+the online  service  provider.  A  service  provider  “targets”  a group  of
+customers residing in a specific country when it  directs  its  activity  to
+that group, e.g. via advertisement,  promotions,  a language  or  a currency
+specifically targeted at that group.
+
+
+Is the scope of the “making available” right in  cross-border  situations  –
+      i.e. when content is disseminated across borders – sufficiently clear?
+
+
+
+NO  –  Please  explain  how  this  could  be  clarified  and  what  type  of
+clarification would be required (e.g. as in "targeting"  approach  explained
+above, as in "country of origin" approach[8])
+A major problem with the current rights regime, whether it applies to cross-
+border situations, or is limited to a certain territory, is that the rights
+are defined according to the nature of the act of use and not its functions
+or effects. This way of defining the rights could lead to just results if
+the nature of the acts somehow reflects the effects, but the rapid
+technological development implies that this is increasingly far from being
+the case today. To illustrate, related to the question of the clarity of
+the “making available” right in cross-border situations, whether which one
+of the “targeting” or the “country of origin” approaches that are to be
+preferred, should depend on whether there is a need for applying the
+different territorial copyrights in the cross-border situations or if the
+right holders interests would be sufficiently secured by a principle of
+country of origin. The latter will in its turn depend on whether economic
+and legal conditions are sufficiently harmonized in order to avoid attempts
+to circumvent the legal protection for right holders in the digital
+environment. These considerations are not properly addressed when the
+question becomes whether “the act of “making available” [does] happen in
+the country of the upload only, in each of the countries where the content
+is potentially accessible, [or] in each of the countries where the content
+is effectively accessed”. Symptomatically, the CJEU in its decision in
+Football Dataco II failed to discuss the implications of applying a
+multitude of territorial rights instead of one single right, concentrating
+instead on the nature of the concept of “re-utilization” in Article 7 of
+the Database Directive and whether this concept implies that the data on a
+website is re-utilized by persons targeted by the data transmission. The
+problem in this respect is not as such the lack of clarity of concepts like
+“making available” and “re-utilization”, but the fact that the nature of
+the acts of use gives little guidance as to how to solve the underlying
+question; should Internet transmissions involve the multiplicity of
+territorial rights or only one right (the right of the country of origin).
+
+Thus, the problem raised in question 8 reveals a more general problem of
+which there can be given many examples, and it is likely to presume that we
+yet only have seen the top of the iceberg. The problems raised in questions
+10-12 infra are equally illustrative. An example not directly covered by
+this questionnaire is a controversy currently pending before Norwegian
+courts, regarding whether the right clearance regime developed for
+retransmissions of broadcasts is applicable in a changed technological
+environment where the distributor does not “retransmit” broadcasts already
+made available to the public, but receives the signals encrypted from the
+broadcaster and transmits them to the public. Two lower court decisions
+have stated that the concept of retransmission does not apply in this
+situation. The result of the decisions is that right holders, both
+domestically and abroad, who used to receive remuneration for cable
+distribution through the relevant right holder organization (Norwaco) are
+left without compensation. The question whether this is an intended and
+desirable effect of a mere technological change, is left without discussion
+in the decisions which are exclusively based on the nature of the relevant
+act of use – retransmission of broadcasts.
+
+Problems of the kind outlined here will not disappear by way of clarifying
+the content of the concepts or adding new concepts based on the nature of
+the use as new problems only will arise. Thus, there is a pressing need for
+a different approach to the economic rights which abandons the attempts to
+positively define the scope of the exclusive rights by describing the
+nature of the act of uses. Reference can be made to Daniel Gervais, Towards
+s New Core International Copyright Norm: The Reverse Three-Step Test, 9
+Marquette Intellectual Property Law Review (2005) 1, proposing to base the
+economic rights in copyright on a reverse reading of the Three Step Test. I
+will also point to my own suggestion to replace the current “bundle of
+economic rights” with pertaining exceptions and limitations with an
+overriding norm of an exclusive right to a reasonable exploitation of the
+work, followed by a pertaining catalogue of examples and specifications of
+what is/what is not reasonable, focusing on the functions and effects of
+the exploitation rather than the nature of the use. An outline of this
+model was published (in Norwegian) in Ole-Andreas Rognstad, Opphavsrettens
+innhold i en multimedieverden, Nordisk Immateriellt Rättskydd (NIR) (2009)
+531, and a further elaboration of it (in English) is scheduled to be
+published this spring. Under the proposed model, the question whether
+multiple territorial rights or one single right shall apply may be
+addressed more directly, connected to legislation on choice of law, instead
+of being implied in the regulation of where the different kinds of actions
+determined by the nature of the use shall be considered to take place.
+
+Two rights involved in a single act of exploitation
+
+
+Each act of transmission in digital networks entails (in the  current  state
+of technology and law) several reproductions. This means that there are  two
+rights that apply to digital transmissions: the reproduction right  and  the
+making available right. This may  complicate  the  licensing  of  works  for
+online  use  notably  when  the   two   rights   are   held   by   different
+persons/entities.
+
+
+[In particular if you a service  provider  or  a  right  holder:]  Does  the
+      application of two rights to a single act of economic exploitation  in
+      the online environment (e.g. a download) create problems for you?
+
+
+YES
+
+The situation described here illustrates the same problem as outlined under
+question 8. The overlapping of the right of making available to the public
+and the reproduction right, results from the fact that the current rights
+regime is based on the nature of certain acts of use and not the functions
+or effects of the use. Thus, as indicated in the question, two rights
+regularly apply to one single act of economic exploitation in the digital
+environment. This might create problems for service providers and right
+holders, but is not least a cause for concern from an end user perspective.
+
+One example to illustrate, also related to the next question (11). It
+follows from the recent case law of the CJEU (case C-466/12, Svensson) that
+“the provision on a website of clickable links to works freely available on
+another website does not constitute ‘an act of communication to the
+public’” (see the conclusion of the decision). The rationale behind the
+ruling is that “the making available the works concerned by means of a
+clickable link … does not lead to the works in question being communicated
+to a new public” as the “public targeted by the initial communication
+consisted of all potential visitors to the site concerned, since, given
+that access to the works on that site was not subject to any restrictive
+measures, all Internet users could therefore have free access to them”
+(para. 26 and 27). The Court also emphasized that this applies even in
+situations where “Internet users click on the link at issue” and “the work
+appears in such a way as to give the impression that it is appearing on the
+site on which that link is found, whereas in fact that work comes from
+another site”, because “since there is no new public, the authorization of
+the copyright holders is in any event not required for such a communication
+to the public” (para. 29 and 30).
+
+Now, for the sake of consistency this rationale should apply also to
+situations where access to the material “freely available” on the Internet
+is provided for by use of different means than links to the third party
+website. For example: Instead of providing a link to the third party
+website from where a document, eg. a photograph, is freely available, a
+Facebook user downloads the photograph on her own machine and creates a
+link to it on her Facebook page. Neither in this situation the link will
+target a new public, since the photograph is freely available from the
+third party website. This way of providing access to the photograph to the
+same public that can access it from the “original” website will, however,
+come in conflict with the reproduction right. For the average user of the
+Internet this distinction is incomprehensible, and the legal situation is a
+solid proof of that the current copyright legislation is far from being
+technology neutral. From a functional perspective, the very method of
+providing access to material already made available on the Internet should
+not matter. The end user is concerned about the functionality, not the
+nature of the acts of use, and the current rights regime threatens the
+legitimacy of the copyright legislation in the eyes of the general public.
+It should also be emphasized that the interests of the right holder is not
+affected by the alternative method of providing access. Also in the former
+situation, where a link is provided to the third party website, the
+provider of the link may download the photograph to her own machine, since
+private copying is not an infringing act (Article 5(2)b) of Directive
+29/2001/EC). The download in the second situation will, however, not be
+considered as private copying, since it will represent the basis for the
+making available to the public. The result is, however, also from a right
+holder’s perspective, exactly the same in both situations. Initiatives
+should be taken in order to get rid of this anomaly of copyright law,
+stemming from the fact that the current economic rights in copyright are
+based on the nature of the acts of use and not their functions.
+
+Linking and browsing
+
+
+Hyperlinks are references to data that lead a user from one location in  the
+Internet to another. They are  indispensable  for  the  functioning  of  the
+Internet as a network. Several cases  are  pending  before  the  CJEU[9]  in
+which the question has been raised  whether  the  provision  of  a clickable
+link constitutes an act of communication to the public/making  available  to
+the public subject to the authorisation of the rightholder.
+
+A user browsing the internet (e.g. viewing  a  web-page)  regularly  creates
+temporary  copies  of  works  and  other  subject-matter   protected   under
+copyright on the screen and  in  the  'cache'  memory  of  his  computer.  A
+question has been referred to the CJEU[10] as to  whether  such  copies  are
+always  covered  by  the  mandatory  exception   for   temporary   acts   of
+reproduction provided for in Article 5(1) of Directive 2001/29/EC.
+
+
+Should the provision of a hyperlink leading  to  a  work  or  other  subject
+      matter protected under copyright, either in general or under  specific
+      circumstances, be subject to the authorisation of the rightholder?
+
+
+NO Please explain whether you consider this to be the case  in  general,  or
+under specific circumstances, and why (e.g. because it does  not  amount  to
+an act of communication to the public – or to a new public,  or  because  it
+should be covered by a copyright exception)
+
+It should be obvious that ordinary informational linking to works freely
+made available on the Internet is legal – otherwise the essential
+functionality of the Internet would be hampered. The result now to a
+certain extent seems to follow from the CJEU decision in the Svensson case,
+se question 10 supra. The legal ground for the result is, however,
+questionable. An evident problem with hyperlinks is the double functioning
+of links. On the one hand it is a reference to a work already made
+available on the Internet. On the other hand a hyperlink represents a
+function in itself as it undeniable has the effect that the user gets
+access to the work by activating the link. The analogy to a footnote in a
+book therefore only tells one part of the story. In the Svensson case, this
+aspect is recognized by the CJEU as the Court, emphasizing that “for there
+to be an ‘act of communication’, it is sufficient, in particular, that a
+work is made available to a public in such a way that the persons forming
+that public may access it”, held that consequently, “the provision of
+clickable links to protected works must be considered to be ‘making
+available’ and therefore an ‘act of communication’” (case C-466/12, para.
+19 and 20). With reference to its earlier case law stating that “by the
+term ‘public’, [Article 3(1) of Directive 2001/29] … refers to an
+indeterminate number of potential recipents and implies, moreover a fairly
+large number of persons”, the CJEU confirmed that the manager of a website
+containing clickable links “is making a communication to the public” (para.
+21-23). As pointed out under question 10, however, as the CJEU found that
+the links did not lead to the works in question being communicated to a new
+public, that is “a public that was not taken into account by the copyright
+holders when they authorized the initial communication to the public”, the
+conclusion was that “the authorization of the copyright holders is in any
+event not required for such a communication to the public” (para. 24-30).
+
+By relying on the concept of a ‘new public’, the CJEU found a way to deal
+with the links which on the one hand leads to the result that linking to
+material freely available on the Internet is lawful, while on the other
+hand clickable links that “makes it possible for users on the site on which
+that link appears to circumvent restrictions put in place by the site on
+which the protected work appears in order to restrict public access to that
+work to the latter site’s subscribers only”, will need the right holders’
+authorization (para. 31). Thus, the new public criteria strikes a certain
+balance, but is controversial for other reasons. History has shown that it
+is extremely difficult to draw the distinction between the original and the
+new public/audience, and already under the 1948 Brussel revision of the
+Berne Convention the distinction was considered as unusable as a criterion
+for dealing with retransmissions of broadcasts, leading to the formulation
+of Article 11bis(1)(ii) which let the right to retransmissions depend on
+that the communication is made by an organization other than the original
+one, and not on whether it reached a new public or not. When the CJEU now
+in a series of cases has introduced the ‘new public criterion’ as the main
+factor for delineating the right of communication to the public, it may
+claimed to be ignorant to the problems this criterion has created in the
+past and undoubtedly also will in the future.
+
+The introduction of the criterion is, however, a symptom of the major
+deficit of the current rights structure, pointed out in the foregoing,
+namely that the rights are defined according to the nature of the acts of
+use and not their functions or effects. The underlying facts of the
+Svensson case are illustrating. The base problem of that case is not about
+linking but the lawfulness of news surveillance services in the digital
+environment. The consequence of the CJEU ruling is that such services do
+not need the authorization of the right holders to the articles (the
+journalists) as long as the service is based on links to articles freely
+made available on the Internet. Again it is possible to question the
+consistency and technological neutrality of the CJEU decision, since a
+different choice of method for providing the customers with access to the
+news articles could have led to a different result. In the case, the news
+surveillance company Retriever Sverige AB operated a website providing its
+clients with lists of clickable links to articles published by other
+websites and informing the clients about new results matching their search
+terms in an email or SMS sent to the clients. If Retriever instead of
+providing the clients with a list of links to the articles had downloaded
+them from the websites freely available and attached them to the email
+informing the clients of the new results, the right holders would have had
+a claim against Retriever on the basis of the reproduction right, even if
+Retriever had deleted the articles from their servers immediately after
+having carried out the operation. Neither in this situation would the works
+in question have reached a new public, since the articles were freely
+available on the Internet. But the method for giving the clients access to
+the articles would, on the basis of the reproduction right, determine the
+lawfulness of the news surveillance service. This proves again that the
+current economic rights regime is not technology neutral and that the
+lawfulness of the economic activity in question – here the news
+surveillance service – depends solely on the characterization of the acts
+of use. A fact concealed by the CJEU judgment in the Svensson case is that
+Retriever receives remuneration from its clients based on the clients’
+downloads of the articles in question. This illustrates that Retriever is
+using the articles made available on the Internet to exploit a new market,
+and the question becomes whether the right holders should be entitled to a
+share of this exploitation. This problem is not properly addressed when
+hyperlinks are dealt with under the ‘new public’ criterion and the method
+for how the news surveillance activity is carried out becomes decisive for
+whether or not the activity requires an authorization by the right holder.
+This is not to say that the result of the Svensson case necessarily should
+be different – only that under the current regulation, it is the
+description of the operations carried out that determines the lawfulness of
+the acts of use under copyright law, and not the functions and effects of
+the operations.
+
+To conclude, the current regulation, including the new public requirement
+is not a well fit tool to handle issues regarding hyperlinks. In the short
+run there is any case a need for a default rule on the EU level, explicitly
+granting immunity to ordinary use of information systems like links and
+search engines without having to depend on the highly ambiguous new public
+criterion.
+
+Should  the  viewing  of  a  web-page  where  this  implies  the   temporary
+      reproduction of  a  work  or  other  subject  matter  protected  under
+      copyright on the  screen  and  in  the  cache  memory  of  the  user’s
+      computer, either  in  general  or  under  specific  circumstances,  be
+      subject to the authorisation of the rightholder?
+
+
+NO – Please explain whether you consider this to be the case in general,  or
+under specific circumstances, and why (e.g.  because  it  is  or  should  be
+covered by a copyright exception)
+
+The viewing of a web-page in general should not be subject to the specific
+authorization of the right holder. It lies in the very nature of the
+Internet as an information medium that the public can visit websites,
+browsing and viewing the contents of them. The only reason why this is even
+a question is the extension of the reproduction right to temporary copying,
+which in itself is a result of what has been emphasized many times in the
+foregoing – that the current rights regime is based on a description of the
+nature of certain acts of use and not their functions. The fact that a
+simple question whether the viewing of a website is allowed requires an
+assessment whether the very complicated and ambiguous conditions in Article
+5(1) of Directive 2001/29/EC are fulfilled, is perhaps the most obvious
+symptom and indication of that there is something seriously wrong with the
+present system. The only question which should be subject to discussion is
+whether users should be banned from viewing and browsing content illegally
+posted on the Internet. This is a policy question, involving also the issue
+of copyright enforcement as it may be held that a right to ban the viewing
+of copyright content available on the Internet is not enforceable.  In the
+end it is a question of to what extent the right holder should be entitled
+to control the access to the works. This should be regulated in a
+comprehensive matter, also including the protection of technical protection
+measures, and should not be “hidden” in the incomprehensibly complicated
+provisions of Article 5(1) of Directive 2001/29/EC.
+
+
+
+-----------------------
+[1] Directive 2001/29/EC of the European Parliament and of  the  Council  of
+22 May 2001 on  the  harmonisation  of  certain  aspects  of  copyright  and
+related rights in the information society.
+[2] Directive 2009/24/EC of the European Parliament and of  the  Council  of
+23 April 2009 on the legal protection of computer programs.
+[3] Directive 96/9/EC of the European Parliament and of the Council of 11
+March 1996 on the legal protection of databases.
+[4] Film and record producers, performers and broadcasters  are  holders  of
+so-called “neighbouring rights”  in,  respectively,  their  films,  records,
+performances and broadcast.  Authors’  content  protected  by  copyright  is
+referred to as a “work” or “works”, while content protected by  neighbouring
+rights is referred to as “other subject matter”.
+[5] The right to “authorise or prohibit direct  or  indirect,  temporary  or
+permanent reproduction by any means and in any form, in whole  or  in  part”
+(see  Art.  2  of  Directive  2001/29/EC)   although   temporary   acts   of
+reproduction  of  a  transient  or  incidental  nature  are,  under  certain
+conditions, excluded (see art. 5(1)  of Directive 2001/29/EC).
+[6] The right to authorise or prohibit any communication to  the  public  by
+wire or wireless means and to authorise or prohibit the making available  to
+the public “on demand” (see Art. 3 of Directive 2001/29/EC).
+[7] See in particular Case C-173/11  (Football  Dataco  vs  Sportradar)  and
+Case C-5/11 (Donner) for copyright and related  rights,  and  Case  C-324/09
+(L’Oréal vs eBay) for trademarks.  With  regard  to  jurisdiction  see  also
+joined Cases C-585/08 and C-144/09 (Pammer and Hotel Alpenhof)  and  pending
+CaseC-441/13 (Pez Hejduk); see however, adopting a different approach,  Case
+C-170/12 (Pinckney vs KDG Mediatech).
+[8] The objective of implementing a  “country  of  origin”  approach  is  to
+localise the copyright relevant act  that  must  be  licenced  in  a  single
+Member State (the "country of  origin",  which  could  be  for  example  the
+Member State in which the content is uploaded or where the service  provider
+is established), regardless of in how many Member States  the  work  can  be
+accessed or received. Such an approach has already  been  introduced  at  EU
+level with regard to broadcasting by satellite (see Directive  93/83/EEC  on
+the coordination of certain rules concerning copyright  and  rights  related
+to   copyright   applicable   to   satellite    broadcasting    and    cable
+retransmission).
+[9]   Cases C-466/12 (Svensson), C-348/13 (Bestwater International)  and  C-
+279/13 (C More entertainment).
+[10]  Case C-360/13 (Public Relations Consultants Association Ltd). See
+also http://www.supremecourt.gov.uk/decided-
+cases/docs/UKSC_2011_0202_PressSummary.pdf.
+

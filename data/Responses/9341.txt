@@ -1,0 +1,543 @@
+        Reply to European Commission (the "Commission") Public Consultation
+
+         on the review of the EU copyright rules published on 5 December 2013
+
+                                         5 March 2014
+
+
+
+PLEASE IDENTIFY YOURSELF:
+
+Name: European Committee for Interoperable Systems ("ECIS") AISBL
+
+Register ID number: 32238324913-44
+(http://ec.europa.eu/transparencyregister/public/consultation/displaylobbyist.do?id=3223832491
+3-44)
+
+TYPE OF RESPONDENT
+
+         End user/consumer (e.g. internet user, reader, subscriber to music or audiovisual
+service, researcher, student) OR Representative of end users/consumers – for the purposes of
+this questionnaire normally referred to in questions as "end users/consumers"
+
+         Institutional user (e.g. school, university, research centre, library, archive) OR
+Representative of institutional users – for the purposes of this questionnaire normally referred
+to in questions as "institutional users"
+
+        Author/Performer OR Representative of authors/performers
+
+        Publisher/Producer/Broadcaster               OR             Representative      of
+publishers/producers/broadcasters – the two above categories are, for the purposes of this
+questionnaire, normally referred to in questions as "right holders"
+
+X       Intermediary/Distributor/Other service provider (e.g. online music or audiovisual
+service, games platform, social media, search engine, ICT industry) OR Representative
+of intermediaries/distributors/other service providers – for the purposes of this
+questionnaire normally referred to in questions as "service providers"
+
+        Collective Management Organisation
+
+        Public authority
+
+        Member State
+    Other (Please explain):
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+      A. Introduction
+
+
+ECIS is an international non-profit association founded in 1989, which endeavours to promote a
+favourable environment for interoperable ICT solutions.            It has actively represented its
+members regarding issues related to interoperability and competition before European,
+international and national fora, including the EU institutions and WIPO. ECIS’ members include
+large and smaller information and communications technology ("ICT") hardware and software
+providers. More information on ECIS is available at www.ecis.eu.
+
+ECIS welcomes the discussion encouraged by the Commission's consultation on the review of
+EU copyright rules, and supports the Commission's goal to understand better the conditions
+that are currently hindering innovation and the provision of services that benefit consumers.
+
+ECIS has been a champion of interoperability for more than 25 years, helping for example to
+push through the interoperability provision of Directive 91/250/EEC of 14 May 1991 (today
+restated as Directive 2009/24/EC of 23 April 23 April 2009) (the "Software Copyright Directive"),
+and to ensure that interoperability has been firmly on the agenda in the discussions over
+various legislative debates on intellectual property and ICT-related matters.
+
+Consistent with its long-standing position supporting interoperability as an enabler of vigorous
+competition on the merits, and of diverse consumer choice, ECIS respectfully submits the need
+to preserve the carefully crafted and balanced interoperability-related provisions of the
+Software Copyright Directive. In parallel, and in view of recent technological developments,
+ECIS cautions the Commission that text and data mining activities should remain outside the
+scope of copyright protection. Finally, we fundamentally oppose the idea of expanding the
+copyright levy system to cover cloud computing services.
+
+      B. The importance of promoting innovation and growth in the ICT sector by
+           safeguarding interoperability
+
+                                                                                        1
+The Commission noted in its 2010 Europe’s Digital Competitiveness Report                    that while
+representing five per cent of GDP, the ICT industry drives 20 per cent of overall productivity
+growth. Additionally, the ICT manufacturing sector, which accounts for one per cent of GDP, is
+responsible for one quarter of total R&D investment. However, the European Commission's
+                           2
+2012 PREDICT Report prepared by its R&D unit also showed "a clear leadership of the US
+
+1
+    European Commission, Europe's Digital Competitiveness Report 2010, page 11.
+2
+    European Commission, JRC and Policy Reports, The 2012 Predict Report: An analysis of ICT R&D in
+
+
+                                                                                                      2
+versus the EU," pointing out that the US clearly leads on all figures when comparing
+performances.
+
+Data-driven innovation and increased interoperability are widely perceived as the fundaments
+for the growth of the European information society and, more generally, the European
+economy. To that effect, ECIS submits it is imperative to maintain the balance struck in the
+current EU copyright framework between the interests of the various stakeholders at issue in
+relation to the protection of computer programs. ECIS therefore stresses the importance of
+safeguarding what has been already achieved (including in particular the exceptions associated
+with reverse engineering).
+
+Against this background, the exceptions for reverse engineering embedded in Articles 5 and 6
+of the Software Copyright Directive should not be compromised in any reform of the EU
+copyright rules.    The importance of safeguarding the carefully struck balance between the
+various stakeholders' interests was underscored in the legislative debate preceding the
+adoption of Directive 2001/29/EC of 22 May 2001 (the "Information Society Directive"). The EU
+                                                                                                          th
+legislature made sure that the balance would not be compromised by introducing the 50
+Recital of the Information Society Directive, which acknowledged that "Articles 5 and 6 of [the
+Software Copyright Directive] exclusively determine exceptions to the exclusive rights
+applicable to computer programs." Both the Commission and the General Court of the EU in
+                      3
+the Microsoft case        have acknowledged the necessity of balancing intellectual property
+considerations and interoperability considerations in the software industry, including with
+respect to non-dominant players.
+
+In relation to the review of EU copyright rules, ECIS acknowledges that there is another area
+which requires the Commission's attention and focus in order to prevent copyright from
+hindering further technological developments and growth of the ICT industry. This area is text
+                                                                                                              4
+and data mining services. In the UK, in the 2011 Review of Intellectual Property and Growth
+("2011 Report"), Professor Ian Hargreaves acknowledged that "the law can block valuable new
+technologies, like text and data mining, simply because those technologies were not imagined
+when the law was formed." ECIS cautions the Commission that text and data mining should
+remain outside the scope of copyright protection.
+
+As a final point, ECIS strongly opposes the expansion of the copyright levy system to cover
+
+the EU and Beyond, Authors: Juraj Stančík and Paul Desruelle, page 8.
+3
+ Commission Decision of 24 May 2004 relating to a proceeding pursuant to Article 82 of the EC Treaty
+and Article 54 of the EEA Agreement against Microsoft Corporation (Case COMP/C-3/37.792 – Microsoft),
+paragraph 745; Judgment in Case T-201/04 Microsoft Corp v Commission of the European Communities,
+paragraph 1337.
+4
+  Digital Opportunity: A review of Intellectual Property and Growth, An independent report by Professor
+Ian Hargreaves, May 2011, available at: http://www.ipo.gov.uk/ipreview-finalreport.pdf.
+
+
+
+                                                                                                          3
+cloud services. The copyright levy system has proven to be highly problematic and inefficient,
+and has been a source of legal uncertainty and lack of harmonisation. Therefore, we strongly
+believe that replicating this system in the cloud services sector would harm growth of the sector
+in the EU, and would result in EU cloud computing services lagging behind their US
+counterparts.
+
+    C. Reply to the questionnaire
+
+
+ECIS has provided answers only to questions 11, 21 to 24, 26, 53, 55 to 57, and 66.
+
+11.     Should the provision of a hyperlink leading to a work or other subject matter
+protected under copyright, either in general or under specific circumstances, be subject
+to the authorisation of the rightholder?
+
+ YES – Please explain by referring to specific cases
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+X NO – Please explain whether you consider this to be the case in general, or under
+specific circumstances, and why (e.g. because it does not amount to an act of
+communication to the public – or to a new public, or because it should be covered by a
+copyright exception)
+
+
+Hyperlinks, links from one resource to another, are a fundamental building block of the web and
+the Internet. A hyperlink is basically a reference to another resource expressed by the Uniform
+Resource Locator ("URL") of that resource. When a user selects a hyperlink available on a
+web page, a web browser sends a request to the web server hosting the resource to which the
+hyperlink is linked. The request follows the HTTP specification, and includes the address of the
+                                   5
+resource that contains the link.       This can be compared to a footnote in a document, or any
+other references.
+
+Introducing a requirement to receive authorisation from the rightholder before publishing a
+hyperlink to the rightholder´s website would have severe negative effects on the development
+of the Internet – the infrastructure European businesses, governments, consumers and citizens
+rely on every day.
+
+It is common practice for Internet users globally to share and publish links on services such as
+Facebook and Twitter, on blogs and more. To make such practice subject to the rightholders'
+approval would be contrary to widely held public understanding and perception as to what is
+reasonable and permissible, and would undermine the legitimacy of copyright legislation, and
+disproportionately interfere with the freedom to share and access information that is otherwise
+
+5
+ The Referer request header field as specified in the IETF RFC2616 standard, which is available at:
+https://tools.ietf.org/html/rfc2616
+
+
+
+
+                                                                                                      4
+freely available on the web.        If the provision of hyperlinks were to be covered by the
+rightholder's exclusive right of communication to the public, this would be in conflict with the
+common perception of what is regarded as reasonable. The law would become out of line with
+fundamental public perceptions of how society should be governed.           Indeed, the ability to
+reference to publicly accessible information – essentially how hyperlinking operates – is a
+manifestation of the freedom of speech.
+
+First, a hyperlink is only a reference to a resource on the Internet. When a user selects a
+hyperlink, the browser connects directly to the server that hosts the resource. The referring
+webpage that publishes the link is not involved in the transmission between the server and the
+end user. Thus, the act of hyperlinking cannot be understood in general to be part of the
+transmission of the content from the server to the end user, and consequently hyperlinking is
+not an act of communication to the public. On a technical level, this is true regardless of how
+the hyperlink is construed.
+
+Second, the rightholders have at their disposal a wide variety of tools to control access to the
+content they make available themselves. In particular:
+
+
+       The hyperlink will work only as long the content is available at the URL used in the
+        hyperlink;
+
+
+       A server can easily be configured to redirect any inbound deep links to, for example,
+        the front page of the servers (or any other URL at the rightholders’ discretion); and
+
+
+       Robots.txt is a well-established and well-functioning tool for rightholders to control how
+        spiders and crawlers access their website.
+
+Third, making hyperlinking subject to the rightholders' authorisation is not an appropriate
+measure to prevent unauthorised use of protected works. Rightholders can request the host
+provider to block access to infringing material. When the infringing material is taken down, any
+inbound hyperlinks will not work.
+
+Finally, and most importantly, very recently, on 13 February 2014, the Court of Justice of the
+European Union ("CJEU") in Case C-466/12 Svensson held that hyperlinking to websites that
+are freely accessible to all Internet users does not constitute copyright infringement.         The
+CJEU's judgment that hyperlinks do not breach rightholders' exclusive right to communicate
+their works to the public is to be welcomed as hyperlinks are indispensable on the Internet for
+communication of the existence and location of content as we explained above. It also aligns
+EU law with established case law in other jurisdictions, including the United States. While the
+CJEU judgment is a significant step forward, it also raises difficult questions for the future that
+would need to be closely monitored.
+
+
+
+
+                                                                                                 5
+As noted above, making hyperlinking subject to the rightholders' authorisation would interfere
+with European citizens' fundamental freedom of speech, and would have severe implications
+for the functioning of the Internet as we know it. On the other hand, rightholders already have
+sufficient mechanisms to control access to their content online. Therefore, we welcome the
+CJEU judgment in Svensson, and we underscore the importance of striking the proper balance
+between copyright protection and the development of technology with regards to hyperlinking.
+
+
+21.    Are there problems arising from the fact that most limitations and exceptions
+provided in the EU copyright directives are optional for the Member States?
+
+  YES – Please explain by referring to specific cases
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+X NO – Please explain
+As noted above, ECIS has been a champion of interoperability, and was heavily involved in the
+legislative debate that led to the formulation of exceptions to the legal protection of computer
+programs allowing reverse engineering in order to achieve interoperability.
+
+Because such reverse engineering requires acts of reproduction and translation that are among
+the exclusive rights of copyright owners, Articles 5 and 6 of the Software Copyright Directive
+provide for exceptions to such rights. Those exceptions are the key to the Directive's real
+impact as they ensure the lawfulness of reverse engineering, and hence prevent powerful
+players from hindering competition and innovation. The significance and necessity of these
+exceptions are underscored by the fact that they were adopted by the European Parliament on
+the Directive's first reading.
+
+First, Article 5 permits black box analysis, which generally involves some of the acts for which
+only the right holder has the exclusive right. These include for instance displaying object code
+on a screen or on paper in order to study it. While for certain acts it may be unclear whether
+they can be considered a reproduction or not, Article 5 permits any acts comprising the process
+of black box analysis apart from decompilation. For instance, a software engineer is allowed to
+observe, study, or test the functioning of the program while "loading, displaying, running,
+transmitting or storing the program." As a result, legitimate interoperable product developers
+would face no barrier to analysing a copy of the program by observing, studying, or testing the
+functioning of the program, even if it is in the legitimate possession of someone else, provided
+that they have been granted the right to use the program.
+
+Article 6 permits decompilation for purposes of developing competing as well as attaching
+programs. Decompilation is permitted solely if it is the only way to obtain the information
+necessary to achieve interoperability with other programs.
+
+Both Articles 5 and 6 "embody a simple rule: Reverse engineering to study functionality is fine,
+
+
+                                                                                             6
+but reverse engineering to study program code, internal structure, and other expressive
+aspects of the literary character of programs is forbidden, except when indispensable to
+                     6
+interoperability."
+
+Finally, it is possible for rightholders to use technolοgical protective measures ("TPMs") to
+"lock" computer programs in various ways that prevent reverse engineering. Thus it may be
+necessary to circumvent such TPMs in order to be able to undertake lawful reverse
+engineering. Therefore, in order not to diminish the effectiveness of the exceptions of the
+Software Copyright Directive provided under Articles 5 and 6, the provision in that Directive
+addressing circumvention of TPMs was made subject to the following exception – Article 7 of
+the Directive – i.e., the provision in that Directive addressing the circumvention of TPMs in
+relation to computer programs – states that it is "without prejudice" to the reverse engineering
+exceptions, Articles 5 and 6 of the Software Copyright Directive.
+
+When the Information Society Copyright Directive was proposed some six years later, its
+original text did not make clear whether the Software Copyright Directive's anti-circumvention
+regime or its own anti-circumvention provision (in its Article 6) applied to TPMs used in
+connection with computer programs.          Had the latter applied, it could have prohibited
+circumvention of such measures necessary to facilitate lawful reverse engineering.             This
+uncertainty was ultimately addressed by the inclusion of Recital 50 of the Information Society
+Copyright Directive, which was added after an intense battle to ensure that reverse engineering
+necessary for interoperability was not prevented. Thus, Article 6 of the Information Society
+Copyright Directive on circumvention of TPMs does not apply to circumvention of TPMs used in
+connection with computer programs.
+
+         "Such a harmonised legal protection [i.e., the legal protection of technological
+         measures] does not affect the specific provisions on protection provided for by
+         Directive 91/250/EEC. In particular, it should not apply to the protection of technological
+         measures used in connection with computer programs, which is exclusively addressed
+         in that Directive. It should neither inhibit nor prevent the development or use of any
+         means of circumventing a technological measure that is necessary to enable acts to be
+         undertaken in accordance with the terms of Article 5 (3) or Article 6 of Directive
+         91/250/EEC. Articles 5 and 6 of that Directive exclusively determine exceptions to the
+         exclusive rights applicable to computer programs."
+
+In short, because of the special nature of computer programs, the European Union retains a
+special regime governing circumvention of TPMs used in connection with computer programs,
+which is different from the regime provided by Article 6 of the Information Society Copyright
+
+6
+ Pamela Samuelson, Thomas Vinje & William Cornish, Does Copyright Protection Under the EU
+Software Directive Extend to Computer Program Behaviour, Languages and Interfaces?, page 6,
+available at http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1974890.
+
+
+
+                                                                                                 7
+Directive and which clearly does not prohibit circumvention of TPMs preventing reverse
+engineering. It is therefore key that this carefully-crafted compromise is maintained, and that it
+remains lawful to circumvent TPMs applied to computer programs if necessary to facilitate
+                              7
+lawful reverse engineering.
+
+Both Articles 5 and 6 of the Software Copyright Directive provide for mandatory exceptions to
+the protection of computer programs by copyright.             ECIS has not identified any problems
+associated with the mandatory nature of these provisions.
+
+ECIS therefore opposes any reform which would be a step back from the balance carefully
+struck in the current copyright rules, and strongly believes that any initiative by the Commission
+in the field of copyright should avoid altering the mandatory nature of the exception for reverse
+engineering.
+
+ NO OPINION
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+
+
+22.     Should some/all of the exceptions be made mandatory and, if so, is there a need
+for a higher level of harmonisation of such exceptions?
+
+ YES – Please explain by referring to specific cases
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+  NO – Please explain
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+X NO OPINION
+
+
+With respect to reverse engineering, which is the main focus of ECIS, the exceptions provided
+under Articles 5 and 6 of the Software Copyright Directive are mandatory, and cannot be
+eliminated by contract. ECIS is of the strong view that this should remain as is.
+
+
+23.      Should any new limitations and exceptions be added to or removed from the
+
+7
+  Recently, in Case C-355/12 Nintendo v PC Box, the CJEU held that for a rightholder to rely on a TPM
+would need to prove that (a) the use of the TPMs is proportionate, (b) other TPMs allowing software not
+originating from the manufacturer to run on the consoles could not reasonably be used, and (c) the TPMs
+do not have any commercially significant purpose other than to circumvent the technical protection.
+Moreover, the question whether the protection of video games falls within the scope of protection afforded
+to computer programs, or whether video games are protected under general copyright law as audiovisual
+materials is the subject of Case C-458/13 Grund and others, which is currently under consideration by the
+CJEU. Developments on this front should be carefully monitored in order to ensure that software
+developers can circumvent TPMs applied to computer programs if necessary to facilitate lawful reverse
+engineering.
+
+
+
+
+                                                                                                        8
+existing catalogue? Please explain by referring to specific cases.
+
+[Open question]
+The market for text and data analytics software relies on text and data mining.                   Certain
+questions exist about whether text and data mining may involve some interference with the
+exclusive rights of a copyright holder. Article 5 (1) of the Information Society Directive provides
+for a mandatory exception with respect to temporary copies. Nevertheless, there is a view from
+some quarters that data and text mining may still infringe copyright calling for significantly
+tighter controls on what is permissible under European law with respect to text and data mining.
+
+Data and text mining, or data analytics, is the computer-based extraction of excerpts of data
+from digital content. Its goal is to discover hidden facts or patterns and subtle relationships in
+data and inferring rules and behaviours. A key element is the linking together of the extracted
+information to form entirely new, hitherto unsuspected facts or new hypotheses to be explored
+further. The potential and benefits of text and data mining are very significant. McKinsey
+International reports that the power of "big data" in the sphere of public sector information alone
+                                                                          8
+could create Euros 250 billion annual value to Europe's economy.              It is the view of ECIS that
+text and data mining does not conflict with a normal exploitation of the work due to its "non-
+consumptive" nature. Indeed, as Professor Ian Hargreaves noted in his Report, the fact that
+this use "happen[s] to fall within the scope of copyright regulation is essentially a side effect of
+how copyright has been defined, rather than being directly relevant to what copyright is
+                        9
+supposed to protect."
+
+ECIS cautions the Commission that text and data mining should fall outside the scope of
+copyright protection.
+
+
+24.    Independently from the questions above, is there a need to provide for a greater
+degree of flexibility in the EU regulatory framework for limitations and exceptions?
+
+ YES – Please explain why
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+ NO – Please explain why
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+
+8
+ McKinsey Global Institute: Big Data: The next frontier for innovation, competition and productivity, May
+2011, available at:
+http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation.
+9
+  Digital Opportunity: A review of Intellectual Property and Growth, An independent report by Professor
+Ian Hargreaves, May 2011, available at: http://www.ipo.gov.uk/ipreview-finalreport.pdf, page 47.
+
+
+
+
+                                                                                                          9
+X NO OPINION
+
+
+
+26.     Does the territoriality of limitations and exceptions, in your experience,
+constitute a problem?
+
+  YES – Please explain why and specify which exceptions you are referring to
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+  NO – Please explain why and specify which exceptions you are referring to
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+X NO OPINION
+
+
+We have no opinion at this time, but reserve the possibility of commenting on views expressed
+in the consultation period.
+
+53.      (a) [In particular if you are an end user/consumer or an institutional user:] Have
+you experienced obstacles, linked to copyright, when trying to use text or data mining
+methods, including across borders?
+(b) [In particular if you are a service provider:] Have you experienced obstacles, linked
+to copyright, when providing services based on text or data mining methods, including
+across borders?
+(c) [In particular if you are a right holder:] Have you experienced specific problems
+resulting from the use of text and data mining in relation to copyright protected content,
+including across borders?
+
+X YES – Please explain
+
+See our answer to question 23.
+
+ NO – Please explain
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+  NO OPINION
+
+
+
+55.    If your view is that a legislative solution is needed, what would be its main
+elements? Which activities should be covered and under what conditions?
+
+[Open question]
+As explained in the answer to question 23, ECIS cautions the Commission that text and data
+mining should fall outside the scope of copyright protection.
+
+
+
+
+                                                                                           10
+57.      Are there other issues, unrelated to copyright, that constitute barriers to the use
+of text or data mining methods?
+
+[Open question]
+
+See above.
+
+
+
+66.     How would changes in levies with respect to the application to online services
+(e.g. services based on cloud computing allowing, for instance, users to have copies on
+different devices) impact the development and functioning of new business models on
+the one hand and rightholders’ revenue on the other?
+
+[Open question]
+ECIS is of the opinion that cloud computing services should not be subject to copyright levies.
+
+Applying copyright levies would have adverse consequences for the development of cloud
+services in Europe, and on innovation in general. The market for cloud services is global, and
+imposing a levy would put European cloud services on an unequal footing compared to cloud
+services provided in the United States or in Asia.
+
+Second, imposing copyright levies may cause imbalances even within the EU. Imposing such
+levies would also hamper the digital single market, and would be at odds with the EU Treaties
+and the Commission's objectives. Copyright levies are raised on a national basis by collecting
+societies whereas cloud services are global.         As proven in other circumstances in which
+copyright levies are imposed, the lack of harmonisation as regards the amount of levy charged
+across Europe would affect competition on the merits within the internal market. It is therefore
+unlikely to be any benefit from extending a system that has been proven highly problematic to
+cloud services.
+
+Finally, the imposition of a copyright levy on cloud services would raise the cost for the
+provision of these services, which are on a number of occasions available for free. This would
+reduce the competiveness of the economy, especially vis-a-vis the United States, which would
+have no such impediments, and disrupt new and innovative business models that have the
+potential to generate growth.
+
+
+
+
+                                                                                              11
+

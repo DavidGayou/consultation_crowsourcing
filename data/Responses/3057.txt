@@ -1,0 +1,158 @@
+European Commission                                                                    Antoine Amarilli
+SPA 2 04/085                                                                           7 rue de Gentilly
+1049 Brussels                                                                          92120 Montrouge
+Belgium                                                                                France
+
+                                                                                       February 27, 2014
+
+Object: Public Consultation on the review of the EU copyright rules
+
+
+Dear Sir or Madam,
+
+As a French citizen, I would like to answer your public consultation about the evolution of the European
+Union’s copyright policies. I will do so by proposing some concrete changes which I think should be
+made to those policies.
+
+1   Copyright term reduction
+
+I understand copyright as a balance struck between society’s desire to use, distribute, adapt upon and
+perform creative works, and the necessity to incentivize creators by granting them a temporary monopoly
+over some rights on their work.
+Current European legislation protects the rights of authors until seventy years after their death. This is
+disproportionate: such a long duration is certainly not required to encourage or sustain any reasonable
+form of creation, whereas society is substantially missing out on the opportunity to benefit from many
+works of art over this long period.
+The only explanation I can see to the current state of affairs is that it was achieved through organized
+lobbying by right holders, which faced little resistance: because the general public does not know about
+the public domain or realize its importance, and because the organizations which attempt to protect it
+have a comparatively small economic weight.
+I would therefore be in favor of restricting the duration of copyright in European member states, in all
+circumstances, to no more than 25 years after publication, performance or broadcast.
+
+2   Protection of orphan works
+
+Since the Berne convention, there are no formalities required to assert copyright over your work; so
+that, for works with no known or reachable right holder, one must assume by default that the work is
+protected. Hence, the public’s use of the work is limited to protect the monopoly of an absentee right
+holder: one cannot republish, digitize, adapt upon the work, for fear that the right holder may later
+resurface and sue for damages.
+I am not in favor of introducing mandatory registration formalities for copyright, as I fear they would
+penalize the less-organized forms of creation (street art, amateur artists, etc.) who would probably not
+follow them.
+However, I believe that, once the creator of a work has ceased to distribute it (out of print books,
+unmaintained software, etc.), and it has been impossible to contact them for some period of time,
+copyright protections on the work should lapse. The rationale would be analogous to that of acquisitive
+prescription: the right holder has shown insufficient motivation to exercise their exclusive rights.
+
+3   No protection for public organisms
+
+If a work has been created by employees of European Union member states or European institutions
+during the course of their duties, it should not enjoy any copyright protection. The reason for this is
+that there is no need to incentivize or finance such creation, and as this is the best regime to allow the
+public to benefit from such works created using public money.
+This would have many positive effects. As a first example, this would encourage the dissemination of
+publicly financed research, and ensure that copyright cannot be leveraged by academic publishers to
+restrict the transmission of scientific knowledge to the general public who indirectly paid for it. Hence,
+this would contribute to the decline of closed-access scientific venues, which would help decrease the
+proportion of public research money spent on subscription fees.
+As a second example, this would ensure that open data efforts from public organisms must remain really
+open. This would not not prohibit the sale of extended datasets so that the cost of publishing open data
+is covered by those who make use of it, but it would ensure that copyright cannot be used as a weapon
+to limit the further redistribution of such datasets, as could be attempted by short-sighted organisms in
+a foolish attempt to reap easy profits at the public’s ultimate expense.
+
+4   Digital rights management
+
+Digital rights management (DRM) are a set of technologies to limit the copying of digital content in
+an effort to enforce copyright. Works burdened with DRM usually require specific software, operating
+system, hardware (sometimes from a specific manufacturer), in order to be consumed. Further, some
+such technologies require the user to remain in contact with the right holder’s server to authorize every
+use of content, so that the works become unusable once technical intermediaries discontinue the service
+or remain out of business.
+DRM is present on a variety of digital contents, such as e-books (Amazon), video games (Steam), movies
+(most DVDs), etc. While I respect the right of manufacturers and right holders to offer such content
+under such conditions, it seems paramount to me that customers be aware of the nature of what they
+are buying. Right now, the public is not well-informed about the nature and existence of DRM, and the
+presence of DRM is seldom clearly advertised.
+I would argue that any creative work on sale should indicate prominently to the purchaser which equip-
+ment is required to read it: software, hardware from a specific manufacturer, and more generally any
+technology that it is an open standard which can be re-implemented by anyone (i.e., not requiring the
+payment of any royalties).
+Further, if a creative work is offered in a scrambled form designed to be unusable without additional keys
+provided every time the content is consumed, it should be mandatory to label such offers as ”rental”
+rather than ”sale”, as continued enjoyment of the work by the customer depends on the provider’s will
+to further allow it.
+Current European directives, such as Directive 2001/29/EC, have overreaching provisions which prohibit
+circumventing DRM, providing technical means to enable it, etc. This often prohibits legitimate cases
+of DRM circumvention, such as those required for interoperability. Prohibiting copyright infringement
+is sufficient ; no additional protection should be granted to DRM technologies.
+
+5   Freedom of panorama
+
+The ”freedom of panorama” exemption restricts the copyright protection of works of art permanently
+located in a public place. This exemption exists in some member countries but not others. European
+legislation should be harmonized by providing freedom of panorama in all member states, in its strongest
+form: there should not be any copyright protection of works of art permanently located in public space,
+as such copyright protection substantially interferes with the public’s right to photograph and film in
+public space.
+
+6   Remixing
+
+A huge amount of creativity nowadays is expressed by producing works of art that current copyright
+legislation consider to be derivative: remixes of well-known songs, fan fictions, videos incorporating
+sequences of protected video games, etc. The legal status of such works is entirely unclear, and right
+holders can leverage this to discourage, or censor, such creative works.
+In my opinion, the need to incentivize creation through copyright does not justify such restrictions on
+derivative art forms. Indeed, such transformation has always been an important factor of creativity
+(folk tales, reuse of musical themes, etc.). It is regrettable that copyright has crept from restrictions
+on ”fixed-form works” to restrictions on certain derivative uses such as performance and translation, to
+eventually impose overbearing theoretical restrictions on any form of derivative use, which I believe does
+not reflect the interest of society.
+I believe the scope of copyright protection should be changed so that it does not impede transformative
+uses that cannot harm the interests of the creator. For instance, fan fictions certainly cannot be read as
+a substitute to the original book, nor can most remixes replace the original song, nor playthrough videos
+act as a substitute to a video game.
+
+7   Private sharing
+
+Not-for-profit sharing of copyrighted works between private individuals is a widespread practice in Eu-
+ropean member states. It was essentially uncontroversial in the times where works of art were fixed to a
+physical medium (such as books, CDs, etc.), because this made copying unpractical so that sharing was
+essentially limited to lending.
+For digital works, such practices raise the question of how creators should be financed. However, prohibit-
+ing it altogether, as is currently done, does not seem sensible: it is disconnected from current practice
+and from the public’s perception of right and wrong. I am unsure about whether a middle ground could
+be found with solutions such as the French ”licence globale” proposals which propose to finance artistic
+creation through taxation and redistribution to creators: indeed, I do not see how to design a scheme of
+this kind while ensuring that it finances all artists fairly, including independent artists not registered to
+any copyright collection society.
+I am nevertheless confident that new ways to finance creation, such as crowdfunding, will emerge; that
+the public is aware of the fact that they need to pay the creators of works they enjoy, and that private
+artistic sponsorship will increase as technologies reduces the friction of online payment. Hence, I would be
+in favor of a copyright exemption covering the not-for-profit exchange of creative works between private
+individuals, as a solution preferable to the current state of affairs.
+
+8   Fair agreements between copyright collective and their members
+
+Copyright is usually held, not by artists, but by copyright collectives of which they are members. Some
+of these, such as the French SACEM, require that their members automatically assign copyright to them
+on all their future creative works; terminating one’s contract with SACEM is a lengthy and complicated
+process.
+Such agreements are nothing short of creative servitude; the signer agrees to the transfer of all the
+fruits of their creativity, with little limits, uncertain compensation, for an indeterminate amount of time.
+Contracts of this kind should be deemed unfair and considered null and void.
+Transferring preemptively one’s copyright on one’s future creations should be impossible except within
+employment contracts, in which case this arrangement should be restricted to the hours worked by the
+employee; additionally, resignation should always be possible, and all relevant labour protection laws
+should apply.
+
+
+
+                                         Sincerely,
+
+
+
+
+                                                                                           Antoine Amarilli
+

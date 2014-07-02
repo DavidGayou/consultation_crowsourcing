@@ -1,0 +1,3220 @@
+
+
+
+Public Consultation
+
+on the review of the EU copyright rules
+
+Contents
+
+I.  Introduction  2
+
+A.  Context of the consultation  2
+
+B.  How to submit replies to this questionnaire  3
+
+C.  Confidentiality  3
+
+II.  Rights and the functioning of the Single Market  7
+
+A.  Why is it not possible to access many online content
+services from anywhere in Europe?  7
+
+B.  Is there a need for more clarity as regards the scope of
+what needs to be authorised (or not) in digital transmissions?
+10
+
+1.  The act of “making available”  10
+
+2.  Two rights involved in a single act of exploitation  11
+
+3.  Linking and browsing  12
+
+4.  Download to own digital content  13
+
+C.  Registration of works and other subject matter – is it a
+good idea?  14
+
+D.  How to improve the use and interoperability of identifiers
+15
+
+E.  Term of protection – is it appropriate?  15
+
+III.  Limitations and exceptions in the Single Market  16
+
+A.  Access to content in libraries and archives  19
+
+1.  Preservation and archiving  19
+
+2.  Off-premises access to library collections  20
+
+3.  E – lending  21
+
+4.  Mass digitisation  22
+
+B.  Teaching  23
+
+C.  Research  25
+
+D.  Disabilities  25
+
+E.  Text and data mining  27
+
+F.  User-generated content  28
+
+IV.  Private copying and reprography  31
+
+V.  Fair remuneration of authors and performers  33
+
+VI.  Respect for rights  34
+
+VII.  A single EU Copyright Title  36
+
+VIII.  Other issues  36
+
+Introduction
+
+Context of the consultation
+
+Over the last two decades, digital technology and the
+Internethavereshaped the ways in which content is created,
+distributed, and accessed.New opportunities have materialised
+for those that create and produce content (e.g. a film, a
+novel, a song),for new and existingdistribution platforms,for
+institutions such as libraries, for activities such as research
+and for citizens who now expect to be able to access content –
+for information, education or entertainment purposes–regardless
+of geographical borders.
+
+This new environmentalso presentschallenges.One of themis for
+the market tocontinue toadapt to new forms of distribution and
+use.Another oneis for the legislator to ensure that the system
+of rights, limitations to rights and enforcement
+remainsappropriateand is adapted to the new environment.This
+consultation focuses on the second of these challenges:
+ensuring that the EU copyright regulatory frameworkstays fit
+for purpose in the digital environmentto support creation and
+innovation, tap the full potential of the Single
+Market,fostergrowth andinvestment in our economy
+andpromotecultural diversity.
+
+In its"Communication on Content in the Digital Single Market"1
+
+COM (2012)789 final, 18/12/2012.
+
+the Commission set out two parallel tracks of action:ontheone
+hand, to complete its on-going effort to review and to
+modernise the EU copyright legislative framework2
+
+As announced in the Intellectual Property Strategy ' A single
+market for Intellectual Property Rights: COM (2011)287 final,
+24/05/2011.
+
+3
+
+"Based on market studies and impact assessment and legal
+drafting work"as announced in the Communication (2012)789.
+
+with a view to a decision in 2014 on whether to table
+legislative reform proposals, andon the other, to facilitate
+practical industry-led solutions through the stakeholder
+dialogue"Licences for Europe"on issues on which rapid progress
+was deemed necessary and possible.
+
+The"Licences for Europe"process has been finalised now4
+
+See the document “Licences for Europe – tem pledges to bring
+more content
+online”:http://ec.europa.eu/internal_market/copyright/docs/licences-for-europe/131113_ten-pledges_en.pdf.
+
+. The Commission welcomes the practical solutions stakeholders
+have put forward in thiscontext and will monitor their
+progress. Pledges have been made by stakeholders in all four
+Working Groups (cross borderportability ofservices,
+user-generated content,audiovisual andfilm heritageand text and
+data mining). Taken together, the Commission expects these
+pledgesto bea further step in making the user environment
+easier in many different situations. The Commission also takes
+note of the fact that two groups –user-generated content
+andtext and data mining–did not reach consensus among
+participating stakeholders on either the problems to be
+addressed or on the results. Thediscussions andresults
+of"Licences for Europe"will be also taken into account in the
+context of the review of the legislative framework.
+
+As part of thereview process, the Commission is now launching a
+public consultation onissuesidentified in the Communication on
+Content in the Digital Single Market, i.e.:"territoriality in
+the Internal Market, harmonisation, limitations and exceptions
+to copyright in the digital age; fragmentation of the EU
+copyright market; and how to improve the effectiveness and
+efficiency of enforcement while underpinning its legitimacy in
+the wider context of copyright reform".As highlighted in the
+October 2013 European CouncilConclusions5
+
+EUCO 169/13, 24/25 October 2013.
+
+"Providingdigital services andcontentacross the single market
+requires the establishment of a copyright regime for the
+digital age. The Commission will therefore complete its
+on-going review of the EU copyright framework in spring 2014.
+It is important to modernise Europe's copyright regime and
+facilitate licensing, while ensuring a high level protection of
+intellectual property rights and taking into account
+culturaldiversity".
+
+This consultationbuildson previous consultationsand public
+hearings, in particularthose onthe"Green Paper on copyright in
+the knowledge economy"6
+
+COM(2008)
+466/3,http://ec.europa.eu/internal_market/copyright/copyright-infso/index_en.htm#maincontentSec2.
+
+,the"Green Paper on the online distribution of audiovisual
+works"7
+
+COM(2011) 427
+final,http://ec.europa.eu/internal_market/consultations/2011/audiovisual_en.htm.
+
+and"Content Online"8
+
+http://ec.europa.eu/internal_market/consultations/2009/content_online_en.htm.
+
+. These consultationsprovidedvaluablefeedback from
+stakeholderson a number of questions,on issues as diverse as
+theterritorialityofcopyrightand possible ways to overcome
+territoriality,exceptionsrelated to the online dissemination of
+knowledge,and rightholders’remuneration, particularly in the
+audiovisual sector.Views were expressed by stakeholders
+representing all stages in the value chain, including right
+holders, distributors, consumers, and academics. The questions
+elicited widely diverging views on the best way to proceed.
+The"Green Paper on Copyright in the Knowledge Economy"was
+followed up by a Communication. The replies to the"Green Paper
+on the online distribution of audiovisual works"have fed into
+subsequent discussions on the Collective Rights Management
+Directive and into the current review process.
+
+How tosubmitreplies tothis questionnaire
+
+You are kindly asked to send your repliesby5February2014inaMS
+Word, PDForOpenDocumentformattothefollowinge-mailaddressof DG
+Internal Market and
+Services:markt-copyright-consultation@ec.europa.eu.Please note
+that replies sentafterthat datewill not be taken into account.
+
+This consultation is addressedto different categories of
+stakeholders. To the extent possible, the questions indicate
+the category/iesof respondents mostlikelyto be concernedby
+them(annotation in brackets, before the actual question).
+Respondentsshould nevertheless feel freeto reply to any/all of
+the questions. Also, please note that,apart from the question
+concerning the identification of the respondent, none of the
+questions is obligatory.Replies containing answers only to part
+of the questions will be also accepted.
+
+You are requested toprovideyour answers
+directlywithinthisconsultation document. For the“Yes/No/No
+opinion”questionsplease put the selected answer
+inboldandunderlineit so it is easy for us to see your
+selection.
+
+In your answers to the questions, you are invited to refer to
+the situation in EUMember States.You are also invitedin
+particularto indicate, where relevant, what would be the
+impactof options you put forwardin terms of costs,
+opportunities and revenues.
+
+The public consultation is available in English.
+Responsesmay,however,be sent in any of the 24officiallanguages
+of the EU.
+
+Confidentiality
+
+The contributionsreceivedin this round of consultation as well
+as asummary reportpresenting theresponsesin a statistical and
+aggregated formwill be published on the website of DG MARKT.
+
+Please note thatallcontributionsreceivedwill be
+publishedtogether with the identity of the contributor, unless
+the contributor objects tothepublication oftheirpersonal data
+on the grounds that such publication would harm his or her
+legitimate interests. In this case,the contributionwillbe
+published in anonymous form upon the contributor's explicit
+request. Otherwise the contribution will not be published nor
+willits content bereflected in the summary report.
+
+Pleaseread ourPrivacy statement.
+
+Please identify yourself:
+
+Name:
+
+TheChamber ofPress Publishers - POLANDso calledIWP
+
+ul. Foksal 3/5, 00-366 Warszawa
+
+www.iwp.pl
+
+In the interests of transparency, organisations (including, for
+example, NGOs, trade associations and commercial enterprises)
+are invited to provide the public with relevant information
+about themselves by registering in the Interest Representative
+Register and subscribing to its Code of Conduct.
+
+If you are a Registered organisation, please indicate your
+Register ID number below. Your contribution will then be
+considered as representing the views of your organisation.
+
+…………………………………………………………………………………………………..
+
+…………………………………………………………………………………………………..
+
+If your organisation is not registered, you have the opportunity
+toregister now.Responses from organisations not registered will
+be published separately.
+
+If you would like to submit your reply on an anonymous basis
+pleaseindicate it belowby underlining thefollowinganswer:
+
+Yes, I would like to submit my reply on an anonymous basis
+
+Type of respondent(Pleaseunderlinethe appropriate):
+
+End user/consumer(e.g.internet user,reader, subscriberto musicor
+audiovisualservice,
+researcher,student)ORRepresentativeofendusers/consumers
+
+for the purposes of this questionnaire normally referred to
+in questions as "end users/consumers"
+
+Institutional user (e.g. school,university,
+researchcentre,library, archive)ORRepresentativeof
+institutional users
+
+for the purposes of this questionnaire normally referred to
+in questions as "institutional users"
+
+Author/PerformerORRepresentativeof authors/performers
+
+Publisher/Producer/BroadcasterORRepresentative of
+publishers/producers/broadcasters
+
+the two above categoriesare, for the purposes of this
+questionnaire, normally referred to in questions as "right
+holders"
+
+Intermediary/Distributor/Other service provider(e.g.online music
+or audiovisual service, games platform, social media, search
+engine, ICT industry)ORRepresentative of
+intermediaries/distributors/other service providers
+
+for the purposes of this questionnaire normally referred to
+in questions as "service providers"
+
+Collective Management Organisation
+
+Public authority
+
+Member State
+
+Other (Please explain):
+
+……………………………………………………………………………………………….
+
+……………………………………………………………………………………………….
+
+Rights and the functioning of the Single Market
+
+Why is it not possible to accessmanyonline content servicesfrom
+anywhere in Europe?[Theterritorialscope of the rights involved
+in digital transmissions and the segmentation of the market
+through licensing agreements]
+
+Holders of copyright and related rights –e.g. writers, singers,
+musicians-do not enjoya singleprotection in the EU. Instead,
+they are protected on the basis of a bundle of national rights
+in each Member State. Those rights have been largely harmonised
+by the existingEUDirectives. However,differences remain andthe
+geographical scopeof the rightsis limited to the territory of
+the Member State granting them.Copyright is thus territorial in
+the sense that rights are acquired and enforced on a
+country-by-country basis under national law9
+
+This principle has been confirmed by the Court of justice on
+several occasions.
+
+.
+
+The dissemination of copyright-protected content on the Internet
+–e.g. by a music streaming service,orbyanonline e-book
+seller–thereforerequires, in principle,an authorisation for
+each national territory in which the content is communicatedto
+the public. Rightholdersare, of course,in a position togranta
+multi-territorial or pan-Europeanlicence, such thatcontent
+services can be provided in several Member States and across
+borders.A number of stepshave beentaken at EU level to
+facilitate multi-territoriallicences: the proposal for a
+Directive on Collective Rights Management10
+
+Proposalfor a Directiveof the European Parliament and of the
+Councilof 11 July 2012 on collective management of copyright
+and related rights and multi-territorial licensing of rights in
+musical works for online uses in the internal market, COM(2012)
+372 final.
+
+should significantly facilitate the delivery of
+multi-territorial licences in musical worksfor online
+services11
+
+CollectiveManagementOrganisations play a significant role inthe
+management of online rights for musical works in contrastto
+thesituation where online rights are licenseddirectly by right
+holders such asfilm or record producers or by newspaper or book
+publishers.
+
+;thestructured stakeholder dialogue “Licences for Europe”12
+
+You can find more information on the following website:
+http://ec.europa.eu/licences-for-europe-dialogue/.
+
+and market-led developments such as the on-going work in the
+Linked Content Coalition13
+
+You can find more information on the following
+website:http://www.linkedcontentcoalition.org/.
+
+.
+
+"Licences for Europe" addressed in particular the specific issue
+of cross-border portability, i.e. the ability of consumers
+having subscribed to online services in their Member State to
+keep accessing them when travelling temporarily to other Member
+States. As a result, representatives of the audio-visual sector
+issued a joint statement affirming their commitment to continue
+working towards the further development of cross-border
+portability14
+
+See the document “Licences for Europe – tem pledges to bring
+more content
+online”:http://ec.europa.eu/internal_market/copyright/docs/licences-for-europe/131113_ten-pledges_en.pdf.
+
+.
+
+Despite progress, there are continued problems
+withthecross-borderprovisionof, and access to, services. These
+problems are most obviousto consumerswanting to access
+servicesthatare madeavailable in Member Statesother than the
+one in which they live.Not all online services are available in
+all Member States and consumers face problems when trying
+to access such services across borders. In some instances,
+even if the“same”service is available in all Member States,
+consumerscannotaccess theservice across borders (they can
+onlyaccess their“national” service, and if they try to
+accessthe "same" servicein another Member State they are
+redirected to theonedesignatedfortheir country of residence).
+
+Thissituationmayin part stem from the territoriality of
+rightsand difficulties associated with the clearing of rights
+in different territories.Contractual clauses in licensing
+agreements between rightholders and distributors and/or between
+distributors and end users mayalsobe at the origin of some of
+the problems (denial of access, redirection).
+
+The main issueat stake hereis,therefore,whether furthermeasures
+(legislative or non-legislative, including market-led
+solutions)need tobe taken at EU level in the medium term15
+
+For possible long term measures such as the establishment of
+aEuropean Copyright Code(establishinga single title) see
+section VII of this consultation document.
+
+to increase the cross-border availability of content services in
+the Single Market,while ensuring an adequate level of
+protectionfor right holders.
+
+[In particular if you arean enduser/consumer:]Have you faced
+problems whentryingto access online services in an EU Member
+State other than the one in which you live?
+
+YES - Please provide examples indicating the Member State,
+the sector and the type of content concerned (e.g. premium
+content such as certain films and TV series, audio-visual
+content in general, music, e-books, magazines, journals and
+newspapers, games, applications and other software)
+
+NO
+
+NO OPINION
+
+[In particular if you area service provider:]Have you faced
+problems when seeking to provide online services across
+bordersin the EU?
+
+YES - Please explain whether such problems, in your
+experience, are related to copyright or to other issues (e.g.
+business decisions relating to the cost of providing services
+across borders, compliance with other laws such as consumer
+protection)? Please provide examples indicating the Member
+State, the sector and the type of content concerned (e.g.
+premium content such as certain films and TV series,
+audio-visual content in general, music, e-books, magazines,
+journals and newspapers, games, applications and other
+software).
+
+NO
+
+ NO OPINION
+
+[In particular if you area right holder or acollective
+management organisation:]Howoftenare youaskedtogrant
+multi-territorial licences?Pleaseindicate, if possible, the
+number of requests per yearand provide examples indicating the
+Member State, the sector and the type of content concerned.
+
+[Open question]
+
+Regarding B2B services, there are single requests for granting
+multi-territorial licences for entire newspaper or magazine –
+for such services as Press Agencies (e.g. Reuters). There is
+also a few requests per year for granting multi-territorial
+licences for reprint of single article – number of such
+requests is depended on the position of newspaper or magazine.
+Such requests concern only a few of the most opinion- forming
+press titles.Due to specific nature of the press – most of the
+licenses are granted to individual consumers in the national
+market.Licensing mechanisms concerning e-subscriptions do not
+contain any territorial limitations – thus, consumers can have
+free access to the subscriptions they order or digital press
+from all over the world. Therefore, the need for
+multi-territorial licences is (in this respect) not relevant at
+all. On the other hand, free consumer licences concerning
+posting hyperlinks to articles in social media have no
+territorial limitations and they cover the particular service’s
+users, who are among the receivers of a given publication; it is
+the language and relations between users rather than territory
+that plays a decisive role. As far as business licenses related
+to reproduction and press clippings are concerned, the majority
+of them are national licenses since press is topically
+connected with a national territory. Reproduction licenses
+relate to concrete internet services of other press titles.
+Territory is specified exclusively in licenses for publications
+in the printed press. In case of licenses for digital editions
+and press clippings, there are no territorial limitations; the
+scope of a license is generally defined by a number of end
+customers authorised to receive the service.
+
+Using foreign press is marginal since the press primarily covers
+regional topics and the additional barrier is language; the
+press is generally distributed in national languages. The
+solution for this marginal but important activity was the
+establishment by the European publishers (including Polish
+publishers) of the Press Database Licensing Network (PDLN), the
+administrator of the net which can be joined by companies
+authorised to distribute press content in particular European
+countries.
+
+If you have identified problems in the answers to any of the
+questions above – what would be the bestway to tacklethem?
+
+[Open question]
+
+It is important to underline that right holders in the press
+sector should always be able to decide what the subject or
+subjects of the license will be. The all-European license
+should always be a consequence of a choice but it should never
+be imposed. Moreover, the Commission has to take into account
+the fact that press is primarily a national product and the
+cultural issues are regulated on national level where the
+principle of subsidiarity should apply. From publishers’ point
+of view, there are far more serious barriers and obstacles in
+multi-territorial licensing than the territorial character of
+copyright. A great number of articles appearing in the press
+every day require publishers’ cooperation across Europe. This
+cooperation is difficult and hinders quick development of press
+services online. The major obstacles are: unclear antitrust
+laws, differences between tax systems (e.g. different VAT
+rates) and dominance in the markets of several European
+countries, including Poland, of pirate services in the area of
+press clippings which results in unfair competence with legal
+service providers. Therefore, IWP is of the opinion that the EC
+should first of all secure publishers’ copyright protection
+against infringements and prevent unfair practices, in
+particular, the abuse of dominant position by service providers
+gaining profits from press circulation.
+
+[In particular if you area right holder or acollective
+management organisation:]Are there reasons why, evenin cases
+where you holdall thenecessaryrights forall theterritoriesin
+question,youwould still find it necessaryor justifiedto impose
+territorial restrictions onaservice provider (in order, for
+instance, to ensure that access to certain content is not
+possible in certainEuropeancountries)?
+
+YES – Please explain by giving examples
+
+NO
+
+NO OPINION
+
+[In particular if you aree.g. a broadcasterora service
+provider:]Are there reasons why,evenin cases where you have
+acquiredall thenecessaryrights for all the territoriesin
+question,youwould still find it necessaryor justifiedto impose
+territorial restrictions on the service recipient (in order for
+instance, to redirect the consumer to a different website than
+the one he is trying to access)?
+
+ YES – Please explain by giving examples
+
+ NO
+
+ NO OPINION
+
+Do you think that further measures (legislative or
+non-legislative, including market-led solutions) are needed at
+EU level to increase the cross-border availability of content
+services in the Single Market, while ensuring an adequate level
+ofprotection for right holders?
+
+YES – Please explain
+
+NO
+
+As far as multi-territorial licenses are concerned, it is
+important to take into account a predominantly national
+character of the press sector. Due to a very strong impact on
+local languages and culture the rights management is best
+performed at national level. It is vital - while launching EU
+initiatives in this field - to avoid “one for all” type of
+solution since it does not take into account full cultural
+diversity, great differentiation of products and sectors
+(music, news media, books and audiovisual media), as well as
+difficulties in formulating common rules in that area.
+
+The current legislative framework does not hinder cross border
+licensing in the news media sector. The Commission has
+previously confirmed this in its document of 22 October 2009
+entitled “Creative Content in a European Digital Single Market:
+Challenges for the Future”: “The present legal framework does
+not in itself prevent right holders from commercialising their
+works on a multi-territory basis” (Article 2 page 12).
+Commercial users can generally request authorisation for using
+the work directly from a publisher or an author or obtain such
+authorisation on the basis of a worldwide contract.
+
+NO OPINION
+
+Is there a need for more clarityas regardsthe scope ofwhat needs
+to be authorised (or not) in digital transmissions?[The
+definition of the rightsinvolved in digital transmissions]
+
+The EU framework for the protection of copyright and related
+rights in the digital environment is largely established by
+Directive 2001/29/EC16
+
+Directive 2001/29/EC of the European Parliament and of the
+Council of 22 May 2001 on the harmonisation of certain aspects
+of copyright and related rights in the information society.
+
+on the harmonisation of certain aspects of copyright and related
+rights in the information society. OtherEUdirectives in
+thisfieldthatare relevant in the online environment are those
+relating to the protection of software17
+
+Directive 2009/24/EC of the European Parliament and of the
+Council of 23 April 2009 on the legal protection of computer
+programs.
+
+and databases18
+
+Directive 96/9/EC of the European Parliament and of the Council
+of 11 March 1996 on the legal protection of databases.
+
+.
+
+Directive 2001/29/ECharmonisestherights of authors and
+neighbouring rightholders19
+
+Film and record producers, performers and broadcasters are
+holders of so-called “neighbouring rights” in, respectively,
+their films, records, performances and broadcast. Authors’
+content protected by copyright is referred to as a “work” or
+“works”, while content protected by neighbouring rights is
+referred to as “other subject matter”.
+
+which are essential for thetransmission of digital copiesof
+works(e.g. an e-book)and other protected subject matter(e.g. a
+record in a MP3 format)over the internetor similar digital
+networks.
+
+The mostrelevantrightsfor digital transmissionsarethe
+reproduction right, i.e. the right to authorise or prohibit the
+making of copies20
+
+The right to “authorise or prohibit direct or indirect,
+temporary or permanent reproduction by any means and in any
+form, in whole or in part” (see Art. 2 of Directive 2001/29/EC)
+although temporary acts of reproduction of a transient or
+incidental nature are, under certain conditions, excluded (see
+art. 5(1) of Directive 2001/29/EC).
+
+,(notablyrelevant at the start of the transmission –e.g. the
+uploading ofadigital copy of a work to a serverin view ofmaking
+it available–and at the users’ end– e.g. when a user downloads
+a digital copy of a work)and the communication to the
+public/making available right, i.e. the rights to authorise or
+prohibit the dissemination of the works in digital networks21
+
+The right to authorise or prohibit any communication to the
+public by wire or wireless means and to authorise or prohibit
+the making available to the public “on demand” (seeArt. 3 of
+Directive 2001/29/EC).
+
+.These rightsare intrinsically linked in digital
+transmissionsandboth need to be cleared.
+
+Theact of“making available”
+
+Directive 2001/29/EC specifiesneitherwhatis covered bythe making
+available right(e.g. the upload,the accessibility by the
+public,theactualreception by the public)norwherethe act of
+“making available” takes place. This does not raise
+questionsif the act is limited to a single territory.
+Questionsarise however when the transmission covers several
+territories and rights need to be cleared (does the act of
+"making available" happeninthe country of the upload only?in
+each of the countries where the content is potentially
+accessible?in each of the countries where thecontent
+iseffectivelyaccessed?).The most recent case law of the Court
+of Justice of the European Union (CJEU)suggests that a relevant
+criterion is the“targeting” of a certainMember State'spublic22
+
+See in particularCase C-173/11(Football Dataco vs Sportradar)
+andCase C-5/11 (Donner) for copyright and related rights, and
+Case C-324/09 (L’Oréal vs eBay) for trademarks. With regard to
+jurisdiction seealso joined Cases C-585/08 and C-144/09 (Pammer
+and Hotel Alpenhof)andpending CaseC-441/13 (Pez Hejduk);
+seehowever,adopting a different approach, CaseC-170/12
+(Pinckney vs KDG Mediatech).
+
+. According to this approachthecopyright-relevantact(whichhas
+tobe licensed)occursat leastin those countries which are
+“targeted” by the online service provider.A service provider
+“targets” a group of customers residing in a specific country
+when it directsits activity to that group, e.g. via
+advertisement, promotions, a language or a currency
+specifically targeted at that group.
+
+Isthe scope of the“making available”right in cross-border
+situations – i.e. when content is disseminated across borders
+–sufficiently clear?
+
+YES
+
+NO–Pleaseexplain how this could be clarified and what
+typeofclarification would be required(e.g.as in "targeting"
+approach explained above,as in "country of origin"approach23
+
+The objective of implementing a “country of origin”approachis to
+localise the copyright relevant act that must be licenced in a
+single Member State (the "country of origin", which could be
+for example the Member State in whichthe content is uploaded or
+wherethe service provider is established), regardless of in how
+many Member States the work canbe accessed or received. Such an
+approachhas already been introduced at EU level with regard to
+broadcasting by satellite(seeDirective 93/83/EEC on the
+coordination of certain rules concerning copyright and rights
+related to copyright applicable to satellite broadcasting and
+cable retransmission).
+
+)
+
+NO OPINION
+
+[In particular if you are a right holder:]Coulda clarification
+of the territorial scope of the“making available”right have
+aneffect on therecognition of yourrights (e.g.whetheryou are
+considered to be an author or not,whetheryou are considered to
+have transferred your rights or not),onyourremuneration,
+oronthe enforcement of rights(including the availability of
+injunctive relief24
+
+Injunctive relief is a temporary or permanent remedy allowing
+the right holder to stop or prevent an infringement of his/her
+right.
+
+)?
+
+YESand NO – Please note our comments to the question 10
+
+NO OPINION
+
+Two rights involved in a single act of exploitation
+
+Each act oftransmission in digital networks entails(in the
+current state of technology and law) several reproductions.This
+means that there are two rights that apply to digital
+transmissions: the reproduction right and the making available
+right. Thismay complicate the licensing of works for online
+usenotably whenthetwo rights are held bydifferent
+persons/entities.
+
+[In particular if youa service provider or a right holder:]Does
+the application of two rights toa single act of economic
+exploitation in the online environment (e.g. a download)create
+problemsfor you?
+
+YES – Please explainwhat type of measureswould be needed in
+order to address such problems (e.g. facilitation of joint
+licences when the rights are in different hands,legislation to
+achieve the "bundling of rights")
+
+ NO
+
+Due to specific way of content distribution on the Internet, the
+“making available” right without the reproduction right means
+the possibility to use “deep links” to content already placed
+on Internet while both fields make it possible to distribute
+the work on the website of a license purchaser. Due to the
+above, the costs of both different licenses are different.
+
+In case, authorisation is needed even for one field, the issue
+whether right to one field or two fields is obtained is
+important only as far as the granted license and its price are
+concerned. The necessity to clearly differentiate between two
+fields of exploitation is also required by the exception
+mentioned in Directive 2001/29/EC (Art. 5(3)(c)) where
+reproduction right is reserved for the press while making
+content available (enabling providing links to the content) is
+of a significantly broader nature.
+
+In this situation, it is difficult to challenge justification of
+such a solution and the need to make changes in this matter.
+
+NO OPINION
+
+Linking and browsing
+
+Hyperlinks are references to data that lead a user from one
+location in the Internet to another. They are indispensable for
+the functioning of the Internet as a network. Severalcasesare
+pending before the CJEU25
+
+Cases C-466/12 (Svensson), C-348/13 (Bestwater International)
+and C-279/13 (C More entertainment).
+
+in which the question has been raised whether the provision of
+a clickable link constitutes an act of communication to the
+public/making available to the public subject to the
+authorisation of the rightholder.
+
+A user browsing the internet (e.g. viewing a web-page) regularly
+creates temporary copies of works and other subject-matter
+protected under copyright on the screen and in the 'cache'
+memory of his computer. A question has been referred to the
+CJEU26
+
+Case C-360/13 (Public Relations Consultants Association Ltd).See
+alsohttp://www.supremecourt.gov.uk/decided-cases/docs/UKSC_2011_0202_PressSummary.pdf.
+
+as towhether such copies are always covered by the mandatory
+exception for temporary acts of reproduction provided for in
+Article 5(1) of Directive 2001/29/EC.
+
+Should the provision of a hyperlink leading to a work or other
+subject matter protected under copyright,either in generalor
+under specific circumstances,besubject to the authorisation of
+the rightholder?
+
+YES
+
+Poland applies the exception mentioned in Directive 2001/29/EC
+(Art. 5(3)(c) which allows providing links to content of press
+articles already placed on Internet unless such use is not
+expressly reserved by publisher. It allows publishers to assess
+whether search engines, aggregators or firms making editorial
+content available to users are not engaged in unfair
+competition against them depriving them of readers. In such
+cases, a greater risk appears that readers would have no
+motivation to continue clicking in order to visit newspaper’s
+website when they obtained relevant information in the form of
+article snippets provided with the link. From journalistic
+point of view, first lines of a news article are very important
+since they a so composed as to draw the reader’s attention and
+to grasp the essence of the story which is then developed in
+successive paragraphs.
+
+When links to newspaper content are provided together with the
+above mentioned information, there is a great risk of the
+readers losing motivation to continue reading relevant
+information on the newspaper websites as such. Such a
+redirecting of traffic has also a negative impact on
+advertising revenues which rely on the number of clicks
+recorded on the newspaper website. Therefore, publishers;
+content should not be used without their prior consentbeyond
+what is truly indispensable for navigation in horizontal
+search.
+
+Using newspaper content without prior consent of the publisher
+was a subject of concrete proceedings in the caseCopiepresse v
+Googlein Belgium on allegations of infringement of intellectual
+property rights. In that case, the court underlined that using
+newspaper content [in Google News] should be considered the
+copyright infringement. It has also to be underlined that the
+principle of obtaining consent enables publishers to develop
+business models of which consumers are beneficiaries. The
+example of this is placingnavigation tools on newspaper
+websites which allow to link with social media. Such solutions
+provide consumers with legal certainty as to their activities
+and with a certainty of circulation. Here is the example from a
+website of an opinion-making daily:
+
+[-- Image: Obraz 3 --]Untitled4
+
+NO – Please explainwhether you consider this to be the case
+in general,or under specific circumstances,and why(e.g. because
+it does not amount to an act of communication to the public – or
+to a new public, or because it should be covered by a copyright
+exception)
+
+NO OPINION
+
+Should the viewing of a web-pagewhere this impliesthetemporary
+reproduction of a work or other subject matterprotected under
+copyrighton the screen andin thecache memoryof the user’s
+computer,either in general or under specific circumstances,be
+subject to the authorisation of the rightholder?
+
+ YES–Pre-judiciary inquiry was forwarded to CJEU concerning
+temporary copies of works created in the computer cache memory
+by search engine while displaying websites (Case C-360/13
+Public Relations Consultants Association). The Court will
+decide whether such copies are within the scope of the
+exemption specified in Directive 2001/29/EC (Art. 5(1). The
+Court of Justice of the European Union defined its position in
+a similar case in its decision of 17 January 2012 (Case C
+302/10 Infopaq v. Danske Dagblades Forening). According to (the
+Infosoc) Directive 2001/29/EC (Art. 5(1), acts of reproduction
+shall be exempted from the reproduction right provided for in
+Article 2 only when they fulfil five requirements, namely, when
+the activity is of a transient or incidental nature, is an
+integral and essential part of a technological process, its
+sole purpose is to enable a transmission in a network between
+third parties by an intermediary or a lawful use of a work or
+other subject matter to be made, and which have no independent
+economic significance. These conditions are of a cumulative
+nature, i.e., failure to fulfil one of them means that the
+given reproduction activity is not exempted on the basis of
+Directive 2001/29/EC (Art. 5(1) provided for in Article 2 of
+the Directive.
+
+Therefore, the case requires analysis on the basis of the above
+mentioned requirements. From the point of view of the press,
+the role of search engines is far more important than that of
+browsers, however IWP is of the opinion that a browser should
+be considered a kind of a reprographic device and should be
+subject to fee adequate to that provided for in national law
+for other reprographic devices or licences in the countries
+where there are no reprographic fees imposed on devices or pure
+carriers connected with them – managed via appropriate copyright
+management organisations.
+
+NO – Please explainwhether you consider this to be the case
+in general,or under specific circumstances,andwhy(e.g. because
+it isor should be covered by a copyright exception)
+
+NO OPINION
+
+Download to own digital content
+
+Digital content is increasinglybeing
+boughtviadigitaltransmission(e.g. download to own). Questions
+arise as to the possibility forusersto dispose of the filesthey
+buy inthismanner(e.g. by selling themorby giving them as a
+gift).Theprinciple of EU exhaustion of the distribution right
+applies in the case of the distribution ofphysical copies (e.g.
+when a tangible article such as a CD or a book, etc. is sold,
+the right holder cannot preventthefurther distributionof that
+tangible article)27
+
+See also recital 28 of Directive 2001/29/EC.
+
+. Theissuethat ariseshere is whether this principlecan also be
+applied in the caseof an act of transmission equivalent in its
+effect to distribution (i.e. where the buyer acquires the
+property of the copy)28
+
+In Case C-128/11 (Oracle vs. UsedSoft) the CJEU ruled that an
+author cannot oppose the resale of a second-hand licence that
+allows downloading his computer program from his website and
+using it for an unlimited period of time. The exclusive right
+of distribution of a copy of a computer program covered by such
+a licence is exhausted on its first sale.While it is thus
+admitted that the distribution right may be subject to
+exhaustion in case of computer programs offered for download
+with the right holder’s consent, the Court was careful to
+emphasise that it reached this decision based on the Computer
+Programs Directive. It was stressed that this exhaustion rule
+constituted alex specialisin relation to the Information
+Society Directive (UsedSoft, par. 51, 56).
+
+.This raises difficultquestions, notably relating to the
+practical application of such an approach (how to
+avoidre-sellers keepingand usinga copy ofawork afterthey have
+“re-sold” it– this is often referred to as the “forward and
+delete” question) as well astotheeconomicimplications of the
+creation of a second-hand market of copies of perfect quality
+that never deteriorate(in contrast to the second-hand market
+for physical goods).
+
+[In particular if you arean enduser/consumer:]Haveyou
+facedrestrictionswhen trying to reselldigital files that
+youhavepurchased(e.g.mp3 file,e-book)?
+
+YES–Please explainby giving examples
+
+NO
+
+NO OPINION
+
+[In particular if you area right holderor a service provider:]
+What would betheconsequencesofproviding a legal framework
+enabling the resale ofpreviouslypurchaseddigital content?
+Please specify per market(type of content)concerned.
+
+[Open question]
+
+The essence of the right exhaustion is a physical transfer of
+ownership or ownership of the work’s copy. In simple terms, it
+means that the seller has no work and thepurchaser/beneficiary
+has it. When it is easy to make copies of digital works and
+mailing a file with a work means its automated copying –
+without the introduction of effective digital rights management
+preventing copying – the institution of the right exhaustion
+would in fact legalise piracy. This situation cannot be
+compared to computer software where the condition of its using
+is registration of the software copy. Thus, the owner can
+control its use i.e. check whether the copy was removed from
+the primary purchaser’s computer before being installed in the
+computer of the next user. In case of the press, even when
+applying the digital rights management, the common circulation
+is possible only of one copy of a newspaper among many
+beneficiaries of the eventual right exhaustion. In the
+situation when the primary purchaser can transfer the read
+digital copy to a successive user within one second by one
+click of a mouse, and that user can transfer it to yet another
+user, one copy can be made available to several dozen people
+daily. Hence, IWP, considering the present status of technology
+and the lack of protection - which is not only ineffective but
+additionally means extra costs for publishers and is unfriendly
+to customers (in, for instance, the ability to make private
+copy) – strongly opposes the adoption of the principle of the
+right exhaustion in relation to digital copies.
+
+Registration of works andother subject matter – is it a good
+idea?
+
+Registration is not often discussed in copyrightin the EUas the
+existing internationaltreaties in the area prohibit formalities
+as a condition for theprotection and exerciseofrights.
+However,this prohibition is not absolute29
+
+For example, it does not affect “domestic” works – i.e.works
+originating inthe country imposing the formalitiesas opposed to
+works originating inanothercountry.
+
+.Moreover a system of registration does not need to bemade
+compulsory or constitute a precondition for the protection and
+exercise of rights.Witha longer term ofprotectionand with the
+increased opportunities that digital technology
+providesfortheuse of content(includingolder works and works
+thatotherwisewouldnot havebeen disseminated),the advantages and
+disadvantages of a system of registrationare increasingly
+beingconsidered30
+
+On the basis of Article 3.6 of the Directive 2012/28/EU of the
+European Parliament and of the Council of 25 October 2012 on
+certain permitted uses of orphan works, a publicly accessible
+online database is currently being set up by the Office
+forHarmonisation of theInternalMarket (OHIM)for the
+registration of orphan works.
+
+.
+
+Wouldthecreation ofa registration system at EU levelhelp in the
+identification and licensing of works and other subject matter?
+
+YES
+
+NO
+
+In new media publishers’ opinion, registration system at EU
+level would create an unnecessary administration burden and
+would cause general weakening of copyright protection because
+of the indispensable assumption that only registered works are
+to be protected by copyright.
+
+According to current international legislation concerning
+copyright, the registration cannot be mandatory and cannot be a
+condition for the protection and exercise of rights.
+
+Press publishers placing press articles on websites inform on
+the conditions of their licensing. Under the majority of
+articles, there is a link “Buy the license” or “License for
+publication” leading to terms and conditions and price
+catalogues. Therefore, running the register of articles would
+not provide added values facilitating licensing but would only
+signify higher costs for publishers.
+
+[-- Image: Obraz 2 --]
+
+[-- Image: Obraz 1 --]
+
+NO OPINION
+
+What would bethe possible advantagesof such a system?
+
+[Open question]
+
+None
+
+What would bethe possible disadvantagesof such a system?
+
+[Open question]
+
+Due to society’s information needs and because of a huge number
+of articles being continuously published every day, just after
+events which they relate, their earlier registration is not
+possible. Moreover, the arguments mentioned in the answer to
+Question 15 apply.
+
+Whatincentives forregistrationbyrightholderscouldbe envisaged?
+
+[Open question]
+
+How to improve theuse andinteroperability ofidentifiers
+
+There are many private databases ofworks and other subject
+matterheld by producers, collective management organisations,
+and institutions such aslibraries, which are based to a greater
+or lesser extent on the use of(more or less)interoperable,
+internationally agreed ‘identifiers’. Identifierscan be
+compared to a reference number embedded in a work,are specific
+to the sector in which they have been developed31
+
+E.g. the International Standard Recording Code (ISRC) is used to
+identify recordings, the International Standard Book Number
+(ISBN) is used to identify books.
+
+, and identify, variously, the work itself, the owner or the
+contributor to a work or other subject matter.There are notable
+examples of where industry is undertaking actions to improve the
+interoperability of such identifiers and databases. The Global
+Repertoire Database32
+
+You will find more information about this initiative on the
+following website:http://www.globalrepertoiredatabase.com/.
+
+should, once operational,provide a single source of information
+on the ownership and control of musical works worldwide. The
+Linked Content Coalition33
+
+You will find more information about this initiative(funded in
+part by the European Commission)on the following website:
+www.linkedcontentcoalition.org.
+
+was established to develop building blocks for the expression
+and management of rights and licensing across all content and
+media types. It includes the development ofa Rights Reference
+Model (RRM) – a comprehensive data model for all types of
+rights in all types of content. The UK Copyright Hub34
+
+You will find more information about this initiative on the
+following website:http://www.copyrighthub.co.uk/.
+
+is seeking to take such identification systems a step further,
+and to create a linked platform, enabling automated licensing
+across different sectors.
+
+Whatshouldbethe role of theEUin promoting the adoption
+of identifiers in the content sector, and in promoting the
+development and interoperability of rights ownership and
+permissions databases?
+
+[Open question]
+
+At present, further development of technology facilitating
+license solutions in the press sector via a click is being
+initiated. In 2011, inter-medial and multinational coalition of
+over 40 partners – including press publishers – from media and
+creative industries was established. It included authors and
+artists to make them cooperate with their standard authorities
+to create automated and semi-automated communication between
+right holders and those who want to use content, on the basis
+of identifiers and inter-operative standards of metadata.
+
+IWP is a member of ENPA which is a partner of that organisation
+called Linked Content Coalition (LCC).
+
+At present, there is the European Commission-supported RDI
+project being launched which aims at further development of the
+above mentioned programme. Each web user creating new content,
+irrespective whether including re-use of already existing
+content or not, should beable to simply add such identifiers to
+his/her content, enabling better protection of creators and
+improving their potential abilities to capitalise the content
+they create.
+
+Newspaper and news media publishers support further dialogue
+with the European Commission in order to inform it and update
+provided information concerning studies on possible
+pan-European dimension of national initiatives such as the
+British Copyright Hub. The European Commission should, wherever
+possible, support the projects aimed at further improvement of
+the Internet-based solutions in the area of providing
+authorised access to content and using text and image works.
+
+Term of protection– is it appropriate?
+
+Works and other subject matter are protected under copyright for
+a limited period of time. After the term of protection has
+expired, a work falls into the public domain and can be freely
+used by anyone (in accordance with the applicable national
+rules on moral rights). The Berne Convention35
+
+Berne Convention for the Protection of Literary and Artistic
+Works,http://www.wipo.int/treaties/en/ip/berne/.
+
+requiresa minimum term of protection of 50 years after the death
+of the author. The EUrulesextend this term of protection to 70
+years after the death of the author (as do many other
+countries, e.g. the US).
+
+With regard to performers in the music sector and phonogram
+producers, theterm provided for in theEU rulesalsoextend20
+years beyond what is mandated in international
+agreements,providingfor a term of protection of 70 years after
+the first publication. Performers and producers in the
+audio-visual sector, however, do not benefit from such an
+extended term of protection.
+
+Arethe current terms ofcopyright protection still appropriate in
+the digital environment?
+
+YES–
+
+In the IWP opinion, shortening the terms of copyright protection
+could have negative consequences for development of culture.
+Copyright are often treated by purchasers as investments, thus,
+helping to stimulate and develop creativity and therefore
+shortening the terms of copyright protection would lead to
+decrease of their value and in result, remuneration for the
+transfer of copyright would also be lowered. In further
+perspective, it could cause the pauperisation of culture due to
+the lack of authors’ motivation to create new works. Newspaper
+and news media publishers regard present terms of copyright
+protection as appropriate also for the digital environment.
+Publishers should benefit from the protection of their
+intellectual property in recognition of historical and cultural
+importance of news media reporting current and past events and
+the vital role the newspapers play in a democratic society.
+
+Maintenance of the proper terms of copyright protection is
+particularly important for newspaper publishers, given the
+commercial value of heir archives, which increasingly
+constitute a part of subscription and other paid-for business
+models.
+
+Newspaper publishers digitalise and make available their content
+not only through their print and digital issues but also – on
+the commercial basis – through their archives and databases.
+Having much in common with other publishing sectors, newspaper
+publishers differ, however, when it comes to their own business
+models and our archives have a significant commercial value. New
+markets are being constantly developed both inrelation to
+historical and contemporary collections. Moreover, shortening
+terms of copyright protection could undermine constitutional
+rules of the acquired rights protection.
+
+NO– Please explain if they should be longer or shorter
+
+NO OPINION
+
+Limitations and exceptions in the Single Market
+
+Limitations and exceptions to copyright and related rights
+enable the use of works and other protected
+subject-matter,without obtaining authorisation from the
+rightholders,for certain purposes and to a certain extent (for
+instance the use for illustrationpurposesof an extract from a
+novelby a teacher in a literature class). At EU level theyare
+established in a number of copyright directives, most notably
+Directive2001/29/EC36
+
+Plus Directive 96/9/ECon the legal protection of
+databases;Directive 2009/24/ECon the legal protection of
+computer programs,and Directive 92/100/ECon rental right and
+lending right.
+
+.
+
+Exceptions and limitations in the national and EU copyright laws
+have to respect international law37
+
+Article 9(2) of the Berne Convention for the Protection of
+Literary and Artistic Works (1971); Article 13 of the TRIPS
+Agreement (Trade Related Intellectual Property Rights) 1994;
+Article 16(2) of the WIPO Performers and Phonograms Treaty
+(1996); Article 9(2) of the WIPO Copyright Treaty (1996).
+
+.In accordance with international obligations, the EU acquis
+requires that limitations and exceptionscanonlybeapplied in
+certain special cases which do not conflict with a normal
+exploitation of the work or other subject matter and do not
+unreasonably prejudice the legitimate interest of the
+rightholders.
+
+Whereas thecatalogueof limitations and exceptions included
+inEUlawis exhaustive(no other exceptions can be applied to the
+rights harmonised at EU level)38
+
+Other than the grandfathering of the exceptions of minor
+importance for analogue uses existing in Member States at the
+time of adoption ofDirective 2001/29/EC(see, Art. 5(3)(o)).
+
+, these limitations and exceptions areoftenoptional39
+
+With the exception ofcertain limitations: (i)in the Computer
+Programs Directive,(ii) in the Database Directive,(iii) Article
+5(1) in theDirective 2001/29/ECand(iv) the OrphanWorksDirective.
+
+,in the sense thatMember Statesare free to reflect in national
+legislation as many or as few of them as they wish.Moreover,the
+formulation of certain of the limitations andexceptionsis
+general enough to give significantflexibility totheMember
+States as to how,and to what extent,toimplement them (if they
+decide to do so). Finally,it is worth noting that not all of
+the limitationsand exceptionsincluded in the EUlegal framework
+for copyrightare of equivalent significance in policy terms and
+in terms of their potential effect on the functioning of the
+Single Market.
+
+Inaddition, inthe same manner that the definition of the rights
+is territorial (i.e. has an effect only within the territory of
+the Member State), the definition of the limitations and
+exceptions to the rights is territorial too (so an act that is
+covered by an exception in a Member State "A" may still require
+the authorisation of the rightholder once we move to the Member
+State "B")40
+
+Only theexception established in therecent Orphan Works
+Directive(a mandatory exceptionto copyright and related rights
+in the case where the rightholders are not known or cannot be
+located) has been givena cross-border effect, which means that,
+for instance, once a literary work – for instance a novel – is
+considered an orphan work in a Member State, that same
+novelshall be considered an orphan work in all Member Statesand
+can beused and accessed in all Member States.
+
+.
+
+The cross-bordereffectoflimitations andexceptionsalsoraises the
+question of fair compensation of rightholders.In some
+instances,Member States are obliged to compensate rightholders
+for theharminflicted on them bya limitation orexceptionto their
+rights. In otherinstancesMember Statesare not obliged, butmay
+decide,to provide for such compensation.If a limitation or
+exception triggering a mechanism of fair compensation were to
+be given cross-border effect (e.g. the books are used for
+illustration in an online course given by an university in
+a Member State "A" and the students are in a Member State"B")
+then there would also be a need to clarifywhich national law
+shoulddeterminethe level of that compensation and who should
+pay it.
+
+Finally, the question of flexibility and adaptabilityis being
+raised:what is the best mechanism to ensure that the EU and
+Member States’ regulatory frameworks adapt when necessary
+(either to clarify that certain uses are covered by an
+exception or to confirm that for certain uses the authorisation
+of rightholders is required)?The main question here is whether
+a greaterdegree of flexibility can be introduced in the EU and
+Member States regulatory framework while ensuringthe
+requiredlegal certainty,including for the functioning of the
+Single Market, and respecting the EU's international
+obligations.
+
+Are there problems arising from the fact that most limitations
+and exceptions provided in the EUcopyrightdirectivesare
+optionalfor the Member States?
+
+YES – Please explain by referring to specific cases
+
+NO –
+
+Current optional nature of exemptions and limitations enables
+Member States to use their national competence in the area of
+creative and medial content, which are generally of a local,
+regional and national character.
+
+There is no evidence indicating that greater number of mandatory
+limitations and exemptions would bring better results than the
+pragmatic approach taken by the EU on the basis of optional
+exemptions and limitations, in combination with development,
+where possible and appropriate, of practical solutions in
+individual cases aimed at expanding the scope of harmonisation.
+
+Such pragmatic, voluntary approach allows Europe to lead in
+development of innovative solutions and stands behind the fact
+that European “IPR-intensive industries account for more than
+56 million jobs or 26% of total employment in the EU”
+(http://ec.europa.eu/internal_market/intellectual-property/docs/joint-report-epo-ohim-final-version_en.pdf,
+page 59).
+
+In Poland, where almost all exceptions foreseen in the Directive
+were adopted, the value of creative industries and innovation
+are far lower than in the countries where these exceptions were
+adopted in a minimal scale. In our opinion, all discussions
+concerning harmonisation of exceptions should be preceded by a
+thorough analysis of their impact on Member States’ internal
+markets. The optional character of these exceptions enables
+these Member States to verify their national legislations if
+the impact assessment shows that the adopted exceptions hinder
+development of creative industries and national creativity
+
+NO OPINION
+
+Should some/all of the exceptions be made mandatory and, if so,
+is there aneed for a higher level of harmonisation of such
+exceptions?
+
+YES–Please explain byreferringto specific cases
+
+NO –Similar to Question 21, we believe thatall discussions
+concerning harmonisation of exceptions should be preceded by a
+thorough analysis of their impact on Member States’ internal
+markets
+
+NO OPINION
+
+Should any newlimitations andexceptions be added toor removed
+fromthe existing catalogue?Please explain by referring to
+specific cases.
+
+[Open question]
+
+NO.
+
+Issues of expansion, limiting, clarification or making the
+existing exceptions more flexible cannot be decided without a
+thorough analysis of the impact on creating and financing
+culture, and the economic aspect in terms of creating national
+and European GDPs. We should answer the question who is a
+beneficiary of such exceptions in the economic sense. Users or
+platforms online, earning huge money on the users’ activities,
+which – on the basis of an exception – place on these platforms
+also copyright protected materials of the third parties. How do
+the interests of creative enterprises who invest significant
+resources into creativity look from this perspective? In a
+longer perspective, it can lead to a disappearance and strict
+rationing of professional creation due to the emergence of
+state-financed creation and press materials of public media
+financed from subscription fee as well as the creation
+performed by people having other means of living.
+
+Independently from the questions above, is there a need to
+provide for agreaterdegree of flexibility in the EU regulatory
+framework for limitations and exceptions?
+
+YES – Please explain why
+
+NO
+
+Newspaper publisherswould like to stress that the optional
+character of exceptions and limitations in the EU Directive on
+copyright, already provides for a sufficient degree of
+flexibility. No reform of the EU copyright framework should
+necessarily include the introduction into European copyright
+law of an American-style general fair use provision.
+
+The American concept of “fair use” was introduced in the
+analogue era. It is not appropriate to introduce this concept
+into the EU legislation, which already allows for a
+comprehensive list of exceptions to copyright. Publishers of
+newspaper and news media are strongly opposed to the
+introduction of a “fair use” provision into EU copyright
+framework. Moreover, the actual scope and meaning of the
+equivalent provision in the US is still being decided by case
+law.
+
+NO OPINION
+
+If yes, what would be the best approach to provide for
+flexibility? (e.g.interpretation by national courts and the
+ECJ, periodic revisions of the directives, interpretations by
+the Commission, built-in flexibility, e.g. in the form of a
+fair-useor fair dealingprovision / open norm, etc.)?Please
+explain indicating what would be the relative advantages and
+disadvantages of such an approachas well asitspossible effects
+on the functioning of the Internal Market.
+
+[Open question]
+
+Does the territoriality of limitations and exceptions, in your
+experience,constitute a problem?
+
+YES–Please explain why andspecify which exceptions you are
+referring to
+
+NO–
+
+In general, in respect of licensing of newspaper content, the
+territoriality of limitations and exceptions does not
+constitute particular problems. User request related to rights
+are to a large extent confined to uses and users within the
+territory of one Member State. Demands for cross-border or
+multi-territory licensing are limited and can be satisfactorily
+addressed on the basis of the current models of operation.
+
+NO OPINION
+
+In the event that limitationsand exceptionsestablished at
+national level were to have cross-border effect, howshouldthe
+question of “fair compensation” be addressed, whensuch
+compensation is part of the exception? (e.g. who pays whom,
+where?)
+
+[Open question]
+
+Access to content in libraries and archives
+
+Directive2001/29/EC enablesMember Statesto reflect in their
+national law a rangeoflimitations andexceptions for the benefit
+of publicly accessible libraries, educational establishments and
+museums, as well as archives. If implemented, these
+exceptionsallow acts of preservation and archiving41
+
+Article 5(2)c of Directive 2001/29.
+
+andenable on-site consultation oftheworks and other subject
+matter in the collections of such institutions42
+
+Article 5(3)nof Directive 2001/29.
+
+. The public lending(under an exception or limitation)by these
+establishments of physical copies of works and other subject
+matter is governed by the Rental and Lending Directive43
+
+Article 5 of Directive 2006/115/EC.
+
+.
+
+Questionsarise as to whetherthe current framework continues to
+achieve the objectives envisaged or whether it needs to be
+clarified or updated to cover use in digital networks. At the
+same time, questions arise as to the effect of such a possible
+expansion on the normal exploitation of works and other subject
+matter and as to the prejudice this may cause to rightholders.
+The role of licensing and possible framework agreements between
+different stakeholders also needsto be considered here.
+
+Preservationand archiving
+
+The preservation of the copies of worksor othersubject-matter
+held in the collections of cultural establishments (e.g. books,
+records, or films)– the restoration or replacement of works, the
+copying of fragile works -mayinvolvethe creation ofanother
+copy/iesof these worksor othersubject matter. Most Member
+States provide for an exception in their national laws allowing
+for the making of such preservation copies.The scope of the
+exceptiondiffersfrom Member State to Member State(as regardsthe
+type of beneficiary establishments, the types of
+works/subject-mattercovered by the exception, the mode of
+copyingand the numberof reproductions that a beneficiary
+establishment may make).Also, the current legal status of new
+types of preservation activities (e.g. harvesting and archiving
+publicly available web content) is often uncertain.
+
+(a)[In particular if you arean institutional user:]Haveyou
+experienced specific problems when trying to use an exception
+to preserve and archive specific works or other subject matter
+in your collection?
+
+(b)[In particular if you arearightholder:]Have you experienced
+problems with the use by libraries, educational establishments,
+museum or archives of the preservation exception?
+
+YES –
+
+Press publishers in Poland have a big problem with the abuse of
+that exception. It is closely connected with an inaccurate
+implementation of Directive 2001/29/EC in Poland. The archive
+status is claimed by private media monitoring companies, which
+not only copy the content of all publically available content
+online but also scan and digitalise the content of all
+newspapers and magazines published in Poland, and then make
+them available while providing commercial press clipping
+services, referring at the same time to the exception for
+documentary and information institutions. The market of press
+clipping services provided in this way amounts to 80%. Respect
+for copyright and fair competition is an essential precondition
+for publishers’ continued investment in the wide range of
+quality content to inform European citizens. Creating archives
+of old issues of newspapers is allowed exclusively by the
+consent of publishers. Archiving newspapers should occur
+entirely for the purpose of preservation of the European
+cultural heritage.
+
+Therefore, this exception should be applied in a minimal scale.
+In regard to current issues of newspapers and magazines and the
+archives of press material made available online, the change of
+the current scope of that exception would mean the introduction
+of a mechanism of unfair competition towards press publishers.
+An easy way to see press content made available online by the
+publishers in a commercial manner, without leaving one’s home
+via the library website, would entirely ruin, already poorly
+performing digital press market in Poland. The issue of a
+possibility of introducing paid-for licenses should be
+thoroughly analysed. The permanent access to press content via
+a website is an entirely different matter than borrowing a copy
+of the work from a library
+
+NO
+
+NO OPINION
+
+If there are problems, how would theybestbe solved?
+
+[Open question]
+
+By introducing voluntary licences
+
+If your view is that a legislative solution is needed, what
+would be its main elements? Which activities of the beneficiary
+institutions should be coveredand under which conditions?
+
+[Open question]
+
+The main element of such solution should be equitable
+remuneration for right holders. But legislative solution in
+press sector is not needed if the beneficiary institutions will
+negotiate with Polish Collecting Society (Publishers Association
+REPROPOL) for licence
+
+If your view is thatadifferent solutionisneeded, what would it
+be?
+
+[Open question]
+
+First of all EC should check, if the rules of Directive
+2001/29/EC are respectedin all EU countries.
+
+Off-premises access to library collections
+
+Directive 2001/29/EC provides an exception
+fortheconsultationofworks and other subject-matter(consulting
+an e-book, watching a documentary) viadedicated terminals on
+the premises of such establishmentsfor the purpose of research
+and private study. The online consultation ofworks and other
+subject-matter remotely(i.e. when the library user is not on
+the premises of the library)requires authorisation andis
+generallyaddressed in agreements between universities/libraries
+and publishers.Some argue that the law rather than agreements
+should provide for the possibility to, and the conditions
+for,grantingonline access to collections.
+
+(a)[In particular if you are an institutional user:]Have you
+experienced specific problems when trying to negotiate
+agreements with rights holders that enable you to provide
+remote access, including across borders,to your collections (or
+parts thereof) for purposes of research and private study?
+
+(b)[Inparticular if you are an enduser/consumer:]Have you
+experienced specific problems when trying to consult, including
+across borders,works and other subject-matter held in the
+collections of institutions such as universities and national
+libraries when you are not on the premises of the institutions
+in question?
+
+(c)[In particular if you are arightholder:]Have you negotiated
+agreements with institutional users that enable those
+institutions to provide remote access, including across
+borders,to the works or other subject-matter in their
+collections, for purposes of research and private study?
+
+[Open question]
+
+NO.
+
+Institutional users (libraries) in Poland are not interested in
+any license and are striving for an exception they could
+benefit from. Poland has not yet introduced remuneration for
+right holders for public lending rights. Because of a huge
+burden, which is for publishers of the press and books the
+obligation to deliver 18 free copies to libraries, a
+possibility of replacing traditional copy with a digital copy
+was discussed. Unfortunately, since libraries came to the
+conclusion that they can provide access to a quire i.e. 8 pages
+of each publication online, without consent and any compensation
+for right holders (publishers), the agreement has not been
+reached.
+
+If there are problems, how would theybestbe solved?
+
+[Open question]
+
+In newspaper publishers’ view, problems are best solved through
+stakeholder dialogues. Organisations representing libraries,
+archives, authors, publishers and collective management
+organisations have a proven track record in developing
+solutions for libraries and archives through stakeholder
+dialogues. Examples are principles for rights clearance and
+registries of orphan works, model licensing agreements, etc.
+
+If your view is that a legislative solution is needed, what
+would be its main elements? Which activities of the beneficiary
+institutions should be coveredand under which conditions?
+
+[Open question]
+
+By introducing voluntary licences.
+
+If your view is thatadifferent solutionisneeded, what would it
+be?
+
+[Open question]
+
+Problem to be solve – is creating non-commercial tools (like
+search engines) which will make possible to distinguish
+commercial or non-commercial use. The most profitable in
+internet is not providing the copyright protected work but
+delivering the tools to find or present it.
+
+E –lending
+
+Traditionally, public libraries haveloanedphysical copies of
+works (i.e. books, sometimes also CDs and DVDs) to their users.
+Recent technological developments have made it technically
+possible for libraries to provide users with temporary access
+to digital content, such as e-books, music or films via
+networks. Under the current legal framework, libraries need to
+obtain the authorisation of the rights holders
+toorganisesuche-lending activities. In various Member States,
+publishers and libraries are currently experimenting with
+different business models for the making available of works
+online, including direct supply of e-books to libraries by
+publishers or bundling byaggregators.
+
+(a)[In particular if you are alibrary:]Have you experienced
+specific problems when trying tonegotiate agreements to enable
+the electronic lending(e-lending), including across borders,
+ofbooks or other materials held in your collection?
+
+(b)[In particular if you are an enduser/consumer:]Haveyou
+experienced specific problems when trying to borrow booksor
+other materialselectronically (e-lending), including across
+borders,from institutionssuch as public libraries?
+
+(c)[In particular if you are aright holder:]Have you negotiated
+agreements with libraries to enable them to lend books or other
+materials electronically, including across borders?
+
+YES – Please explainwith specific examples
+
+NO
+
+Please note our comment to the Question 32.
+
+NO OPINION
+
+If there are problems, how wouldtheybestbe solved?
+
+[Open question]
+
+Please note our comment to the Question 32, 33 & 34.
+
+The following two questions are relevant bothtothis point (n° 3)
+and the previous one (n° 2).
+
+[In particular if you are an institutional user:]What
+differences do you see in the management of physical and online
+collections, including providing access to your subscribers?
+What problems have you encountered?
+
+[Open question]
+
+Please note our comment to the Question 39.
+
+[In particular if you are a right holder:]What difference do you
+see betweenlibraries’traditional activities such as on-premises
+consultation or public lending and activities such as
+off-premises (online, at a distance) consultation and
+e-lending? What problems have you encountered?
+
+[Open question]
+
+In regard to current issues of newspapers and magazines and the
+archives of press material made available online, the change of
+the current scope of that exception would mean the introduction
+of a mechanism of unfair competition towards press publishers.
+An easy way to see press content made available online by the
+publishers in a commercial manner, without leaving one’s home,
+via the library website, would entirely ruin, already poorly
+performing digital press market in Poland. The issue of a
+possibility of introducing paid-for licenses should be
+thoroughly analysed. The permanent access to press content via
+a website is an entirely different matter than a temporary use
+of the work’s copy borrowed from a library. It is sufficient to
+produce one digital file with the newspaper content, place it on
+a library server and provide link to the content for everybody
+to see. Who will finance, however, the creation of such a
+newspaper?
+
+Mass digitisation
+
+The term “mass digitisation” is normally used to refer to
+efforts by institutions such as libraries and archives to
+digitise (e.g. scan) the entire content or part of their
+collections with an objective to preserve these collections
+and, normally, to make them available to the public. Examples
+are efforts by libraries to digitise novels form the early part
+of the 20thcentury or whole collections of pictures of
+historical value. This matter has been partly addressed at the
+EU level by the 2011 Memorandum of Understanding (MoU) on key
+principles on the digitisationand making available of out
+of commerce works (i.e. works which are no longer found in the
+normal channels of commerce),whichisaimingto facilitatemass
+digitisation efforts (for books and learned journals) on the
+basis of licence agreements between libraries and similar
+cultural institutions on the one hand and the collecting
+societies representing authors and publishers on the other44
+
+You will find more information about his MoU on the following
+website:http://ec.europa.eu/internal_market/copyright/out-of-commerce/index_en.htm.
+
+.Provided the required funding is ensured(digitisation projects
+are extremely expensive),the result of this MoU should bethat
+books that are currently to be found only in the archives of,
+for instance, libraries will be digitised and made available
+online to everyone.The MoU is based on voluntary licences
+(granted by Collective Management Organisations on the basis of
+the mandates they receive from authors and publishers). Some
+Member States may need to enact legislation to ensure the
+largest possible effect ofsuchlicences (e.g. by establishing in
+legislation a presumption of representation of a collecting
+society or the recognition of an “extended effect” to the
+licences granted)45
+
+France and Germany have already adopted legislation to back the
+effects of the MoU.The French act (LOI n° 2012-287 du 1er mars
+2012 relative à l'exploitation numérique des livres
+indisponibles du xxe siècle) foresees collectivemanagement,
+unless the author or publisher in question opposes such
+management.The German act (Gesetz zur Nutzung verwaister und
+vergriffener Werke und einer weiteren Änderung des
+Urheberrechtsgesetzes vom 1.Oktober 2013) contains a legal
+presumption of representation by a collectingsociety in
+relation to works whose rightholdersare not members of the
+collecting society.
+
+.
+
+[In particular if you are an institutional user,engaging or
+wanting to engage in mass digitisation projects,a
+rightholder,acollective management organisation:]Woulditbe
+necessaryin your country to enact legislationto ensure
+thattheresults of the 2011 MoU (i.e. the agreements concluded
+between libraries and collecting societies) havea cross-border
+effect sothatout of commerce workscan be accessedacross the EU?
+
+YES – Please explainwhy and how it could best be achieved
+
+NO
+
+The mass-digitalisation of newspaper content by public libraries
+or by private companies may represent a risk to publishers’
+ability to develop new business models in the digital
+environment, and to monetise their content.
+
+The 2011 MoU referred mostly to books since the press sector
+operates in an entirely different way and newspapers digitalise
+and provide access online to “old” content through their
+archives and databases on commercial basis. In case of the
+press, it is rather difficult to speak of the content “out of
+commerce”.
+
+NO OPINION
+
+Would it be necessary to develop mechanisms, beyond those
+already agreed for other typesof content (e.g.for audio- or
+audio-visual collections, broadcasters’ archives)?
+
+YES – Please explain
+
+NO
+
+Mass digitalisation of newspaper content by public libraries or
+by private companies represents a considerable risk to
+publishers’ ability to make contractual agreements with their
+partners, in order to monetise their content and therefore
+ensure that their titles can remain sustainable in both the
+print and digital environment.
+
+Providing new mechanisms for mass-digitalisation would represent
+a direct threat to publishers’ economic sustainability and their
+ability to respond adequately to digital challenges.
+
+NO OPINION
+
+Teaching
+
+Directive 2001/29/EC46
+
+Article 5(3)aof Directive 2001/29.
+
+enables Member States to implement in their national
+legislationlimitations and exceptionsfor the purpose of
+illustration fornon-commercialteaching. Such exceptions would
+typically allow a teacher to use parts of or full works to
+illustrate his course,e.g.by distributing copies of fragments
+of a book or of newspaper articles in the classroom or by
+showing protected content on a smart boardwithout having to
+obtain authorisation from the right holders.The open
+formulation of this (optional) provision allows for rather
+different implementation at Member States level.The
+implementation of the exception differs from Member State to
+Member State, with several Member States providinginsteada
+frameworkfor the licensing of contentforcertain
+educationaluses. Some argue that the lawshould provide for
+better possibilities for distance learningand study at home.
+
+(a)[In particular if youare an enduser/consumeror an
+institutional user:]Have you experienced specific problems when
+trying to use works orother subject-matter for illustration for
+teaching, including across borders?
+
+(b)[In particular if youarearight holder:]Have
+youexperiencedspecificproblems resulting from the wayin
+whichworks or other subject-matter are used for illustration
+for teaching, including across borders?
+
+YES–Please explain
+
+NO
+
+Newspaper publishers understand the exception set out in Article
+5(3)(a) as being a narrow exception to the exclusive rights,
+aimed at enabling exactly what it states: to illustrate, which
+is far from being the same as planned producing of teaching
+material.Teaching material in whatever format, including
+multiple copying for classroom use, cannot and is not desired
+to be made under this exception, as it would definitely
+undermine the normal exploitation of these works.
+
+NO OPINION
+
+If there are problems, how wouldtheybestbe solved?
+
+[Open question]
+
+There are no problems.
+
+What mechanisms exist in the market place to facilitate the use
+of content for illustration for teaching purposes?How
+successful are they?
+
+[Open question]
+
+Publishers of newspapers and news media have been pioneers in
+promoting the use of content for teaching purposes. The role of
+news media publishers in improving media literacy through
+various programmes, particularly in schools, was recognised in
+the 2009 European Commission recommendation on media literacy
+(2009/625/EC).
+
+The newspaper sector in Poland has been active for many years at
+national level in specially developed “Newspaper in Education”
+programmes in primary and secondary schools. The regional press
+is running the campaign “Schools without Violence” and
+nationwide newspapers are engaged in various educational
+projects. The most important of them is the project by “Gazeta
+Wyborcza” entitled “The School with Class”. Newspapers also
+actively participate in education events, which are annual
+tests organised at the end of the primary school education. The
+day after final exams, the test questionnaires are published
+with correct answers and during a school year, many samples of
+tests and educational material are being publicised.
+
+Due to the efforts of publishers, news media content in both
+print and digital formats plays an essential role in teaching
+programmes that focus on the ability of citizens to inform
+themselves and to analyse current social, political and
+economic developments.
+
+In the digital era, these projects have shown to be really
+helpful to media users to develop understanding of how and why
+media content is produced and to evaluate the trustworthiness
+of different sources. These programmes both help young people
+approach media content, distinguish between fact and opinion,
+and between editorial and advertising, as well as teaching them
+how to create their own press content
+
+If your view is that a legislative solution is needed, what
+would be its main elements? Which activities of the beneficiary
+institutions should be coveredand underwhatconditions?
+
+[Open question]
+
+NO.
+
+If your view is thatadifferent solutionisneeded, what would it
+be?
+
+[Open question]
+
+Press in Poland would be keen to accept government support for
+media literacy projects with newspaper presence in schools.
+
+Research
+
+Directive 2001/29/EC47
+
+Article 5(3)a of Directive 2001/29.
+
+enables Member States to choose whether to implement in their
+national laws a limitation for the purpose of non-commercial
+scientific research.Theopenformulation of this (optional)
+provision allows forratherdifferent implementationsat Member
+States level.
+
+(a)[In particular if you arean enduser/consumeror an
+institutional user:]Haveyou experienced specific problems when
+trying to use works or other subject matter in thecontextof
+research projects/activities, including across borders?
+
+(b)[In particular if you area right
+holder:]Haveyouexperiencedspecificproblemsresulting from the
+wayin whichworks or other subject-matter are usedin
+thecontextof research projects/activities, including across
+borders?
+
+YES–Please explain
+
+NO
+
+NO OPINION
+
+If there are problems, how wouldtheybestbe solved?
+
+[Open question]
+
+What mechanisms exist in the Member States to facilitate the use
+of content for research purposes?How successful are they?
+
+[Open question]
+
+Publishers’ Association REPROPOL is currently developing license
+solution enabling access – often free of charge or for minimal
+fee – to newspaper content for researchers and
+scientificinstitutions in order to conduct scientific studies.
+The publishers undertake efforts to make such licenses easer to
+obtain and more effective.
+
+Disabilities
+
+Directive 2001/29/EC48
+
+Article 5 (3)b of Directive 2001/29.
+
+provides for an exception/limitation for the benefit of people
+with a disability.The open formulation of this (optional)
+provision allows for rather different implementationsat Member
+States level.At EU and international level projects have been
+launched to increase the accessibilityof works and other
+subject-matterforpersons with disabilities (notably by
+increasing the number of works published in special formats and
+facilitating their distribution across the European Union)49
+
+The European Trusted Intermediaries Network (ETIN)resulting
+froma Memorandum of Understanding betweenrepresentatives of the
+right-holder community (publishers, authors, collecting
+societies) and interested parties such as associations for
+blind and dyslexic
+persons(http://ec.europa.eu/internal_market/copyright/initiatives/access/index_en.htm)
+and the Trusted Intermediary Global Accessible Resources (TIGAR)
+project in WIPO (http://www.visionip.org/portal/en/).
+
+.
+
+The Marrakesh Treaty50
+
+MarrakeshTreaty to Facilitate Access to Published Works by
+Visually Impaired Persons and Persons with Print
+Disabilities,Marrakesh, June 17 to 282013.
+
+has been adopted to facilitate access to published works for
+persons who are blind, visually impaired, or otherwise print
+disabled. The Treaty creates a mandatory exception to copyright
+that allows organisations for the blind to produce, distribute
+and make available accessible format copies to visually
+impaired persons without the authorisation of the rightholders.
+The EU and its Member Stateshave startedwork to sign and ratify
+the Treaty. This may require the adoption of certain provisions
+at EU level (e.g. to ensure the possibility to exchange
+accessible format copies across borders).
+
+(a)[Inparticular if you are a person with a disability or an
+organisation representing persons with disabilities:]Have you
+experienced problems with accessibility to content, including
+across borders,arising from Member States’ implementation of
+this exception?
+
+(b)[Inparticular if you are an organisationproviding services
+for persons with disabilities:]Have you experienced problems
+when distributing/communicating works published in special
+formats across the EU?
+
+(c)[In particular if you are arightholder:]Have you
+experiencedspecificproblems resulting fromthe application of
+limitations or exceptions allowing for the
+distribution/communication of works published in special
+formats, including across borders?
+
+YES–Please explainby giving examples
+
+NO
+
+Exceptions and limitations in favour of persons, who are blind,
+visually impaired or otherwise print disabled, exist in all EU
+Member States. Also publishers offer licensing agreements to
+facilitate access to copyright published works for those user
+groups.
+
+In the EU Member States, exceptions for persons with
+disabilities, especially visually impaired persons and persons
+with print disabilities are included in national copyright laws
+according to legal traditions of each country. Polish Publishers
+believe that the exceptions and limitations in the current EU
+copyright framework are well applied and respected in various
+Member States. In addition, publishers have concluded
+successfullicensing agreements with different categories of
+users (schools, libraries, health organisations, etc.), which
+address their specific needs and expectations in the digital
+and print environment.
+
+Publishers are aware of many barriers in access to information
+experienced by persons who have partial vision and who have
+print disabilities. Publishers support the objective that
+visually impaired person/persons with print disabilities will
+have access to information.
+
+The main challenge is linked to the cross-border exchange of
+accessible format copies. The WIPO Treaty to Facilitate Access
+to Published Works for Persons who are Blind, Visually Impaired
+or otherwise Print Disabled, will undoubtedly contribute to the
+enhancement of the cross-border exchange of such copies. It
+will, however, take time for the Treaty to come into force and
+be implemented in national legislation. Also, it may not alone
+solve all challenges.
+
+We believe that any initiative in this field should be focused
+directly on improving accessibility, fully taking into account
+the national character of copyright law in the Member States,
+and ensuring that the accessible format copy is used
+exclusively by beneficiary persons. Such an instrument must
+remain fair in its application to commercially available
+newspaper content, with the prior authorisation of the rights
+holder.
+
+Newspaper publishers are involved and/or are open to discussions
+and voluntary agreements with authorised entities and other
+stakeholders at national level in order to find balanced
+voluntary partnerships agreements, which enable the authorised
+authorities to fulfil their mission, while at the same time,
+respecting copyright legislation and not undermining
+publishers’ commercial activities with respect to their
+content.
+
+It is of a fundamental importance that any agreement reached
+regarding the digitalisation and/or making available of a work
+for the print disabled should be on a voluntary basis. We
+believe that remuneration should be a part of any agreement,
+unless the publisher chooses to proceed in another way.
+
+NO OPINION
+
+Ifthere are problems, what could be done to improve
+accessibility?
+
+[Open question]
+
+Publishers believe that the appropriate solution to provide
+newspaper content for the print disabled is not more
+legislation but licensing on a voluntary basis and cooperation
+between publishers and authorised authorities, as is already
+the case in a number of Member States.
+
+What mechanisms exist in the market place to facilitate
+accessibility to content? How successful are they?
+
+[Open question]
+
+It is clear that considerable resources are required to make
+works accessible to visually impaired persons and persons with
+print disabilities. We think that public institutions and
+governments have an important role to play in providing
+sufficient technical and financial means to authorised entities
+representing persons with print disabilities, as this is a part
+of the public sector and the public mission of the state.
+
+Text and data mining
+
+Text and data mining/content mining/data analytics51
+
+For the purpose of the present document, the term “text and data
+mining” will be used.
+
+are different terms used to describe increasingly important
+techniques used in particular by researchers for the
+exploration of vast amounts of existing texts and data (e.g.,
+journals, web sites, databases etc.). Through the use of
+software or other automated processes, an analysis is made of
+relevant texts and data in order to obtain new insights,
+patterns and trends.
+
+The texts and data used for mining are either freely accessible
+on the internet or accessible through subscriptions to e.g.
+journals and periodicals that give access to the databases of
+publishers. A copy is made of the relevant texts and data (e.g.
+on browser cache memories or in computers RAM memories or onto
+the hard disk of a computer), prior to the actual analysis.
+Normally, it is considered that to mine protected works or
+other subject matter, it is necessary to obtain authorisation
+fromtherightholdersfor the making of such copiesunless such
+authorisation can be implied (e.g. content accessible to
+general public without restrictions on the internet,
+openaccess).
+
+Some argue that the copies required for text and data mining are
+covered by the exception for temporary copies in Article 5.1 of
+Directive 2001/29/EC. Others consider that text and data mining
+activities should not even be seen as covered by copyright. None
+of thisis clear, in particular since text and data mining does
+not consist only of a single method, but can be undertaken in
+several different ways. Important questions also remain as to
+whether the main problems arising in relation to this issue go
+beyond copyright (i.e. beyond the necessity or not to obtain
+the authorisation to use content) and relate rather to the need
+to obtain “access” to content (i.e. being able to use e.g.
+commercial databases).
+
+A specific Working Group was set up on this issue in the
+framework of the "Licences for Europe" stakeholder dialogue. No
+consensus was reached among participating stakeholders on either
+the problems to be addressed or the results. At the same time,
+practical solutions to facilitate text and data mining of
+subscription-based scientific content were presented by
+publishers as an outcome of “Licences for Europe”52
+
+See the document “Licences for Europe – tenpledges to bring more
+content
+online”:http://ec.europa.eu/internal_market/copyright/docs/licences-for-europe/131113_ten-pledges_en.pdf.
+
+.In the context of these discussions, other stakeholders argued
+that no additional licences should be required to mine material
+to which access has been provided through a
+subscriptionagreement and considered that a specific exception
+for text and data mining should beintroduced, possibly on the
+basis of a distinction between commercial and non-commercial.
+
+(a)[In particular if you are an enduser/consumeror an
+institutional user:]Haveyou experiencedobstacles,linked to
+copyright,when trying to usetext or data miningmethods,
+including across borders?
+
+(b)[In particular if you are aservice provider:]Have you
+experienced obstacles, linked to copyright, when providing
+services based on text or data mining methods, including across
+borders?
+
+(c)[In particular if you are a rightholder:]Have you
+experiencedspecificproblems resulting fromthe useof textand
+data mining in relation to copyright protected content,
+including across borders?
+
+YES
+
+Publishers of newspapers and news media have not experienced
+specific problems from the use of text and data mining (TDM) in
+relation to copyright protected content, when TDM access is
+provided for scientific research purposes via licensing models
+developed by the publishing industry and the licensing
+organisations with whom they work.
+
+There is, however, serious potential for problems resulting from
+the use of text and data mining in relation to copyright
+protected content, in cases when TDM access is not a managed
+process via licensing models. In the first place, publishers
+should retain the right to decide how their content may and may
+not be re-used by others. It is vital for the long-term
+sustainability of the publishing industries that the end
+results of any research do not become a substitute for the
+published content. This would inevitably jeopardise continued
+investment by publishers in authoritative content, which in
+turn helps to promote advances in research.
+
+Secondly, especially since many publishing houses are small and
+medium-sized enterprises, TDM access has to be a managed
+process in order to avoid disruption of different platforms
+used by publishers. In his context, it is important that
+potential miners continue to keep in touch with publishers to
+achieve the best outcome for their research, given that the
+different platforms used by publishers have different
+capabilities. It is necessary to avoid any potential disruption
+or degradation to these platforms, which may happen when
+unmanaged mining takes place without publisher support.
+
+Thirdly, from the perspective of press publishers, any potential
+exception for TDM could be misused by news aggregators and media
+monitoring companies in order to avoid the necessity of
+licensing their activities
+
+NO–Please explain
+
+NO OPINION
+
+If there are problems, how wouldtheybestbe solved?
+
+[Open question]
+
+If your view is that a legislative solution is needed, what
+would be its main elements? Which activities should be
+coveredand underwhatconditions?
+
+[Open question]
+
+If your view is thatadifferent solutionisneeded, what would it
+be?
+
+[Open question]
+
+It is clearly to themutual benefit of both publishers of content
+and miners to find licensing solutionswhich permit researchers
+to mine works and allow them to do so as seamlessly and as
+easily as possible, while securing the publishers’ investments
+in their publications.
+
+European Commission’s “Licences for Europe” Working Group 4 on
+text and data mining explored solutions such as standard
+licensing models, as well as technology platforms to facilitate
+TDM access, with the aim of promoting the efficient use of TDM
+for scientific research purposes. Several participants
+presented a range of practical and innovative solutions, which
+represent the result of major investment by the publishing
+industry and the licensing organisations with whom they work.
+Some of these initiatives are already successfully being used
+by publishers and researchers while others are being launched
+now or being piloting with a view to being launched in the
+coming months.
+
+These initiatives include a sample license clause presented by
+STM, which allows publishers to easily provide a quick answer
+to requests made by the scientific community to be able to text
+and datamine content for which they have a subscription. Other
+initiatives include PLS Clear, a digital clearing house
+initiative from the UK’s Publishers Licensing Society (PLS)
+developed with the assistance of a group of leading publishers
+and researchers, which connects researchers and publishers to
+further simplify TDM. Crossref’s Prospect initiative shows that
+thanks to technical innovations TDM for research for
+non-commercial purposes is possible via a click-through
+licence, as is the Copyright Clearance Centre (CCC) pilot TDM
+service concerning both subscribed and non-subscribed content
+for commercial researchers, set for commercial release in 2014.
+“PDR” licenses have also been successfully developed for the
+pharmaceutical industry for commercial uses.
+
+Publishers continue to be open to discussing and finding
+licensing solutions together with the research community, to
+facilitate text and data mining with the potential to further
+research. As outlined in presentations to Working Group 4,
+publishers and researchers are already benefitting from the
+solutions that have been developed to date.Publisherswelcomes
+these innovative solutions and the continued work in this field
+and believes that this non-legislative approach represents the
+most constructive way forward for both the researchers and
+publishers concerned.
+
+Are there other issues, unrelated to copyright, that constitute
+barriers to the use of text or data mining methods?
+
+[Open question]
+
+User-generated content
+
+Technological and service developments mean that citizens can
+copy, use and distribute content at little to no financial
+cost. As a consequence, new types of online activities are
+developing rapidly, including the making of so-called
+“user-generated content”. While users can create totally
+original content,theycan also take one or several pre-existing
+works, change somethinginthe work(s), and upload the result on
+the Internet e.g. to platforms and blogs53
+
+A typical example could be the “kitchen” or “wedding” video
+(adding one's own video to a pre-existing sound recording), or
+adding one's own text to a pre-existing photograph.Other
+examples are “mash-ups” (blending two sound recordings), and
+reproducing parts of journalistic work (report, review etc.) in
+a blog.
+
+. User-generated content (UGC) can thus coverthe modification of
+pre-existing works even if the newly-generated/"uploaded" work
+does notnecessarilyrequire a creative effort and results from
+merely adding, subtracting or associating some pre-existing
+content with other pre-existing content. This kind ofactivityis
+not “new” as such. However, the development of social networking
+and social media sitesthatenable users to share content widely
+has vastly changed the scale of such activities and increased
+the potential economic impact forthose holding rights inthe
+pre-existing works. Re-use is no longer the preserve of
+a technically and artistically adept elite. With the
+possibilities offered by the new technologies,re-use is open to
+all, at no cost.This in turn raises questionswith regard to
+fundamental rights suchthe freedom of expression and theright
+to property.
+
+A specific Working Group was set up on this issue in the
+framework of the"Licences for Europe" stakeholder dialogue. No
+consensuswas reachedamong participating stakeholders on either
+the problems tobe addressed or the resultsor even the
+definition of UGC.Nevertheless, awide range of viewswere
+presentedas to the best way to respond to this phenomenon.
+Oneviewwasto say that a new exception is needed to cover UGC,in
+particular non-commercial activities by individuals such as
+combining existing musical works with videos, sequences of
+photos, etc.Anotherview wasthat no legislative change is
+needed: UGC is flourishing, and licensing schemes are
+increasingly available (licence schemes concluded between
+rightholders and platforms as well as micro-licences concluded
+between rightholders and the usersgenerating thecontent. In any
+event, practical solutions to ease user-generatedcontent and
+facilitate micro-licensing for small users werepledgedby
+rightholders across different sectors as a result of the
+“Licences for Europe” discussions54
+
+See the document “Licences for Europe – tenpledges to bring more
+content
+online”:http://ec.europa.eu/internal_market/copyright/docs/licences-for-europe/131113_ten-pledges_en.pdf.
+
+.
+
+(a)[In particular if you are an enduser/consumer:]Have you
+experienced problems when trying to use pre-existing works or
+other subject matter to disseminate new content on the
+Internet, including across borders?
+
+(b)[In particular if you are aservice provider:]Have you
+experienced problems when users publish/disseminatenew content
+based on the pre-existing works or other subject-matter through
+your service, including across borders?
+
+(c)[In particular if you are a right holder:]Have you
+experiencedproblems resulting from the waythe usersare using
+pre-existing works or other subject-matter to disseminate new
+content on the Internet, including across borders?
+
+YES – Please explain by giving examples
+
+NO
+
+In response to, and in some cases in anticipation of their
+readers’ needs, press publishers are heavily investing time and
+resources in digital innovations, so that consumers are today
+able to read and interact with the trusted, professional
+content at any time of the day in a range of different formats
+and via various devices. As a result, the press is now
+available on all platforms and is more interactive than ever
+before.
+
+Press publishers recognize and welcome that press publishing is
+a two-way dialogue in today’s digital environment.
+User-generated content (UGC) in the press-publishing sector
+concerns, on the one hand, what users do with publishers’
+content and, on the other hand, how publishers then choose to
+interact with that content. In summary:
+
+Readers choose to share content with publishers in order that
+they can contribute to democratic debate, for example, by
+providing text, photographs and video via publishers’ websites
+or applications on various devices in relation to news events.
+
+In the digital environment, press publishers want users to
+engage with professionally produced content in ways that were
+not previously possible, recognizing the richness and depth of
+debate that can arise from this approach. An increasing number
+of press publishers actively encourage this dynamic interaction
+with the users, to the benefit of both parties.
+
+UGC has proven to be truly helpful in providing spontaneous
+material and feedback from the public’s perspective, in
+addition to professionally produced journalistic content, which
+is trusted by readers. This is particularly the case for live
+events and certainly to those rare and more extreme situations,
+where the access of journalists has been restricted.
+
+With greater and more integrated use of UGC in mind, many
+publishers have redesigned their digital layouts in order to
+meet the expectations of the public and increase traffic, for
+instance, by giving predominance to live blogging or other ways
+of the public engaging with their newspaper or magazine. Citizen
+participation supported by press publishers creates a valuable
+societal dynamic and the collaboration between UGC and quality
+professional journalism represents a new and fascinating
+chapter for publishing and journalism.
+
+NO OPINION
+
+(a)[In particular if you are an end user/consumer or aright
+holder:]Have you experienced problems when trying to ensure
+that the work you have created (on the basis of pre-existing
+works) is properly identified for online use?Are proprietary
+systems sufficient in this context?
+
+YES, proprietary systems are sufficient. Where users want to
+submit content to publishers for publication, publishers
+provide for terms and conditions, which set out the uses the
+publishers may undertake with the shared content, should they
+choose to provide their content. Publishers are increasingly
+promoting awareness of such terms and conditions.
+
+It is clear from the above that engaging with UGC in some
+capacity is now part of the daily business of publishing for
+many publishing houses, with this two-way dialogue being
+beneficial for both publishers and users. By facilitating
+easier access to their content for users, this allows
+publishers to enjoy much closer contact with their readership.
+
+Specifically, press publishers are keen to facilitate and
+promote users’ access to content, participation and interaction
+by adopting tools to provide comments, upload photos, and share
+links to social media and elsewhere. This approach is very much
+at the heart of the press in today’s digital environment. For
+example, press publishers are increasingly choosing to provide
+“share” and “recommend” buttons and encourage users to share
+professional press content with others, with a variety of news
+platforms offering easy ways of doing so. They clear, as
+required, rights relating to various contributors to their
+content in order to enable such use by users.
+
+This approach to sharing selected content means that publishers
+can better understand how far articles are being shared and
+which are most popular, etc., but importantly, does not pose a
+risk to their sustainability, as unlimited copying and pasting
+of all their content for sharing would do.
+
+(b)[In particular if you are a service provider:]Do you provide
+possibilities for users that are publishing/disseminating the
+works they have created (on the basis of pre-existing works)
+through your service to properly identify these works for
+online use?
+
+YES – Please explain
+
+NO
+
+NO OPINION
+
+(a)[In particular if you are an enduser/consumeror aright
+holder):]Have you experienced problems when trying to be
+remunerated for the use of the work you have created (on the
+basis of pre-existing works)?
+
+(b)[In particular if you are a service provider:]Do you provide
+remuneration schemes for users publishing/disseminating the
+works they have created (on the basis of pre-existing works)
+through your service?
+
+YES – Please explain
+
+NO – Please explain.
+
+ NO OPINION
+
+If there are problems, how would theybestbe solved?
+
+[Open question]
+
+If your view is that a legislative solution is needed, what
+would be its main elements? Which activities should be
+coveredand underwhatconditions?
+
+[Open question]
+
+Presspublishers do not see the need for a legislative initiative
+regarding UGC.
+
+If your view is thatadifferent solutionisneeded, what would it
+be?
+
+[Open question]
+
+Press publishers who are contacted by users wishing to use their
+content typically provide licenses for use of the content. These
+licenses are often free as long as it is not for commercial
+exploitation.
+
+Private copying and reprography
+
+Directive 2001/29/EC enables Member States to implement in their
+national legislation exceptions or limitations to the
+reproduction right for copies made for private useand
+photocopying55
+
+Article 5. 2)(a) and (b)of Directive 2001/29.
+
+.Levies are charges imposed at national level on goods typically
+used forsuch purposes(blank media, recording equipment,
+photocopying machines, mobile listening devices such as mp3/mp4
+players, computers, etc.) with a viewtocompensating rightholders
+forthe harm they suffer whencopiesaremade
+withouttheirauthorisation by certain categories of persons
+(i.e. natural persons making copies for their private use)
+orthroughuse of certain technique (i.e. reprography).In that
+context, levies are importantforrightholders.
+
+With the constant developments in digital technology, the
+question arises as to whether the copying of files
+byconsumers/end-userswho have purchasedcontent online -e.g.
+when a person has bought an MP3 fileandgoes on
+tostoremultiplecopies of thatfile(in her computer, her tablet
+and her mobile phone)-alsotriggers, or should trigger,the
+application of private copying levies. It is argued that, in
+some cases,these leviesmay indeedbe claimedby
+rightholderswhetheror notthelicence feepaid by the service
+provideralready covers copies made bythe enduser.
+Thisapproachcould potentially lead to instances of double
+payments whereby levies could be claimed on top ofservice
+providers’licencefees56
+
+Communication "Unleashing the Potential of Cloud Computing in
+Europe", COM(2012) 529 final.
+
+57
+
+These issues were addressed in the recommendations of Mr António
+Vitorino resulting from the mediation on private copying and
+reprography levies.Youcan consult these recommendationson the
+following
+website:http://ec.europa.eu/internal_market/copyright/docs/levy_reform/130131_levies-vitorino-recommendations_en.pdf.
+
+.
+
+There is also an on-going discussion as to the application or
+not of levies to certain types ofcloud-based services such as
+personal lockers or personal video recorders.
+
+In your view, is there a need to clarifyat the EU levelthe scope
+and application of theprivate copyingand reprographyexceptions58
+
+Art. 5.2(a) and 5.2(b) of Directive 2001/29/EC.
+
+in the digital environment?
+
+YES–Please explain
+
+NO
+
+In the print environment, in most EU Member States, publishers
+generally rely on Reprographic Rights’ Organisations (RROs) to
+manage their reprographic rights. In the digital environment,
+however, in various Member States, publishing companies have
+developed different services that offer, license and give
+access to copyrighted works such as articles, photographs,
+etc., through publishers’ websites and databases or archive
+services. It is important to underline that for both print and
+digital works, publishers should be free to choose between
+collective and individual rights management. However, whenever
+direct licensing is not an option, for example, when it becomes
+burdensome for both users and right holders, levies have a
+specific task when publishers are unable to authenticate
+reproduction of works. Levies play an effective role when
+licensing is burdensome or impossible, notably in cases of
+reprography and private copying.
+
+NO OPINION
+
+Should digital copies made by end users for private purposes in
+the context of a service that has been licensed by
+rightholders, and where theharmto the rightholder is minimal,
+be subject to private copying levies?59
+
+This issue was also addressed in the recommendations of Mr
+Antonio Vitorino resulting from the mediation on private
+copying and reprography levies
+
+ YES – Please explain
+
+ NO – Please explain
+
+ NO OPINION
+
+The answer cannot be responded by a simple yes or no. The
+European Court of Justice (CJEU) decided in theVG WORTcase
+(C-457/11-C460/11) that a possible consent by the copyright
+holder to the copying of his work or other protected material
+in the context of the exceptions or limitations provided for in
+EU Directive on Copyright (Art. 5(2) and 5(3) has no effect on
+fair remuneration payable under the exception. This means that
+remuneration paid to the author or publisher under a license
+does not preclude from receiving the fair compensation for the
+exception or limitation. Such copies may therefore be covered
+by the levies.
+
+How wouldchanges inlevieswith respect to the application
+toonline services (e.g.services based oncloud computing
+allowing, for instance,usersto have copieson different
+devices)impactthe development and functioning ofnewbusiness
+modelson the one hand and rightholders’ revenue on the other?
+
+[Open question]
+
+Where authors and publishers are remunerated for certain uses on
+the basis of copyright levies, the device and storage medium
+remuneration is also payable if protected works are copied in
+connection with online services (e.g. cloud computing). That
+is, for example, the case if works are downloaded from a cloud
+portal and stored on a PC or storage medium. In countries where
+text levies exist, it would be appropriate that consideration is
+given to whether new possibilities of remuneration for authors
+and publishers need to be introduced in view of the increasing
+use of cloud services in the form of streaming, which does not
+result in permanent storage.
+
+Would you see an added value in making levies visibleon the
+invoices for products subject to levies?60
+
+This issue was also addressed in the recommendations of Mr
+Antonio Vitorino resulting from the mediation on private
+copying and reprography levies.
+
+YES–Please explain
+
+NO–Please explain
+
+NO OPINION
+
+Reprographic levies in Poland are covered by a permanent
+percentage remuneration calculated on the basis of device or
+product value established by an importer or manufacturer
+(importer’s purchasing price /cost of manufacturing device).
+Hence, this value could be specified only in relations between
+importer/manufacturer and a distributor. Moreover, the values
+of all margins from a manufacturer up to retail seller would be
+visible, and this could infringe trade secrets of entrepreneurs
+(knowing the value of the reprographic levy and having
+knowledge of what percent of the device’s price it makes, the
+import price or the price of the device’s manufacturing would
+also be known). Therefore, this solution would have an added
+value only if the reprographic levy would be established in
+relation to the retail seller’s price
+
+Divergingnational systems levy different products and apply
+different tariffs. This results in obstacles tothefree
+circulation of goods and servicesin the Single Market.At the
+same time, many Member States continue to
+allowtheindiscriminate application of private copying levies to
+all transactions irrespective of the person to whom the product
+subject to a levyis sold(e.g. private person or business). In
+that context, not all Member States have ex ante exemption
+and/orex post reimbursement schemes which could remedy these
+situations and reduce the number of undue payments61
+
+This issue was also addressed in the recommendations of Mr
+Antonio Vitorino resulting from the mediation on private
+copying and reprography levies.
+
+.
+
+Have you experienced a situation whereacross-border transaction
+resulted inundue levy payments, or duplicate payments of the
+same levy, or other obstacles to the free movement of goods or
+services?
+
+YES–Pleasespecify the type of transaction and indicate
+thepercentageoftheundue payments. Please also indicatehowa
+priori exemption and/orex post reimbursement schemes could help
+to remedy the situation.
+
+NO–Please explain
+
+ NO OPINION
+
+What percentage of products subject to a levy is sold to persons
+other than natural persons for purposes clearly unrelated to
+private copying? Do any of those transactions result in undue
+payments? Please explain in detail the example you provide
+(type of products, type of transaction, stakeholders, etc.).
+
+[Open question]
+
+In respect of text and image (reprography) levies, the question
+is irrelevant, as noted also in the report from the
+EC-appointed mediator Antonio Vitorino. Unlike the scope of the
+privatecopying exception under EU Directive on Copyright (Art.
+5(2)(b)), which is limited to reproductions that serve specific
+purpose (“fair private use”), regardless of the type of device
+or method, the reprography exception under EU Directive on
+Copyright (Art. 5(2)(a)) covers reproductions on a specific
+medium (paper), using a specific method (“any kind of
+photographic technique”), regardless of its purpose, which may
+be for professional, educational, private and other uses.
+
+Consequently, when it comes to analysing the impact of
+reprography levies, it is not relevant to make a distinction
+between private and professional uses, since both of them are
+subject to the payment of a levy. Against this background, it
+is also necessary to distinguish between sales of devices in
+the private and business sectors. The point is that copies are
+permitted by law in both private and business spheres. The –
+unified – device and storage medium remuneration can therefore
+be justified both for sales to private persons and sales to
+business end users.
+
+Where such undue payments arise, what percentage of trade do
+they affect? To what extent could a priori exemptionsand/orex
+post reimbursement schemes existingin some Member Stateshelp to
+remedy the situation?
+
+[Open question]
+
+We refer to our response to Question 69, which, in short, states
+that under the EU Directive on Copyright (Art. 5(2)(a)), text
+and image (reprography) levies also cover professional uses.
+Therefore, Question 70 becomes irrelevant in relation to text
+and image (reprography) levies.
+
+Ifyou have identified specificproblemswith the
+currentfunctioning of thelevy system, howwouldthese
+problemsbestbesolved?
+
+[Open question]
+
+The main problem is the tendency to mix private copying levies
+and text and image (reprography) levies, and to argue the
+reprography levy as if it were identical to private copy
+levies. This is not the case; the two levy schemes are
+different (see Question 69). The EU could contribute to
+clarification through sensitising EC officials and EU policy
+makers and institutions that text and image (reprography) and
+private levies are different, and ensure consistency in their
+dealing with the two different levy schemes.
+
+Fairremuneration of authors and performers
+
+TheEUcopyrightacquisrecognises for authors and performers a
+number of exclusive rights and, in the case of performers whose
+performances are fixed in phonograms, remuneration rights. There
+are few provisions in the EU copyright law governing
+thetransferof rights from authors or performers to producers62
+
+See e.g. Directive 92/100/EEC, Art.2(4)-(7).
+
+or determining who the owner of the rights is when the work or
+other subject matter is created in the context ofanemployment
+contract63
+
+See e.g.Art. 2.3. of Directive 2009/24/EC,Art. 4 of Directive
+96/9/EC.
+
+.Thisis an area that has been traditionally left for Member
+States to regulate and there are significant differences in
+regulatory approaches.Substantial differences also existbetween
+differentsectors ofthecreative industries.
+
+Concerns continue to be raised that authors and performers are
+not adequately remunerated, in particularbut not solely, as
+regards online exploitation. Many consider that the economic
+benefit of new forms of exploitation is not being fairly shared
+along the whole value chain. Another commonly raised issue
+concerns contractual practices, negotiation mechanisms,
+presumptions of transfer of rights, buy-out clauses and the
+lack of possibility to terminate contracts. Some stakeholders
+are of the opinion that rules atnational leveldonotsuffice to
+improve their situation and that action at EU level is
+necessary.
+
+[In particular if you arean author/performer:] What is the best
+mechanism (or combination of mechanisms) to ensurethatyou
+receive an adequate remuneration for the exploitation of your
+works and performances?
+
+[Open question]
+
+Istherea need to actat theEU level (for instance to prohibit
+certain clauses in contracts)?
+
+YES–Please explain
+
+ NO
+
+Publishers of newspaper and news media believe that it is
+important to emphasise that respect for the freedom to contract
+and to negotiate should be the fundamental basis of any approach
+to this area. A cross-sector and pan-European approach to
+employment practise in the press sector would represent a real
+threat to the freedom to contract. Any proposal for a common
+framework would not be an appropriate way to address contract
+law, which has been built on the basis of sector specificities
+and which has evolved in this context in various Member States.
+
+Any EU initiatives in this field should therefore avoid a “one
+size fits all” solution that would fail to take into account
+the distinction between publishing, audio-visual content and
+music, since the contractual relationships and rights’
+management are organised differently in each sector.
+
+Moreover, different concepts and legal situations exist in the
+EU Member States when it comes to copyright and employment
+practises, ownership and transfer of rights, as well as
+presumption rights. Various concepts and approaches are used
+because each corresponds to a different underlying legal
+system.
+
+InPolandsome publishers enter into collective negotiations at
+national or company level with the union of professional
+journalists to achieve collective agreements regarding press
+content and the remuneration of journalistic work. In this
+context, collective negotiation for the acquisition of rights
+by publishers from their employees is closely linked to labour
+law and employment contract law. Member States hold very
+divergent views on the need for any harmonisation in this area.
+It is, therefore, crucial that social dialogue in the newspaper
+sector remains at national level and is not introduced at the
+EU level.
+
+In addition, Member States have political sensitivities in the
+field of labour law which do not fall under Internal Market
+legislation. According to the EU Treaties, remuneration is not
+part of EU competence and therefore belongs to the exclusive
+competence of Member States.
+
+To sum up, publishers of newspapers and news media are not in
+favour of any EU action in the field of contract law, in order
+to allow the market develop its own solutions. Such an approach
+would respect the legislation already in place in different
+sub-categories ofcontract law and in different sectors, thus
+preserving legal certainty. This would also be an appropriate
+way to respect the freedom to contract.
+
+NO OPINION
+
+Ifyou consider that the current rules are not effective, what
+would you suggest to addresstheshortcomingsyou identify?
+
+[Open question]
+
+Respectforrights
+
+Directive 2004/48/EE64
+
+Directive 2004/48/EC of the European Parliament and of the
+Council of 29 April 2004 on the enforcement of intellectual
+property rights.
+
+provides for a harmonised framework for the civil enforcement of
+intellectual property rights, including copyright and related
+rights. The Commission has consulted broadly on this text65
+
+You will find more information on the following
+website:http://ec.europa.eu/internal_market/iprenforcement/directive/index_en.htm
+
+. Concerns have been raised as to whether some of its provisions
+are still fit to ensure a proper respectforcopyright in the
+digital age. On the one hand, the current measures seem to be
+insufficient to deal with the new challenges brought by the
+dissemination of digital content on the internet; on the other
+hand, there are concerns about the current balance between
+enforcement of copyright and the protection of fundamental
+rights, in particular the right for a private life and data
+protection. While it cannot be contested that enforcement
+measures should always be available in caseofinfringement of
+copyright, measures could be proposed to strengthen respect for
+copyright when the infringed content is used for a commercial
+purpose66
+
+For example when the infringing content is offered on a website
+which gets advertising revenues that depend on the volume of
+traffic.
+
+. One means to do this could be to clarify the role of
+intermediaries in the IP infrastructure67
+
+This clarification should not affect the liability regime of
+intermediary service providers established by Directive
+2000/31/EC on electronic commerce, which will remain unchanged.
+
+. At the same time,there could beclarification of the
+safeguardsforrespect of private life and data protection for
+private users.
+
+Shouldthe civil enforcement system in the EU be rendered more
+efficient for infringements of copyright committed with a
+commercial purpose?
+
+YES –
+
+NO –
+
+YES/NO
+
+A well-functioning IP protection and enforcement system is vital
+if Europe is to achieve the full potential of a single digital
+market that delivers jobs, growth and quality content to
+consumers.
+
+Infringements of intellectual property rights cause real
+economic harm to the newspaper publishing sector and hold back
+its potential for re-investment and growth. In view of the
+current consultation, and considering the opportunities but
+also challenges that the Internet continues to present, it is
+very important for newspaper publishers to be able to rely in
+quantitative research on the sector. In our view, this should
+include an examination of the economic impact on publishers’
+investments, as well as the financial impact and
+long-termconsequences for society of unauthorised use of
+content by third parties, including aggregators, search engines
+and private companies, often for commercial gain.
+
+Efficient enforcement mechanisms and procedures are essential to
+a well-functioning intellectual property rights system.
+Well-functioning IPR enforcement mechanisms are the best means
+to fight against counterfeiting and piracy, make sure that
+right holders and the society as a whole can fully enjoy the
+benefits of the IP system, and protect consumer’s rights in
+their purchasing decisions.
+
+But it also should have to be taken under the consideration than
+infringements for non-commercial purpose often create commercial
+profits to seconds parties
+
+NO OPINION
+
+In particular,isthe current legal framework clear enough to
+allow forsufficient involvement of intermediaries (such as
+Internet service providers, advertising brokers, payment
+service providers, domain name registrars, etc.) in inhibiting
+online copyright infringements with a commercial purpose? If
+not, whatmeasureswould be useful to foster the cooperation of
+intermediaries?
+
+[Open question]
+
+Infringements of intellectual property rights in both the print
+and digital environment must be addressed and for that matter,
+a closer cooperation between all authorities and actors
+involved, including intermediaries, is necessary. The content
+of newspaper websites mainly includes editorial content, which
+falls under the control and the responsibility of the publisher
+and the editor-in-chief. This content follows national press
+law, as well as ethical codes of conduct and self-regulation.
+Newspaper publishers are of the opinion that judicial authority
+should be the one, who can balance different rights and freedoms
+concerned, including freedom of expression. Control of press
+content by internet service providers would be considered as
+censorship and therefore would pose a threat to digital press
+freedom.
+
+Does the current civil enforcement framework ensure that the
+right balance is achieved between the right to have one’s
+copyright respected and other rights such as the
+protectionofprivate life and protection of personal data?
+
+YES
+
+It is important to underline the right balance between the
+fundamental right of freedom of expression and effective
+copyright protection online, which includes the possibility of
+practical enforcement of rights against illegal reproductions
+of press content.
+
+A necessary precondition to enforce copyright is an effectively
+enforceable right of information to identify the name and
+address of the infringer, also in case of dynamic IP addresses.
+In case of copyright infringements of newspaper content, it is
+necessary to ensure that judicial decisions can be adequately
+enforced and respected.
+
+The Enforcement Directive has provided a broadly harmonised
+civil framework in Europe regarding IPR infringements. It has
+been an important and necessary tool for publishers. However,
+uniform implementation of the Directive should be ensured, as
+divergence betweenMember States still exists. IWPand its
+members have not identified any specific problems with regard
+to the Enforcement Directive but with certain aspects of
+implementation of the current text of the Directive.
+
+The right balance between the content control of internet access
+providers and the digital freedom of press should be assured.
+
+Enforcement measures of the Directive are complicated, costly
+and timely.
+
+Not enough consideration has been given by the EU legislator to
+the interaction between data protection rules and
+implementation of the Enforcement Directive, which leads to
+inconsistencies and, in some cases, total lack of remedies for
+IP rights at national level. This should be reflected in order
+to ensure that rights holders are not deprived of effective
+remedies wherever their rights are infringed.
+
+Measures, procedures and remedies shall not be unnecessarily
+complicated or costly or entail unreasonable time limits or
+unwarranted delays.(Article 3(1) of the Directive, re. General
+obligations).
+
+However, some cases at national level (E.g. Copiepresse v.
+Google) reveal that procedures might be delayed due to courts
+having an overload of cases to address, which therefore has an
+effect on the enforcement of the rights infringed and could be
+to the advantage of the infringer.
+
+The situation regarding damages awarded by the courts could be
+improved
+
+Damages awards are often not effectively deterring potential
+infringers from engaging in illegal activities, particularly
+because the damages awarded by courts fail to match the level
+of potential profit made by such infringements.
+
+NO–Please explain
+
+NO OPINION
+
+AsingleEU CopyrightTitle
+
+The idea ofestablishing aunifiedEU CopyrightTitlehas
+beenpresentin the copyright debate for quite some time
+now,although views as to the merits andthefeasibility of suchan
+objectiveare divided.Aunified EUCopyrightTitlewouldtotally
+harmonise the area of copyright law in the EU and replace
+national laws. There would then be a single EU title instead of
+a bundle of national rights.Some seethisas the only manner in
+which a truly Single Market for content protected by copyright
+can be ensured,whileothersbelieve that the same
+objectivecanbetterbe achieved by establishing a higher level of
+harmonisation while allowing for a certain degree of flexibility
+and specificity in Member States’legal systems.
+
+ShouldtheEU pursue the establishment of asingle
+EUCopyrightTitle,as a means of establishing a consistent
+framework for rights and exceptions to copyright across the EU,
+as well as a single framework for enforcement?
+
+YES
+
+NO
+
+In respect of the copyright legal framework, the EU should
+continue to pursue a pragmatic approach. Rather than
+emphasizing on a single EU Copyright Title, the focus should be
+on the adoption of an overall IPR strategy, especially given the
+fact that the IPR intensive industries contribute over one third
+of EU’s GDP and 90% of the EU’s export comes from IP intensive
+industries.
+
+Work on a single EU Copyright Title would require substantial
+resources and unnecessarily distract focus from the important
+work on an overall EU IP strategy. It isalso difficult to see
+how it could be established on the basis of Article 118 of the
+Lisbon Treaty (TFEU). The different traditions and systems,
+which include both common and civil law practises benefit from
+being maintained. Even if sufficient unanimity should be
+reached amongst EU Member States as to the nature of the EU
+copyright legislation, it is difficult to see that an
+overarching EU Copyright Title is required.
+
+NO OPINION
+
+Should this be the next step in the development of copyright in
+the EU? Does the current level of difference among the Member
+State legislation mean that this is a longer term project?
+
+[Open question]
+
+NO.
+
+Publishers of newspapers and news media believe that the WIPO
+Treaty and Berne Convention together with CJEU case law already
+provide an important degree of harmonisation in the copyright
+field.
+
+Other issues
+
+The above questionnaire aimstoprovidea comprehensive
+consultation on the most important matters relating to the
+current EU legal framework for copyright.Shouldany important
+matters have been omitted,we would appreciate if you could
+bring them to our attention, so they can be properly addressed
+in the future.
+
+Are there any other important matters related to the EU legal
+framework forcopyright?Pleaseexplainandindicatehow such matters
+should be addressed.
+
+[Open question]
+
+The newspaper and news media sector was one of the first
+creative sectors to offer its content in digital formats and
+today, it is a sector in a rapid transformation that offers a
+diverse range of authoritative content to European citizens on
+a range of both print and digital platforms.
+
+Despite many challenges facing the industry, some 100 million
+newspapers are sold or distributed in Europe every day. With
+the combined reach of print and digital formats, the overall
+audience for our content has never been higher. Moreover, the
+sector continues to play a vital role in democratic society and
+in stimulating debate on the great issues facing European
+citizens today.
+
+One of the challenges facing newspaper publishers in the digital
+environment is how to ensure that technology companies and other
+third parties do not extract the value of their content, without
+remuneration for those who created or invested in that content.
+Effective IPR enforcement mechanisms and procedures are
+essential to combat both piracy and parasitism, as well as to
+ensure that rights holders and society at large can fully enjoy
+the benefits of the IP system. The press is specifically
+mentioned in the European Commission’s IPR Strategy under
+paragraph 3 about Europe’s cultural heritage and fostering
+media plurality.
+
+Publishers of newspapers and news media believe that fair
+competition, respect of copyright and value of content, as well
+as equal search are indispensable conditions for the proper
+functioning of the digital ecosystem, to the benefit of all
+users and consumers. Today,technology platforms and search
+engines have an enormous impact on which press content is
+visible and accessible to citizens on the Internet.
+
+Publishers of newspapers and news media believe that fair
+competition and equal search are indispensable conditions for
+the proper functioning of the digital ecosystem, to the benefit
+of all users and consumers. Today, technology platforms and
+search engines have an enormous impact on which press content
+is visible and accessible to citizens on the Internet. In this
+context, it is essential that search engines act in a neutral
+way to ensure that all press content can be found without any
+discrimination.
+
+From the press perspective, we would also like to underline that
+net neutrality guarantees the same quality of service and the
+same possibility to reach digital users for all content,
+applications and service providers, regardless of a company’s
+financial capacity. Proposals currently under discussion at the
+EU level, which would allow for content discrimination, would be
+seriously detrimental to innovation, press diversity and
+ultimately – democracy.
+

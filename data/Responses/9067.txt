@@ -1,0 +1,652 @@
+                   Public Consultation
+         on the review of the EU copyright rules
+
+
+
+
+                    Response submitted by
+
+Centre for Intellectual Property Policy & Management (CIPPM)
+                     Bournemouth University
+
+                     www.cippm.org.uk
+
+
+
+
+                        March 2014
+
+
+
+
+                          March 2012
+CIPPM                                                         Bournemouth University
+
+
+
+
+Centre for Intellectual Property Policy & Management
+The Business School
+Bournemouth University
+89 Holdenhurst Road
+Bournemouth, Dorset
+BH8 8EB
+United Kingdom
+www.cippm.org.uk
+
+Institutional User (research centre)
+Registration ID Number: 294374512534-54
+
+© Maurizio Borghi, Marcella Favale and Dinusha Mendis, 2014
+
+
+
+
+                                               2
+CIPPM                                                                                  Bournemouth University
+
+
+II. Rights and the functioning of the Single Market
+
+4. Download to own digital content
+14. What would be the consequences of providing a legal framework enabling the resale of
+previously purchased digital content? Please specify per market (type of content) concerned.
+The question has been addressed by the European Court of Justice in the matter of software
+commercialised on-line (C-128/11 Usedsoft). By analogy, it has the potential to be applied to other
+copyright digital goods. The Court ruled for the possibility to rely on the exhaustion principle for
+the second (or following) purchaser of an “used” software.
+This is to say that following purchasers of a piece of software do not have to pay compensation to
+rightholders or require their authorization in order to use the work.
+If this principle has to apply to all digital goods, the legal framework regarding the resale of digital
+copyright works in Europe would be clear, and rather satisfactory. Of course in the interest of the
+certainty of right, it would be useful to codify this principle by European law.
+
+III. Limitations and exceptions in the Single Market
+21.   Are there problems arising from the fact that most limitations and exceptions provided in
+the EU copyright directives are optional for the Member States?
+
+The optional nature of the list led member states to adopt very different solutions. Member states
+(old members especially) seem to show a conservative attitude in implementing Directive
+2001/29/EC (hereinafter: the Information Society Directive). Thanks to the almost entirely optional
+list of copyright exceptions, they appear to have implemented many exceptions that were already
+present in their national copyright law before the implementation of the Information Society
+Directive. This is suggested by the remarkable differences in terms of the structure and the wording
+of the different national legislations, which are more similar to the pre-existing legislation than to
+the structure and the wording of the Directive.
+The optional list of exceptions of the Information Society Directive therefore was probably not the
+most suitable instrument to reach copyright harmonization. Moreover, the list of the exceptions and
+limitations did not achieve the purpose of being exhaustive either. Some member states introduced
+in their legislation exceptions not present in the Article 5 of the Directive. Slovenia, for example,
+inserted among its exceptions one for transformative works, which is not mentioned by the
+Directive. However, a more consistent implementation of some fundamental copyright exceptions
+suggests that they could be accepted as compulsory by all EU member states. 1 This list should
+apply to both copyright exclusive rights and technological measures, unless technological reasons
+make this impossible.
+In principle, the presence in the EU of different national cultures requires flexible solutions rather
+than rigid ones.2 These solutions would best suit the goal of harmonising the national legislations
+respecting local diversities. However, from a technological point of view the solution cannot be
+flexible, as for example the American “fair use” provision. In this respect, professor Felten acutely
+stated that making TPMs [Technological Protection Measures] compliant with fair use is like
+
+
+1
+    For a perspective compulsory nature of copyright exception see Heide 2000, at 229-230.
+2
+    See Hugenholtz 2000b, at 501-502.
+                                                            3
+CIPPM                                                                                     Bournemouth University
+
+
+putting a judge in a microchip.3 Technological solutions need a precise set of instructions, which
+cannot consider the nuances of a flexible legislation. Of course, the compulsory list of copyright
+exceptions would need to be adapted to the material possibilities of the technology in order to be
+made compulsory also for TPMs.
+An essential list of exceptions with a flexible closing clause appears to be the most suitable
+solution. It would suit to both the harmonisation of copyright exceptions and their compliance by
+TPMs. Obviously the closing clause4 would not be compulsory for TPMs. Beneficiaries claiming
+exceptions falling within the scope of the clause would have to refer to copyright tribunals,
+mediators or courts, when they are not satisfied with the usage rules implemented on a copyright
+work.
+[From: M. Favale, ‘Fine-Tuning European Copyright Law to Strike A Balance Between the Rights
+of Owners and Users’, 33(5) European Law Review (2008) 687-708]
+
+
+27.    In the event that limitations and exceptions established at national level were to have
+cross-border effect, how should the question of “fair compensation” be addressed, when such
+compensation is part of the exception? (e.g. who pays whom, where?)
+The question of fair compensation in cross-border transactions has been addressed by the European
+Court of Justice (C-462/09 Stichting de Thuiskopie; C-521/11 Amazon.com). The Court stated, in
+essence, that it is for the Member State on the territory of which the harm to the owner takes place
+(intending the unauthorised reproduction of the work) and therefore the Country of the purchaser of
+the reproducing device to make sure fair compensation is paid to the owner, also in the case of a
+cross-border transaction. To this end, a levy corresponding to fair compensation can be charged not
+only to the seller but also to the importer of the reproduction equipment (if the seller cannot be
+reached because it is based in another member state).
+At this point an obvious issue to consider is how to avoid a double imposition of the levy, in the
+case that the original seller had been charged a levy in its own country. This is not a problem that
+can be solved at judiciary level, but it needs to be addressed at the EU level with appropriate
+legislation. To this end, a codification of the solution hinted by the European Court could provide a
+way forward. Although it is true that the compensation is due by the person producing the harm (if
+harm is indeed ascertained and evaluated), it is also true that the most effective way to recover this
+amount is to charge it at the source of the reproducing device, hence to the manufacturer. Nothing
+stops (by express acknowledgement of the European Court: C-467/08 Padawan) the manufacturer
+to pass on the levy on the purchaser or on the intermediary, which will pass it on to the purchaser.
+Now, the real issue to be considered is how to identify the owner of the work in order to correspond
+him or her fair compensation and how to make sure the amount is effectively delivered to the right
+recipient in the case of a cross-border transaction. Moreover, in an increasingly multicultural
+Europe, even the assumption that rightholders of a country are the ones suffering the greatest harm
+by reproduction carried out by a person residing in that country can be easily rebutted. Thus, the
+really challenging issue is not “who has to pay?” but “who has to be paid, and how?.” In this sense a
+European levy to be distributed among European collecting societies (or to a central European
+collecting society, if ever we will have one) has the potential to get the solution closer to the target.
+Moreover, the European Court is in the process of envisaging increasingly complicated solutions in
+order to guarantee the fair balance of interests (between copyright holders and users), as for
+example a refund of the levy “in cases where the final use of those media clearly does not fall
+
+3
+    See Felten 2003, at 58; see also Garnett 2006, at viii.
+4
+    For example, the three-step test of the Berne convention could serve as a model for the “wild card” exception.
+                                                              4
+CIPPM                                                                     Bournemouth University
+
+
+within the case referred to in that provision [Article 5(2)(b) of Directive 2001/29]” (C-521/11
+Amazon.com at 67).
+Before the solutions gets even more complicated than the problems, a simpler system to calculate
+fair compensation is needed at European level. Now, we know that the starting point to calculate
+fair compensation is the harm caused to rightholders by private reproduction of copyright works
+(“fair compensation must be calculated on the basis of the criterion of the harm caused to authors of
+protected works by the introduction of the private copying exception » C-467/08 Padawan at 64.2).
+Therefore, sound empirical research is urgently needed to identify, assess and effectively quantify
+this harm in order to envisage a system for determining fair compensation which strikes a « ‘fair
+balance’ between the persons concerned » C-467/08 Padawan at 64.2.
+
+A. Access to content in libraries and archives
+1. Preservation and archiving
+
+29. If there are problems, how would they best be solved?
+
+The Current status of preservation activities involves careful consideration of several legal and
+economic issues, including database rights and intellectual property rights. Among the latter, recent
+consideration has been given to the problem of so-called orphan works (works for which the author
+is unknown or unlocatable) by a study carried out by CIPPM and CREATe on Orphan Works. See
+'Copyright and the Regulation of Orphan Works', available at http://www.ipo.gov.uk/ipresearch-
+orphan-201307.pdf )
+The study concluded , among other points:
+       Ultimately a legislator must make a decision on what is deemed to be the desired behaviour.
+       Thus, it seems feasible to consider both the limited liability and the up-front rights clearing
+       as viable options but for different purposes. The limited liability system seems to have
+       advantages for archives and other non-profit institutions exposed to orphan works enabling
+       those organisations to actually share their stock of orphaned artefacts with the public. In
+       contrast, up-front rights clearing seems to provide more appropriate incentives for
+       commercial uses of orphaned artefacts guaranteeing that a re-appearing rightholder will be
+       compensated for the exploitation of her work.
+[ From : M. Favale, F. Homberg, M. Kretschmer, D. Mendis and D. Secchi, ' Copyright and the
+Regulation of Orphan Works', available at http://www.ipo.gov.uk/ipresearch-orphan-201307.pdf]
+
+
+4. Mass digitisation
+
+[We address issues of mass digitization under “Text and data mining” (infra)].
+
+
+B. Teaching
+
+45. If your view is that a legislative solution is needed, what would be its main elements? Which
+activities of the beneficiary institutions should be covered and under what conditions?
+The copyright exception for teaching purposes, although optional in the Information Society
+Directive, has been implemented by all EU Member States (See M. Favale, ‘Fine-Tuning European
+                                             5
+CIPPM                                                                        Bournemouth University
+
+
+Copyright Law to Strike A Balance Between the Rights of Owners and Users’, 33(5) European Law
+Review (2008) 687-708, at 700). However, the provisions of each national copyright legislation are
+worded rather differently.
+Some Member States assimilate the exception for teaching to the exception for citation or quotation
+and they exempt the unauthorised reproduction or communication of protected works for teaching
+purposes from copyright infringement. Other Member states assimilate the exception for teaching
+(and research, normally) to the exception for private copy, by providing some form of fair
+compensation for the owner.
+Other differences among the national wordings of this exception refer to more specific uses of the
+work (for example, the collection of works used to form anthologies) or to the size of the sample
+(for example, only short excerpts, or short works are exempted from copyright protection).
+Current developments in teaching methods increasingly involve online technologies for lectures,
+videos and a great deal of resources. And on-line courses are attended by people from all over the
+world. This on the one hand calls for specific licensing frameworks and on the other hand needs
+solutions able to face cross-border dynamics.
+It is in this context that more uniform legislation, at European level but also at international level, is
+urgently needed. Compulsory and clearly worded exceptions in an updated Information Society
+Directive and International treaties as the one recently implemented for the Blind (the Marrakesh
+treaty) will be the most effective instrument to achieve this end.
+
+
+C. Research
+
+49. What mechanisms exist in the Member States to facilitate the use of content for research
+purposes? How successful are they?
+
+All EU Member States have implemented Article 5.3(a) of the Information Society Directive,
+although this was optional. The wording of the Directive refers to an exception to the Reproduction
+right (Article 2) and Communication right (Article 3) in the case of “use for the sole purpose of
+illustration for teaching or scientific research”. Teaching and research are therefore referred to in the
+same exception. Member States implemented this particular exception often by keeping in place this
+assimilation, and therefore subjecting both teaching and research to the same provisions.
+While clearly some connections and overlapping exist between teaching and research (however
+normally confined to the sector of higher education), a European and possibly international legal
+framework should keep into account the difference between users of copyright material for teaching
+purposes and for research purposes.
+Given the importance of both these activities for the circulation of culture, which it is the ultimate
+purpose of copyright protection (notion too often understated), compulsory and clearly worded
+exceptions should be created both at European and international level.
+
+D. Disability
+
+52. What mechanisms exist in the market place to facilitate accessibility to content? How
+successful are they?
+
+While the signature of the Marrakesh Treaty is commendable (especially in providing for cross-
+border availability of accessible formats), the freedom left by the treaty to signatory members in
+                                                    6
+CIPPM                                                                      Bournemouth University
+
+
+terms of fair compensation to be paid to rightholders and in terms of subjection of the exception to
+the condition of unavailability of accessible format copies, can still create problematic disparities
+among countries.
+However, the most negative point of this laudable work of the WIPO Standing Committee on
+Copyright and Related Right is related to the fact that on the exception for educational and research
+institutions progress is still lagging behind. While a draft treaty is already in place for broadcasting
+organizations, nothing is available in an encouraging form for teaching and research.
+
+E. Text and data mining
+
+The response to this set of questions draws from the analysis developed in M. Borghi and S.
+Karapapa Copyright and Mass Digitization (Oxford University Press, 2013) (hereinafter: Borghi &
+Karapapa).
+
+   53. (a) Have you experienced obstacles, linked to copyright, when trying to use text or data
+   mining methods, including across borders?
+Reproduction of copyright works for non-commercial research based on text and data mining
+(TDM) can find, in principle, refuge in the existing corpus of exceptions and limitations available
+under the laws of Member States. However, as it will be explain in the following, the applicability
+of the current exceptions is neither legally certain nor uniform across Member States. As a result,
+the use of the same TDM method may result permissible in one country and infringing in another.
+TDM methods can possibly fall within one of the following existing exceptions of the Information
+Society Directive:
+Art. 5(2)(c) [Specific acts of reproduction made by publicly accessible libraries, educational
+establishments or museums, or by archives]. Although Rec. 30 specifies that the exception ‘should
+be limited to certain special cases’ and should not apply to uses related to on-line delivery of
+protected works, nothing prevents Member States from interpreting the exception as allowing
+libraries and archives to engage in reproduction of their own material for non-commercial TDM
+research, or to authorize third parties to do the same. This is for instance the case of Norway, where
+the exception is being used to permit research institution to carry out TDM research on libraries’
+digital copies (Borghi & Karapapa, 57, fn 62). However, this is not the case in most Member States,
+where the exception has been given a narrow scope. For instance, Member States is uneven, with
+some countries giving a narrow interpretation and some countries limiting the application to some
+categories of works (e.g. in the UK the exception does not apply to sound recordings, broadcasts or
+films). Moreover, even in a broader interpretation, the exception applies squarely only to certain
+categories of public institutions, and it excludes private companies (and possibly charities). It is not
+clear whether the exception would allow, for instance, a library to give permission to a private
+company to carry out TDM research with their digital copies.
+Art. 5(1) [Temporary acts of reproduction]. This limitation represents a valid defence for some—but
+not all—activities that are normally carried out when doing TDM research. As it has been variously
+pointed out: “While acts enabling browsing and caching are likely to be covered by the limitation, it
+is not completely clear whether, and to what extent, other acts occurring during the digital
+processing of copyright works […] are exempted” (M Borghi “Chasing copyright infringement in
+the streaming landscape”, IIC, 2011, 42(3), 316, 333). This is mainly due to the narrow
+interpretation given by the CJEU in C-5/08 (Infopaq 1), whereby the condition that the reproduction
+must be “transient and incidental” has been translated into the requirement that the storage and
+deletion of the reproduction do not depend on discretionary human intervention. This means in
+practice that “all reproduction processes which depend on human intervention in at least one phase
+                                                   7
+CIPPM                                                                       Bournemouth University
+
+
+are excluded from the exemption” (Id., 341). This requirement is an impediment to TDM methods,
+which are normally dependent on human intervention in one or more phases.
+Art. 5(3)(e) [Illustration for teaching or scientific research]. Reproduction for scientific research is
+variously recognised in the laws of Member States as an activity that deserves some degree of
+freedom. In the UK, it falls under the umbrella of fair dealing for non-commercial research (CDPA
+1988, sec. 29.1). In principle, the exception can be invoked to cover TDM, as a particular instance
+of scientific research that requires wholesale reproduction of protected works. However, the use of
+the term “illustration” is indicative of the fact that the provision targets essentially “occasional acts
+of reproduction that are necessary for human researchers to carry out research—more than
+systematic reproduction of large amounts of texts or other subject matter by computers” (Borghi &
+Karapapa, 61).
+In conclusion: although TDM can in principle be covered by existing exceptions and limitations
+provided for under the Information Society Directive, it is recommended that a new exception be
+introduced to clarify the scope of permissible activities and harmonize the conditions across
+Member States.
+
+
+55.   If your view is that a legislative solution is needed, what would be its main elements?
+Which activities should be covered and under what conditions?
+
+A statutory exception for TDM should be based on the following principles:
+   i.   Technological neutrality: the exception should not refer to particular technologies or
+        methodologies (e.g. text mining) but should address a specific way of making use of
+        copyright works. In this respect, the concept of ‘automated processing’, as first introduced in
+        the context of data protection law (see Directive 95/46/EC, Art. 2(b)), can found analogical
+        application in copyright law (for a thorough discussion see Borghi & Karapapa, pp. 140-
+        147). The exception can be phrased as covering “automated processing of works to carry out
+        analysis of their content”.
+  ii. The exception should apply only to automated processing for the purpose of research or
+        study, and for purposes that are not directly commercial.
+ iii. The exception should apply to the reproduction right only. The activities falling into the
+        definition of “automated processing” should not involve public communication, either
+        directly or indirectly.
+ iv.    The exception should not prevent the applicability of other exceptions or limitations, such as
+        quotations for purposes such as criticism or review (5(3)(d)). This means that, for instance,
+        automated processing of works for purposes of indexing and search does not preclude
+        displaying of short extracts of those works in response to search queries—on condition that
+        the extracts are compatible with the relevant exception. The effect of each exception—in
+        particular with respect to the conditions set forth in Art. 5(5) of the Information Society
+        Directive (‘three-step test’)—should be assessed independently, and not cumulatively.
+  v.    The exception should be mandatory and not subject to technological and/or contractual
+        restrictions.
+
+
+56.    If your view is that a different solution is needed, what would it be?
+
+While non-commercial research can be covered by a copyright exception, TDM research for
+commercial purposes should be subject to normal licensing agreements. However, it has to be borne
+                                               8
+CIPPM                                                                               Bournemouth University
+
+
+in mind that repositories of digital content may not always be substitutable good for companies
+engaged in TDM. As explained in Borghi & Karapapa “For researchers willing to use text mining to
+discover a connection between a gene and a disease, for instance, the content provided by that
+publisher may not be substituted by reverting to content provided from another publisher” (p. 112).
+This means that owners of digital repositories may in most cases be providers of essential facilities.
+While it is not advisable to adopt a system of compulsory licences (as this would unduly interfere
+with the principles of free market), the law should incorporate provisions against refusal to licence
+(for a discussion of refusal to licence as applied to TDM see Borghi & Karapapa, 110-115).
+
+
+57.    Are there other issues, unrelated to copyright, that constitute barriers to the use of text or
+data mining methods?
+
+There are two main issues that constitute barriers to TDM: the ‘preferential uses’ granted to private
+companies in mass-digitization agreements, and the subsistence of the sui generis database right on
+collections of digitized works. We address these two issues separately.
+a) Preferential uses
+When public institutions like libraries and archives enter a digitization agreement with private
+companies, the latter are commonly granted ‘preferential uses’, namely exclusive privileges over
+certain uses of the digital copies created by effect of digitization. As discussed in details in Borghi
+& Karapapa (pp. 104-110), under these agreements the public institution
+        “can only make use of the copy ‘as part of services offered’ on its website, but cannot carry
+        out, or allow others to engage in, commercial uses, redistribution, or ‘automated systematic
+        download’ of the copies. Most importantly, the library is under an obligation to implement
+        technological measures to restrict ‘automated access to any portion’ of the digital copies or
+        to the website on which these copies are available.” (Ibid., p. 104)
+These provisions have the effect of reserving to the private company who performs the digitization
+the exclusivity in the use of the digitized works for TDM research. The digitization contracts
+between European libraries and Google, for instance, reserve to Google the exclusivity of TDM
+research over millions of European books for a given period of time. Although the Commission,
+following the recommendations of the Comité des Sages,5 has recommended that these privileges
+‘necessary to recoup the investment’ should not exceed seven years time,6 most of the contracts
+signed between the European libraries and Google give the latter exclusive uses for fifteen years
+(see Borghi & Karapapa, 105-107). These privileges are a serious impediment for companies and
+research institutions other than Google to develop TDM research on the European cultural heritage.
+b) The database right
+Any copyright provisions aimed at enabling TDM would be ineffective if it does not address
+explicitly the rights in databases provided for by Directive 96/9/EC (the Database Directive). As a
+matter of fact, TDM has its actual scope of application on collections of works (instead of on
+individual works), and such collections are normally protected either by copyright (if eligible under
+Art 3), or by the sui generis database right (Art 7). So, even if works that constitute content of a
+databases are subject to a TDM exception, the availability of the exception would be undermined by
+copyright and/or database right on the database as such. Any reproduction of works listed in an
+electronic database for purposes of TDM may result in “extraction and/or reutilization of the whole
+
+5
+  Comité des Sages ‘The New Renaissance’, January 2011, 39–40, available at
+<htpp://ec.europa.eu/information_society/activities/digital_libraries/comite_des_sages/index_En.htm>.
+6
+  Commission Recommendation of 27 October 2011 on the digitisation and online accessibility of cultural material and
+digital preservation (2011/711/EU), Rec. 7.
+                                                         9
+CIPPM                                                                      Bournemouth University
+
+
+or substantial part”, and is hence an infringement, regardless of whether the activity is permitted
+under copyright law (see Case C 202/12, Innoweb BV v Wegener ICT Media BV, Wegener
+Mediaventions BV).
+To be effective, the exception to the reproduction right should be accompanied by a parallel
+exception to the database right.
+It is submitted that such an exception would not be in conflict with the Database Directive. Art 9 of
+the said Directive allows Member States to
+         stipulate that lawful users of a database which is made available to the public in whatever
+         manner may, without the authorization of its maker, extract or re-utilize a substantial part of
+         its contents:
+         […]
+         (b) in the case of extraction for the purposes of illustration for teaching or scientific
+         research, as long as the source is indicated and to the extent justified by the non-commercial
+         purpose to be achieved; […]
+“Extraction for the purpose of scientific research” should explicitly cover automated processing for
+carrying out content analysis.
+
+
+F. User-generated content
+58. (a) [In particular if you are an end user/consumer:] Have you experienced problems when
+trying to use pre-existing works or other subject matter to disseminate new content on the
+Internet, including across borders?
+
+YES.
+Depending on the type of work/subject matter, it can be difficult to access and use pre-existing
+work to create new content to be disseminated on the Internet. For example, to access and use
+academic articles generated by Universities to create new content can be difficult unless a valid
+licence is in place and the person has access to the licence. In such cases, and where the traditional
+publishing model dominates the dissemination, access and use proves to be more of an issue as
+opposed to dissemination on the Internet which crosses borders. The latter (i.e. dissemination) can
+be achieved fairly easily through various platforms ranging from websites (personal; organisational)
+through to social media sites.
+NO.
+On the other hand, it can be fairly easy to access and use pre-existing works or other existing
+subject matter to create new content for dissemination on the Internet. This is particularly true in the
+case of user-generated content (UGC). Platforms such as YouTube make available a large amount of
+copyright content which can be freely accessed.
+To put it into context, a Commissioned Study (by the UK Intellectual Property Office) carried out
+by the Centre for Intellectual Property Policy and Management (CIPPM) at Bournemouth
+University in 2013 can be cited.
+[See, Erickson K., Kretschmer M., & Mendis D., Copyright and the Economic Effects of Parody:
+An Empirical Study of Music Videos on the YouTube Platform and an Assessment of the Regulatory
+Options [London: Intellectual Property Office; 2013], pp. 1-38].
+
+                                                  10
+CIPPM                                                                      Bournemouth University
+
+
+The Study reviewed a sample of 8,299 user-generated music video parodies relating to the top-100
+charting music singles in the UK for the year. Through this Study, it revealed that on average “there
+are 24 user-generated parodies available for each original video of a charting single” showing UGC
+to be a significant consumer activity. It also revealed the ease of access to pre-existing works to
+disseminate new content on the Internet, including across borders.
+
+
+
+59. (a) [In particular if you are an end user/consumer or a right holder:] Have you experienced
+problems when trying to ensure that the work you have created (on the basis of pre-existing
+works) is properly identified for online use? Are proprietary systems sufficient in this context?
+
+YES.
+In the field of academia (and being a right holder in this field), work that is created on the basis of
+pre-existing works is generally identified and referenced in the online world. At the same time, it
+must be pointed out that the type of work that is accessed and used in this field is relevant to a
+particular group of people as opposed to the wider and larger masses. The problems occur in the
+use of popular media and in the use of online platforms such as YouTube, Vimeo for example, to
+create new content. In such cases, there is lack of acknowledgement of the original creator which
+can lead to infringement of copyright and piracy.
+The existing proprietary systems do not address issues thrown up by UGC. For example, whilst
+some Member States of the EU have adopted exceptions to deal with parody – which relies on pre-
+existing work, there are a number of other Member States which do not have such a provision. UK
+is currently moving forward in introducing a parody exception.
+However, a UGC-focused provision (similar to Canada) will be more useful as more people engage
+in such activities. Also the existing laws are silent on whether the use of pre-existing work to create
+new content is for commercial or non-commercial use. This is something which needs clarification
+along with the clarification that user-generated content should not have an adverse effect on the
+market of existing work / original which again is not addressed clearly in the current laws of the
+Member States.
+Clearly the UGC must acknowledge the original work and must not harm the personality rights of
+the creator of the original work.
+[See, Mendis D., & Kretschmer M., The Treatment of Parodies under Copyright Law in Seven
+Jurisdictions: A Comparative Review of the Underlying Principles [London: Intellectual Property
+Office; 2013], pp. 1-92].
+
+
+
+60. (a) [In particular if you are an end user/consumer or a right holder):] Have you experienced
+problems when trying to be remunerated for the use of the work you have created (on the basis of
+pre-existing works)?
+
+In the UK, collecting societies such as the Authors Licensing and Collecting Society (ALCS);
+Design and Artists Copyright Society (DACS); Performing Rights Society (PRS) for Music; and the
+Copyright Licensing Agency (CLA), amongst others, exist to remunerate various types of works.
+Whilst, in general, these collecting societies do remunerate rightholders, there are issues relating to
+remuneration particularly when it relates to artistic works, online works and in the use of
+photocopied works.
+                                                  11
+CIPPM                                                                      Bournemouth University
+
+
+For example, a Study carried out in 2011 illustrated that “visual artists have precarious careers, with
+typical earnings well below the UK national median wage of £21,320. In 2009/10, the typical pho-
+tographer earned £15,000 (median), the typical illustrator earned £15,723 (median) while the typical
+fine artist earned only £10,000 (median)”. It reflects the risky nature of working lives in cultural oc-
+cupations.
+[See Kretschmer M., Singh S., Bently L., Cooper E., Copyright in Contracts and Earnings of Visual
+Crearors: A Survey of 5,800 British Designers, Fine Artists, Illustrators and Photographers [DACS;
+2011].
+Where the rightholder does not depend on cultural/creative work for their living, the situation,
+remains similar. In the academic world, questions remain in relation to the remuneration of
+rightholders. Whilst the system has been developed extensively, from the mid-2000 to the present
+times, the problems have not gone away completely. The issue was also highlighted in 2009 when a
+research monograph highlighted the discrepancies which exist in the collection of licence fee from
+educational establishments and its ultimate distribution to right holders within those establishments.
+[See, Mendis D., Universities and Copyright Collecting Societies [The Hague: T.M.C. Asser Press;
+2009].
+Finally, remuneration remains a grey area in relation to the remuneration of online works which
+have been created on the basis of pre-existing works. Having said that, a Study published in 2013
+showed that in the case of parody works, the relative size of the audience for parody versions of a
+work does not appear to adversely affect the performance of the original in the marketplace and in
+turn the remuneration through the VEVO advertising revenue on platforms such as YouTube.
+[See Erickson K., Evaluating the Impact of Parody on the Exploitation of Copyright Works: An
+Empirical Study of Music Video Content on YouTube [London; Intellectual Property Office; 2013] p.
+22 of 48].
+
+
+
+61. If there are problems, how would they best be solved?
+
+The problems arise from copyright exceptions which are not clearly defined and from existing laws
+which do not address “interactions of private citizens, often via social networking sites, which (sic)
+encourages literacy in multimedia expression in ways that are increasingly essential to the skills
+base of the economy” [Digital Opportunity: A Review of Intellectual Property and Growth: An
+Independent Report by Professor Ian Hargreaves (London: Intellectual Property Office; 2011) para
+5.35 p. 50].
+Problems have also arisen from more recent stringent laws, such as the ‘three-strikes’ law which
+have proved to drive end users to piracy rather than deter them away from it.
+[See, Mendis D., Digital Economy Act 2010: Fighting a losing battle? Why the ‘three strikes’ law is
+not the answer to copyright law’s latest challenge. International Review of Law, Computers and
+Technology, 27 (1), 60-84].
+The problem will be best addressed by the introduction of a clearly defined exception on UGC. It
+can complement existing exceptions which deal with parody, pastiche and caricature in Member
+States.
+
+
+
+                                                  12
+CIPPM                                                                     Bournemouth University
+
+
+62. If your view is that a legislative solution is needed, what would be its main elements? Which
+activities should be covered and under what conditions?
+
+A legislative solution along the lines of Canada’s Copyright Modernisation Act 2012 (2012 Act) is
+suggested. The 2012 Act introduced a new section 29 which recognised works of (education),
+parody or satire under the existing ‘fair dealing’ exception, which was further elaborated at section
+29.21 for ‘non-commercial user-generated content’. This section is also known as the ‘mash-up’
+exception and has been clearly designed to deal with UGC.
+The Centre for Intellectual Property Policy and Management’s (CIPPM’s) Commissioned Study
+into parody included the review of 7 jurisdictions – from the EU, USA, Canada and Australia. A
+number of lessons were learnt from this Study, particularly in relation to the elements which UGC
+should reflect. The findings from this 2013 Study, relevant to this question are set out below.
+[See, Mendis D., & Kretschmer M., The Treatment of Parodies under Copyright Law in Seven
+Jurisdictions: A Comparative Review of the Underlying Principles [London: Intellectual Property
+Office; 2013], p. 47 of 92.
+The provision addressing UGC should state that the work:
+   i.   Must be non-commercial;
+  ii.   Must not have an adverse effect on the market for the original;
+iii.    Must not use more of the original than necessary;
+ iv.    Must add some significant new creation;
+  v.    Must not harm the personality rights of the creator of the original work;
+ vi.    Must be sanctioned under the rules of social custom; and
+vii.    Must acknowledge source of original work.
+
+
+
+IV. Private Copying and Reprography
+64. In your view, is there a need to clarify at the EU level the scope and application of the private
+copying and reprography exceptions in the digital environment?
+
+YES.
+In the UK, for example, the Copyright Act has not had a private copying exception, although there
+are proposed reforms under way. For a long time, it was felt that such an exception was not needed
+as rightholders would not pursue individuals for infringements which occur in their homes.
+However, the advancement of technology and the advent of the Internet has changed this perception
+as more and more infringements take place online which questions whether it is being done for
+‘private’ use.
+As connected devices continue to grow and develop making private copying and ‘sharing’ ever-
+more easy, it is necessary to clarify at EU level the scope and application of the private copying and
+reprography exceptions in the digital environment.
+
+
+
+65. Should digital copies made by end users for private purposes in the context of a service that
+has been licensed by rightholders, and where the harm to the rightholder is minimal, be subject
+to private copying levies?
+
+                                                  13
+CIPPM                                                                    Bournemouth University
+
+
+NO.
+The UK government intends to introduce a narrow private copying exception ‘which will allow an
+individual to copy content they own, and which they acquired lawfully, to another medium or device
+for their own personal use’ (see draft legislation here).
+Under the new exception consumers will be allowed to copy a piece of music (from a CD for
+example) on to their MP3 player, laptop or smart phone. This will also include copying ‘in any
+private place, including a private cloud or other remote electronic storage’ – without infringing
+copyright. However, passing copies to family or friends will remain illegal.
+Such a limited exception will cause minimal damage to rightsholders, and therefore no payment will
+be due. By limiting the private copying exception to narrow uses, the UK government will avoid the
+creation of a complex system of fair compensation as utilised in certain EU countries.
+[See, Kretschmer M., Private Copying and Fair Compensation: An empirical study of copyright
+levies in Europe [London: Intellectual Property Office; 2011].
+
+
+
+VI. Respect for Rights
+21.    Should the civil enforcement system in the EU be rendered more efficient for
+infringements of copyright committed with a commercial purpose?
+
+In the last decade rightholders organizations and individual rightholders have pushed for an
+involvement of the ISP in the process of copyright enforcement, both at legislative (Articles 12 to
+15 of Directive 2000/31/EC on electronic commerce, OJ L 178, 17.7.2000, p. 1) and judiciary level.
+Some theories have also emerges among copyright scholars (for example, Sobel 2003).
+The European Court of Justice has been seized on several occasions on this topic (C-275/06
+Promusicae; C-461/10 Bonnier Audio; C-70/10 Scarlet Extended ). Although the EU Court is
+generally very protective with the right of the authors, it always repulsed these assaults with the
+shield of fundamental rights, such as privacy, data protection, freedom of business.
+We do not believe a legislative action should take a different stance from that of the European Court
+of Justice on this matter. Every proposed filtering system imposed to ISP would run afoul of
+fundamental rights that, when balanced against copyright protection, have to prevail. If any, the
+position of the ISP should be clarified in order to confirm their neutrality and independence.
+
+
+
+
+                                                 14
+

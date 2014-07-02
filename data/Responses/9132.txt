@@ -1,0 +1,252 @@
+    OpenForum Europe Response to the Public Consultation on the
+                review of the EU copyright rules
+
+Response By: OFE Limited
+
+Register No: 2702114689-05
+
+Type of respondent : other – not-for-profit industry organisation
+
+Contact Address:
+info@openforumeurope.org
+Bischoffsheim Business Centre
+Boulevard Bischoffsheim 36
+1000 Brussels
+
+
+
+
+                                                                    1
+Table of Contents
+
+Introduction..................................................................................................................................... 3
+
+Linking and browsing..................................................................................................................... 4
+
+Text and data mining...................................................................................................................... 5
+
+Private copying and reprography.................................................................................................... 6
+
+Other issues..................................................................................................................................... 7
+
+Disclaimer....................................................................................................................................... 8
+
+
+
+
+                                                                                                                                                 2
+Introduction
+
+We believe that the development of new technologies has fundamentally changed the way that
+the online knowledge economy operates, and thus welcome the initiative by the European
+Commission to review the EU copyright rules so as to adapt them to the current reality. We need
+to create a system that maximises Europe's creativity, innovation, access to information and
+culture, and competitiveness.
+
+In our response to the consultation, we have decided to focus on four areas that we believe to be
+key to the openness of ICT in Europe :
+
+Linking and browsing constitute fundamental functions of the Open Internet. We advise against
+putting further restrictions on a practice that has become essential to the way we communicate
+and share information online.
+
+Text and data mining frequently faces artificial restrictions in the form of separate licenses
+which burdens and limits the enormous potential of techniques that will be key contributors to
+innovation and growth in Europe in the coming years. We recommend the introduction of a
+clearer copyright exception.
+
+Private copying and reprography are increasingly becoming unadapted to an economy of
+streaming and digital contents. We believe that levies should not be applied to cloud services.
+
+Software interoperability should not be restricted in any way by copyright rules. In particular,
+the possibility for software to circumvent DRMs for interoperability purposes should be
+enshrined by law.
+
+
+
+
+                                                                                                   3
+Linking and browsing
+
+11. Should the provision of a hyperlink leading to a work or other subject matter protected
+under copyright, either in general or under specific circumstances, be subject to the
+authorisation of the rightholder?
+
+No - we consider the act of linking to be a fundamental function of the Internet that we know
+today, which should not be subject to copyright authorisations. Tim Berners-Lee, inventor of the
+World Wide Web, says that the possibility for "any person could share information with anyone
+else, anywhere"1 was key to the original philosophy of the Web and its success. Further, a link is
+not a use of a work in copyright law unless it is used in a way to circumvent restricted
+accessibility of copyright protected documents: it is neither a transmission nor a communication
+of a work in stricto sensu. In particular, a link merely points to a place where content is available,
+like an address or library record.
+
+In this regard, the ECJ drew the same conclusion in his most recent ruling on reference to a
+preliminary question in the Svensson case (C-466/12)2 whereby stating that “[...] making
+available the works concerned by means of a clickable link [...] does not lead to the works in
+questions being communicated to a new public” because “the users of the site [...] must be
+deemed to be potential recipients of the initial communication and, therefore, as being part of the
+public taken into account by the copyright holders when they authorised the initial
+communication.” ( See para. 25, 27 of the Svensson case C-466/12) That is also in line with a
+common sense; as long as the copyright-protected content is stored on a server other than that of
+the entity linking or framing, there is simply no “copy” made on which to base the liability. A
+creator of the link draws only attention to a work that is freely available and accessible on
+another website.
+
+
+
+
+12. Should the viewing of a web-page where this implies the temporary reproduction of a work
+or other subject matter protected under copyright on the screen and in the cache memory of
+the user’s computer, either in general or under specific circumstances, be subject to the
+authorisation of the rightholder?
+
+No - in so far as the temporary copy is necessary for accessing the online material, this should
+not trigger the copyright. It has never been unlawful to merely view or read copyrighted material
+in a physical form, and there is no reason why the online equivalent should be any different.
+
+
+
+
+1    ‘Long Live the Web: A Call for Continued Open Standards and Neutrality’ (May 2011), available at
+    http://www.scientificamerican.com/article.cfm?id=long-live-the-web
+2   Case C-466/12 Nils Svensson and Others v Retriever Sverige AB [2014]
+
+                                                                                                        4
+Text and data mining
+
+54. If there are problems, how would they best be solved?
+In order to analyse text or data a computer must copy that data, which can be derived from
+databases (under copyright protection) or even the open Internet. The data within those sources is
+not protected by intellectual property, but the journals, documents or databases that are mined
+may be protected. The act of copying is made for technical purposes, since it is the only way to
+transform it into a machine readable format. Text and data mining (TDM) simply employs
+computers to “read” material and extract facts one already has the right as a human to read and
+extract facts from. It is difficult to see how the technical copying by a computer can be used to
+justify copyright and database laws regulating this activity. When material is accessed lawfully,
+it should be able to be fully mined without any further requirements.
+
+55. If your view is that a legislative solution is needed, what would be its main elements?
+Which activities should be covered and under what conditions?
+The Commission should clarify that data-mining activities are not subject to specific copyright
+permissions, in all contexts. We advocate for the introduction of a mandatory exception to
+copyright that would permit the use of analytics for all types of uses, as long as the material is
+lawfully accessed in the first place. Additionally, in the context of research, TDM exclusions in
+contracts for access to research material should be removed. We believe that a legislation that
+prohibits clauses implementing such restrictions on a contractual basis is essential.
+
+There is evidence that clearly show that market failures exist and hamper innovation. New
+business models for supporting text and data mining are emerging and represent an enormous
+potential of growth and innovation. A text and data mining exception, if it were to be
+implemented, would remove a key barrier thus better enabling service solutions supporting text
+mining to emerge from the market.
+
+
+
+
+                                                                                                5
+Private copying and reprography
+
+64. How would changes in levies with respect to the application to online services (e.g.
+services based on cloud computing allowing, for instance, users to have copies on different
+devices) impact the development and functioning of new business models on the one hand and
+rightholders’ revenue on the other?
+Imposing levies on cloud services should be clearly and firmly excluded by the new framework.
+The cloud and Internet services are global. Levies are applied by national collecting societies on
+a strictly territorial basis and are triggered each time a good crosses a border. Each time this
+occurs, levies add up, bringing multiple payments, administrative costs and associated
+procedures. This is fundamentally at odds with the vision of the EU single market and the global
+nature of cloud services. Charging levies on cloud services will undermine the digital single
+market in cloud services before its opportunities have even materialized. Yet a single market in
+digital services is key to driving cloud services forward in the EU. Only a digital single market
+can attract investment in early stage offerings from EU innovators.
+
+Access anytime, anywhere, is the driver of growth in the creative industries. Much of the growth
+in the creative industries in the past decade (some 30 billion Euros) has been driven by digital
+technology. Consumers can access content anytime, anywhere, fuelling consumption, which, in
+the creative sector, is up by 25%. Imposing levies on cloud services hurts the development of
+new revenue streams for rights holders. It leads to multiple payments for the same content as
+consumers would pay for content, pay a device levy, and pay a levy to use content delivered over
+the cloud. As the UK or Ireland illustrate, there is no harm to rights holders in allowing
+consumers to make private copies of legal content. On the contrary, access to legal content
+anytime, anywhere, and the development of new services drives more revenue to rights holders.
+
+While there is no demonstrated harm to rights holders from cloud services, the current
+application of levies to devices clearly shows the disproportionate market distortions and
+administrative costs involved with any levy system.
+
+Moving levies to cloud services, to retailers or elsewhere can only make the problem worse.
+Digital and cloud services are driving the growth of revenue for content owners. Levies would
+merely reduce the creative and economic opportunity for creators. Rather, policy makers should
+provide the optimal conditions for creators to create, distribute and sell in order to provide a
+sustainable basis for the creative sector. Making cloud solutions more expensive would punish
+consumers, businesses, creators and innovators by reducing the take-up of new technologies and
+increasing cost.
+
+
+
+
+                                                                                                6
+Other issues
+
+80. Are there any other important matters related to the EU legal framework for copyright?
+Please explain and indicate how such matters should be addressed.
+
+Article 6 of the 'Computer Programs Directive'3 guarantees that copyright cannot be used to
+prevent the decompilation of the program when and in so far as necessary to ensure that it
+operates with other programs or devices. This “interoperability exception” has proven to be
+essential to guarantee software interoperability and needs to be maintained.
+
+In a similar fashion, we believe that the EU legal framework would be improved by ensuring that
+circumventing Digital Rights Managements (DRMs) for interoperability purposes does not
+violate copyright. Uncertainties over this has for example lead to the situation whereby the
+VideoLAN project, best known for developing the popular open source media player VLC (used
+by 150 million people across the world4), cannot implement the possibility for their media player
+to read Blu-Ray discs protected by DRMs and are stuck in a legal grey zone despite their efforts
+to clarify the situation.5
+
+Another example comes from the ECJ recent case law. As a matter of fact, the ECJ used 'the
+interoperability exception principle' in the Nintendo case6 whereby stating that 'a technical
+measure' put in place to protect the copyrights can be circumvented, meaning thus decompiled
+and/or re-configured, provided that the predominant purpose thereof is to use the protected
+device for other commercial uses than these set out by the rightholder. Even though this
+argument comes in question with regard to video games that are specific by its nature, and lays
+down also other aspects to factor in the legal assessment, it withstands its value. The Court
+argued under the Copyright directive (2001/29/EC) that the protection given by therein is not
+absolute and recognized de facto the right of third parties to use and adapt protected devices for
+their activities while weakening the protective measures of these devices provided that the
+predominant purpose of such activities is not to circumvent the copyrights. Therefore, with
+regard to the legal certainty and for the purpose of a fair competition on the market, the
+'interoperability exception' should be made as a general principle to the copyright protection in
+the context of the EU copyright legislative framework.
+
+
+
+
+3   Directive 91/250/EEC 2009/24/EC
+4    VLC saisit la Hadopi pour ouvrir les verrous des Blu-ray (in French, April 2012), available at
+    http://www.lepoint.fr/chroniqueurs-du-point/guerric-poncet/exclusif-vlc-saisit-la-hadopi-pour-ouvrir-les-
+    verrous-des-blu-ray-03-04-2012-1448011_506.php
+5   La Hadopi rend son avis sur la lecture des Blu-ray par VLC (in French, April 2013), available at
+    http://www.lemonde.fr/technologies/article/2013/04/08/la-hadopi-rend-son-avis-sur-la-lecture-des-blu-ray-par-
+    vlc_3156110_651865.html
+6   Case C-355/12 Nintendo Co. Ltd and Others v PC Box Srl and 9Net Sri [2014]
+
+                                                                                                                    7
+Notes:
+OpenForum Europe (OFE) is a not-for-profit member organisation based in both Brussels and
+the UK, established to support an 'open' and competitive IT market in Europe. OFE is supported
+by some of the most influential ICT companies including Deloitte, Google, IBM, Oracle, and Red
+Hat, but also particularly works in strong partnership with a long list of both national and
+European partners. OpenForum Europe acknowledges all the input received from its members
+and partners in the compilation of this document. However, OpenForum Europe does not seek to
+represent any specific community nor present their opinions as being unanimously supported by
+their full membership. References given are fully attributed and every effort made to ensure they
+have been taken in true context.
+www.openforumeurope.org
+
+
+
+
+                                                                                                8
+

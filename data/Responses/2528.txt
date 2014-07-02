@@ -1,0 +1,898 @@
+                    ETNO response to the Public Consultation on
+                            the review of the EU copyright rules
+
+
+
+
+                                                                         March 2014
+
+Introduction
+
+
+ETNO, the leading trade association in Brussels for telecoms operators, welcomes the
+current public consultation on the review of the EU copyright rules and thanks the
+EU Commission for the opportunity to provide views.
+
+ETNO considers that the dramatic changes brought about by the Internet era may
+challenge the current regulatory regime for copyright and believes that it is therefore
+appropriate that the EU Commission questions the adequacy of the current regime in
+the digital context. Notwithstanding these new challenges, ICT is an enabler of new
+content distribution mechanisms and services and as such, ETNO members are
+investing heavily to ensure that the underlying infrastructure is in place to support
+this innovation. ETNO believes that all players benefitting from the digital
+environment should contribute to it growth and investment.
+
+As a preliminary consideration, ETNO reaffirms that copyright is fundamental to
+innovation and copyright owners need to be properly remunerated for their works.
+As a representative of one of the most innovative industry, ETNO supports a sound
+regulatory framework for copyright and an appropriate protection mechanism. At
+the same time, the enormous opportunities and facilities granted by ICT and the
+Internet in terms of social and economic welfare need to be equally supported,
+through a regulatory framework that fosters investment and the provision of
+innovative services. As such, ETNO considers that the forthcoming new European
+Commission and Parliament terms, and the needed revision of the Digital Agenda
+objectives (as proposed by the Greek Presidency of the EU in its Program for the
+semester (the so-called “Mid-term review”), are a unique opportunity to strike a
+sound balance of equally relevant interests and to establish a legal framework that is
+fit for purpose in the digital environment.
+
+
+
+
+ETNO Reflection Document RD403 (2014/02)                                            1
+Below, we provide responses to those questions within the consultation which are of
+direct relevance to ETNO members.
+
+
+Q2. [In particular if you are a service provider:] Have you faced problems when
+seeking to provide online services across borders in the EU?
+  YES - Please explain whether such problems, in your experience, are related to
+copyright or to other issues (e.g. business decisions relating to the cost of
+providing services across borders, compliance with other laws such as consumer
+protection)? Please provide examples indicating the Member State, the sector and
+the type of content concerned (e.g. premium content such as certain films and TV
+series, audio-visual content in general, music, e-books, magazines, journals and
+newspapers, games, applications and other software).
+
+
+
+Cross-border availability of content is essential for the development of cross-border
+services and must be facilitated. This applies to two different situations: 1. when
+customers have subscribed to online services in the Member State of their residence
+and want to access these services when travelling temporarily abroad (via roaming,
+wi-fi connections, fixed access etc) and 2. when customers wish to access content
+distributed by a foreigner provider in other countries.
+
+The fact that copyright and licensing schemes are nationally based, often with
+content providers requiring geo-filtering and restrictive licences for national
+territories, is certainly an obstacle to the achievement of the European single market.
+Barriers to providing services also exist due to national cultures and languages, the
+need for the adoption of open standards for content delivery, the cost of compliance
+with different national consumer laws and fiscal regulations, the costs of providing
+customer care in several languages, the risk of fraud and non-payments and the
+diverse economic realities which can have price implications.
+
+National cultures and languages
+European content is nationally segmented because content is usually related to
+national culture and language. This is particularly the case for audio-visual works.
+Subtitling and dubbing films helps to overcome the associated difficulties but these
+solutions carry a cost which online distributors are not always ready to support,
+particularly when the consumer interest is low. Even for marketing and budget
+reasons, European works are not as attractive as US works outside their country of
+origin and this is true not only for television programmes but also for most films.
+
+Considering these barriers, distributors will typically not take the risk of financing
+films produced in other Member States and it is also difficult for those distributors to
+find interested advertisers. In this context, distributors are legitimately reluctant to
+undertake the international online provision of national content in other Member
+States of the EU.
+
+Standards for content delivery
+Many standardisations activities are developed in order to enable the provisioning of
+NGA/NGN services across networks in a multi-carrier environment. Some of these
+
+ETNO Reflection Document RD403 (2014/02)                                             2
+standards dedicated to future networks could also offer greater facilities for content
+delivery and the online distribution of audio-visual media services. In particular,
+ETNO believes that there is a need for Europe to promote open and interoperable
+standards for IP-based Quality of Service Interconnection (such as IPX).
+
+Standardization is also necessary to achieve convergence in the audio-visual
+business. Standardization processes should involve all stakeholders in the value
+chain, from content providers to ISPs and home network technology vendors and
+including transit network operators.
+
+Industry initiatives should be accompanied by Institutional efforts focused on
+achieving and ensuring the adoption of open standards for online services. The
+European Commission should, however, refrain from mandating any standard
+which has not proven to be widely accepted by the market as mandating standards
+can hinder innovation. The promotion of standards via bodies such as ETSI could
+foster the market penetration of standards on a voluntary basis and thereby help to
+achieve more interoperability.
+
+Consumer protection laws
+Notwithstanding the Citizens Rights Directive, to be implemented this summer, the
+laws regulating consumer contracts are varied across Member States and constitute
+obvious barriers to cross-border trade.
+
+Personal data protection and privacy
+Creating, promoting and adopting a global set of principles based on a harmonised
+and consistent approach to privacy would benefit users, who should benefit from the
+same level of protection no matter where they are based nor which and where the
+provider is, and should ensure that European businesses can compete on the same
+level playing field with US market leaders. Harmonisation would greatly reduce
+privacy compliance costs which is an important step for the take-up of new activities
+in the European Union, such as cloud computing.
+
+On this issue, ETNO welcomes the ambitious plan to revise the European data
+protection rules.
+
+Tax issues
+The current tax system is an obstacle to the development of cross-border content
+offers as US companies distributing content cross-border may escape EU tax
+obligations. The changes in the EU VAT rules are an important step in the (right)
+direction to limit VAT-forum shopping for those players, such as foreign ‘Over the
+Top’ players, that are not linked by establishment in a specific EU country.
+
+Security
+Some content typologies such as music or editorial works (eg eBooks) require, for
+their distribution and use by the end-user, the adoption of specific security
+requirements, for instance DRMs, which are not regulated in the same way in all
+Member States. A higher harmonisation in this field would help the distribution and
+use of content across borders.
+
+
+
+ETNO Reflection Document RD403 (2014/02)                                           3
+Collective rights management
+The legislation applicable to the royalties that collecting societies collect for the
+distribution and use of a specific content varies across the EU. Moreover, in the event
+of cross-border services, it would be necessary to avoid a duplication of the payment
+obligation due to the collecting society.
+
+Q4. If you have identified problems in the answers to any of the questions above –
+what would be the best way to tackle them?
+[Open question]
+High price and the lack of availability of content is the key domestic/national market
+barrier today in Europe for watching on-demand/online content. Naturally, from
+this follows that access to on-demand/online content across territories becomes even
+more cumbersome and restrictive due to territorial copyright restrictions, licensing
+conduct, geo-blocking, price discrimination, hold-back practices and windowing1.
+For ETNO, transparency in the process of establishing “who owns what rights” is
+key, as is the identification of the collection society(ies) or the rights-holders which
+are competent to grant a license. In particular, collecting societies must improve their
+processes and content distributors should not be responsible for verification.
+This lack of clarity is amplified by the cross-border scale of the business. Developing
+cross-border services requires that providers repeat costly and time consuming
+negotiations to clear rights with collecting societies in each Member State where the
+service will be made available.
+In relation to on-line music content, ETNO hopes that the future Directive on
+Collective Rights Management will help to solve some of the relevant problems such
+as a lack of transparency, excessive transaction costs in the negotiation and
+implementation of license agreements with collecting societies, lack of clarity on
+rights’ ownership and the complexity of rights management. However, as important
+as the Directive will be, the implementation of its provisions by Member States will
+be key. Therefore, ETNO calls on the Commission to closely monitor the different
+national transposition processes to ensure that the principles of transparency,
+accountability and governance set by the Directive are fully embedded into future
+national laws governing collecting societies.
+As regards the introduction of pan-European licenses for audio-visual works
+covering the entire EU footprint, ETNO questions whether it would be an
+appropriate solution because it would most likely not suit the reality of the market.
+In addition, pan-European licensing would impose on distributors the clearance of
+very expensive rights available in 28 Member States with no guarantee of a return on
+investment in each of them (return from consumers' subscriptions, advertising, etc).
+This would rather tend to favour large players that are already established in the
+market or those which have the economic capacity to bear the related investments.
+
+
+
+1
+  A recent study (Ericsson ConsumerLab TV & Media) highlights that amongst the top national barriers to watch
+on-demand TV/Video content are: the price for on-demand TV/Video is too expensive; poor selection of available
+on-demand TV/Video (titles being not relevant or too old); the on-demand TV/Video content is not available on
+main TV screen; accessing and watching on-demand TV/Video content takes too long and is cumbersome
+
+
+
+ETNO Reflection Document RD403 (2014/02)                                                                  4
+The revision of the EU licensing schemes should therefore consider the current
+market structure in order not to grant competitive advantages to selected players.
+Further, ETNO recommends that a review of the release windows system is carried
+out at EU level in order to grant innovative uses of the rights and a wider
+distribution of digital works. This would also help reducing digital piracy, which is
+mainly due to the lack of legal offer. In addition, hold-back and exclusivity clauses
+should be put in the spotlight with a view to identifying barriers and addressing any
+problems.
+
+
+Q7. Do you think that further measures (legislative or non-legislative, including
+market-led solutions) are needed at EU level to increase the cross-border
+availability of content services in the Single Market, while ensuring an adequate
+level of protection for right holders?
+ YES – Please explain
+Before assessing the need for further measures, a comment on the justification for
+additional measures is required. ETNO offers four distinct reasons that justify further
+interventions:
+
+      Any would-be improvement of cross-border availability of content services
+       must start with the assessment of national content availability and in
+       particular the availability of digital on-demand/on-line content, since this is a
+       prerequisite for effective cross-border content dissemination and also is an
+       existing policy imperative for the Digital Single Market. In other words, an
+       EU-wide synchronized DVD release schedule is neither relevant nor a
+       sufficient ambition of the EU Digital Agenda and the EU Digital Single
+       Market.
+      From a territorial/Member State perspective, increased availability of digital
+       on-demand/online content is also relevant to narrow down the national
+       cultural gap in terms of access to physical content in urban vs. rural areas,
+       since access to cultural outlets, such as cinemas, theatres and opera houses is
+       significantly more limited in rural areas. Not only will increased digital
+       creative content availability of on-demand/on-line distribution increase the
+       opportunities for rural European regions to enjoy culture and hereby foster
+       cultural inclusion but furthermore it will increase the opportunity to spread
+       cultural diversity across the EU frontier.
+      From a consumer point of view, accessing culture and entertainment via
+       physical and/or appointment based methods comes with following short
+       comings:
+           - the physical availability is restricted to certain locations, to certain
+               days, certain times of the day and the amount of available seats, which
+               limits consumption opportunities,
+           - physical screen limitations (number of screens per theatre/city)
+               restrict the range of titles available at any given time, which excludes
+               non-block-buster types of films, such as independent creations,
+               regional and local productions which limits cultural diversity.
+      Given the socio-economic effects described in section one, ETNO would
+       argue that it is in the public interest to balance the self-interest of creative
+       sectors with the aim of promoting open and competitive markets in digital
+
+
+ETNO Reflection Document RD403 (2014/02)                                             5
+         on-demand/on-line content. The review of the copyright system should aim
+         to increase the availability of more legitimate pan-European digital content
+         services, in ways and at prices which are appealing to consumers and to
+         decrease digital cultural exclusion.
+
+What should the interventions aim to achieve?
+
+According to a recent World Economic Forum Publication2, expanding access to
+content means offering “a wide range of means for the public to reach content, enabled by
+the Internet and other technologies, maximizing societal and economic benefit”. The need to
+increase the availability of content is also acknowledged by leading insiders of the
+creative industry, according to which “Audience wants the freedom…they want
+control….give consumers what they want, when they want it and in the format they want it
+and at reasonable price..”3
+
+ETNO believes that the availability of on-demand/on-line digital content for
+territorial and cross-border dissemination can be increased by addressing the
+complete absence of legal digital alternatives in the first release window, limiting the
+length of exclusive first release windows and prohibiting the use of exclusive
+windows for films with less than 100 copies (the number is relative to size of the
+home cinema market) in the theatres.4 In addition, one could look at:
+
+              -    Assuring technology neutral public funding schemes of European
+                   audiovisual productions, allowing digital first windows to emerge e.g.
+                   prohibit digital on-demand/on-line discrimination.
+              -    Regulating the growing practice of Hold Back Practices, as some
+                   distributors can obtain from rights-holders the holding back of VOD
+                   rights during the whole TV exploitation. Holdback periods are
+                   currently not regulated and hence depend on contractual negotiations
+                   which have important drawbacks for VOD aggregators, as it hollows
+                   out the breadth and depth of a VOD content library.
+              -    Introducing a harmonized VAT-rate for audio-visual and other
+                   creative services and products across the EU frontiers. This VAT rate
+                   should apply regardless of the distribution channel or platform used
+                   to distribute digital or physical content.
+              -    Increasing market efficiency to clear European works more effectively
+                   across EU/EES territories by decreasing search, matching and clearing
+                   transaction costs e.g. via a registry, data base or similar.
+
+
+
+Q8. Is the scope of the “making available” right in cross-border situations – i.e.
+when content is disseminated across borders – sufficiently clear?
+  NO – Please explain how this could be clarified and what type of clarification
+would be required (e.g. as in "targeting" approach explained above, as in "country
+of origin" approach5)
+
+2
+  January 2014 “Norms and Values in Digital Media: Rethinking Intellectual Property in the Digital Age”, page 6.
+3
+  Kevin Spacey
+4
+  http://www.culturecommunication.gouv.fr/var/culture/storage/culture_mag/rapport_lescure/index.htm#/
+5
+  The objective of implementing a “country of origin” approach is to localise the copyright relevant act that must
+be licenced in a single Member State (the "country of origin", which could be for example the Member State in
+
+ETNO Reflection Document RD403 (2014/02)                                                                      6
+Since some ETNO members report issues in this area, a clarification of scope would
+be welcome.
+
+
+Q10. [In particular if you a service provider or a right holder:] Does the application
+of two rights to a single act of economic exploitation in the online environment (e.g.
+a download) create problems for you?
+  YES – Please explain what type of measures would be needed in order to address
+such problems (e.g. facilitation of joint licences when the rights are in different
+hands, legislation to achieve the "bundling of rights")
+The application of two rights for one act of exploitation may create problems with
+regards to the distribution of content by providers. In the past, both rights (the right
+of reproduction and the right of making available) which are necessary for the online
+and mobile exploitation of music were granted by the respective collecting societies
+in Europe. As a result of the EU Recommendation of 2005, Anglo-American music
+publishers withdrew their right of reproduction from the collective management by
+collecting societies. The right of making available for the respective musical works
+remained within collective management. Therefore, the situation now is that both
+licensing systems - collective rights management and single licensing - apply for one
+musical work used in one economic process. The aim of facilitating the licensing
+process for the content provider through collective rights management is
+jeopardised. Although rights managers, such as CELAS for the EMI Publishing
+repertoire, are licensing the corresponding making available right, for the Anglo-
+American EMI Publishing Repertoire the situation for content provider remains
+difficult. For the right of making available, CELAS is acting not in its own name but
+in the name of PRS and GEMA as a representative. If there is a dispute regarding the
+ownership of the rights, the content provider would have difficulties to ask for
+indemnification as it is unclear who should be addressed. The issue increases as most
+of the musical works have so called split copyrights, which means that part of the
+works are owned by various rights-holders.
+
+To solve this problem, it should be clarified that the right of making available and the
+corresponding reproduction right necessary for one economic process may not be
+split and represented by different rights-holders. Therefore, the making available
+right should always cover the right of reproduction as far as the right of making
+available cannot be used without the right of reproduction. To offer content to users
+via online and mobile platforms, the reproduction on the server of the service
+provider is a necessary condition for the making available of such content.
+
+Generally speaking, it is fundamental to simplify the IPR clearing regime for the
+distribution of digital works on online platforms and align it to the regimes
+applicable to all platforms in order to grant technological neutrality.
+
+
+
+
+which the content is uploaded or where the service provider is established), regardless of in how many Member
+States the work can be accessed or received. Such an approach has already been introduced at EU level with
+regard to broadcasting by satellite (see Directive 93/83/EEC on the coordination of certain rules concerning
+copyright and rights related to copyright applicable to satellite broadcasting and cable retransmission).
+
+ETNO Reflection Document RD403 (2014/02)                                                                  7
+Q11. Should the provision of a hyperlink leading to a work or other subject matter
+protected under copyright, either in general or under specific circumstances, be
+subject to the authorisation of the rightsholder?
+  NO – Please explain whether you consider this to be the case in general, or under
+specific circumstances, and why (e.g. because it does not amount to an act of
+communication to the public – or to a new public, or because it should be covered
+by a copyright exception)
+
+A hyperlink provision facilitates access to a work that has already been published on
+a specific website. Linking is in the essence of the Internet and it is impossible to
+conceive the functioning of the Internet without links. This should not be understood
+as a new publication or as a duplication of a work except if a protection measure has
+been bypassed in order to provide the link. As such, ETNO sees no requirement for a
+licence in this situation and we note that the recent ECJ ruling in the Svensson6 case
+reflects this viewpoint. On the contrary, if the provision of a link were subject to
+authorization of rights-holders, the way in which the Internet works today would
+simply collapse as it will be impossible to include any link in a web page due to
+potential copyright infringement.
+
+Q12. Should the viewing of a web-page where this implies the temporary
+reproduction of a work or other subject matter protected under copyright on the
+screen and in the cache memory of the user’s computer, either in general or under
+specific circumstances, be subject to the authorisation of the rightsholder?
+  NO – Please explain whether you consider this to be the case in general, or under
+specific circumstances, and why (e.g. because it is or should be covered by a
+copyright exception)
+
+Web-browsing creates temporary copies that are covered by the exception
+established in Article 5 (1) of Directive 2001/29/EC and do not constitute an
+infringement of copyright. For example, when viewing film trailers, the streaming
+process needs a temporary, ephemeral duplication by buffering in the cache,
+however this process is taking place automatically and the copy is also automatically
+deleted, without any human intervention, after a certain time. To change this
+understanding would mean that those who merely browse the Internet, without
+downloading anything, are likely unintentionally to incur a civil liability. As the UK
+Supreme Court7 referring the question to the ECJ has already rightly noted, it would
+be an unacceptable result to consider millions of ordinary Internet users to be
+copyright infringers by merely accessing a web-page containing copyright material.
+This should also not be the intention of the European legislator.
+
+Everyday interactions of users with digital technology give rise to multiple
+temporary digital reproductions of fragments of content. These are essential to the
+functioning of digital technologies, devices, networks, etc. According to the UK
+Supreme Court and some academics, requiring permission from a newspaper
+
+
+
+6
+    Judgment in Case C-466/12, Nils Svensson and Others v Retriever Sverige AB
+7
+    UK Supreme Court: PRCA v The Newspaper Licensing Agency Limited [2013] UKSC 18
+
+
+
+ETNO Reflection Document RD403 (2014/02)                                             8
+licensing agency for such uses would break down the Internet and “would make
+infringers of many millions of ordinary users of the internet across the EU”.
+
+Q16. What would be the possible advantages of such a system [a registration system
+at EU level to help in the identification and licensing of works and other subject
+matter]?
+
+[Open question]
+A content registration system would lead to legal certainty for digital content
+distributors. Much more simplicity and less administrative costs would be a positive
+result.
+
+
+Q17. What would be the possible disadvantages of such a system?
+[Open question]
+Possible disadvantages would include the costs of such a sophisticated system. Who
+has to bear such costs? Also, procedural issues, such as jurisdiction and/or dispute
+resolution systems, should be considered as well as the interplay with collecting
+societies and the legal status of, and supervision on, their activities
+
+
+Q19. What should be the role of the EU in promoting the adoption of identifiers in
+the content sector, and in promoting the development and interoperability of rights
+ownership and permissions databases?
+[Open question]
+
+In consideration of the existence of many different national and/or private
+databases, in general ETNO believes that the creation of a global repertoire would
+facilitate the identification of works and their related rights, with positive
+consequences for the acquisition process of rights.
+
+Q21. Are there problems arising from the fact that most limitations and exceptions
+provided in the EU copyright directives are optional for the Member States?
+YES – Please explain by referring to specific cases
+
+
+Cross border Services (e.g. Cloud Storages) demand a harmonised pan-European
+legal framework. This applies from a content licensing perspective as well as from a
+consumer perspective.
+
+It is important that the same legal framework exists in order to ensure that a service,
+which is legal in one Member State can also be offered in another Member State. For
+all providers of cross border services, the same legal and competitive environment
+has to be established.
+
+Example: According to Article 5, Section II b of the Directive 2001/29/EC, natural
+persons have the right to make reproductions of works on any media for private use
+and for ends that are neither directly nor indirectly commercial on condition that the
+rights-holder receives fair compensation and under the precondition that no copy
+
+
+ETNO Reflection Document RD403 (2014/02)                                            9
+protection measures have been removed or altered. This limitation and exception is
+not mandatory for Member States. The German legislator implemented this
+limitation into German law (Section 53 of the German Copyright Act). Therefore, in
+Germany the reproduction of works, e.g. by transferring a music file from a CD on a
+Computer or on online cloud storages by an end user for private use is possible
+without the consent of the rights-holder. In the United Kingdom Article 5, Section II
+b of the Directive has not been implemented into national law. A comparable
+copyright exception does not exist with the consequence that end-users are not
+allowed to make copies even for their own and immediate family’s use on different
+media without the consent of the rights-holder. This may lead to the situation where
+a provider of an online storage service could liable for copyright infringement in the
+UK under the Copyright, Designs and Patent Act 1988 whereas the same service and
+the same provider would not infringe any copyright in a Member State, where
+Article 5, Section II b of the Directive 2001/29/EC has been implemented into
+national law, e.g. in Germany. This makes it difficult to offer a cross-border online
+storage service.
+
+In some other Member States e.g. Belgium, there is no legal certainty that the private
+copy exception covers copies made and stored out of the customer’s premises and
+this even if all other legal criteria are met. This uncertainty hinders the development
+of new services.
+
+In Italy, the decree of the Ministry of Culture on the determination of the private
+copy levy, adopted in 2009, is currently under revision (the decree was also
+challenged before the administrative court following an appeal presented by several
+operators). In this framework, the society for authors and publishers recently
+presented a proposal to update the tariffs, with the aim of increasing the levies
+applied to those devices that are most marketed such as smartphones, tablets, etc.
+and to decrease the ones applied to the devices that are registering a sales decrease
+on the market. In particular, it proposes to increase the level of tariffs and to extend
+its application to products that should be excluded due to their specific
+characteristics (some devices are not used for reproduction purposes), or because the
+private copy levy is already managed through DRMs and/or other technological
+protection measures. Moreover, the proposed tariffs refer to a hypothetical
+“European average”, whose level seems not to be consistent with the figures
+available. Concerns have also been raised on the methodological side, since the
+determination of the levy is left to a consultative committee and a technical
+commission, where the ICT industry, differently from the right-holders and the
+collecting societies sector, is not represented. This means there is no full
+representation of all the stakeholders and interests involved and risks to produce an
+unbalanced outcome. An EU harmonised procedure and homogeneous criteria is
+needed, so as to determine a consistent and harmonized level of tariffs, levied on the
+same products, throughout the EU.
+
+It would therefore be important, in those countries where the private copy regime is
+applied, to grant a full harmonisation of the applicable regime, specifically in relation
+to the criteria for the determination of the tariffs, the fair compensation principle, the
+double compensation, etc. Moreover, ETNO believes that revenue from private copy
+levies should be used to develop new business models.
+
+
+
+ETNO Reflection Document RD403 (2014/02)                                               10
+   Q24. Is there a need to provide for a greater degree of flexibility in the EU
+   regulatory framework for limitations and exceptions?
+   YES – Please explain why
+
+
+
+See Question 21. We should avoid a fragmentation of the legal framework. In
+addition, the door should be kept open for future exceptions that may be necessary
+as technology develops.
+
+
+
+
+Q26. Does the territoriality of limitations and exceptions, in your experience,
+constitute a problem?
+ YES – Please explain why and specify which exceptions you are referring to
+ NO – Please explain why and specify which exceptions you are referring to
+ NO OPINION
+The realisation of a true single market is hampered by the existence, in Member
+States, of different regimes for limitations and exceptions, rendering it almost
+impossible for distributors to have a full knowledge of the legislation in place and
+therefore whether a content/product can be legitimately distributed in a country and
+under which conditions. An increased harmonisation of the limitations and
+exceptions throughout Europe would be necessary, although taking into account
+national specificities. It should be done taking into account the need not to hamper
+the development of innovative services and the need to facilitate, in the digital age,
+the widest possible diffusion of digital works for the benefit of consumers. The
+private copy levy regime is one of the most evident examples of fragmentation: not
+only is this exception is not provided for by all Member States (eg in UK it does not
+exist under current legislation), but also the conditions for its application vary
+significantly (for example the requirement for its application, the devices targeted by
+the rule and the fair compensation amount).       It would therefore be important, in
+those countries where the private copy regime is applied, to grant a full
+harmonisation of the applicable regime, specifically in relation to the criteria for the
+determination of the tariffs, the fair compensation principle, the double
+compensation, etc.
+
+
+   Q27. In the event that limitations and exceptions established at national level
+   were to have cross-border effect, how should the question of “fair compensation”
+   be addressed, when such compensation is part of the exception? (e.g. who pays
+   whom, where?)
+   [Open question]
+
+
+
+
+ETNO Reflection Document RD403 (2014/02)                                             11
+ETNO recognizes the importance for rights-holders to be compensated for their
+works and believes that the concept of ‘fair compensation’ should be addressed at
+EU level. A uniform approach is necessary to allow for the efficient implementation
+of the Copyright Directive in the age of cloud computing. As possible solution is
+rights clearance and payment in the Member State where the service is operated
+under the precondition that a) a harmonized appropriate tariff for all the other
+Member States exist and b) the possibility exists to clear the rights for all territories.
+In addition, double payment should be avoided.
+
+Q58. (a) [In particular if you are an end user/consumer:] Have you experienced
+problems when trying to use pre-existing works or other subject matter to
+disseminate new content on the Internet, including across borders?
+(b) [In particular if you are a service provider:] Have you experienced problems when
+users publish/disseminate new content based on the pre-existing works or other
+subject-matter through your service, including across borders?
+(c) [In particular if you are a right holder:] Have you experienced problems resulting
+from the way the users are using pre-existing works or other subject-matter to
+disseminate new content on the Internet, including across borders?
+    YES – Please explain by giving examples
+A differentiation must be made amongst two cases: 1. the case of a private user that
+does a mash-up of works of unknown owners and diffuses them through online
+services, and 2. the case where the owner of a mashed-up work is known and its
+work is used for the development of different services.
+In the first case, when a service providers allows its clients to upload a specific
+content, for instance through a chat or a community, be the content his/her own
+content or that of a unknown third party content subsequently re-used, the provider
+cannot be considered liable for this content according to the basic principles of the e-
+Commerce Directive, which recognise that the providers cannot have any visibility
+nor knowledge (and therefore no responsibility) over the content uploaded by its
+clients. In these cases, the client is usually required to view and accept the terms and
+conditions of the service provider, assuming all responsibility for the content
+uploaded.
+In the second case, the rights to distribute the content must be exercised only when
+the rights-holder has granted specific authorisation. This can have, de facto,
+significant negative effects on the development of innovative services by
+professionals.
+ETNO asks the European Commission to consider the difference between a private
+and non-commercial usage and a commercial usage of user-generated content.
+Professional commercial usage (such as TV spots including music etc.) must be fully
+licensed including adaptation rights et al.
+
+
+Q64. In your view, is there a need to clarify at the EU level the scope and application
+of the private copying and reprography exceptions8 in the digital environment?
+YES – Please explain
+
+8
+    Art. 5.2(a) and 5.2(b) of Directive 2001/29/EC.
+
+ETNO Reflection Document RD403 (2014/02)                                               12
+Diverging national systems target different products and apply different tariffs. This
+results in obstacles to the free circulation of goods and services in the Single Market.
+At the same time, some Member States continue to allow the indiscriminate
+application of private copy levies to transactions irrespective of the person to whom
+the product is sold (e.g. private person or business). In that context, not all Member
+States have ex-ante exemption and/or ex-post reimbursement schemes which could
+remedy these situations and reduce the number of undue payments.
+
+The scope, application and level of copyright levies continue to increase rapidly and
+vary substantially between Member States. More in particular, increases of the fair
+compensation amount for products such as smartphones, tablets and computers raise
+questions of proportionality and efficiency, in consideration of the severe negative
+effects they may have on the market and on consumers at a time when, instead,
+Member States should be fostering Internet usage.
+Industry faces a fragmented market with substantial legal and financial uncertainties.
+An obligation for Member States to file with the Commission all their copyright
+levies and the publication by the Commission of exhaustive up-to-date data would
+greatly increase industry visibility and reduce legal uncertainty.
+
+Clarification on the scope is also needed regarding the exclusion of illegal copies,
+user-generated-content, professional use, public domain, and all other elements
+which should not fall within the scope of the exception.
+
+Regarding compensation for acts of private copying, it has to be unambiguously
+confirmed that compensation for private copying is exclusively targeted to private
+copy (and must not be extended to professional use) and is based on harm and
+therefore should only exist if there is a proven substantial harm to right holders. Also
+the term “harm” must be more precisely defined. Similarly, it should be clarified that
+the levy should not be requested when devices and equipment are used for the
+private copying of content that has already legally bought by the user/consumer. In
+this case, the copyrights have been already paid for by the distributor/audio-visual
+service provider according to specific distribution agreements. Should a levy be
+imposed, a double payment of the same content would occur, creating an additional
+and unreasonable burden on one industry.
+
+In the absence of such clarifications on the scope and the application of the exception,
+the levy system is clearly out of control as historic definitions allow unlimited claims
+from collecting societies leading to an unreasonable and unjustified accumulation of
+levies for consumers and industry.
+
+Finally as noted by Towse: ”…copyright levy… has been almost universally opposed by
+economists on the grounds that its remuneration to creators bears no resemblance to the
+market value of the works and therefore could not act as a valid incentive to creators”.9 This
+observation points to a failure or a broken concept in the current copyright system
+that fails to deliver on key policy objectives. Instead of allowing rights-holders to
+stimulate investment in intellectual property, the current application of private copy
+
+9
+ Ruth Towse, “what we know, what we don’t know and what policy makers would like us to know about the
+economics of copyright” Review of Economic Research on Copyright Issues, 2011, vol. 8(2), pp.101-120.
+
+ETNO Reflection Document RD403 (2014/02)                                                          13
+levies risks introducing a narrow privilege and economic support for a specific
+industry.
+
+
+
+
+     Q65. Should digital copies made by end users for private purposes in the context
+     of a service that has been licensed by rightholders, and where the harm to the
+     rightholder is minimal, be subject to private copying levies?10
+     NO – Please explain
+
+No. In the case where a service has been licensed by rights-holders, ETNO believes
+that imposing private copy levies would hinder development of the digital
+distribution economy, even more so if the harm is minimal.
+
+
+
+Q66. How would changes in levies with respect to the application to online services
+(e.g. services based on cloud computing allowing, for instance, users to have copies
+on different devices) impact the development and functioning of new business
+models on the one hand and rightholders’ revenue on the other?
+[Open question]
+The extension of the current levy system – which was conceived within the analogue
+world - to the online environment needs to be properly assessed, in order not to
+hamper the development of innovative technologies and services. The Vitorino
+report clearly indicates that attempts to broaden the interpretation of the private
+copying exception are not only to the detriment of rights-holders and legal offers
+based on license agreements, but are also legally questionable and should not be
+supported.
+
+Cloud computing allows easier access to digital content for consumers and provides
+artists with new distribution models. In the digital era, consumers need to be able to
+access digital content from several connected devices at all times and from anywhere.
+European consumers and Internet users would be the first victims of the imposition
+of levies on cloud services since prices would most certainly raise because of levies.
+Also, companies of all sizes, which are increasingly using cloud services, could also
+face this consequence.
+
+One of the main advantages of cloud services is their global nature; therefore
+imposing territorial/national levy systems on global services is unfeasible, especially
+considering the principles of the Single Market. Imposing levies on cloud services
+would also have negative impact on European cloud service providers, as the
+obligation to pay levies added to new administrative burden would significantly
+limit their competitiveness in the global market. The negative impact on new
+business models would be immediate, as levies would raise prices and thus limit the
+attractiveness, competitiveness and future development of business models based on
+new technologies.
+
+
+10
+  This issue was also addressed in the recommendations of Mr Antonio Vitorino resulting from the mediation on
+private copying and reprography levies
+
+ETNO Reflection Document RD403 (2014/02)                                                                 14
+Moreover in the digital world, often rights-holders receive compensation for licensed
+content including subsequent copies in the framework of licensing contracts between
+rights-holders and users. In these cases, applying the copyright levy system to cloud
+services would result in an unjustified triple payment by consumers (for the licensed
+content, for the connected device, and for the cloud service).
+
+It should also be noted that private copying levies are currently applied to devices
+which contain a storage capacity, as it was assumed that since devices with a storage
+capacity can be used to copy protected content they should all be subject to levies. In
+the case of access-based cloud services, storage capacity in the device is not needed
+and applying levies on them is thus incorrect.
+
+
+     Q67. Would you see an added value in making levies visible on the invoices for
+     products subject to levies?11
+     YES – Please explain
+
+
+
+Visibility of the levy in the invoice of those products that are subject to levies would
+bring increased transparency and awareness among customers even if this could also
+increase the risk of “copyright levies shopping” between Member States. ETNO
+believes that the burden of providing information should be borne by those who
+benefit from the revenues of the levies. In case the European Commission decides
+otherwise, we believe that proportionality requires that the costs are borne by rights-
+holders. Distributors should not have to pay copyright levies and bear the financial
+burden of informing end-users.
+
+Q71. If you have identified specific problems with the current functioning of the levy
+system, how would these problems best be solved?
+[Open question]
+
+
+ETNO recommends keeping the liability with manufacturers and/or importers
+because manufacturers market shares are more concentrated and consistent across
+Member States than relevant retail market shares therefore better equipped to come
+up with an efficient common pan-European technical solution to collect levies. In
+addition, keeping liability with manufacturers/importers is also supported by
+collecting societies12 and at the same time not advocated by any leading European
+ICT companies.
+
+A specific problem under German law is the system under which the respective
+tariffs are determined. Under the current system, it can take years before a certain
+tariff is finally fixed. Therefore, a fixed process for tariffs which determines the scope
+of application and precise amounts would lead to more clarity.
+
+11
+  This issue was also addressed in the recommendations of Mr Antonio Vitorino resulting from the mediation on
+private copying and reprography levies.
+12
+
+http://www.gesac.org/eng/positions/PrivateCopying/download/PRIVATECOPYINGEN_20130908_Private%20Cop
+ying%20remuneration.pdf
+
+ETNO Reflection Document RD403 (2014/02)                                                                  15
+As mentioned earlier, in Italy the decree of the Ministry of Culture on the
+determination of the private copy levy, adopted in 2009, is currently under revision
+(the decree was also challenged before the administrative court following an appeal
+presented by several operators). In this framework, the society for authors and
+publishers recently presented a proposal to update the tariffs, with the aim of
+increasing the levies applied to those devices that are most marketed such as
+smartphones, tablets, etc. and to decrease the ones applied to the devices that are
+registering a sales decrease on the market. In particular, it proposes to increase the
+level of tariffs and to extend its application to products that should be excluded due
+to their specific characteristics (some devices are not used for reproduction
+purposes), or because the private copy levy is already managed through DRMs
+and/or other technological protection measures. Moreover, the proposed tariffs
+refer to a hypothetical “European average”, whose level seems not to be consistent
+with the figures available. Concerns have also been raised on the methodological
+side, since the determination of the levy is left to a consultative committee and a
+technical commission, where the ICT industry, differently from the right-holders and
+the collecting societies sector, is not represented. This means there is no full
+representation of all the stakeholders and interests involved and risks to produce an
+unbalanced outcome. An EU harmonised procedure and homogeneous criteria is
+needed, so as to determine a consistent and harmonised level of tariffs, levied on the
+same products, throughout the EU.
+
+
+Q75. Should the civil enforcement system in the EU be rendered more efficient for
+infringements of copyright committed with a commercial purpose?
+     YES – Please explain
+     NO – Please explain
+The current civil enforcement framework at European level remains sound and is
+based on principles that are still relevant today as confirmed by the recent European
+Court of Justice Decisions. The European Court of Justice has given important and
+useful indications in two well-known cases (Promusicae13 and Tele214), asking
+Member States and their respective authorities to take measures that, while balancing
+both rights, should respect the principle of proportionality. The European Court of
+Justice Decisions imply also that Internet service providers cannot assume the
+responsibility of balancing rights and becoming controllers of the Internet. As a
+consequence, ETNO believes that the enforcement framework, completed by the ECJ
+ruling, achieves the right balance between copyright and the right to privacy and
+protection of personal data.
+
+The balance with fundamental rights should include rights such as the presumption
+of innocence, right to a fair trial and the confidentiality of communications. In
+addition and since the SABAM case15, the European Court of Justice has also
+considered the right to conduct business as a fundamental right that should be taken
+into consideration during the overall balancing process. The Advocate General
+
+13
+   C-275/06 - Promusicae
+14
+   Case C-557/07 – Tele 2
+15
+   Case C-70/10 – SABAM
+
+ETNO Reflection Document RD403 (2014/02)                                           16
+Villalon in his opinions delivered with regard to cases Case C-70/10 and C-314/12
+has touched on a further important element, which is a necessary concrete legal basis
+in case the enforcement measure is restricting fundamental rights. And in a recent
+judgment in Germany (21.11.2013 OLG Hamburg 5 U 68/10), it was confirmed that
+any measure imposing blocking or filtering mechanisms on an access provider in
+Germany must be based on a law defining in detail how the access to the infringing
+content should be impeded.
+
+
+
+Q76. In particular, is the current legal framework clear enough to allow for
+sufficient involvement of intermediaries (such as Internet service providers,
+advertising brokers, payment service providers, domain name registrars, etc.) in
+inhibiting online copyright infringements with a commercial purpose? If not, what
+measures would be useful to foster the cooperation of intermediaries?
+[Open question]
+
+
+ETNO would like to highlight that Internet intermediaries have always worked in
+collaboration with judicial authorities, who play a crucial role in ensuring citizens
+and businesses the right to a fair trial. Enforcement of Intellectual Property Rights
+should not be seen as the sole solution against copyright infringement - increasing
+the availability and affordability of the legal content offer is also key.
+
+ETNO believes that efficient copyright enforcement in the digital industry needs an
+approach involving all Internet players in the value chain. The current approach,
+which is mainly focused on Internet service providers working in collaboration with
+judicial authorities has a limited reach.
+
+
+Q80. Are there any other important matters related to the EU legal framework for
+copyright? Please explain and indicate how such matters should be addressed.
+The current enforcement system, under the Intellectual Property Rights Enforcement
+Directive (IPRED), has played and continues to play a crucial role in providing
+rights-holders with a high level of intellectual property right protection. This legal
+text is based upon principles that remain valid today and that should be maintained.
+Any future eventual revision should be coherent with the current intermediary
+liability regime. In addition, any reinforcement of the contribution of intermediaries
+in the fight against illegal file sharing must remain compliant with the right to a
+presumption of innocence, the right to a fair trial, the right to privacy and the right to
+the confidentiality of communications.
+
+The enforcement of intellectual property rights should not be seen as the sole
+solution. A more holistic view is necessary, focusing on how to increase offers and
+the consumption of legal content. Enforcement should not become a tool to protect
+businesses from competition and allow players to keep outdated business models
+limiting the potential that new technologies may have. The policy debate should also
+be grounded on reliable and objective data about the cost/benefit of copyright
+enforcement within legal proceedings.
+
+
+ETNO Reflection Document RD403 (2014/02)                                               17
+As mentioned earlier, ETNO believes that a rethinking of the release windows
+mechanisms is necessary. In a recent study published by Spotify, one of the questions
+was examining the impact of holdout strategies on sales and illegal torrent volumes.
+The result was that “artists who delayed their release on Spotify suffered higher levels of
+piracy than those who did not”. (Spotify report: Adventures in the Netherlands: Spotify,
+Piracy and the new Dutch experience). The availability of the most recent content
+from legal sources online would therefore be a very effective tool to reduce copyright
+infringements.
+
+
+
+
+ETNO Reflection Document RD403 (2014/02)                                                18
+

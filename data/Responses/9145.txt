@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Public Consultation on the review of the EU copyright rules.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Law Society of Scotland’s response
+
+
+January 2014
+
+
+
+
+
+Introduction
+The Law Society of Scotland aims  to  lead  and  support  a  successful  and
+respected Scottish legal profession.  Not only do we act in the interest  of
+solicitor members but we also have a clear responsibility  to  work  in  the
+public interest.  That is why we actively engage and seek to assist  in  the
+legislative and public policy decision making processes.
+
+To help us do this, we use our various Society committees which are made up
+of solicitors and non-solicitors and ensure we benefit from knowledge and
+expertise from both within and outwith the solicitor profession.
+
+The Intellectual Property Law Sub-Committee  (the  Committee)  has  had  the
+opportunity to  consider  the  Europeans  Commissions  consultation  on  the
+review of the EU copyright rules and  has  the  following  comments  to  put
+forward in response to the questions posed in the consultation document.
+
+Comments
+
+6   Are there reasons why, even in cases where you  have  acquired  all  the
+necessary rights for all the territories in question, you would  still  find
+it necessary or justified to impose territorial restrictions on the  service
+recipient (in order for instance, to redirect the  consumer  to  a different
+website than the one he is trying to access)?
+
+Yes Distributed Networks – it might be necessary to redirect a  consumer  to
+a local server due to server speed.
+
+7 Do you  think  that  further  measures  (legislative  or  non-legislative,
+including market-led solutions) are needed  at  EU  level  to  increase  the
+cross-border availability of content services in the  Single  Market,  while
+ensuring an adequate level of protection for right holders
+
+No.  The market should perhaps decide  the  balance  between  providing  the
+freedom to offer EU-wide services and the obligation  to  do  so.  We  might
+also consider the negative  correlation  between  cross-border  restrictions
+and the scope/potential for infringement.
+
+8 Is the scope of the “making available” right in cross-border situations  –
+i.e. when content is disseminated across borders – sufficiently clear?
+
+No.  The wording in the Directive  might  be  amended  to  clarify  that  an
+undertaking “makes a product available” in those territories  in  which  the
+undertaking hopes/intends to trade – implementing a target approach.
+
+11. Should the provision of a hyperlink leading to a work or  other  subject
+matter protected under  copyright,  either  in  general  or  under  specific
+circumstances, be subject to the authorisation of the rightholder?
+
+No. In general  –  it  should  be  covered  by  the  exception  –  it  is  a
+technological enabling process and the consumer cannot perceive the copy.
+
+See further our answer to  Q  12.  Even  if  the  hyperlink  has  been  made
+longwinded in order to claim that  it  has  more  creative  content  than  a
+telephone number, the reproduction has no economic significance.
+
+12.Should the viewing  of  a  web-page  where  this  implies  the  temporary
+reproduction of a work or other subject matter protected under copyright  on
+the screen and in the  cache  memory  of  the  user’s  computer,  either  in
+general or under specific circumstances, be subject to the authorisation  of
+the rightholder
+
+No.  As per Q11, the  temporary  copy  ought  to  be  considered  to  be  an
+exception. Further, if the viewing of a web page DID require  authorisation,
+this may hinder the efficacy of a network. See the unanimous views  of   the
+UK Supreme  Court  in   Public  Relations  Consultants  Association  Limited
+(Appellant)  v  The  Newspaper   Licensing   Agency   Limited   and   others
+(Respondents   [2013] UKSC 18, before making a referral to  the  ECJ  .  See
+especially Lord Sumption at paragraph 36.
+
+14 What would be the consequences of providing a  legal  framework  enabling
+the resale of previously  purchased  digital  content?  Please  specify  per
+market (type of content) concerned.
+
+The creation of a “second hand” market might reduce the value  of  copyright
+content,  thus  potentially  devaluing  creativity  and  the  incentive   to
+innovate. However, if the “forward and delete” issue can  be  overcome,  the
+consequences of such a framework ought to be  limited:  copyright  protected
+work ought not to be exempt from market forces, though where the value of  a
+physical work might increase over time (eg First edition book, vinyl  record
+in good condition) the digital copy is unlikely to do so
+
+At present there is a lack of legal clarity about the extent  of  the  title
+that is obtained by a purchaser of  digital  content  and  available  to  be
+passed on upon resale. The conventional view is that  the  provider  may  by
+stipulations restrict the title to, in effect, a limited right of  use  that
+is non-transferable, in life or death. It is submitted  that  this  view  is
+incompatible with the reasoning of the European Court  of  Justice  in  Case
+128/11 UsedSoft GmbH v Oracle International Corp (supra). Reference is  made
+in particular to paragraph 88 of the judgment: “Articles 4(2)  and  5(1)  of
+Directive 2009/24 [on the legal protection of computer  programs]   must  be
+interpreted as meaning that, in the event of the resale of  a  user  licence
+entailing the resale of a copy of a computer  program  downloaded  from  the
+copyright holder’s website, that licence having originally been  granted  by
+that rightholder to the first acquirer for an  unlimited  period  in  return
+for payment of a  fee  intended  to  enable  the  rightholder  to  obtain  a
+remuneration corresponding to the economic value of that copy of  his  work,
+the second acquirer of the licence, as well as any  subsequent  acquirer  of
+it, will be able to rely on the exhaustion of the distribution  right  under
+Article 4(2) of that directive, and hence be regarded  as  lawful  acquirers
+of a copy of a computer program within the meaning of Article 5(1)  of  that
+directive and benefit from the right of reproduction provided  for  in  that
+provision.”.
+
+It is submitted that legislation (including  but  not  limited  to  consumer
+legislation) can and  should  put  the  title  of  a  purchaser  of  digital
+content on a par with that of a purchaser of goods. Such legislation  should
+also require the reseller (absent explicit  licence  to  the  contrary)   to
+delete from their own systems all copies of that  which  is  resold  and  to
+contain an implied warranty of such deletion in the resale. It is  submitted
+that the task of devising a technical and proportionate method  of  ensuring
+that such deletion does occur can and should be left  to  the  ingenuity  of
+the industry.    It is observed that there is nothing  new  in  combining  a
+sale of goods with a licence limitation on use.  The purchase of  a  Compact
+Disc expects to be licensed only for domestic use.
+
+15 Would the creation of a registration system  at  EU  level  help  in  the
+identification and licensing of works and other subject matter?
+
+No.
+
+16 What would be the possible advantages of such a system?
+
+Similar advantages  to  those  of  registered  trade  marks  and  registered
+designs. Principally, it provides the rightholder with  comfort  and  access
+to efficient resolutions to infringement.
+
+17 What would be the possible disadvantages of such a system?
+
+The database of registered works would presumably have a watermark  feature.
+The concept of such a database might act as  a  commercial  disincentive  to
+licence providers (eg Getty Images) as it may undermine the  database  costs
+which have been incurred. It might also cause duplication of  search  engine
+results, which ought also to provide  access  to  watermarked  content.  The
+registration would also only show when the work  was  created,  rather  than
+demonstrate that the work has been infringed.
+
+18. What incentives for registration by rightholders could be envisaged?
+
+These ought to reflect the advantages which stakeholders identify in Q16.
+
+19.  What  should  be  the  role  of  the  EU  in  promoting  the   adoption
+of identifiers in the content sector, and in promoting the  development  and
+interoperability of rights ownership and permissions databases?
+
+An “identifier taxonomy” system might be developed, similar to the  Nice  or
+Hague Agreements.
+
+20 Are the current terms of copyright protection still  appropriate  in  the
+digital environment?
+
+No.  The prevalence of audio-visual work is such that it ought to  be  given
+the same level of protection as  other  forms  of  copyright.  Technological
+advances mean that a/v is being used in  cases  where,  in  the  past,  LDMA
+works might have been used.
+
+21. Are there problems arising from  the  fact  that  most  limitations  and
+exceptions provided in the EU copyright  directives  are  optional  for  the
+Member States?
+
+Yes.  There is reduced legal certainty in allowing optional exceptions.
+
+22. Should some/all of the exceptions be  made  mandatory  and,  if  so,  is
+there a need for a higher level of harmonisation of such exceptions?
+
+All exceptions should first  be  harmonised  and  then  made  mandatory.  To
+reverse this process might cause additional practical challenges.
+
+24. Independently from the questions above, is there a need to  provide  for
+a  greater  degree  of  flexibility  in  the  EU  regulatory  framework  for
+limitations and exceptions.
+
+If Art.5(1) were to be made  non  exhaustive,  this  would  provide  greater
+flexibility (though perhaps a non-material  reduction  in  legal  certainty)
+and  could,  to  a  degree,  future-proof  the  legislation  to  accommodate
+developments in technology.
+
+25. If yes, what would be the best  approach  to  provide  for  flexibility?
+(e.g. interpretation by national courts and the ECJ, periodic  revisions  of
+the directives, interpretations by  the  Commission,  built-in  flexibility,
+e.g. in the form of a fair-use  or  fair  dealing  provision  /  open  norm,
+etc.)? Please explain indicating what would be the relative  advantages  and
+disadvantages of such an approach as well as its  possible  effects  on  the
+functioning of the Internal Market.
+
+As above, amend the wording of Art.5(1) and permit the  courts  to  identify
+and determine those instances where expansion is desirable.
+
+27 In the event that limitations  and  exceptions  established  at  national
+level were to have cross-border effect, how should  the  question  of  “fair
+compensation”  be  addressed,  when  such  compensation  is  part   of   the
+exception? (e.g. who pays whom, where?
+
+The Committee would be interested to learn of  the  proposals  but  at  this
+stage, would comment that  uniformity  of  implementation  is  desirable  in
+order to preserve legal certainty.
+
+64. In your view, is there a need to clarify at the EU level the  scope  and
+application of the private copying  and  reprography  exceptions[1]  in  the
+digital environment.
+
+No. (Clarity is perhaps  only  required  on  the  definition  and  scope  of
+private copying/private purposes if levies are to apply to  private  copying
+– Q65.  It might be  useful  to  provide  additional  clarification  on  the
+circumstances under which levies may be claimed.
+
+66. How would changes in levies with respect to the application  to   online
+services (e.g. services based on cloud computing   allowing,  for  instance,
+users to have copies  on  different  devices)  impact  the  development  and
+functioning of new  business  models  on  the  one  hand  and  rightholders’
+revenue on the other.
+
+Online services  provide  additional  flexibility  for  end  users.  If  the
+rightholder  can  obtain  fair  revenue  once  through  legitimate   (albeit
+flexible)  frameworks,   this   is   perhaps   preferable   to   encouraging
+infringement, in the event that users are charged per device.
+
+67.  Would you see an added value in making levies visible on  the  invoices
+for products subject to levies?
+
+Increased visibility could make all levels of the  distribution  chain  more
+mindful of rightholders’ interests.
+
+73. Is there a need to act  at  the  EU  level  (for  instance  to  prohibit
+certain clauses in contracts)?
+
+No. These issues are perhaps best determined by the market.
+
+75. Should  the  civil  enforcement  system  in  the  EU  be  rendered  more
+efficient  for  infringements  of  copyright  committed  with  a  commercial
+purpose
+
+No. This is probably a quantification of damages issue, where damages  ought
+to reflect the commercial use which has been made of the work.
+
+76. In particular, is the current legal framework   clear  enough  to  allow
+for  sufficient involvement of  intermediaries  (such  as  Internet  service
+providers, advertising  brokers,  payment  service  providers,  domain  name
+registrars, etc.)  in  inhibiting  online  copyright  infringements  with  a
+commercial purpose? If not, what measures would  be  useful  to  foster  the
+cooperation of intermediaries.
+
+Intermediaries are, for the most part, mindful of the dangers  of  copyright
+infringement. Their  cooperation  will  always  be  tempered  by  their  own
+commercial interests. The current framework  arguably  goes  as  far  as  is
+appropriate without burdening  intermediaries  with  the  task  of  actively
+protecting rightholders.
+
+79. Should this be the next step in the development of copyright in the  EU?
+Does the current level of difference  among  the  Member  State  legislation
+mean that this is a longer term project.
+
+If certain commitments are made and changes effected,  arising  from  Q1  to
+Q77, arguably, the merit of creating  an  EU  Copyright  Title  is  reduced.
+However, the principle of harmonisation is desirable.
+
+The process of a  single  title  ought  to  be  a  long  term  project.  The
+potential  for  legislative  contradictions  arising  and   the   commercial
+consequences of such contradictions are such that any pursuit  of  a  single
+title should not be hurried.
+
+A single title must also consider the issue raised at Q7, namely  it  should
+provide a  balance  between  the  freedom  to  offer  EU-wide  products  and
+services and the obligation to do so.  With  a  single  title,  it  must  be
+considered whether products would automatically be “made available”  in  all
+Member States and the consequences or desirability of that.
+
+If rightholders  are  granted  increased,  rather  than  harmonised  rights,
+across Europe, this might have the effect  of  stifling  creativity,  either
+through increased concern of copyright infringement, or otherwise.
+
+In order to  effectively  manage  a  single  title  framework,  a  copyright
+registration  system  might  be  required.   Concerns   arising   from   the
+desirability of such a registration system should  therefore  be  considered
+contemporaneously with the single title question.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For further information and alternative formats, please contact:
+Brian Simpson
+Law Reform
+DD: 0131 476 8184
+E: briansimpson@lawscot.org.uk
+The Law Society of Scotland
+26 Drumsheugh Gardens
+Edinburgh
+EH3 7YR
+www.lawscot.org.uk
+-----------------------
+[1] Art. 5.2(a) and 5.2(b) of Directive 2001/29/EC.
+
+-----------------------
+                                                       Consultation Response
+
+

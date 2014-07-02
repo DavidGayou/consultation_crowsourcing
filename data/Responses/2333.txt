@@ -1,0 +1,1009 @@
+
+
+
+Response to Public Consultation on the Review of EU Copyright
+Rules – 5 March 2014
+
+Name:      International Federation of Library Associations &
+Institutions (IFLA)
+
+Type of respondent:  Other
+
+TheInternational Federation of Library Associations and
+Institutions(IFLA) is the leading international body
+representing the interests of library and information services
+and their users. With over 1450 members in 150 countries around
+the world, IFLA is the global voice of the library and
+information profession. IFLA represents over 680 libraries from
+across Europe, and from every EU Member State.
+
+IFLA is also leading international library advocacy on copyright
+exceptions and limitations before the Standing Committee on
+Copyright & Related Rights (SCCR) of the World Intellectual
+Property Organisation (WIPO). IFLA believes that an
+international instrument mandating certain copyright exceptions
+and limitations facilitating use of, and access to information
+through libraries is a key component of a digitally inclusive,
+innovative knowledge society.
+
+Overview of submission
+
+In September 2013, the European Parliament recognised the need
+to reform EU copyright rules within its European Parliamentary
+resolution on “Promoting the European Cultural and Creative
+Sectors as sources of economic growth and jobs”(T7-0368/2013).1
+
+European Parliament resolution of 12 September 2013 on promoting
+the European cultural and creative sectors as sources of
+economic growth and jobs (2012/2302(INI))
+
+In that resolution, the European Parliament:
+
+52.  Stresses that the existence of 27 different intellectual
+property rights management systems is a particular burden for
+Europe's CCS, and that the current fragmented regime needs to
+be reformed to facilitate access to, and increase (global)
+circulation of, content, and in such a way as to enable
+artists, creators, consumers, businesses and audiences to
+benefit from digital developments, new distribution channels,
+new business models and other opportunities;
+
+53.    Believes that in the digital era, a modern and balanced
+system for protecting intellectual property rights (IPRs) which
+makes it possible both to ensure appropriate remuneration for
+all categories of rightholders and to guarantee that consumers
+have easy access to diverse, legal content and a real choice in
+terms of linguistic and cultural diversity, is an essential
+condition for ensuring that the CCS are competitive;
+
+54.    Stresses that the protection of IPRs should not threaten
+the neutrality of the internet.”
+
+IFLA believes a balanced copyright reform should provide
+sufficient protections for EU creative industries without
+restricting essential research and development, and access to
+information in the public interest.
+
+IFLA’s submission focuses on:
+
+Linking and browsing (11-12)
+
+Limitations and exceptions in the Single Market (21-27)
+
+eLending (36 – 39)
+
+Text and data mining (54-55)
+
+Internet intermediary responsibilities (76)
+
+Questions that are unanswered should not be interpreted as of
+low importance to libraries in the European Union. A number of
+IFLA members are putting in their own submissions addressing
+these questions, with the benefit of regional examples. IFLA’s
+submission limits itself to questions where the experiences of
+its international membership may prove beneficial.
+
+In summary, IFLA’s submission maintains that:
+
+There is a need for a flexible, open ended exception to better
+keep pace with evolving technologies and services;
+
+In an increasingly globalized environment (and the EU Single
+Market), any exceptions (both existing and proposed) in the EU
+Copyright Directive should be mandatory, prevented from
+override by contract, and facilitate cross border access to and
+use of works in the public interest;
+
+Protections and enforcement mechanisms for right holders must be
+carefully defined so as not to place onerous responsibilities on
+public institutions providing access to information.
+
+Linking and Browsing
+
+Should the provision of a hyperlink leading to a work or other
+subject matter protected under copyright, either in general or
+under specific circumstances, be subject to the authorisation
+of the rightholder?
+
+No.
+
+Linking is a ubiquitous aspect of internet use and essential to
+the architecture of the internet. Links facilitate the
+availability of content online, and contribute to site activity
+and visibility.
+
+Linking is elemental to modern librarianship and research. It is
+extremely common for librarians to link users to online
+resources, and to include links to content made available on
+other sites in library catalogues. Links are a habitual element
+of wikis, Rich Site Summary (RSS) feeds, engagement on social
+networks and blogs published by libraries. It is common
+research practice to include hyperlinks in footnotes and
+bibliographies of research articles and in general research
+collaboration.
+
+The final report of the Copyright Review Committee in Ireland
+considers interconnectedness by linking to be at the ‘very
+heart of the internet’.2
+
+Copyright Review Committee Final Report, prepared for the
+Department of Jobs, Enterprise and Innovation, Dublin
+(2013)http://www.enterprise.gov.ie/en/Publications/CRC-Report.pdf(p
+11)
+
+In that report, the Copyright Committee recommended that linking
+should not infringe copyright, except where the provider of the
+link knew or ought to have been aware that it connects with an
+infringing copy.3
+
+Ibid.
+
+While IFLA believes the Copyright Committee’s recommendation
+goes some way to recognizing the validity of linking, IFLA is
+concerned by the condition on links to ‘infringing copies’.
+What constitutes an ‘infringing copy’ is unclear, and if
+defined poorly, impossible to police. How is the individual or
+institution to know whether an item linked to is an infringing
+copy? In many cases (photographs, for example), it can be
+difficult to distinguish whether the item is infringing or not.
+
+The European Court of Justice’s recent judgment in
+theSvenssoncase has further increased IFLA’s concerns regarding
+copyright rulemaking with respect to hyperlinking. In their
+judgment, the ECJ considered hyperlinking to protected works
+already freely available from another website would not be an
+infringement of copyright, unless the works were made available
+to a ‘new public’.4
+
+Case C-466/12 Svensson, judgment issued 13 February 2014,
+paragraph 24
+
+What would constitute a ‘new public’ is undefined, and online is
+arguably hard to pin down. What if a library were to tweet a
+deep link to an article accessible within their own country,
+but geoblocked for users in another jurisdictions? Has the
+library made the article available to a ‘new public’? What if
+the accessibility of an item changes, but at the time a link
+was provided was generally accessible to the public? Could the
+ECJ’s judgment require institutions and individuals to
+regularly monitor existing links on their websites to ensure
+the content they link to does not inadvertently link to a ‘new
+public’?
+
+IFLA believes that reform of copyright rules today must, so far
+as is possible, work with the architecture of theinternet, and
+not against it. Any consideration of hyperlinking as
+potentially within the exclusive right of the copyright holder
+is dangerous to the effective functioning of the internet. IFLA
+believes that links, which merely
+
+operate as a reference to content available elsewhere on a
+website (analogous to an index, a catalogue record, listed page
+numbers), are best considered as “units of information” – not
+capable of copyright protection. Further, IFLA wishes to
+reiterate the borderless nature of the internet and online
+communications. To what extent could a provision subjecting
+hyperlinking to the authorization of the right holder in the EU
+be actively enforced, if linking is not an infringement of
+copyright in other jurisdictions? How could it be actively
+enforced, if linking – both hyper linking and inline, or
+embedded linking – is ubiquitous online? Reform of copyright
+laws for the internet environment must have regard for the
+global nature of that environment. IFLA cautions against
+protections for hyper-linking that could place European
+innovators, researchers, public institutions at a disadvantage
+contributing to a globally competitive knowledge economy.
+
+Should the viewing of a web-page where this implies the
+temporary reproduction of a work or other subject matter
+protected under copyright on the screen and in the cache memory
+of the user’s computer, either in general or under specific
+circumstances, be subject to the authorisation of the
+rightholder?
+
+No.
+
+Caching, indexing, conduit and other internet-related functions
+are essential to facilitate efficient internet navigation.
+Caching and indexing are activities undertaken by every
+intermediary providing web services – government providers,
+educational institutions, libraries and archives, consumers and
+commercial entities.
+
+Libraries use caching and indexing to facilitate speed and
+efficiency of search. Digital repositories in libraries require
+caching mechanisms to provide accurate, fast results:
+
+“This may be through wholesale replication of datasets using a
+system such as Akamai to geographically disparate locations, the
+use of local caching systems such as varnish and memcache on the
+primary site, or the use of tools such as zoomify to provide
+different resolution views of data. Sites that use such tools
+for legitimate purposes to enhance the user experience should
+not be seen as breaching copyright even if the original licence
+to use the data does not include such surrogatedata.”
+
+The introduction of protections for temporary copies would in
+effect – in cost and/or authorisations required - prevent
+libraries from delivering online services.
+
+IFLA reiterates its concerns regarding the creation of new
+copyright protections in the EU for essential internet
+functions that elsewhere are considered non-infringing.
+
+In the United Kingdom, the Hargreaves Review of Intellectual
+Property and Growth recommended the implementation of an
+exception for ‘non consumptive use’ – defined in that review as
+use of a work enabled bytechnology that did not trade on the
+underlying purpose of the work.5
+
+I Hargreaves,Digital Opportunity: A Review of Intellectual
+Property and Growth(2011), 47; it should be noted that
+Hargreaves also considers data mining a potential
+non-consumptive use within the scope of his definition
+
+In considering indexing and caching (and other internet
+functions), Hargreaves wrote:
+
+“that these new uses happen to fall within the scope of
+copyright regulation is essentially a side effect of how
+copyright has been defined, rather than being directly relevant
+to what copyright is supposed to protect.”6
+
+Ibid.
+
+The CanadianCopyright Modernization Act 2012 (Cth)introduced a
+specific exception for caching.7
+
+Copyright Modernization Act, C-11 2012(Canada)
+
+In New Zealand, a similar exception for caching exists.8
+
+Copyright Act 1994(New Zealand), s92E
+
+In the United States, indexing and caching, and related
+transient copying, is considered non-infringing under the fair
+use doctrine.9
+
+Field v Google Inc412 F Supp 2d, 1106
+
+In Australia, where a review of existing copyright exceptions
+and limitations was recently concluded, the final report of the
+Australian Law Reform Commission recommended the adoption of a
+fair use provision which would encompass internet functions
+like caching and indexing.10
+
+Australian Law Reform Commission, Copyright and the Digital
+Economy (Report no 122), published 13 February
+2014,http://www.alrc.gov.au/publications/copyright-report-122
+
+IFLA urges the European Commission to take into account the
+impact copyright protection of transient, temporary or
+otherwise ‘non consumptive’ copies in the EU will have on the
+diversity of institutions and individuals providing online
+services, including libraries. IFLA fears that an inflexible
+approach to internet activities perceived as non-harmful in the
+EU would see European libraries disadvantaged, falling behind
+their North American and Australasian counterparts.
+
+The current wave of legislative reform efforts taking place in
+jurisdictions around the world, which consider (among other
+questions) whether accepted internet services, functions and
+new technologies may infringe copyright, to IFLA speaks to
+profound problems at the heart of the definition of copyright.
+If every new product or service which involves the making of a
+copy could be considered on its face to be copyright
+infringing, regardless of whether there is commercial harm to
+the right holder, IFLA considers this both to be detrimental to
+digital innovation, and an undue burden on the engines of law
+reform.
+
+Limitations and exceptions in the Single Market
+
+21. Are there problems arising from the fact that most
+limitations and exceptions provided in the EU copyright
+directives are optional for the Member States?
+
+Yes.
+
+Despite the stated intention of Directive 2001/29/EC on the
+Harmonisation of Certain Aspects of Copyright and Related
+Rights in the Information Society11
+
+, the optional nature of most limitations and exceptions in that
+Directive has resulted in a cherry picking approach to
+implementation at the Member State level.12
+
+Guibault L, Why Cherry-Picking Never Leads to Harmonisation: the
+Case of the Limitations on Copyright under Directive 2001/29/EC
+(2010)http://dare.uva.nl/document/189209
+
+Article 5(2)(c) of the Information Society directive allows
+Member States to introduce limitations to the reproduction
+right for specific acts of copying made by libraries (among
+other public interest institutions), where they are not for
+direct or indirect economic or commercial advantage.
+Implementation of this optional limitation with respect to
+library acts of reproduction by Member States has varied
+significantly: some Member States limit reproductions to those
+made in analogue formats; others specify different rules to
+prescribe analogue copying as compared with digital copying;
+and others limit the kinds of digital works that may be
+copied.13
+
+Ibid p 60
+
+The Study on the Application of Directive 2001/29/EC on
+Copyright & Related Rights in the InformationSociety,14
+
+STUDY ON THE APPLICATION OF DIRECTIVE 2001/29/EC ON COPYRIGHT
+AND RELATED RIGHTS IN THE INFORMATION SOCIETY (16 December
+2013)http://ec.europa.eu/internal_market/copyright/docs/studies/131216_study_en.pdf
+
+commissioned by the European Commission and published in
+December 2013, recognized the need to harmonize limitations and
+exceptions for libraries and archives at the EU level. The
+optional nature of limitations and exceptions, it considered,
+had resulted in a patchwork approach to national implementation
+which was, contrary to the borderless opportunities offered by
+the internet environment, preventing cross-border
+collaboration.15
+
+Ibid 284.
+
+“Imagine a national library digitizing its collection of
+newspapers from the 19thand 20thcentury, in the frame of a
+Europeana project to put on line newspapers relating to the
+construction of the European Union after 1945. It makes no
+doubt that the on-line dissemination of the newspapers, still
+protected by copyright, will require authorization of the
+copyright owners in all Member States. Depending on the
+national copyright law applicable to the library, the
+conditions to digitize the newspapers will be either exempted
+by an exception or not…
+
+Indeed, the more newspapers will be digitized, the more they
+could be of some use for digital projects.Should some libraries
+be impaired in their efforts to digitize parts of their
+collections due to lack of harmonization of the exceptions to
+the benefit of libraries and archives, all cultural heritage
+institutions will not be on equal footing in such
+trans-European projects.
+
+For all these reasons, more efforts should be put on increasing
+the harmonization in relation to the exception for certain acts
+of reproduction made by libraries.”16
+
+Ibid.
+
+The internet environment offers new opportunities for cross
+border library collaboration on preservation and digitization
+projects and empowerment of an EU wide inclusive knowledge
+society. Without harmonization of limitations and exceptions at
+the EU level, IFLA fears that opportunities for cross border
+collaboration are creating inefficiencies, leading to
+information silos and distorting and creating discrepencies in
+the EU Internal Market.17
+
+Above n 26, 301.
+
+Libraries and archives are investigating efficiencies in digital
+preservation, including through shared (cross border) digital
+infrastructure. To lawfully facilitate cross border resource
+and infrastructure sharing for digital archiving, preservation
+exceptions must have a cross border application. Similarly,
+universities are increasingly introducing remote campuses in
+other jurisdictions, as well as offering distance (online and
+offline) education opportunities. University libraries serving
+distance students often come into conflict with the territorial
+nature of copyright exceptions, which distinguish the
+educational materials a student of that institution can have
+access to based on their location. This is contrary to stated
+EU goals of common education systems.
+
+As there is no harmonization of national law exceptions
+facilitating (digital) document delivery, libraries are often
+called to understand the legal status of this service in the
+jurisdiction of destination of service. National copyright
+limitations often differ regarding the technical prescription
+of the permitted library service, and methods of document
+supply change frequently with improvements in technology and
+efficiencies. This further exacerbates legal uncertainties for
+libraries, and can lead to licensing of services that are (or
+may be) within the scope of statutory exceptions.
+
+22. Should some/all of the exceptions be made mandatory and, if
+so, is there a need for a higher level of harmonisation of such
+exceptions?
+
+Yes.
+
+IFLA believes all limitations and exceptions should be
+mandatory, as equal counterparts to rights and protections
+afforded right holders.
+
+23. Should any new limitations and exceptions be added to or
+removed from the existing catalogue? Please explain by
+referring to specific cases.
+
+24. Independently from the questions above, is there a need to
+provide for a greater degree of flexibility in the EU
+regulatory framework for limitations and exceptions?
+
+25. If yes, what would be the best approach to provide for
+flexibility? (e.g. interpretation by national courts and the
+ECJ, periodic revisions of the directives, interpretations by
+the Commission, built-in flexibility, e.g. in the form of a
+fair-use or fair dealing provision /open norm, etc.)? Please
+explain indicating what would be the relative advantages and
+disadvantages of such an approach as well as its possible
+effects on the functioning of the Internal Market.
+
+Yes.
+
+IFLA supports the introduction of a flexible, open ended
+exception that would encompass emerging library activities like
+text and data mining, digital preservation and mass
+digitization, as well as new uses of works in the digital
+environment. In the event that an open ended exception was not
+introduced, IFLA would support the introduction of a
+purpose-based exception to facilitate text and data mining,
+provided that it adequately meets the needs of researchers,
+libraries and educational institutions undertaking TDM
+activities that do not transact on the underlying works of
+right holders.
+
+It is also essential that, in the context of an increasingly
+licence-based digital environment,a limitation be introduced on
+contractual terms that purport to override statutory
+exceptions.Without a provision that safeguards exceptions
+against override by contract, any new or updated exceptions to
+respond to the realities and opportunities of the digital
+environment would be effectively useless.
+
+A flexible, open ended exception meets a number of goals that
+guide copyright reform processes: it can be technology neutral;
+it supports innovation and competition; is in line with
+international obligations; and can include criteria to guard
+against uses of works unreasonably harmful to the right
+holder.18
+
+Australian Digital Alliance & Australian Libraries Copyright
+Committee, submission to the Australian Law Reform Commission
+(ALRC) Review of Copyright and the Digital Economy (2012)
+[speaking specifically about ‘fair
+use]http://digital.org.au/sites/digital.org.au/files/documents/FINAL%20ADA%20ALCC%20CopyRevSub.pdfp
+71
+
+The UKHargreaves Review of Intellectual Property and
+Growthconsidered the benefits of the US ‘fair use’ provision19
+
+Section 107,Copyright Act 1976(US)
+
+, as one that ‘keeps copyright closer to the reasonable
+expectations of most people and thus helps make sense of
+copyright law.20
+
+Ian Hargreaves,Digital Opportunity: A Review of Intellectual
+Property and Growth(2011), 43. Countries without a fair use
+doctrine have “witnessed a growing mismatch between what is
+allowed under copyright exceptions, and the
+reasonableexpectations and behaviour of most people.
+
+IFLA has observed that libraries, and therefore the research
+sector, in the US undertaking mass digitization projects, text
+and data mining activities and indexing and caching are
+increasingly moving ahead of their EUcounterparts, with the
+benefit of a flexible exception.
+
+In 2013, in response to the US District Court decision regarding
+the legality of the Google Books project, IFLA published a
+statement cautioning against the growing digital information
+divide for libraries elsewhere:21
+
+http://www.ifla.org/node/8177
+
+“IFLA is concerned that the US District Court’s decision
+reflects a widening digital divide between what libraries are
+able to accomplish in the Unites States, as compared with the
+rest of the world. IFLA represents more than 1500 library
+associations and institutions in over 150 countries, many of
+whom are operating under a patchwork of restrictive copyright
+provisions ill-suited for the digital environment. IFLA
+maintains that access to digital library collections of the
+scale and nature of the Google Books project can be
+anunprecedented source for the advancement of learning and
+human development, and that this access should be universal.”
+
+26. Does the territoriality of limitations and exceptions, in
+your experience, constitute a problem?
+
+27. In the event that limitations and exceptions established at
+national level were to have cross-border effect, how should the
+question of “fair compensation” be addressed, when such
+compensation is part of the exception? (e.g. who pays whom,
+where?)
+
+Yes.
+
+We believe that the only workable situation will be for member
+states to apply their own legal traditions in respect to this
+issue.
+
+eLending
+
+36: Have you experienced specific problems when trying to
+negotiate agreements to enable the electronic lending
+(e-lending), including across borders, of books or other
+materials held in your collection?
+
+37. If there are problems, how would they best be solved?
+
+38. What differences do you see in the management of physical
+and online collections, including providing access to your
+subscribers? What problems have you encountered?
+
+Yes.22
+
+IFLA’s response reflects the input of its EU members
+
+Copyright challenges associated with eLending have been
+identified as an advocacy priority by IFLA members. In 2013,
+IFLA launched itsPrinciples for Library eLending,23
+
+IFLA Principles for Library eLending
+(2013),http://www.ifla.org/node/7418
+
+designed to assist library professionals worldwide as they
+grapple with the complexities of eBook licence negotiations
+with publishers and resellers. ThePrinciples for Library
+eLendingwere the result of eighteen months research and
+consultation by the IFLA eLending Working Group, comprising
+senior library professionals from around the world. In 2012,
+the Working Group produced a Background Paper on eLending which
+summarized emerging eBook, and associated digital lending
+challenges for libraries at that time:
+
+“…Librarians are struggling with how to maintain core
+principles such as unfettered access to information for all in
+the context of restricted access to eBooks and imposed eBook
+licence requirements. A key challenge facing libraries in
+providing access to eBooks is to arrive at licence agreements
+which provide sufficient reassurance to publishers and authors
+that library availability of their work supports rather than
+undermines their business model while at the same time
+permitting the library to continue its core functions.”24
+
+IFLA Background Paper on eLending
+(2011)http://www.ifla.org/files/assets/clm/publications/ifla-background-paper-e-lending-en.pdf
+
+The Background Paper points to the propensity of digital content
+licencing to undermine core library functions including
+preservation, lending, permitted copying, inter library loan,
+and the provision of accessible format works for the print
+disabled. It also highlights the vulnerability of long held
+library values, including the protection of patron privacy,
+provision of equitable access to information, and the
+independence of acquisition decisions in the licensing
+environment.25
+
+The IFLA Governing Board commissioned an update of the eLending
+Background Paper in December 2013, to be completed in April
+2014. IFLA would be glad to share this with the European
+Commission when it has been finalized.
+
+The internet has profoundly altered the management of library
+collections. It is undisputed that online collections must be
+managed in a different way to print collections – and libraries
+have responded quickly to a number of those changes. While
+adapting library tools and services to meet new technologies
+and patron expectations is something libraries have a long
+history with, the online environment has stymied library
+adaptability in a number of ways that cut to the heart of their
+public interest function.
+
+The shift to eBooks has impacted on the independence of library
+acquisition decision making. In print, if a book or other
+published work was available to the public, it was generally
+available to a library for purchase for their collection. With
+online content, publishers have moved towards differential
+pricing models for libraries, as well as models that restrict
+the variety of eBooks available to libraries for purchase, and
+conditions under which they may be lent. These restrictions
+placed on access to eBooks and other digital content undermine
+the independent public interest function of libraries and
+relegates them, in effect, to market access points for
+publishers. The 2013 Study on the Application of Directive
+2001/29/EC on Copyright & Related Rights in the Information
+Society,26
+
+STUDY ON THE APPLICATION OF DIRECTIVE 2001/29/EC ON COPYRIGHT
+AND RELATED RIGHTS IN THE INFORMATION SOCIETY (16 December
+2013)http://ec.europa.eu/internal_market/copyright/docs/studies/131216_study_en.pdf
+
+commissioned by the European Commission, recognizes the need to
+preserve the autonomy of libraries:
+
+“Fundamentally, in our opinion, the traditional role of
+libraries in providing an alternative to get access to cultural
+content should be preserved in the digital environment and their
+mission should be extended to the provision of e-books and other
+digital content. To that end, their autonomy should be
+preserved. Relying only on the market to deliver e-books to
+library readers could potentially dictate unreasonable terms
+and conditions to libraries or transform public lending into
+another commercial service provided by the publishers.”27
+
+Ibid 343
+
+If the practice of withholding eBooks from libraries
+continues,publishers/authors should be required in legislation
+to make eBooks available to libraries under reasonable terms
+and conditions.28
+
+above n 16.
+
+IFLA’s Principles for eLending set out the problems to be
+overcome, and ways in which they can be solved:29
+
+Ibid.
+
+A library must have the right to license and/or purchase any
+commercially available eBook without embargo.If titles are
+withheld from the library market by publishers and/or
+authors,nationallegislation should require such access under
+reasonable terms and conditions. Libraries must be able to
+determine their own acquisitions by choosing specific titles
+from publisher or distributor listings in support of their
+mandate to provide community access to information and
+knowledge.
+
+A library must have access to eBooks under reasonable terms and
+conditions and at a fair price.Terms of access should be
+transparent and costs predictable to enable the library to
+operate within its budget and funding cycles.
+
+eBook licensing/purchase options must respect copyright
+limitations and exceptions available to libraries and their
+users in national law, such as the right to:
+
+Copy a portion of the work
+
+Re-format the work for preservation purposes if it is licensed
+and/or purchased for permanent access
+
+Provide a temporary copy of the work to another library in
+response to a user request
+
+Reformat a work to enable access for people with print
+disabilities
+
+By- pass a technological protection measure for the purpose of
+exercising any non-infringing purpose.
+
+eBooksavailable to libraries should be platform neutral and
+developed with standards for accessibility. Content should be
+capable of integration into library systems and online public
+access catalogues, and interoperable across platforms,
+applications and e-reader devices that the library or library
+patron has chosen to invest in.
+
+Strategies must be in place to ensure the long term preservation
+of eBook titles by libraries.Long term availability of eBook
+titles should not be compromised by factors such as a publisher
+ceasing to operate.This can be addressed through measures
+includingthe collaborative development of archival databases by
+publishers and libraries andlegislative solutions which require
+the legal deposit of digital content with specified agencies.
+
+eBook services must protect the privacy of library
+users.Libraries and their users must be able to make informed
+decisions about the control and use of personal information
+including reading choices.
+
+Text and Data Mining
+
+53(a). [In particular if you are an end user/consumer or an
+institutional user:] Have you experienced obstacles, linked to
+copyright, when trying to use text or data mining methods,
+including across borders?
+
+Yes.30
+
+IFLA’s response reflects the input of its EU members
+
+A number of IFLA members have cited licence terms and
+conditions, technological protection measures and more
+generally, gaps in digitized resources available, as barriers
+to text and data mining activities. EU-based members comment on
+specific text and data mining challenges encountered in their
+submission.
+
+Some examples of licence terms and conditions which restrict or
+prohibit text and data mining activities have been provided by
+IFLA members.31
+
+The identify of institutions providing licence examples has been
+anonymized.
+
+One member has provided excerpts from a license for access to
+Online ProQuest databases, which contains the following
+conditions:
+
+“Downloading of all or parts of a Product in a systematic or
+regular manner or so as to create a collection of materials
+comprising all or a material subset of a Product is strictly
+prohibited whether such collection is in electronic or print
+form.”
+
+The licence further stipulates, under the heading “Systems
+Usage”:
+
+“To protect the Products for the research and educational use
+of Authorized Users, automated searches against ProQuest’s
+systems are not permitted with the exception of nonburdensome
+federated search services. Data mining is prohibited.”
+
+Another example licence condition provided by an IFLA member
+states that,
+
+“Neither the Licensee nor Authorized Users may systematically
+make print or electronic copies of multiple extracts of the
+Licensed material for anypurpose other than temporary caching
+as permitted in Para. 3.1.1”
+
+Another licence contained a prohibition against “mak[ing] mass,
+automated or systematic extractions from or hard copy storage
+of the Licensed Material.”
+
+54. If there are problems, how would they best be solved?
+
+55. If your view is that a legislative solution is needed, what
+would be its main elements? Which activities should be covered
+and under what conditions?
+
+In December 2013, IFLA published its Statement on Text and Data
+Mining, which calls for text and data mining to be facilitated
+by copyright exceptions.32
+
+International Federation of Library Associations & Institutions,
+Statement on Text and Data Mining
+(2013)http://www.ifla.org/publications/ifla-statement-on-text-and-data-mining-2013
+
+“The technical act of copying involved in the process of TDM
+falls by accident, not intention, within the complexity of
+copyright laws – in fact, analysis of facts and data has been
+the basis of learning for millennia. As TDM simply employs
+computers to “read” material and extract facts one already has
+the right as a human to read and extract facts from, it is
+difficult to see how the technical copying by a computer can be
+used to justify copyright and database laws regulating this
+activity.”
+
+If a researcher or research institution has lawfully acquired
+digital content, including databases, the right to read should
+encompass the right to mine.
+
+The lack of legal certainty for researchers and innovators
+undertaking TDM in the EU stands to significantly affect
+investment in research and development, and global
+competitiveness. A 2012 study by global consultancy firm Booz &
+Co considered the impact of changes to copyright law on early
+stage investment in internet or digital content
+intermediaries.33
+
+Booz&Co, The Impact of US Internet Copyright Regulations on
+Early-Stage Investment
+(2012a)http://www.booz.com/media/uploads/BoozCo-Impact-US-Internet-Copyright-Regulations-Early-Stage-Investment.pdf
+
+Based on a survey of angel investors and venture capitalists in
+the US and EU, Booz & Co found that 80% of US and 87% of EU
+angel investors indicated they were uncomfortable investing in
+an R&D area with an uncertain or unduly restrictive regulatory
+framework.34
+
+Ibid.
+
+Australian consultancy Lateral Economics reached a similar
+finding in their 2012 study into the economic impacts of
+flexible exceptions, concluding that investors were valuing
+reduced risk and uncertainty from copyright exceptions and
+limitations at around $2 billion per year.35
+
+Lateral Economics, Excepting the Future: Internet Intermediary
+Activities and the case for flexible copyright exceptions and
+extended safe harbour provisions (August 2012), 38.
+
+Libraries offer researchers and innovators with legal access to
+a rich array of resources capable of being mined and analysed
+to facilitate new scientific, economic and creative
+discoveries. Currently, researchers with access to library
+collections in countries including Israel, Taiwan, South Korea,
+the United States and Singapore stand at a competitive advantage
+over their counterparts in the EU, with TDM facilitated in those
+countries by flexible, open-ended exceptions. IFLA observes the
+irony in the fact that due to the Berne Convention and the
+international nature of copyright law that citizens,
+researchers and companies in those countries are able to text
+and data mine content produced by Europeans that Europeans
+themselves are not able to, without permission.
+
+A 2012 UK study commissioned by JISC found that if text mining
+enabled just a 2% increase in productivity – corresponding to
+only 45 minutes per academic per working week, this would
+result in additional productivity worth between 123.5m GBP and
+156.8 GBP in working time per year.36
+
+D McDonald and U Kelly, Value and benefits of text mining,
+prepared for JISC
+(2012)http://www.jisc.ac.uk/sites/default/files/value-text-mining.pdf
+
+In their submission to the UK Government Review of Intellectual
+Property in 2012, the British Library noted:
+
+“It is estimated that for every pound invested by the
+government in R&D, in the form of funding of the research
+councils, this returns somewhere between £9 and £17 to the
+British economy. That is to say £3.5 billion translates into
+between £30 - £60 billion worth of GDP. Given the size of the
+education and R&D markets, it is therefore probably reasonable
+to assume that even small and incremental improvements upstream
+to the sector’s ability to reuse knowledge in the form of
+copyright works, will downstream lead to a significant
+andmeaningful growth in GDP. In an internationally competitive
+environment where for example the US is seeking to double
+public funding in R&D over the next 10 years, any gains in
+efficiencies that the this country can make in the sphere of
+research are gains that will translate into GDP growth.”37
+
+British Library, Response to HM Government Consultation on
+Copyright. (March 2012)
+3http://pressandpolicy.bl.uk/imagelibrary/downloadMedia.ashx?MediaDetailsID=1423(internal
+citations removed).
+
+IFLA believes that in the rapidly evolving digital environment,
+taking into account the diversity of TDM applications and
+sources from which data can be extracted, text and data mining
+would be best facilitated by a flexible, open ended exception.
+
+In the alternative, IFLA cautiously supports a purpose-based
+exception but warns against undue restrictions on the kinds of
+text and data mining activities that would be permitted.
+Restricting text and data mining activities to non commercial
+uses, for example, will impact on public research activities
+undertaken in partnership with private investors. It can
+prevent researchers from certain publication or application of
+the results of TDM, and is vulnerable to overly restrictive
+interpretation by licensors. It will also prevent TDM by EU
+technology companies at a time when the Commission is quite
+rightly supporting activities to encourage EU SMEs.
+
+It is worth briefly commenting as to why a licensing approach
+fails to fully realise the opportunities offered by TDM.
+Licences pose jurisdictional and structural challenges to
+researchers seeking to undertake TDM. A great number of
+licences are limited in application; they do not facilitate
+cross border uses of licensed material. In addition, licences
+deter early exploration of new TDM opportunities. A researcher,
+faced with the need to purchase and fulfil the requirements of a
+licence before undertaking a new project involving TDM, may be
+deterred from embarking on that project by the administrative
+hurdles to be overcome.
+
+More profoundly, IFLA has grave concerns with any proposed TDM
+solution that in effect controls how a researcher can read and
+analyse data it already has legal access to. But for the
+incidental copying of underlying source content involved in
+‘computer reading’ or TDM, publishers would have no basis on
+which to claim additional payment. The source content (i.e.
+legally purchased access to a database) remains unchanged; it
+is merely the new technology that enables publishers to impose
+an access toll, in effect, on TDM.
+
+Responsibilities of internet intermediaries
+
+76. In particular, is the current legal framework clear enough
+to allow for sufficient involvement of intermediaries (such as
+Internet service providers, advertising brokers, payment
+service providers, domain name registrars, etc.) in inhibiting
+online copyright infringements with a commercial purpose? If
+not, what measures would be useful to foster the cooperation of
+intermediaries?
+
+Any legislation dealing with intermediaries on the internet must
+be thoroughly considered and carefully defined so as not to
+inadvertently include libraries or educational institutions
+where not appropriate.
+
+In the United Kingdom and in New Zealand, recent legislative
+reforms to address the responsibilities of intermediaries have
+included definitions that encompass internet services provided
+by libraries - much to the concern of IFLA member libraries in
+those countries.
+
+United Kingdom
+
+The UK Digital Economy Act introduced in 2010 places obligations
+on Internet Service Providers (ISPs) to respond to online
+infringement under an “Initial Obligations Code” and a
+subsequent “Technical Obligations Code”.38
+
+Ss 3-16,Digital Economy Act2010 (UK)
+
+The core definitions of “ISP”, “subscriber” and “communications
+provider” in the Act have been criticized by UK library
+associations as overly simplistic, and not reflecting the more
+complex intermediated internet provision that exists in
+educational institutions and libraries39
+
+http://www.sconul.ac.uk/news/act-risks-limiting-internet-access-in-libraries-schools-and-universities
+
+. Discussions between Ofcom, the regulator responsible for UK
+communications industries, and libraries and educational
+institutions in 2010 seemed to confirm that under those
+definitions, libraries could be treated as both an “Internet
+Service Provider” and a “subscriber”.
+
+“Under the Act libraries would be treated the same as an
+individual at home going online. A library acting as an
+intermediary, providing internet access to hundreds if not
+thousands of people is fundamentally different from you or I
+going online at home. This isn't about excluding libraries from
+the Act, it isn't about breaking copyright law or endorsing
+piracy - it's about recognising libraries' unique role by
+creating an exception within the Act - which Ofcom are
+perfectly able to do. Ofcom are already creating an exception
+for commercial suppliers of WiFi for example."40
+
+Phil Bradley, President of Chartered Institute of Library and
+Information Professionals, ibid.
+
+As an ISP, libraries stood to be responsible for the monitoring
+of their networks for copyright infringement, with significant
+financial burden. As a subscriber, libraries stood bound to act
+on notifications from their ISP to the effect that a copyright
+owner has made a report against them for alleged copyright
+infringement. Compliance with the stated obligations under the
+Digital Economy Act meant significant financial and resource
+burdens for libraries, and raised more fundamental concerns
+regarding freedom of access to information and patron privacy,
+two core values to library practice.
+
+New Zealand
+
+In New Zealand, theCopyright (Infringing File Sharing) Amendment
+Act2011, which defines responsibilities of intermediaries
+dealing with copyright infringement, came into effect in
+September 2011.41
+
+For fixed-line operators; it will come into effect for mobile
+providers from October 2015: Copyright (Infringing File
+Sharing) Amendment Act 2011 (N.Z.) s 2; Copyright Act 1994
+(N.Z.) s 122S (as amended by Copyright (Infringing File Sharing
+and Cellular Mobile Networks) Order 2013 (N.Z.) s 3
+
+It replaced the widely criticized section 92A of theCopyright
+(New Technologies) Amendments Act2008, which included a
+definition of “ISP” that encompassed all organisations
+providing internet access, including schools and libraries.
+While the new section 122(a) revised the scope of application
+of the legislation to capture only traditional ISPs, there is
+some concern it may, in part, still touch on internet services
+provided by public interest institutions like libraries.42
+
+Pheh Hoon Lim and Louise Longdin,P2P online file sharing:
+transnational convergence and divergence in balancing
+stakeholder interests33(11) EUROPEAN INTELLECTUAL PROPERTY
+REVIEW 690, 692 (2011)
+
+IFLA supports appropriate and effective measures to fight
+unauthorized peer to peer file sharing, and to protect the
+rights of content creators. It has long been part of library
+practice to educate patrons on permitted use of copyright
+materials, and respect for the rights of creators. IFLA
+cautions strongly, however, that any legislative measures
+regarding responsibilities of internet intermediaries fully
+take into account the diversity of private and public bodies
+providing internet access, and the importance of these
+services.
+

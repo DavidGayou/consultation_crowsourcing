@@ -1,0 +1,665 @@
+
+
+
+GENERAL STATEMENT
+
+The Software & Information Industry Association (SIIA) welcomes
+the opportunity to comment on the European Commission public
+consultation on the review of the EU copyright rules. In
+general, SIIA notes that EUand its Member Stateshave
+appropriate legal frameworks for the protection of copyright,
+although there are many challenges with respect to enforcement.
+Wehighlightoursupport for continued protection of computer
+programs and databases. We emphasize the crucial importance of
+licensing in today’s digital environment. Contractual freedom
+and the non-applicability of theexhaustion limitationto
+licensed works are indispensable elements to the continued
+viability of this increasingly important business model.
+
+SIIA is the principal trade association of the software and
+information industries and represents over 800 companies that
+develop and market software and digital content for business,
+education, consumers, the Internet, and entertainment.1
+
+A list of the more than 800 SIIA member companies may be found
+at: http://www.siia.net/membership/memberlist.asp.
+
+We have many membersestablished in the EU and who have made
+significant investmentsfirms which employ many EU citizens.
+SIIA’s members range from start-up firms to some of the largest
+and most recognizable corporations in the world. SIIA member
+companies are leading providers of, among other things:
+
+• software publishing, graphics, and photo editing tools
+
+• corporate database and data processing software
+
+• financial trading and investing services, news, and
+commodities exchanges
+
+• online legal information and legal research tools
+
+• protection against software viruses and other threats
+
+• education software and online education services
+
+• open source software
+
+• and many other products and services in the digital content
+industries
+
+One of SIIA’s primary missions is toprotect the intellectual
+property of member companies, and advocateforalegal and
+regulatory environmentthat benefits the software and digital
+content industries. Consistent with these goals, for over
+thirty yearsSIIA has engaged in a comprehensive, industry-wide
+campaign to advocatefor globallegal regimesthat adequately and
+effectively protect the intellectual property rights of its
+software and content industry members.
+
+SIIA is notcommenting on every single question in the
+consultation, preferring to focusourcomments on those questions
+of greatest interest tothe software and information industries.
+Our silence on a number of questions should not, however, be
+interpreted as signalling an SIIA positionor lack of intereston
+those matters.
+
+Comments on selected questions follow.
+
+EU Consultation Draft Responses.
+
+Question 10(Two rights involved in a single act of
+exploitation):Does the application of two rights to a single
+act of economic exploitation in the online environment (e.g. a
+download) create problems for you? (Note:the two rights refer
+to the reproduction and making available rights.)
+
+SIIA Response:
+
+No.
+
+There are times when a single act of economic exploitation in
+the online environment implicates two of a copyright owner’s
+rights – the reproduction right and the making available right.
+For example, when digital content is digitally transmitted from
+one person to another, a copy of the original digital file will
+be retained by the sender and a completely new copyof the
+identical file will be created on the hard drive of the
+recipient. Consequently, this one act implicates the digital
+copyright owner’s reproduction right and making available
+right. Even though this act may be perceived as implicating
+only the making available right it is important that both
+rights are considered since the transmission has created a
+totally new copy that prior to the transmittal did not exist.
+This is not a problem at all. Quite the opposite, this is a
+necessary interpretation of the copyright law and must not be
+altered. This issue arises in the context of theexhaustion
+limitation.  When the person in the above example transmits a
+copy to the other person,the act of transmission –standing
+alone–implicatestheexhaustion limitation. However, since
+theexhaustion limitationonly applies to acts involving the
+distribution right and not toacts of reproduction, the fact
+that a new copy now resides on the recipient’s hard drive would
+not fall within the purview of theexhaustion limitationand thus,
+would be considered to be an infringement, as should be the
+case.  (Note:Werecognize that in the European Union, the
+exhaustion limitation only applies to acts involving the
+distribution right and not to acts of reproduction. For more on
+the inapplicability of theexhaustion limitationin certaincaseswe
+direct you to our response to question 14. Also, we recognize
+that in the European Union, the distribution right only applies
+to physical copies of works, although as a result of the
+UsedSoft case, there is a different legal regime for software.)
+
+Question 14 (Download to own digital content): What would be the
+consequences of providing a legal framework enabling the resale
+of previously purchased digital content? Please specify per
+market (type of content) concerned.
+
+SIIA Response: It is of critical importance that we not simply
+heedlessly import theexhaustion limitationinto the digital
+environment without first asking whether doing so is necessary
+and desirable. Trying to force today’s digital works to behave
+like physical works of the past would be a step in the wrong
+direction and would have a chilling effect on the development
+of new business models and innovation.
+
+It has been suggested that, as the marketplace moves toward a
+born-digital model – one where there is no physical version of
+the copy – theexhaustion limitationwill lose its vitality and
+consequently theexhaustion limitationshould be broadened to
+create a so-called digitalexhaustion limitationthat would allow
+the transmission of digital copyrighted works. There are several
+problems with this view.
+
+First, to enact a so-called digitalexhaustion limitationwould
+require the creation and implementation of “forward-and-delete”
+technology that automatically eliminates all copies owned by the
+original purchaser – no matter where such copies reside –
+simultaneously upon the digital transfer of the copy by the
+purchaser. No such technology exists today or in the
+foreseeable future. Even if such technology were to be
+available, it would be just a matter of time before it was
+hacked, allowing anyone to easilycircumvent the law and
+burdening copyright owners with complex, costly and impossible
+problems of proof.
+
+Second, even if such a technology were feasible in the future
+this argument fails to account for the inherent differences
+between physical and digital copies that dramatically affect
+the function and implementation of theexhaustion limitation.For
+example, physical works degrade over time, whereas digital
+copies do not. Similarly, the more frequently a physical copy
+is used, the quicker it will degrade, whereas the frequency of
+usage has no bearing on a digital copy.
+
+Transferring a physical copy is also significantly more
+difficult than transferring the digital copy. Transferring a
+digital copy is instantaneous and is unaffected by the identity
+of the transferee or transferor or by the distance between them.
+On the other hand, transferring a physical copy may take
+significantly more time, effort and money and is highly
+dependent on the identity or location of the parties. The
+manner in which physical copies are transferred acts as a
+natural inhibitor on the effect of re-sales on the copyright
+owner’s market. For these reasons, a digitalexhaustion
+limitationwould allow “used” digital copies to compete directly
+with “new” digital copies on the secondary market. This is not
+the case with physical goods.
+
+Not only would it be inappropriate to incorporate a
+digitalexhaustion limitationdefense into the current copyright
+regime and harmful to rightsholders, but it would also harm
+consumers. Consumers are enjoying unprecedented access to
+copyrighted works. Today’s online marketplace offers consumers
+more opportunities to access copyrighted works anytime,
+anywhere than ever before. Many of the opportunities consumers
+engage in the analog world made possible by thedoctrine of
+exhaustion as established by the European Unionare being made
+available without that exception in the digital world, as
+illustrated in the following examples.
+
+For several decades, the software industry has relied on a
+licensing model for the distribution, maintenance, and updating
+of its software products and services to and for its customers.
+Today, licenses govern most software transactions. The software
+licensing model permits a wider range of users to access and use
+software. A publisher need not reduce or degrade the function of
+its product in order to provide it at a reduced price
+appropriate for a particular market of users. Rather, the
+publisher can simply vary the rights of using it. So, for
+example, a software publisher may offer a fullyfunctional
+“academic” version of its product to students at a deeply
+reduced price, but the rights granted do not permit use for
+commercial purposes. Similarly, “OEM licenses” bundle software
+with, or install software directly on, specific hardware, such
+as a scanner or desktop computer, and require the software to
+be used and distributed only with that hardware. Often, the
+hardware manufacturer was granted a deep discount as part of
+the OEM license terms. Another example is “site licenses,”
+which are defined by some geographic restriction on use, such
+as a specific company, area, or even department or floors of a
+building.
+
+Because software is virtually always licensed and not sold,
+theexhaustion limitationshould not apply to these transactions.
+Making theexhaustion limitationapplicable to these software
+licenses would cause a very significant problem and would
+jeopardize the future availability of discounted software to
+those markets.
+
+These examples are not limited to the software industry. The
+textbook industry is rapidly moving to a licensing model for
+online and digital versions of their textbooks. The new digital
+textbook licensing model provides numerous benefits to students
+and teachers. Digital textbooks often come with special
+features, like embedded quizzes, electronic flash cards, the
+ability to share notes online with fellow students and/or
+embedded links to videos and articles from a professor’s
+lectures. These digital texts may also allow the teacher to
+monitor a student’s progress, the amount of time the student
+spends reviewing the material, and the student’s performance on
+the embedded quizzes and then use this information to determine
+what material the student may be struggling with and develop a
+personalized study plans to keep the student on the right
+track. Because these textbooks are digital they can be updated
+and edited much more quickly than analog texts and distributed
+to users almost immediately.
+
+These are the new generation of textbooks for a new generation
+of students and teachers. The difference between traditional
+textbooks and the offerings in new digital and online textbooks
+is astonishing. But that’s not all that is different. The
+distribution and pricing model for these textbooks is also very
+different.
+
+The average eTextbook costs significantly less than a new
+version of that same print textbook. For example, the digital
+version of the widely used textbook, “Biology” by Sylvia Mader
+and Michael Windelspecht, publishedby McGraw-Hill Education,
+costs $120. Its traditional print counterpart is priced
+significantly higher at $229. Many eTextbooks are also
+available for rental by students – a business model that
+further lowers students’ textbook spending and has begun to
+reduce the market share of the traditional used book market.
+(Note: We are aware that there is a specific rental right in
+the European Union that pertains to physical copies. The CJEU
+has confirmed that the exhaustion limitation does not apply to
+rental. We note also that the model of renting eTextbooks would
+implicate the making available right, also not subject to
+exhaustion. We would not favor any change in this legal
+framework.)
+
+There is one other trend that is further lowering students’
+textbook spending — campuses and professors increasingly want
+course materials delivered “inside” their digital classrooms so
+they can ensure that all students have access to the same
+materials and they can see how each student is performing. This
+leads to increasing situations where the institution is the
+customer. The result of all these evolving business models has
+been a dramatic drop in student textbook spending from $192 in
+the fall of 2008 to $138 in the spring of 2013. These business
+models, and the resulting drop in student textbook spending,
+might not be possible if textbook publishers were not able to
+rely on licensing models and the inapplicability of
+theexhaustion limitationto their digital textbooks.
+
+Textbook publishers are able to offer their digital textbooks at
+lower prices because they save on printing, shipping and
+processing of returns. But another significant factor in the
+reduced eTextbook price is the secondary market. Because the
+publisher of a print textbook has to factor in the likelihood
+that the book will be resold by the original student buyer,
+either directly to another student or indirectly through a
+campus bookstore offering used books, the publisher has to set
+a higher price for the new print book in order to recoup its
+investment. Because the new features of these digital textbooks
+support a more personalized and interactive relationship between
+the publisher and students and teachers than a traditional
+textbook and because the publisher may continue to innovate and
+update these features more quickly than the traditional print
+cycle would allow, publishers license these materials. The
+license allows a more flexible, nuanced relationship between
+the publisher and consumers of the book. It enables teachers
+and students to use only the features they need, and pay only
+for what they use and for the time period for which they use
+it.
+
+In this model, license terms generally do not permit transfer to
+another user, though, if there were demand, it might be
+reasonable for publishers to offer a transferable license for a
+higher price. It is important to consider that the publisher has
+higher development and operating costs in offering rapidly
+changing, personalized features, such as embedded dictionaries
+or glossaries, highlighter and markup features, support for
+multiple electronic reader platforms, videos, testing with
+online scoring, testing analytics, and data storage so it can
+track and support each user’s individual experience. To recoup
+these higher costs, publishers structure their licenses to
+restrict the downstream distribution of their textbooks so they
+can offer digital books to each of their users at a reduced
+price. If they did not restrict the resale of these books
+publishers would be forced to raise their prices. By licensing
+the textbooks at a lower price, students benefit from the lower
+cost and increased functionality of the digital textbooks and
+textbooks publishers are able to secure a reasonable return on
+their investment.
+
+As is the case with software, discussed above, theexhaustion
+limitationshould not apply to these licensed digital textbooks
+as doing so would jeopardize the future availability of these
+materials.
+
+If a consumer obtained a set of rights to a copyrighted work
+under license, and the consumer resells the work and asserts
+theexhaustion limitation, the focus of theanalysis should be on
+the terms and conditions of the agreement itself. If there is an
+agreement between the copyright owner or its agent and the
+consumer and that agreement makes it clear that a license is
+being granted (or the copyright owner otherwise reserves title)
+and that the license contains certain restrictions on transfer
+and use that are not usually present with ownership, the
+transaction should be construed as a license and theexhaustion
+limitationshould be inapplicable to the transaction.
+SIIAopposesrestricting contractual rights which would have the
+effect of undermining the success of the licensing model.For
+example, software licensors typically limit their conveyance of
+rights to a licensee in a number of ways: by location of use,
+term of use, type of user, field of use (academic,
+non-commercial), use with certain hardware (“OEM”),
+transferability, and reverse engineering, to name just a few.
+In contrast to a licensee, a purchaser who becomes an “owner,”
+would have no such limits by contract and could use the copy of
+software however he/she wanted consistent with applicable laws,
+statutes, ordinances, etc.
+
+While consideration of the types of restrictions that a licensor
+places on transfer and use within the agreement is important, it
+is not necessary or appropriate to also consider the types of
+restrictions that a licensor does not place on transfer and
+use. It should not be necessary that a license include certain
+terms to avoid conveyance of ownership, such as multiple
+payments or return of a worthless plastic CD. It is the code,
+content and associated rights that are valuable, not the
+vehicle of delivery or conveyance (whether CD, DVD, or data
+transmissions on the Internet). While a licensor theoretically
+could require destruction of the disc or erasing the data file,
+the transaction costs to enforce that restriction would in many
+cases dwarf the license fee and serve to do nothing more than
+inconvenience the customer, and thus it makes no sense to
+penalize licensors that omit such a requirement.
+
+Consumers will be able to take advantage of new technologies and
+business models only to the extent that the laws do not inhibit
+the creation and use of new technologies and business models.
+If the law creates undue burdens on providers, the result will
+be increased transactional costs, without producing any
+corresponding tangible benefits to users, and in the end, both
+the providers and the users’ interests will be harmed. This is
+especially true where the legal requirement on the provider is
+one that the user cares little about or has the ability to
+secure in the absence of any legal requirement.
+
+If undue restrictions are placed on either the ability of
+publishers to license or the manner in which publishers license
+it will be more challenging for publishers to recoup the
+investment they have made to develop new products and update
+existing ones and to widely distribute their products and
+services to the public in the manner that consumers enjoy
+today. This is especially true with mass market click-through
+agreements and products offered through the cloud. Certain
+informational products can only be distributed through the use
+of license terms and conditions. If these terms could not be
+enforced, these products may not be distributed, and in some
+cases, the incentive to create certain products may have been
+reduced so significantly that these new products would never be
+created.
+
+The economic foundations of the software and information
+industries depend upon a licensing business model. “Overriding”
+such licenses would have far-reaching, adverse effects on
+everything from the availability of educational software and
+content, to warranties and support services, to the development
+of new products. It is therefore essential that the
+basicprinciple of freedom of contract be recognized and
+preserved by any legislation. Nothing in the law should
+restrict the rights of parties to enter freely into licenses or
+any other contracts with respect to the use of copyrighted
+works. This is more important now than ever before because in
+an increasingly digital knowledge economy it is almost certain
+that software and information publishers will make their
+products and services available subject to critical contractual
+terms that are essential to ensuring the widespread access to
+innovative new digital products and services.
+
+Question 15(Registration of works and other subject
+matter):Would the creation of a registration system at EU level
+help in the identification and licensing of works and other
+subject matter?
+
+SIIA Response:
+
+Yes.
+
+Markets operate most efficiently when buyers and sellers can
+easily find one another. Yet the current copyright system does
+little to promote this concept. There are benefits to copyright
+registration that provide some incentive for copyright owners to
+accurately and timely register their copyrighted works. However,
+because registration is not mandatory (as necessitated by
+international norms, such as the Berne Convention for the
+Protection of Literary and Artistic Works;we are not advocating
+for mandatory registration though – SIIA considers voluntary
+registration to be the correct approach) and creation of
+copyrighted works in the digital age is so easy, a great many
+copyrighted works are not registered,often making it extremely
+difficult to identify, locate and contactcopyright owners.
+
+This problem is exacerbated due to the failure to
+recordtransfers of ownership incopyrighted works.Thisof course
+undermines the accuracy of any recordation systems currently in
+existence. Moreover, often even when the copyright owner has
+timely and correctly registered his work and recorded any
+transfer of the work,it is possible that a reasonable and
+thorough search of catalogs and records will not reveal the
+work. For example, a work may be difficult or impossible to
+find if it was registered under a different title or as part
+ofa larger work. Also, because registration records may not be
+updated in a timely manner, any search for a recently created
+copyrighted work may be unsuccessful.
+
+For these reasons SIIA supportsthecreation of an improved
+copyright infrastructureon a voluntary basisthat enhances the
+ability of potential licensees and licensors of copyrighted
+works to find one another for the purposes of negotiating
+licensing agreements. EU law should more effectively promote
+the creation of new tools, technologies, databases, systems and
+processes for identifyingand locating copyright owners on a
+voluntary basis.The SIIA also suggests consideration of a tax
+credit to businesses that create new tools for identifying and
+locating copyright owners. The provision of financial
+assistance tosmall and medium-sized enterprises (SMEs) that
+create new copyright owner identification and location tools
+should also be considered.
+
+Question17(Registration of works and other subject matter):What
+incentives for registration by rightsholders could be
+envisaged?
+
+SIIA Response:SIIA is not sure what incentives would be
+appropriate in the EU context. Should new mechanisms be
+considered, we offer the following suggestions.
+
+Transfer of Ownership Database: An easily searchable database
+designed to facilitate the tracking of information that
+identifies successors in interest whenever changes in copyright
+ownership occur with respect to copyrighted works, for example
+due to corporate mergers, acquisitions or dissolutions,
+inheritance, bankruptcy or divorce, other transfer of
+ownership.
+
+Owner Identification and Location Database: A database that
+tracks the identification and location of copyright owners. The
+database would document changes in information regarding the
+identity and location of the copyright owner, such as name
+change due to marriage, divorce or otherwise, newly revealed
+attributions or authorship (e.g., due to ownership originally
+being misattributed, anonymous or pseudonymous) and change in
+residence.
+
+These databases could be automated to enable copyright owners to
+easily update their records online. The operators of these
+databases could also push notifications to copyright owners to
+remind them to update their records at certain intervals or
+when inaccurate information in the database is discovered –
+much like what domain name registrars do under the ICANN2013
+Registrar Accreditation Agreement.2
+
+See2013 Registrar Accreditation Agreement
+athttp://www.icann.org/en/resources/registrars/raa/approved-with-specs-27jun13-en.htm(requiring
+domain name registrars toconduct an investigationupon receipt of
+a complaint filed relating to inaccurate WHOIS contact
+informationand,ifthe registrardetermines that the WHOIS contact
+information is inaccurate it must take steps to correct the
+inaccuracy).
+
+While submission of information to these databases would be
+strictly voluntary, strong incentives should be created to
+prompt copyright owners to keep their records up to date.We
+note that establishing databases as described above could well
+be a costly proposition. Tax credits and other mechanisms
+should be explored if the idea is to incentivize rightsholders
+to establish databases.
+
+Because rights information and licensing are global in nature,we
+believe that the Commissionshould engage in discussions with
+other countries through multilateral and bilateral discussions
+and through international bodies, such as WIPO, to determine
+how other countries are addressing online licensing database
+issuesto ensurethat everybody’seffortsare compatible and
+interoperable.
+
+Question19(How to improve the use and interoperability of
+identifiers):What should be the role of the EU in promoting the
+adoption of identifiers in the content sector, and in promoting
+the development and interoperability of right ownership and
+permissions databases?
+
+SIIA Response:SIIA believes that the EU should promote
+market-based solutions in encouraging the adoption of
+identifiers in the content sector and in promoting the
+development and interoperability of rights ownership and
+permissions databases. Tax credits for database creators might
+be an option. Minimum or increaseddamages for copyright owners
+that avail themselves of identifiers and permissions databases
+might also incentivize owners to establish permissions
+databases.We note also that in large measure, the identifier
+issues is really a standards-development matter. SIIA considers
+that identifier solutions must be found with a view to
+international operability, especially for digital works. The
+full involvement ofall relevantindustry stakeholdersis also
+indispensable.
+
+Question 20 (Term of protection):Are the current terms of
+copyright protection still appropriate in the digital
+environment?
+
+SIIA Response:Without espousing any view on what is or is not an
+appropriate term of copyright protection, we strongly believe
+that whatever termis provided under a country’s or region’s
+copyright law, that the term should apply universally to all
+copyrighted works, without regard to or discriminating based on
+the type of copyrighted work, the format (analog, digital or
+other) of the copyrighted work or other characteristics of the
+work or how or whether it is made available to the public.
+
+Question 55 (Text mining): If your view is that a legislative
+solution is needed, what would be its main elements? Which
+activities should be covered and under what conditions?
+
+SIIA Response: We have noviewas to whether legislation is needed
+or appropriate here. However, if the Commission determines that
+legislation is necessary in the area of text mining we urge the
+Commission to proceed extremely cautiously. Text mining, data
+mining and data analytics is adynamicindustry. We are concerned
+that any legislation in this areais premature in the absence of
+a well defined problem andcould have detrimental effectson the
+discovery of knowledge that stands to benefit society as a
+whole.
+
+In the event that legislation is considered by the Commission,
+then we urge that a distinction be made between public domain
+data and data that is not in the public domain or is protected
+behind firewalls or other types of anti-circumvention
+technology.  With public domain data, text mining should be
+permittedif in accordwith the law.   Where data is protected or
+proprietary, the authority of the data provider should be
+necessary and any circumvention of that protection should be
+viewed as a violation of the law.   (Note: Protection does not
+necessarily have to come through copyright law.)   Where access
+to the data is obtained by a license between the data provider
+and the data user, which contains use restrictions, any
+restrictions in that license on systematic copying techniques
+or text mining should be respected.  Where the law permits text
+mining, the text miner is not obliged to seek permission to
+perform the mining, but is obliged to abide by any licensing
+terms and conditions prohibiting mining.
+
+Question 72(Fair remunerationof authors and performers):What is
+the best mechanism (or combination of mechanisms) to ensure
+that you receive an adequate remuneration for the existing
+exploitation of your works and performances?
+
+SIIA Response: This is a complex question, particularly given
+the fact that the European Union has 28 members with differing
+legislation and practices. For example, the Commission itself
+notes in Chapter V that Member States have had broad leeway in
+determining who owns rights when a work is created in the
+context of an employment contract. We note that particularly in
+the software sector in Europe, employment contracts have been a
+successful mechanism in the creation and dissemination of new
+software.
+
+Question 73 (Fair remuneration for authors and performers): Is
+there a need to act at the EU level (for instance to prohibit
+certain clauses in contracts)?
+
+SIIA Response:
+
+No.
+
+See the response to question 14.
+
+Question 75(Respect for rights):Should the civil enforcement
+system in the EU be rendered more efficient for infringements
+of copyright committed with a commercial purpose?
+
+Yes.
+
+SIIA Response:SIIA considers that, yes, the civil enforcement
+system in the EU could be rendered more efficient, although we
+are not persuaded that legislative change is needed at the EU
+level.We do notbelieve that Directive 2004/48/EE should
+necessarily be amended. Our view is that many Member States
+have made goodeffortsto transpose the Directive in ways which
+allowrightsholders to make use of the Directive in a practical
+sense. However, we know that Article 8 of the Directive has
+been interpreted differently in different Member States.For
+example, Spain has interpreted the Directive’s Article 8 on the
+“right of information” to require commercial scaleof
+infringementon the part of both the intermediary and the
+intermediary’s customer. The Directive does not, however,
+require this dual scale commercial requirement – it only
+requires the intermediary to be engaged on a commercial scale.
+We think that the Commission’s 2012-2013 public consultation on
+the functioning of the Directive was a worthwhile initiative.
+SIIA encourages the Commission to review theinformation
+provided through the lens of determining which Member States
+have transposed the Directive most successfully with a view to
+encouraging all Member States to adopt similar regimes.
+
+There needs to be a combination of strong criminal and civil
+enforcement mechanisms to ensure respect for copyright. This is
+particularly important in the context of the Internet. The sheer
+volume of infringements occurring over the Internet require
+timely notice and takedown procedures, consistent with
+appropriate safeguards for intermediaries, for infringing
+content. Respect for contracts, particularly in the context of
+licensing, is especially important for the software and
+information industries. Besides appropriate laws and active
+enforcement, the European Union might also
+considerfurtherpromotion ofvoluntary arrangements among
+stakeholders. Such arrangements can complement, but not
+substitute for, good law and enforcement. For example, SIIA has
+supported the creation of payment processor voluntary best
+practices to cut off payments to websites dealing in infringing
+materials.
+
+Question 76(Respect for rights):In particular, is the current
+framework clear enough to allow for sufficient involvement of
+intermediaries (such as Internet Service providers,advertising
+brokers, payment service providers, domain name registrars,
+etc.) in inhibiting online copyright infringements with a
+commercial purpose? If not, what measures would be useful to
+foster the cooperation of intermediaries?
+
+SIIA Response:There is a different level of intermediary
+involvement in different EU Member States in inhibiting online
+copyright infringementswith a commercial purpose. Based on
+SIIA’s experience in the United States, there are two
+essential factors in getting the involvement the Commission
+refers to. First,a liability regime that incentivizes
+intermediaries to play a role. Appropriate limitations on
+liability (safe harbors)are needed in orderfor online companies
+to thrive and incentivize them totake meaningful steps to
+address, for example,Intellectual Property
+Infringements.Second,aliability regime that incentivizes
+intermediaries to actvoluntarily.SIIA hasparticipated in the
+creation of a set of voluntary best practices whereby five
+major payment processors – Visa, MasterCard, American Express,
+Discover, and PayPal – agreed to come together and work with
+rightsholders to establish practical and timely mechanisms to
+terminate payments to infringing websites.(Note: The comment
+does notmean that SIIA considers that the Enforcement Directive
+requires modification.)
+

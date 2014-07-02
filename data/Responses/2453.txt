@@ -1,0 +1,372 @@
+Stiftung Preußischer Kulturbesitz
+Stiftung des öffentlichen Rechts
+Von-der-Heydt-Str. 16 -18
+10785 Berlin
+Contact: 0049 30 266 411411; C.Thielecke@hv.spk-berlin.de
+
+
+II. Rights and the functioning of the Single Market
+   A. Why is it not possible to access many online content services from
+      anywhere in Europe?
+
+
+   2. [In particular if you are a service provider:] Have you faced problems when seeking to
+   provide online services across borders in the EU?
+
+   Cross border library services, e.g. document delivery to other (EU)-countries: Germany allows
+   – under specific conditions - (digital) document delivery in its § 53a UrhG. Concerning
+   delivery to other (EU-) countries, the situation gets more complicated: To act legally,
+   document delivery by libraries would have to be permitted also in the country of direction.
+   The directive 2001/29/EC in Art. 5.2 c) doesn´t harmonize the conditions for document
+   delivery.
+
+   6. [In particular if you are e.g. a broadcaster or a service provider:] Are there reasons why,
+   even in cases where you have acquired all the necessary rights for all the territories in
+   question, you would still find it necessary or justified to impose territorial restrictions on the
+   service recipient (in order for instance, to redirect the consumer to a different website than
+   the one he is trying to access)?
+
+    Please explain by giving examples
+   Libraries as service provider – e.g. in the field of document delivery or provider of digital
+   images online, don´t find it necessary to impose territorial restrictions.
+
+   7. Do you think that further measures (legislative or non-legislative, including market-led
+   solutions) are needed at EU level to increase the cross-border availability of content
+   services in the Single Market, while ensuring an adequate level of protection for right
+   holders?
+
+   YES – Please explain
+   Full harmonization of document delivery provisions, either in a directive or a regulation.
+   Libraries, to compete in their more and more transnational environment, have to be sure that
+   what is allowed in their country (of origin) is allowed also in the country of destination.
+
+
+
+8. Is the scope of the “making available” right in cross-border situations – i.e. when content is
+disseminated across borders – sufficiently clear?
+
+NO – Please explain how this could be clarified and what type of clarification would be required
+(e.g. as in "targeting" approach explained above, as in "country of origin" approach23)
+Libraries, to compete in the international environment, have to be sure that what is allowed in
+their country (of origin) is allowed also in the country of destination – at least within EU. That
+would not necessarily mean that the right of “making available” has to be defined more precisely,
+but that the respective exceptions to the “making available” right have to be harmonized – e.g. the
+exception to make available for research reasons (Art.5.3 Infosoc-directive). This applies also to
+other exceptions: What makes cross border services and making available on the internet difficult,
+is that only the exploitation rights of the rightsholder are fully harmonized, but not the respective
+exceptions. But exceptions and limitations of copyright are the scope in which libraries` activities
+take place: Lending, making available for research, document delivery etc..
+
+
+10. [In particular if you a service provider or a right holder:] Does the application of two rights
+to a single act of economic exploitation in the online environment (e.g. a download) create
+problems for you?
+YES – Please explain what type of measures would be needed in order to address such problems
+(e.g. facilitation of joint licences when the rights are in different hands, legislation to achieve the
+"bundling of rights")
+Art. 5.3 n) Infosoc-directive allows the communication and making available on dedicated
+terminals. The making available of printed works requires their digitization, that means, a
+reproduction. In Germany, there still is uncertainty if the reproduction for these purposes is also
+allowed. It is subject to a lawsuit, in whose course this question was posed to the ECJ. In national
+laws, in this and similar cases, it should be clearly formulated that with respect to the specific
+exception, all relevant exhaustion rights are limited (e.g. making available AND the
+reproduction). This case shows that national legislation on exceptions that implement exceptions
+of the Infosoc-directive can be problematic. For this reason, exceptions should be fully
+harmonized.
+
+
+11. Should the provision of a hyperlink leading to a work or other subject matter protected
+under copyright, either in general or under specific circumstances, be subject to the
+authorisation of the rightholder?
+
+NO – Please explain whether you consider this to be the case in general, or under specific
+circumstances, and why (e.g. because it does not amount to an act of communication to the public
+– or to a new public, or because it should be covered by a copyright exception)
+
+Hyperlinks are inherent parts of the world wide web. There is no reason to subject them to the
+authorization of the rightsholder: It is only a reference to a document, not a case of “making
+available” in its own right. Linking is not copying.
+
+
+
+
+13. [In particular if you are an end user/consumer:] Have you faced restrictions when trying to
+resell digital files that you have purchased (e.g. mp3 file, e-book)?
+YES – Please explain by giving examples
+Libraries face a big problem here, because the application of the first sale doctrine on e-Books is
+at least uncertain. In the “usedsoft” case, ECJ decided that downloaded software can be resold
+under specific conditions. In libraries, the legal limbo about the exhaustion of e-books leads to a
+use only within the licence terms: Copyright limitations in practice don´t apply any more. This is
+a general problem in the digital world: Exceptions and limitations are overridden by licence
+agreements. Libraries act only in the framework of the licence, because it is unclear whether the
+statutory law is mandatory or not. Therefore, we suggest that every limitation in the directive
+2001/29/EC should be mandatory in a double sense: Implemention of the limitations (including
+first sale doctrine) should be mandatory for the member states and they should be obliged to
+implement the exception in their national copyright laws in a mandatory form so they cannot be
+overridden by licence agreements which mostly are business terms formulated by the rightsholder.
+Additionally, rightsholder shall not be allowed to use technical protection measures (TPM´s) in
+the scope of exception and limitation usage. Using TPM´s to protect works which are in the public
+domain should be prohibited.
+
+
+
+
+14. [In particular if you are a right holder or a service provider:] What would be the
+consequences of providing a legal framework enabling the resale of previously purchased
+digital content? Please specify per market (type of content) concerned.
+One of the background issues of the exhaustion principle is to limit the exclusive rights of copyright
+holders after first distribution. Thus, the principle guarantees free access to information resources. In
+the digital world, rights holders have the (technical) ability to control every distribution and even to
+prevent further distribution by first acquirers of the resources by TPMs. At present, even TPMs are
+protected by Art. 6 of the “Infosoc” directive. There is no ECJ decision on the applicability of first sale
+doctrine on copyright materials except for software. This causes uncertainty among content providers
+like libraries.
+
+Libraries guarantee free access to information. This is important on the one hand for the general
+public, it is a prerequisite for the (democratic) right to take part in any discussion. On the other hand it
+is vital for purposes of study and research. If the distribution of resources is under control even after
+first sale of information resources, the possibilities of distributing information resources change
+dramatically: Reasonable information supply for the public and researchers which traditionally was –
+apart from publishers and booksellers – provided by libraries, cannot be guaranteed any more if all
+distribution channels are fully controlled by publishers and database vendors. There should be a
+reasonable limitation of exclusive distribution rights parallel to what exists in the analogue world.
+
+Electronic (online downloadable) research information will soon be more prevalent than analogue
+resources, in science and technology this is already the case. Imagine researchers who have to use
+hundreds of (electronic) scholar resources for their dissertation and libraries cannot provide access to
+these works. That can happen: Some providers don´t sell their electronic books or journals to libraries
+any more. A researcher cannot afford to buy access to these resources on his or her own cost. Only
+(University and research-) libraries can provide easy and reasonable access to all these resources.
+Concerning analogue resources, the first sale doctrine enables access even if these resources are too
+expensive for that specific library or are out of commerce: They can be provided by (international)
+inter-library loan, if another library is in possession of that book or article copy. If this principle does
+not apply for downloadable materials – which in future will be clearly the main part of all research
+material (often high price materials), research and study can be affected severely. Resources will be
+under full control of publishers, vendors and their various, sometimes hard-to-handle business terms.
+
+A legal framework would help to maintain reasonable access to the resources researchers need –
+keeping in mind the (structural) monopolies in copyright (there is mostly only one (exclusive)
+rightsholder). This is also important for compatibility and resource access of EU countries with
+finance problems. To prevent piracy and distribution which can damage the legitimate interests of the
+rightsholders, there should be established reasonable and clear conditions for deletion of other copies
+analog to the ECJ “usedsoft” judgement.
+15. Would the creation of a registration system at EU level help in the identification and
+licensing of works and other subject matter?
+
+YES
+
+16. What would be the possible advantages of such a system?
+
+Like in the system of orphan works already established, this could help to exploit certain kind of
+works. In Germany, besides the orphan works register, there is being established a registration
+system for out of print works.
+In general, registers help e.g. cultural or research institutions, but also private persons or
+publishers to exploit works: It is easier to get information on the copyright status: In general,
+exploitation of works should be facilitated.
+
+Apart from the search for rights holders, copyrights registers – in the long term – should be a
+condition for claiming exclusive rights on exploitation. In detail, this effect could be limited to
+some rights and only to already published works: For non-registered published works, the making
+available and distribution for non commercial purposes should be allowed. In general, content or
+service providers face difficulties to find rightsholders or even define the copyright status (e.g. if
+copyright term has already expired). This could be much easier if rightsholders who are interested
+in exploiting the works had to register within 5 years after first publishing. Furthermore, in lack of
+renewal of registration every 5 years, exclusive exploitation rights would expire. The other way
+around, in this central register, copyright holders should be able to waive some or all of their
+exploitation rights or grant rights to the public for all (or only for non commercial) purposes.
+Rightsholders should be compensated by collective payment, even if they are not registered any
+more and the works are exploited within the copyright term.
+This system – under the current international treaties – can only be provided on a national level.
+EU should advocate the permission on international level, to make it part of the respective
+agreements.
+
+17. What would be the possible disadvantages of such a system?
+Possible users could get confused of the function of such an instrument, if registering (or not
+registering) does not make any difference for the copyright status.
+
+On the other hand, a register that does have an effect on the copyright status, would impute
+obligations on a creator who wants to prevent the exploitation of his rights. Certain restrictions of
+the use even of non-registered works could limit this disadvantage to a reasonable level (see
+above: Application only for published works, only non commercial use). The term “non-
+commercial” would have to be clearly defined.
+
+
+19. What should be the role of the EU in promoting the adoption of identifiers in the content
+sector, and in promoting the development and interoperability of rights ownership and
+permissions databases?
+EU could support interoperability and use by extending the information provided in EUROPEANA
+metadata or the data provided in a copyright register: All metadata, all access points in a standardized
+format (already provided in Europeana metadata standards)
+
+
+
+20. Are the current copyright terms still appropriate in the digital environment ?
+
+No
+Copyright terms often prevent the distribution of information. Many creators have no interest in the
+commercial exploitation of their works. Their interest is to inform the public or their research
+community. Many creators wish to give broad access to their works and let the public or research
+community use their work, as long as they are not affected in their moral rights. This applies, e.g., to
+comments or articles in weblogs – or more generally – to many scientists. So, a copyright term of
+maximum 50 years after death or even less would seem more appropriate. Essential instrument of
+copyright protection would be a register as explained above (Question 16).
+
+
+
+21. Are there problems arising from the fact that most limitations and exceptions provided in
+the EU copyright directives are optional for the Member States?
+
+YES – Please explain by referring to specific cases
+Example: Cross – border – library services: As there is no harmonization of the rules for (digital)
+document delivery, libraries would have to know about the legal situation in the state of
+destination. National copyright limitations often concern technical details. Information
+instruments and practices change frequently. This leads to legal insecurity and legal limbos. Often
+the library practices are subject to lawsuits. Uncertainty often has the consequence that services
+are not provided because of fear of being sued. In a transnational environment the practice is
+extremely complicated. In practice, this leads to licensing instead of confidence in the statutory
+exceptions. This affects the power balance between publishers and the public.
+Another example is the provision of research environments in online universities: Students in
+these universities are based in various countries. Thus, documents have to be provided to students
+who live in other jurisdictions. If this is prevented by the legal situation or even because of the
+legal uncertainty, foreign students will be discriminated against. This situation is not compatible
+with the EU principles of a common market and common educational systems.
+
+22. Should some/all of the exceptions be made mandatory and, if so, is there a need for a higher
+level of harmonisation of such exceptions?
+
+YES – Please explain by referring to specific cases
+Libraries or educational institutions providing cross-border-services like document delivery or
+research environments have to know what is allowed in their own country and in the country of
+destination of these services. This is why we need a) full harmonization of exceptions and b)
+exceptions that cannot be overridden by licence agreements.
+23. Should any new limitations and exceptions be added to or removed from the existing
+catalogue? Please explain by referring to specific cases.
+
+         •    Text and data mining for all research purposes;
+         •    An exception to ensure that nothing in a contract undermines limitations and exceptions
+              in copyright law;
+         •    Legal certainty for e-lending by libraries analogous to analogue e-lending;
+         •    A new preservation exception allowing preservation networks between institutions
+              (currently most preservation exceptions relate to preserving material in your own
+              collection, rather than having digital mirror sites and activities between institutions);
+         •    Publicly funded research results openly available regardless of contracts signed with a
+              publisher;
+         •    Research exceptions making no distinction between commercial and non-commercial
+              purposes.
+
+24. Independently from the questions above, is there a need to provide for a greater degree of
+flexibility in the EU regulatory framework for limitations and exceptions?
+
+YES – Please explain why
+…to a certain extent. The U.S, system shows that certain uses which might serve the public
+should be allowed in a fair use condition. This could be provided additionally to the existing
+catalogue.
+
+25. If yes, what would be the best approach to provide for flexibility? (e.g. interpretation by
+national courts and the ECJ, periodic revisions of the directives, interpretations by the
+Commission, built-in flexibility, e.g. in the form of a fair-use or fair dealing provision / open
+norm, etc.)? Please explain indicating what would be the relative advantages and disadvantages
+of such an approach as well as its possible effects on the functioning of the Internal Market.
+
+The United States, Israel, Singapore and South Korea have an exception known as ‘fair use’. Rather
+than allowing a pre-defined activity, it is a test that can be applied to any activity that uses a copyright
+work to see if it undermines the legitimate interests of a rightsholder or not. A similar law is just one
+possible solution to the current situation in Europe.
+
+26. Does the territoriality of limitations and exceptions, in your experience, constitute a
+problem?
+
+YES – Please explain why and specify which exceptions you are referring to
+cross border uses, see Question 21.
+
+32. (a) [In particular if you are an institutional user:] Have you experienced specific problems
+when trying to negotiate agreements with rights holders that enable you to provide remote
+access, including across borders, to your collections (or parts thereof) for purposes of research
+and private study? Yes, frequently.
+
+34. If your view is that a legislative solution is needed, what would be its main elements? Which
+activities of the beneficiary institutions should be covered and under which conditions?
+
+[Open question] Fully harmonizedmandatory exceptions for document delivery and making
+available in research environments.
+36. (a) [In particular if you are a library:] Have you experienced specific problems when trying
+to negotiate agreements to enable the electronic lending (e-lending), including across borders,
+of books or other materials held in your collection? Yes, frequently.
+
+
+37. If there are problems, how would they best be solved?
+
+[Open question] Mandatory limitations, see above, Question 13
+
+38. [In particular if you are an institutional user:] What differences do you see in the
+management of physical and online collections, including providing access to your
+subscribers? What problems have you encountered?
+
+[Open question] see above, Question 13; in the digital world, rights concerning the resources get
+more unclear / diversified. There is much legal uncertainty, because it is unclear if statutory law or
+licence applies. Licences are not standardized, so that hundreds of different agreements can rule
+the use of the various library resources – instead of one statutory law.
+
+39. [In particular if you are a right holder:] What difference do you see between libraries’
+traditional activities such as on-premises consultation or public lending and activities such as
+off-premises (online, at a distance) consultation and e-lending? What problems have you
+encountered?
+
+[Open question] uncertainty, see Question 13
+
+40. [In particular if you are an institutional user, engaging or wanting to engage in mass
+digitisation projects, a right holder, a collective management organisation:] Would it be
+necessary in your country to enact legislation to ensure that the results of the 2011 MoU (i.e.
+the agreements concluded between libraries and collecting societies) have a cross-border effect
+so that out of commerce works can be accessed across the EU?
+
+NO – Please explain
+Not any more. A law on out-of-print-works is in force since Jan. 2014.
+
+NO OPINION
+41. Would it be necessary to develop mechanisms, beyond those already agreed for other types
+of content (e.g. for audio- or audio-visual collections, broadcasters’ archives)?
+
+YES – Please explain
+Especially for works with multiple rights holders or collections, newspapers or journals: In mass
+digitization projects, the work to register every single work (e.g. newspaper articles) in the
+register would be too much work and therefore impede digitization. Registration is obligatory
+according to the respective German law, §§ 13 e and f UrhWahrnG.
+
+
+
+47. (a) [In particular if you are an end user/consumer or an institutional user:] Have you
+experienced specific problems when trying to use works or other subject matter in the context of
+research projects/activities, including across borders? Yes, online research environments, see
+above.
+E. Data Mining
+54. If there are problems, how would they best be solved?
+
+By a mandatory exception for reproduction and use of the mining results. Researchers must be able to
+share the results of text and data mining, as long as these results are not substitutable for the original
+copyright work - irrespective of copyright law, database law or contractual terms to the contrary.
+Without this right, legal uncertainty may prevent important research and data driven innovation
+putting researchers, institutions and innovators at risk.
+
+
+55. If your view is that a legislative solution is needed, what would be its main elements? Which
+activities should be covered and under what conditions?
+Data mining works by copying large quantities of material, extracting the data, and recombining it to
+identify patterns, trends and hypotheses or by providing the means to organize the information mined.
+All this should be permitted by a mandatory exception for text and data mining.
+
+
+IV Private copying and reprography
+64. In your view, is there a need to clarify at the EU level the scope and application of the
+private copying and reprography exceptions58 in the digital environment?
+
+YES – Please explain
+For cross-border-use, e.g. document delivery, it should be defined that this can be done for private
+use (this term then has to be defined on an EU level). The exception should be mandatory.
+
+65. Should digital copies made by end users for private purposes in the context of a service that
+has been licensed by rightholders, and where the harm to the rightholder is minimal, be subject
+to private copying levies?59
+No. Private use should be allowed by mandatory exception, but personal use should be free of
+every levy.
+

@@ -1,0 +1,57 @@
+Error: Command failed: I can't open 'NOT REGISTERED/Users/Anonymous (2154)_de.doc' for reading
+
+Error: Command failed: NOT REGISTERED/Users/Anonymous (2059)_de.doc is not a Word Document.
+
+Error: Command failed: NOT REGISTERED/Users/Anonymous (2072)_de.doc is not a Word Document.
+
+Error: stdout maxBuffer exceeded.
+Error: Command failed: NOT REGISTERED/Users/Anonymous (1790)_en.doc is not a Word Document.
+
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: Command failed: others/dr-ohg-sparrow_en.doc is not a Word Document. It is probably a Rich Text Format file
+others/dr-ohg-sparrow_en.doc is not a Word Document.
+
+Error: stdout maxBuffer exceeded.
+Error: Command failed: users/konicek_cs.doc is not a Word Document.
+
+Error: Command failed: users/xabier-o_es.doc is not a Word Document.
+
+Error: Command failed: users/.odt: Aucun fichier ou dossier de ce type
+
+Error: Command failed: users/wood.b_en.doc is not a Word Document.
+
+Error: Command failed: users/schmidt_de.doc is not a Word Document.
+
+Error: Command failed: users/jung_de.doc is not a Word Document.
+
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: Command failed: Can't read from users/vasile_en.odt: Is it an OpenDocument Text?
+
+Error: Command failed: users/~.odt: Aucun fichier ou dossier de ce type
+
+Error: stdout maxBuffer exceeded.
+Error: Command failed: authors/van-ommen_nl.doc is not a Word Document.
+
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+Error: stdout maxBuffer exceeded.
+FATAL ERROR: CALL_AND_RETRY_2 Allocation failed - process out of memory
+Abandon (core dumped)
+

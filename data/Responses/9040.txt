@@ -1,0 +1,479 @@
+                                     Public Consultation
+                           on the review of the EU copyright rules
+
+Contents
+II.     Rights and the functioning of the Single Market ............................................................ 3
+B.      Is there a need for more clarity as regards the scope of what needs to be authorised (or
+   not) in digital transmissions? .................................................................................................. 3
+   2. Two rights involved in a single act of exploitation ......................................................... 4
+III.    Limitations and exceptions in the Single Market ............................................................ 4
+IV. Private copying and reprography .................................................................................... 6
+PLEASE IDENTIFY YOURSELF:
+
+
+Name:
+Nokia Corporation
+EU Representative Office
+Rond Point Schuman 6
+1040 Brussels, Belgium
+
+
+In the interests of transparency, organisations (including, for example, NGOs, trade
+associations and commercial enterprises) are invited to provide the public with relevant
+information about themselves by registering in the Interest Representative Register and
+subscribing to its Code of Conduct.
+          If you are a Registered organisation, please indicate your Register ID number below.
+           Your contribution will then be considered as representing the views of your
+           organisation.
+Register ID - 35167875358-33
+
+
+TYPE OF RESPONDENT (Please underline the appropriate):
+
+
+       Intermediary/Distributor/Other service provider (e.g. online music or audiovisual
+        service, games platform, social media, search engine, ICT industry) OR
+        Representative of intermediaries/distributors/other service providers
+            for the purposes of this questionnaire normally referred to in questions as "service
+           providers"
+
+
+NB: We have focused our contribution on issues relevant to the system and application of
+device-based levies1 and have limited our response to the following questions:
+Rights and the functioning of the Single Market: Question 10
+Limitations and exceptions: Questions 21-22
+Private copying and reprography: Questions 64-68, 71
+
+
+
+
+1
+    As set forth in Art. 5.2(b) of Directive 2001/29/EC.
+
+                                                                                               2
+II.         Rights and the functioning of the Single Market
+B.   Is there a need for more clarity as regards the scope of what needs to be
+authorised (or not) in digital transmissions?
+[The definition of the rights involved in digital transmissions]
+The EU framework for the protection of copyright and related rights in the digital
+environment is largely established by Directive 2001/29/EC2 on the harmonisation of certain
+aspects of copyright and related rights in the information society. Other EU directives in this
+field that are relevant in the online environment are those relating to the protection of
+software3 and databases4.
+Directive 2001/29/EC harmonises the rights of authors and neighbouring rightholders5 which
+are essential for the transmission of digital copies of works (e.g. an e-book) and other
+protected subject matter (e.g. a record in a MP3 format) over the internet or similar digital
+networks.
+The most relevant rights for digital transmissions are the reproduction right, i.e. the right to
+authorise or prohibit the making of copies6, (notably relevant at the start of the transmission –
+e.g. the uploading of a digital copy of a work to a server in view of making it available – and
+at the users’ end – e.g. when a user downloads a digital copy of a work) and the
+communication to the public/making available right, i.e. the rights to authorise or prohibit the
+dissemination of the works in digital networks7. These rights are intrinsically linked in digital
+transmissions and both need to be cleared.
+
+1.       The act of “making available”
+Directive 2001/29/EC specifies neither what is covered by the making available right (e.g. the
+upload, the accessibility by the public, the actual reception by the public) nor where the act of
+“making available” takes place. This does not raise questions if the act is limited to a single
+territory. Questions arise however when the transmission covers several territories and rights
+need to be cleared (does the act of "making available" happen in the country of the upload
+only? in each of the countries where the content is potentially accessible? in each of the
+countries where the content is effectively accessed?). The most recent case law of the Court of
+Justice of the European Union (CJEU) suggests that a relevant criterion is the “targeting” of
+
+
+2
+  Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of
+certain aspects of copyright and related rights in the information society.
+3
+  Directive 2009/24/EC of the European Parliament and of the Council of 23 April 2009 on the legal protection
+of computer programs.
+4
+  Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of
+databases.
+5
+  Film and record producers, performers and broadcasters are holders of so-called “neighbouring rights” in,
+respectively, their films, records, performances and broadcast. Authors’ content protected by copyright is
+referred to as a “work” or “works”, while content protected by neighbouring rights is referred to as “other subject
+matter”.
+6
+  The right to “authorise or prohibit direct or indirect, temporary or permanent reproduction by any means and in
+any form, in whole or in part” (see Art. 2 of Directive 2001/29/EC) although temporary acts of reproduction of a
+transient or incidental nature are, under certain conditions, excluded (see art. 5(1) of Directive 2001/29/EC).
+7
+  The right to authorise or prohibit any communication to the public by wire or wireless means and to authorise
+or prohibit the making available to the public “on demand” (see Art. 3 of Directive 2001/29/EC).
+
+                                                                                                                 3
+a certain Member State's public8. According to this approach the copyright-relevant act
+(which has to be licensed) occurs at least in those countries which are “targeted” by the online
+service provider. A service provider “targets” a group of customers residing in a specific
+country when it directs its activity to that group, e.g. via advertisement, promotions,
+a language or a currency specifically targeted at that group.
+
+2.         Two rights involved in a single act of exploitation
+Each act of transmission in digital networks entails (in the current state of technology and
+law) several reproductions. This means that there are two rights that apply to digital
+transmissions: the reproduction right and the making available right. This may complicate the
+licensing of works for online use notably when the two rights are held by different
+persons/entities.
+
+10. [In particular if you a service provider or a right holder:] Does the application of two
+rights to a single act of economic exploitation in the online environment (e.g. a download)
+create problems for you?
+   YES – Please explain what type of measures would be needed in order to address such
+problems (e.g. facilitation of joint licences when the rights are in different hands, legislation
+to achieve the "bundling of rights")
+A functioning digital market should ensure against further complexities by avoiding the splitting of
+certain rights and, indeed, there is a risk associated with horizontal fragmentation where rights to the
+same economic right are controlled by multiple parties. Two options would be to ensure that both
+rights are licensed by the same licensor, or that only licensors offering both rights may offer multi-
+territorial or pan-European licenses.
+
+     NO
+     NO OPINION
+
+
+
+
+    III.     Limitations and exceptions in the Single Market
+Limitations and exceptions to copyright and related rights enable the use of works and other
+protected subject-matter, without obtaining authorisation from the rightholders, for certain
+purposes and to a certain extent (for instance the use for illustration purposes of an extract
+from a novel by a teacher in a literature class). At EU level they are established in a number
+of copyright directives, most notably Directive 2001/29/EC9.
+Exceptions and limitations in the national and EU copyright laws have to respect international
+law10. In accordance with international obligations, the EU acquis requires that limitations and
+exceptions can only be applied in certain special cases which do not conflict with a normal
+8
+  See in particular Case C-173/11 (Football Dataco vs Sportradar) and Case C-5/11 (Donner) for copyright and
+related rights, and Case C-324/09 (L’Oréal vs eBay) for trademarks. With regard to jurisdiction see also joined
+Cases C-585/08 and C-144/09 (Pammer and Hotel Alpenhof) and pending CaseC-441/13 (Pez Hejduk); see
+however, adopting a different approach, Case C-170/12 (Pinckney vs KDG Mediatech).
+9
+   Plus Directive 96/9/EC on the legal protection of databases; Directive 2009/24/EC on the legal protection of
+computer programs, and Directive 92/100/EC on rental right and lending right.
+10
+    Article 9(2) of the Berne Convention for the Protection of Literary and Artistic Works (1971); Article 13 of
+the TRIPS Agreement (Trade Related Intellectual Property Rights) 1994; Article 16(2) of the WIPO Performers
+and Phonograms Treaty (1996); Article 9(2) of the WIPO Copyright Treaty (1996).
+
+                                                                                                              4
+exploitation of the work or other subject matter and do not unreasonably prejudice the
+legitimate interest of the rightholders.
+Whereas the catalogue of limitations and exceptions included in EU law is exhaustive (no
+other exceptions can be applied to the rights harmonised at EU level)11, these limitations and
+exceptions are often optional12, in the sense that Member States are free to reflect in national
+legislation as many or as few of them as they wish. Moreover, the formulation of certain of
+the limitations and exceptions is general enough to give significant flexibility to the Member
+States as to how, and to what extent, to implement them (if they decide to do so). Finally, it is
+worth noting that not all of the limitations and exceptions included in the EU legal framework
+for copyright are of equivalent significance in policy terms and in terms of their potential
+effect on the functioning of the Single Market.
+In addition, in the same manner that the definition of the rights is territorial (i.e. has an effect
+only within the territory of the Member State), the definition of the limitations and exceptions
+to the rights is territorial too (so an act that is covered by an exception in a Member State "A"
+may still require the authorisation of the rightholder once we move to the Member
+State "B")13.
+The cross-border effect of limitations and exceptions also raises the question of fair
+compensation of rightholders. In some instances, Member States are obliged to compensate
+rightholders for the harm inflicted on them by a limitation or exception to their rights. In other
+instances Member States are not obliged, but may decide, to provide for such compensation.
+If a limitation or exception triggering a mechanism of fair compensation were to be given
+cross-border effect (e.g. the books are used for illustration in an online course given by an
+university in a Member State "A" and the students are in a Member State "B") then there
+would also be a need to clarify which national law should determine the level of that
+compensation and who should pay it.
+Finally, the question of flexibility and adaptability is being raised: what is the best mechanism
+to ensure that the EU and Member States’ regulatory frameworks adapt when necessary
+(either to clarify that certain uses are covered by an exception or to confirm that for certain
+uses the authorisation of rightholders is required)? The main question here is whether
+a greater degree of flexibility can be introduced in the EU and Member States regulatory
+framework while ensuring the required legal certainty, including for the functioning of the
+Single Market, and respecting the EU's international obligations.
+
+21.    Are there problems arising from the fact that most limitations and exceptions
+provided in the EU copyright directives are optional for the Member States?
+     YES – Please explain by referring to specific cases
+     NO – Please explain
+In the case of the private copy exception in particular, the mere fact that limitations and exceptions
+provided in the EU copyright Directives are optional for Member States has not in itself been the
+
+11
+   Other than the grandfathering of the exceptions of minor importance for analogue uses existing in Member
+States at the time of adoption of Directive 2001/29/EC (see, Art. 5(3)(o)).
+12
+   With the exception of certain limitations: (i) in the Computer Programs Directive, (ii) in the Database
+Directive, (iii) Article 5(1) in the Directive 2001/29/EC and (iv) the Orphan Works Directive.
+13
+   Only the exception established in the recent Orphan Works Directive (a mandatory exception to copyright and
+related rights in the case where the rightholders are not known or cannot be located) has been given a cross-
+border effect, which means that, for instance, once a literary work – for instance a novel – is considered an
+orphan work in a Member State, that same novel shall be considered an orphan work in all Member States and
+can be used and accessed in all Member States.
+
+                                                                                                            5
+source of significant problems and, as such, we do not believe there is a need to make the exception
+mandatory. On the other hand, the fact that the scope of the private copy exception varies from
+Member State to Member State is certainly problematic. For further detail, we refer to our response(s)
+to section IV of the consultation below.
+
+     NO OPINION
+
+22.    Should some/all of the exceptions be made mandatory and, if so, is there a need for
+a higher level of harmonisation of such exceptions?
+     YES – Please explain by referring to specific cases
+     NO – Please explain
+For further detail, we refer to our response(s) to section IV of the consultation below.
+
+     NO OPINION
+
+
+
+     IV.    Private copying and reprography
+Directive 2001/29/EC enables Member States to implement in their national legislation
+exceptions or limitations to the reproduction right for copies made for private use and
+photocopying14. Levies are charges imposed at national level on goods typically used for such
+purposes (blank media, recording equipment, photocopying machines, mobile listening
+devices such as mp3/mp4 players, computers, etc.) with a view to compensating rightholders
+for the harm they suffer when copies are made without their authorisation by certain
+categories of persons (i.e. natural persons making copies for their private use) or through use
+of certain technique (i.e. reprography). In that context, levies are important for rightholders.
+With the constant developments in digital technology, the question arises as to whether the
+copying of files by consumers/end-users who have purchased content online - e.g. when a
+person has bought an MP3 file and goes on to store multiple copies of that file (in her
+computer, her tablet and her mobile phone) - also triggers, or should trigger, the application of
+private copying levies. It is argued that, in some cases, these levies may indeed be claimed by
+rightholders whether or not the licence fee paid by the service provider already covers copies
+made by the end user. This approach could potentially lead to instances of double payments
+whereby levies could be claimed on top of service providers’ licence fees1516.
+There is also an on-going discussion as to the application or not of levies to certain types of
+cloud-based services such as personal lockers or personal video recorders.
+
+64.     In your view, is there a need to clarify at the EU level the scope and application of
+the private copying and reprography exceptions17 in the digital environment?
+     YES – Please explain
+
+14
+   Article 5.2(a) and (b) of Directive 2001/29.
+15
+   Communication "Unleashing the Potential of Cloud Computing in Europe", COM(2012) 529 final.
+16
+   These issues were addressed in the recommendations of Mr António Vitorino resulting from the mediation on
+private copying and reprography levies. You can consult these recommendations on the following website:
+http://ec.europa.eu/internal_market/copyright/docs/levy_reform/130131_levies-vitorino-
+recommendations_en.pdf.
+17
+   Art. 5.2(a) and 5.2(b) of Directive 2001/29/EC.
+
+                                                                                                          6
+The following answer focuses on private copying within the meaning of Article 5.2(b) of Directive
+2001/29 and does not address reprography
+
+Much of the problem in Europe stems from the fact that there is no common understanding or
+consistent approach to private copying. Private copying exceptions differ enormously from Member
+State to Member State and some are more transparent than others. This is confusing for consumers
+who have no idea what they can and cannot do legitimately. Indeed what a consumer may be legally
+entitled to do in one Member State may be illegal in another member State, even using exactly the
+same device.
+Given this divergence, it could be beneficial to harmonise the maximum scope of private copy
+exceptions in the EU in those countries which implement the exception so all Member State rules
+would be consistent, tidying up the fragmentation we have today. This is not a call for all Member
+States to have exactly the same private copy exceptions, but it is a call for the maximum scope of the
+private copy exception to be defined at EU level. It would still be permissible for Member States to
+have narrower (but not broader) private copy exceptions within their national laws.
+As a matter of general principle the exception should, on the one hand, be drawn as broadly as
+possible to embrace all those acts of private copying such as platform or format shifting (i.e. copying
+the same piece of legal content onto another device of the person) which are happening as a matter of
+course, and that most reasonable people believe already are, or should be, permissible. On the other
+hand, it is imperative the exception remains narrow and sufficiently limited so that it causes no
+significant harm to rightholders (and remaining compliant with the so-called 3-step test in Art. 5.5 of
+Directive 2001/29). This is the critical balance that has to be struck, and which a harmonisation of the
+maximum scope of the exception could potentially help to achieve.
+The ‘limit’ or ‘boundary’’ of the prescribed exception should preferably be purposive rather than
+quantitative - contingent on causing no significant proven harm to the rights holder, in the sense that
+the permitted copy did not result in a lost sale. Provided there is genuinely no lost sale, the nature (and
+impact) of private copying acts is, and should be considered, immaterial. The presumption should be
+that not all private copies for personal use have the same economic value or result in a lost sale. This
+would also provide an opportunity to clarify that certain private copying activities of legally acquired
+content, such as platform or format shifting as well as time shifting, for personal use or within the
+strict domestic family circle, cause no more than minimal harm to the rightholder and so are outside
+the scope of levies meaning no compensation falls due.
+
+        – Please explain
+
+
+
+65.     Should digital copies made by end users for private purposes in the context of
+a service that has been licensed by rightholders, and where the harm to the rightholder is
+minimal, be subject to private copying levies?18
+         – Please explain
+     NO – Please explain
+No - digital copies made for personal use, with no more than minimal harm to the rightsholder, and/or
+made within the context of a service that has already been licensed by rightholders should not be
+subject to private copying levies.
+First of all, if the harm to the rightholder is at most minimal, there would seem to be no case in the
+first place for the application of levies as set forth in the Directive 2001/29. Combined with the fact
+that the copies are made in the context of a licensed service, where the harm is no more than minimal,
+
+18
+  This issue was also addressed in the recommendations of Mr Antonio Vitorino resulting from the mediation on
+private copying and reprography levies
+
+                                                                                                           7
+potential application of a levy would create a situation, as highlighted by former Commissioner
+Vitorino, in which consumers are effectively paying twice, or even multiple times, for the same
+service.
+It is worth noting that a regime in which service providers could legitimately license only one
+reproduction (such as the first download) of a file for consumer consumption (on the basis that all
+secondary copies would be excluded – i.e. unlicensed – as private copies) within a service where a
+service provider seeks to offer more extensive usage rights to consumers and where other rights
+holders are willing to license the entirety of such usage rights, would seriously detract from the whole
+consumer value proposition in the digital content service area. This position is known to be held and
+promoted by several collecting societies who seek to structure their licenses and licensing regime so as
+not to prejudice their claims for copyright levies, because the revenue opportunities from private copy
+levies are seen as more lucrative than licensing. This is seriously hindering effective content licensing
+because consumers do not have transparency as to the overall eventual costs of specific services they
+wish to subscribe to, and businesses throughout the value chain (including service providers targeted
+to pay levies) are unable to assess their full costs if there is an impact from, or claim for, levies. As a
+consequence, service providers may offer more limited services – or no services at all – resulting in
+European consumers losing out, and discouraging market innovation and experimentation. The
+consumer also loses out economically because, in such a scenario, consumers would pay a levy
+repeatedly - potentially without limitation - for the same digital content on their different digital
+devices (platforms) and blank media, on top of the license fee; a phenomenon known as “double or
+multiple dipping” – which further boosts the potential levy revenue compared with license income.
+For these reasons, and in order to ensure a “level digital playing field”, we would advocate that
+licenses must cover and authorise all uses permitted within the full scope of the digital service
+offering.
+
+
+
+
+66.    How would changes in levies with respect to the application to online services (e.g.
+services based on cloud computing allowing, for instance, users to have copies on different
+devices) impact the development and functioning of new business models on the one hand
+and rightholders’ revenue on the other?
+[Open question]
+Copyright levies have a negative impact on new business models since levies are a kind of state
+monopoly tax, not subject to market forces, and so tend to increase prices uncontrollably and thus limit
+the attractiveness, competitiveness and development of business models based on new technologies.
+Obsolete and analogue era-based levy systems hinder the establishment of a Digital Single Market
+within the EU, and deter the EU from attracting and promoting digital innovation in today’s global
+market, and as such, would only decelerate the development of promising and increasingly popular
+new services such as those enabled via cloud computing.
+Innovation and changing consumer expectations have brought significant, and overwhelmingly
+positive, changes to the way content is created, distributed, and consumed. At a time when consumers
+want to access their films and music anytime, anywhere and from any device through cloud services or
+streaming platforms, the very notion of private copying is increasingly obsolete.
+Moreover, private copy levies should never be contemplated as, or be allowed to develop into, a
+primary or significant revenue source for digital content, as this would discourage legitimate and
+innovative digital distribution models in Europe as well as disincentivise commercial licensing
+activities, at a time when – despite the challenges of digital piracy – many service providers are
+making substantial investments in developing and launching new digital offerings.
+It would thus appear counter-productive and, in light of the problems experienced in the system for
+device-based levies, incomprehensible to extend to emerging online services such an outdated,
+dysfunctional, and irreparable system. Furthermore, one of the main advantages of cloud services is
+
+                                                                                                         8
+their inherent ubiquity; trying to impose territorial/national levy systems on such global services seems
+unfeasible and absurd, especially considering the principles of the Single Market. Cloud computing
+allows easier access to digital content for consumers and provides artists and creators with new
+distribution models and revenue opportunities from licensing. Imposing levies on such new models
+would only slow down their development, and risk re-producing the significant problems already
+experienced by those in the devices sector(s).
+
+
+67.    Would you see an added value in making levies visible on the invoices for products
+subject to levies?19
+     YES – Please explain
+Consumers generally do not know they are paying a private copy levy on digital equipment they
+purchase, nor how much it is, or what it is for - or that the amount they pay varies significantly from
+country to country. At the very least, the amount of the levy should be made visible to consumers at
+the point of sale.
+
+     NO – Please explain
+     NO OPINION
+
+
+Diverging national systems levy different products and apply different tariffs. This results in
+obstacles to the free circulation of goods and services in the Single Market. At the same time,
+many Member States continue to allow the indiscriminate application of private copying
+levies to all transactions irrespective of the person to whom the product subject to a levy is
+sold (e.g. private person or business). In that context, not all Member States have ex ante
+exemption and/or ex post reimbursement schemes which could remedy these situations and
+reduce the number of undue payments20.
+
+68.   Have you experienced a situation where a cross-border transaction resulted in
+undue levy payments, or duplicate payments of the same levy, or other obstacles to the free
+movement of goods or services?
+   YES – Please specify the type of transaction and indicate the percentage of the undue
+payments. Please also indicate how a priori exemption and/or ex post reimbursement schemes
+could help to remedy the situation.
+Nokia is aware that cross-border transactions can result in undue levy payments, and the processes for
+reclaiming undue levies, to the extent they exist, are grossly inefficient. In general, the need for
+reporting to societies imposes a huge administrative burden, incurring additional cost and complexity,
+both to manufacturers and importers, and not least because the type of detailed information needed to
+be reported is not normally held by companies, and so has to be gathered and collated specially and
+only for this purpose.
+
+     NO – Please explain
+     NO OPINION
+
+
+
+19
+   This issue was also addressed in the recommendations of Mr Antonio Vitorino resulting from the mediation on
+private copying and reprography levies.
+20
+   This issue was also addressed in the recommendations of Mr Antonio Vitorino resulting from the mediation on
+private copying and reprography levies.
+
+                                                                                                            9
+71.    If you have identified specific problems with the current functioning of the levy
+system, how would these problems best be solved?
+[Open question]
+Given the various problems of the current device-based levies system – a legacy from a bygone
+analogue age - completely new alternatives to this compensation model must be actively encouraged
+and developed. The current system of device-based levies and payments is simply not functioning and
+cannot be repaired.
+Nokia believes that in order to ensure and encourage the proper functioning of the overall digital
+copyright eco-system, it is not only vital, but also fairer and more efficient for rights holders to be
+remunerated directly through licensing rather than be compensated by indirect remunerative schemes
+such as private copy levies. With licensing, the returns to rights holders are readily correlated to the
+consumers’ use of content, which is not at all the case with levies. Policy should focus primarily on
+achieving a digital copyright environment conducive to efficient licensing where rights holders are
+remunerated directly through licensing instead of indirect, inefficient and even arbitrary and nebulous
+compensatory schemes such as private copy levies. The more digital content and uses of such content
+that consumers (are able to) acquire as fully licensed at the outset the less need there is for levies
+because rights holders are then directly and fairly compensated.
+The fact that the revenues from levies have been, in some instances and depending on Member State
+policies and interpretations of the law(s), diverted to purposes other than the direct compensation of
+rightholders (such as the funding of cultural events and subsidies for the creative sectors, etc.), the
+debate on reform, or the phasing out, of the levies system has of course become more complicated and
+skewed. It is therefore important to separate developments in digital distribution from the important
+work of subsidising cultural diversity and grass-roots funding of local cultural initiatives often done by
+collecting societies. We support this important work; however, it is important that objectives relating
+to such social programmes are done without burdening the copyright regime, which needs to be
+commercially driven and market-based. Potential conflicts arise when the same organisations are
+involved with commercial licensing and with subsidies to various non-commercial national cultural
+programmes.
+Europe is unique in having a rich and diverse cultural heritage, and this needs to be supported and
+nurtured in the digital information age. Copyright is an important pillar of creativity and cultural
+achievement in Europe, and it is also an important resource. However, Nokia believes that copyright
+levies should not be used to help fund cultural activities. Going back to first principles, the purpose of
+copyright levies is as recompense for any non-minimal harm from legitimate, private copying. Using
+levies to subsidise broader cultural initiatives amounts to a back-door cultural tax, imposed arbitrarily
+and indiscriminately on a segment of industry, without regard to the important role industry is
+increasingly playing in supporting and promoting the content sector, not least through investments and
+new services. The internet and mobile communication network are themselves important platforms for
+fostering creativity and cultural initiatives.
+Alternative and transparent models have to be found to provide funding for national cultural purposes,
+and a preferred solution would be direct state funding out of general tax revenues, rather than shifting
+liabilities from one industry sector to another as is the case today.
+
+
+
+
+                                                                                                       10
+

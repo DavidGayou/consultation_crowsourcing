@@ -1,0 +1,150 @@
+Name: Jeremy Carey
+
+
+
+58. (a) [In particular if you are an end user/consumer:] Have you experienced problems
+
+when trying to use pre-existing works or other subject matter to disseminate new content on
+
+the Internet, including across borders?
+
+(b) [In particular if you are a service provider:] Have you experienced problems when users
+
+publish/disseminate new content based on the pre-existing works or other subject-matter
+
+through your service, including across borders?
+
+(c) [In particular if you are a right holder:] Have you experienced problems resulting from
+
+the way the users are using pre-existing works or other subject-matter to disseminate new
+
+content on the Internet, including across borders?
+
+Yes. As a open source software developer, I have often googled for a particular element I needed in
+producing a tool and have found that no license exists for it. I think my license information I gathered
+together demonstrates some of my issues:
+
+1. The Money project is taken from: http://www.codeproject.com/KB/vb/moneyDatatype.aspx
+
+License: None given and no way of contacting the developer.
+
+Developer: chimeric69
+
+2. The calendar picker: http://msdn.microsoft.com/en-us/library/7tas5c80.aspx#Y181
+
+License: None given, likely MLPL.
+
+Developer: Microsoft
+
+As you can see here both a piece from a professional tutorial site and from Microsoft did not include any
+sort of license and left me wondering if it was public domain, licensed or not. Even if you argue that a
+simple developer shouldn't need to know to mark their code as public (licensed) or not, Microsoft
+should be clear. Maybe they are, but I couldn't find the right page which in and of itself is evidence of a
+failure.
+
+
+
+80. Are there any other important matters related to the EU legal framework for
+
+copyright? Please explain and indicate how such matters should be addressed.
+In the United States, there is a program for the blind, where the blind get books read by non-
+professional readers. One such book was by a long gone author, Robert A. Heinlein. There is no
+commercial audio book. I did buy the paper back, but the paperback didn't read to me and at the time, I
+was doing a lot of work where I could listen, but not read. I thus found an audio book form ,but could
+find nowhere to buy it. I ended up using the downloadable "free" version, not knowing it was for the
+blind until they said something. So a tax-payer funded book, with no commercial alternative which I
+suspect was not legal to download was the only way I could listen to the book. The book was over 40
+years old, and clearly no one thought it was worth making an audiobook of. I had already 'paid' the
+publisher. I can't see what I did was wrong, even though I suspect it was not legal.
+
+What do we as consumers do when a illegal product exists, but no legal form of a product exists and
+there is not enough market to justify a professional work? For example, you could imagine an
+audiobook created for a book written in the 1970s by a non-professional Maybe they read the book
+outloud for a friend in the hospital and sent him the MP3s over email. This clearly violates copyright,
+even though if the friend was reading the book outloud in the hospital to their friend it would cause no
+issue. Worse yet, after having read the book and sent the files, if they were later upload to the internet,
+the reader would be responsible for multiple copyright infringements. It seems like items which are not
+being commercially exploited and haven't been for years should not be a legal hurtle.
+
+Another issue that is of concern is that nearly all of the internet remains unlicensed yet is clearly
+'copyrighted'. Literally when you visit a webpage, you download the contents of the site, just before it
+puts it on your screen. This is known as caching. This is required to view the contents. Now, my
+understanding of the legal theory is, you get to go to a homepage (as that is considered reasonable) and
+see the privacy/usage/rights statements without causing a copyright issue. Anything beyond that could
+be. So what do we do with all the pages, like my blog, which don't have a rights page. Is the
+downloader responsible for knowing or figuring out my copyrights? They already made a copy of the
+content, so clearly they think they have rights. Can I sue them? When is it reasonable to assume
+content is meant to be freely viewed and when isn't it? If I have to change a URL to get to content, am I
+now 'hacking' to get content? For example, this young man (http://deedy.quora.com/Hacking-into-the-
+Indian-Education-System) found that the student IDs of all the students were in numeric order and by
+changing a URL he could see all the grades. IF those grades (or comparable content) were copyrighted,
+but without notice, would that script be causing mass copyright violations?
+
+ Yet another concern I have is with the ever expanding length of copyrights. I think there are a couple of
+ways to deal with it. One is to roll copyrights back, ideally to ~10-25 years, particularly since electronics
+move so much faster than books do. I have no problem with electronic versions of things having a
+different expiration date than physical goods, and I think that could be reasonable. Alternatively, to
+keep The Mouse safe, maybe we could have a method of re-registering with a cost growing every 10
+years. For example, it could be free for the first 10 years. Then 100 dollars for the next 10 years, then
+500, then 1500, then 5000, then .... There are many ways of making it so that the majority of the
+content doesn't remain in copyright forever while still allowing those who care about keeping their
+content can for a long period of time.
+One final issue I think should be considered. Sometimes something has an expired copyright in one
+country but not another. Amazon recently ran into this with 1984
+(http://www.nytimes.com/2009/07/18/technology/companies/18amazon.html?_r=0). From my
+understanding, Amazon believed the book to no longer have copyright because it had expired in
+Australia. They downloaded a copy FROM Australia TO the United States. In the United States, the
+copyright was still good. The question is, did they violate the copyright laws? Whose laws apply and at
+what point. If they had printed a copy in Australia, without copyright, and shipped it to the US, would
+that have been a violation and would that differ from the electronic copy?
+
+13. [In particular if you are an end user/consumer:] Have you faced restrictions when
+
+trying to resell digital files that you have purchased (e.g. mp3 file, e-book)?
+
+Yes. I use "Steam" (http://store.steampowered.com/) and while I appreciate a lot of what they do, they
+do not let me resell any of my games. Now they have 'packs' of games, like everything made by Sega
+which you can buy. However, if you already own some Sega games, you don't get a second copy to sell
+or give to a friend. Instead, you just don't get as many games if you buy one. This seems rather unfair.
+Even games I already own, cannot be resold or transferred. Effectively, a purchased game is mine
+forever without any ability to do anything with it.
+
+
+
+64. In your view, is there a need to clarify at the EU level the scope and application of
+
+the private copying and reprography exceptions58 in the digital environment?
+
+I have seen many online services shut off one day and then you no longer have access to your content. I
+tend to not use those services because I don't want to lose my content. I fear that Microsoft will shut
+down the Xbox360 services they currently have. I have 2 xbox 360s, one at my mom's house and one at
+my home. When I visit with my mom, sometimes I will play a game, but because of how Microsoft
+works, any of my online content doesn't easily transfer between systems. I can transfer my profile,
+which can take 10 minutes but that requires I am online. There is no way of me 'backing up' my profile
+onto a second system, you are only allowed one active profile. If they shut off the service, like they did
+for the Xbox, I will have no way of transfer profiles even, which will completely lock my content away on
+one system.
+
+
+
+23. Should any new limitations and exceptions be added to or removed from the existing
+
+catalogue? Please explain by referring to specific cases.
+
+I don't create AMVs, Anime Music Videos, but I do enjoy them as they introduce me to both new Anime
+and new Music. Often they are highly creative and are never done as a professional work. I also work in
+software, where people share code, often without attribution or license. For example
+http://stackoverflow.com/questions/435553/java-reflection-performance has code but no license. In
+fact, there are hundreds of thousands of stackoverflow questions just like that one, all of which are
+limited pieces of code, but could be copyrighted and thus unusable.
+
+
+
+22. Should some/all of the exceptions be made mandatory and, if so, is there a need for
+
+a higher level of harmonisation of such exceptions?
+
+Yes. I work in the US, but I have a conference in the Netherlands in June. I have no idea what the
+copyright laws are in regards to my presentation and while I doubt I'd get into trouble, a single entity
+controlling these laws would help me research the question faster.
+

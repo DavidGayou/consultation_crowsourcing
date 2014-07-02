@@ -1,0 +1,661 @@
+!
+
+
+               !     !
+!
+
+
+
+
+         Yahoo Response to the Public
+
+                   Consultation
+
+    on the Review of the EU Copyright Rules
+!
+PLEASE IDENTIFY YOURSELF:
+
+
+Name: Yahoo Sarl
+In the interests of transparency, organisations (including, for example, NGOs, trade
+associations and commercial enterprises) are invited to provide the public with relevant
+information about themselves by registering in the Interest Representative Register and
+subscribing to its Code of Conduct.
+   •   If you are a Registered organisation, please indicate your Register ID number below.
+       Your contribution will then be considered as representing the views of your
+       organisation.
+58885623470-56
+
+
+TYPE OF RESPONDENT (Please underline the appropriate):
+
+
+  € Intermediary/Distributor/Other service provider (e.g. online music or audiovisual
+    service, games platform, social media, search engine, ICT industry) OR
+    Representative of intermediaries/distributors/other service providers
+       ! for the purposes of this questionnaire normally referred to in questions as "service
+       providers"
+
+
+
+
+           Yahoo Response to Public Consultation on Review of EU Copyright Rules           1
+PRELIMINARY REMARKS
+
+
+Yahoo is focused on making the world's daily habits more inspiring and entertaining.
+By creating highly personalized experiences for our users, we keep people
+connected to what matters most to them, across devices and around the world. In
+turn, we create value for advertisers by connecting them with the audiences that build
+their businesses. Yahoo is headquartered in Sunnyvale, California, USA, and has
+offices located throughout the Americas, Asia Pacific (APAC) and the Europe, Middle
+East and Africa (EMEA) regions. For more information, visit the pressroom
+(pressroom.yahoo.net) or the company's blog (yodel.yahoo.com).
+
+
+Our response refers to several Yahoo consumer products and services offered in
+Europe, namely: the now-defunct Yahoo Music, Yahoo News Search (in particular,
+the Yahoo Germany offering), Yahoo Answers, and Yahoo Groups. Yahoo Music
+offered radio and music streaming and other related music content free to users.
+Yahoo News Search helps users find breaking news stories and in-depth coverage
+with videos and photos. Yahoo Answers is a way to find and share information. Users
+can ask questions on any topic, get answers from real people, and share insights and
+experience. Yahoo Groups is an online opportunity to share with a group of friends,
+interests and communities.
+
+
+Yahoo is a member of both the Computer and Communications Industry Association
+(CCIA) and the European Digital Media Association (EDiMA) and endorses and
+supports the responses those organisations have made in connection with this
+consultation. Where we have not provided specific answers herein, we are supportive
+of the answers provided by these organisations. In addition, we as Yahoo have
+information and experience we believe may be useful to those considering the
+current and potential future copyright regime and rules in Europe, and welcome the
+opportunity to share that information and experience here.
+
+
+
+
+          Yahoo Response to Public Consultation on Review of EU Copyright Rules     2
+    II. Rights and the functioning of the Single Market
+!
+Why is it not possible to access many online content services from anywhere in
+Europe?
+
+[The territorial scope of the rights involved in digital transmissions and the
+segmentation of the market through licensing agreements]
+
+A.2. [In particular if you are a service provider:] Have you faced problems
+when seeking to provide online service across borders in the EU?
+YES - Please explain whether such problems, in your experience, are related to copyright or
+to other issues (e.g. business decisions relating to the cost of providing services across
+borders, compliance with other laws such as consumer protection)? Please provide examples
+indicating the Member State, the sector and the type of content concerned (e.g. premium
+content such as certain films and TV series, audio-visual content in general, music, e-books,
+magazines, journals and newspapers, games, applications and other software).
+
+YES, we have experienced problems when seeking to provide online service across
+borders in the EU. Such problems are often (but not always) related to copyright
+issues. Other challenges include the lack of a harmonised EU-wide legal framework
+for consumer protection, personal rights and youth protection, among others.
+
+Examples where copyright issues have been particularly problematic for us in the
+provision of pan-European services include:
+
+    1) Music works licensing
+    2) German ancillary copyright law
+    3) Different local law definitions for copyright fair use or limitations and
+       exceptions
+    4) Premium video content
+
+1) Music works licensing
+
+The online distribution and exploitation of music has historically followed a very
+different pattern from other content types. There are a number of structural reasons
+why the market has developed this way and it remains one of the most difficult
+content types on which to build a successful digital distribution business.
+
+We acknowledge that the Commission has sought to take measures that are
+designed to address some of the problems in digital music. In particular, we note with
+interest the recent adoption of the Directive of the European Parliament and of the
+Council on collective management of copyright and related rights and multi-territorial
+licensing of rights in musical works for online uses in the internal market (the
+
+           Yahoo Response to Public Consultation on Review of EU Copyright Rules           3
+“Directive”). The Directive includes provisions that we hope will help alleviate some of
+the difficulties associated with music licensing (most notably, by requiring collecting
+societies to be accountable). However, the issues we highlight below will continue to
+present challenges for our business.
+
+Potential distributors of digital audio and video music face a number of barriers.
+These include:
+
+Industry Concentration – As the major record labels have consolidated into fewer
+labels over time, those labels have increasing negotiating leverage and are in a
+position to dictate terms, both economic and non-economic. Major labels and,
+sometimes, conglomerations of independent labels, routinely insist on “Most
+Favoured Nation” provisions in their agreements, or other provisions which by their
+nature have a similar effect. This behaviour has the effect of levelling commercial
+terms across the major labels, ensuring that each major label gets the maximum
+licensing royalties. Consolidation across the major publishers has had a similar
+effect.
+
+Pricing – Licensee fees are high relative to returns currently available from
+advertising revenue. This is particularly true for audio ad markets, which in the
+broadcasting world consisted of local ad markets. Licence fees are typically based on
+a fixed royalty per stream and can sometimes be subject to other minimums. For
+audio on-demand services, the overall licensing costs could be as much as 80% or
+more of revenues, before any other operating costs are factored in. Assuming master
+use rights are granted by a label, in the event of a dispute with a collecting society
+over royalty rates for public performances, the only alternative is to challenge
+onerous royalty positions through a legal process. The cost base within the music
+industry as a whole remains high, and these are typically passed through the value
+chain. Other costs contribute to high prices, including the presence of a large number
+of intermediaries in the licensing process. Thus, rights holders typically benefit most
+from growing audiences and the licensee bears the cost and risk of developing
+services that are attractive to consumers.
+
+Multiple licences are necessary for one piece of content - Music is the only
+content type that always involves multiple rights holders (thus potentially multiple
+contracts and multiple payments). Other forms of content licensed for digital
+distribution typically involve one contract and one payment, with the licensor
+managing payments to the original contributors and creators itself. For example,
+licensing audio-visual content typically only requires a licence from the content
+owner, who takes responsibility for remunerating contributors.
+
+Complexity of rights – The current framework of rights (master use, mechanical,
+public performance, synch, etc.) is a legacy of the way in which the music publishing
+and recording industries evolved in the offline world, but this model has changed little
+and this system sits uncomfortably with the leaner model of digital distribution; it adds
+significant costs to the point that digital offerings can be uncompetitive compared with
+offline equivalents.
+
+Transaction costs and other overhead – Licensees bear significant costs as a
+result of negotiating and administering licences with music labels; launching a digital
+
+          Yahoo Response to Public Consultation on Review of EU Copyright Rules        4
+music offering can involve hundreds of licence agreements. Licensees also have to
+conclude agreements with collecting societies – over 30 in the EU alone – in order to
+obtain licences and pay the royalties due. At the time Yahoo licensed music in the
+EU (as explained in greater detail below), this involved four licences with the big
+music labels, many more with small, independent labels (“indies”), multiple collecting
+societies and music publishers. In addition to licensing, the engineering costs
+associated with hosting content and measuring streams are also more significant
+than for other content types. The required methods for measuring streams are
+typically bespoke rather than industry standard and this adds cost, particularly if
+different labels require different methods. Implementing reporting mechanisms such
+as DDEX can be cost-prohibitive in the case of certain types of service.
+
+Burdensome licence terms – Music is the only content type where licensees are
+required to provide reporting and auditing occurs at the individual file level as
+opposed to the aggregated content of each licensor. The common measurement
+systems require tracking per stream and per track on audio and video content.
+Licences require data to be retained for several years after a licence is terminated
+and it is not unusual for labels to request audits of streams that stretch back to prior
+years. Such terms are cumbersome and add cost. Licences are also tied to particular
+platforms, with the effect that a distributor will need multiple licences to cover all
+platforms they use, and the scope of licences are not consistent across labels so this
+makes it difficult to offer a full-repertoire service across all platforms. This also makes
+it difficult for licensees to manage costs as they explore distribution on new platforms
+because the execution of this strategy typically requires new contractual
+arrangements with a different pricing structure. In addition, rights holders sometimes
+insist on concluding different licence agreements for different services run by the
+same licensee. The contracting process when negotiating licences for digital music
+can be protracted and expensive, often requiring legal expertise in local markets.
+
+Territoriality – Advertising-funded business models rely on reach and scale to offset
+the low margins. The current system requires licensees to negotiate rights deals in
+each individual territory for the same music rather than negotiate a single, multi-
+territory licence under a single contract and at a price that reflects the going rate of
+advertising sales on the open market. This is inherently inefficient. While we note that
+the implementation of the Directive may lead collecting societies to more often jointly
+license their repertoires, concluding multiple licence agreements will still remain a
+considerable burden.
+
+Negotiating power – Although Yahoo is an international corporation with a
+significant market capitalisation and associated resources, the scope and
+concentration of major rights holders in digital music is such that, even for larger
+corporations, it is extremely difficult to obtain better licence terms. We generally
+welcome the provisions in the Directive that seek to implement local mediation
+measures to help regulate unfair royalty rates.
+
+Yahoo Music Example - Yahoo stopped directly licensing music in Europe in early
+2009 as a result of these barriers, as explained in further detail here. Yahoo Music
+operated for a number of years in all our major EU markets. It was an advertising-
+supported service, previously offering radio and music video streaming and other
+music content free to the end-user. The EU audience in January 2009 was 15 million
+
+          Yahoo Response to Public Consultation on Review of EU Copyright Rules          5
+unique users.
+
+In Europe, Yahoo licensed radio and video repertoire as far as possible via pan-
+European or global deals with record labels to host and stream audio and video. In
+addition to a variety of technological restrictions and reporting requirements, the
+terms of these deals typically required Yahoo to license a label’s entire repertoire
+(rather than only the artists/tracks that we knew to be most popular and easiest to
+monetise), and to provide a guaranteed advance and per stream minima.
+
+In addition, per stream royalties were due to local collecting societies (sometimes
+more than one) in each market under the terms of the licence. In the UK, payments
+were made to PRS for Music. Separate agreements had to be concluded with each
+relevant collecting society in each market, and in addition, with other societies that
+pulled their repertoire out for multi-country arrangements. The per stream royalty was
+fixed (e.g.: flat rate % or fee), with no discount for volume. This is the only content
+type for which there is only one business model and very limited flexibility to
+negotiate on price.
+
+The licences also required regular reporting to the collecting society on the identity
+and number of streams consumed. This involved developing bespoke technical
+solutions to measure audience and these were supported by Yahoo Europe’s
+engineering resource at a cost of approximately US$600k per annum. These costs
+had to be recovered via advertising sales.
+
+These reporting requirements were subject to periodic auditing by PRS for Music.
+Where these audits were not satisfactory to PRS for Music, it frequently sought legal
+remedies from Yahoo. Yahoo also had recourse to the UK Copyright Tribunal in 2005
+to challenge the per stream royalties set by PRS for Music. Although the Tribunal
+acknowledged many aspects of Yahoo’s complaint, Yahoo and the various other
+complainants in the case did not prevail in the action.
+
+Different licences were typically required for different platforms (e.g.: mobile versus
+PC) and for different types of service (e.g.: streaming vs. download, video vs. radio
+vs. download). This required Yahoo to negotiate and administer multiple licences with
+the same entities and rights holders, as well as other rights holders (over 20 at a time
+was not unusual). As Yahoo sought to expand its service on to new platforms and
+new markets, the licensing structure required us to negotiate new contracts and
+prices for each new platform and new market. Arrangements with relevant local
+collecting societies mirrored these challenges.
+
+This onerous licensing and auditing framework required Yahoo to employ a full time,
+specialist specifically for EU music licensing deals beyond the 5 full-time music
+lawyers and paralegals that normally handled such matters globally. This was the
+only product in Yahoo Europe’s portfolio that generated sufficient bureaucracy to
+require such an approach. The music service required a disproportionate number of
+staff relative to other content services, mainly as a result of the contractual
+arrangements with record labels and requirements set by music publishers.
+
+Ultimately, Yahoo never concluded agreements for a subscription music and
+download service outside the US as a direct result of the cost structure combined
+
+          Yahoo Response to Public Consultation on Review of EU Copyright Rules       6
+with the inability to extend its US licences to additional territories without separate
+negotiations with labels and publishers. It is noteworthy that there are several
+successful music services operating in the US that have yet to make it to Europe,
+including the likes of Pandora, Slacker and Songza.
+
+Moreover, Yahoo’s US subscription on demand and download services were also
+dramatically impeded by the major label requirement at the time that all digital
+download providers use Digital Rights Management (DRM). DRM created
+interoperability barriers based on the operating system, since Yahoo’s service was
+Windows-based and the tracks could not be used on Apple products. DRM prevented
+consumers from freely using and transferring lawfully purchased music between their
+computers and devices.
+
+In December 2008, Yahoo Europe’s business leaders concluded that audio and
+video streaming of music on this basis was not a viable long-term business model
+without a more flexible licensing framework. In early 2009, we withdrew from licence
+agreements worth US$4.6m per annum to the music labels and removed US$2.5m
+per annum of costs in the form of collecting society dues and internal overheads
+(staff, engineering, legal, administration, etc.).
+
+Yahoo On the Road Concert Tour Example – A more recent example of the
+challenges inherent in offering music across Europe arose in connection with
+Yahoo’s “On the Road” Concert Tour last year. In addition to numerous operational
+negotiations and planning challenges around matters such as venues, production,
+artist appearances, and sponsorships, this mobile entertainment and innovation
+festival required multiple sets of negotiations across Europe. The experience
+underscores the complicated nature of music licensing. The tour required:
+    • Licence agreements with record labels (who own the rights in the master
+       copies of the tracks played) for use at the concerts and for live streaming and
+       Video On Demand (VOD) clips on Yahoo;
+    • Synch rights licence agreements with publishers (who represent the authors
+       and composers of the tracks played) for use at the concerts and for live
+       streaming and VOD clips on Yahoo;
+    • Royalties licence agreements with collecting societies for use at the concerts
+       and for live streaming and VOD clips on Yahoo;
+    • Specific live stream footage agreement for a licence of the raw live feed
+       footage being filmed by MTV (Wireless only);
+    • On the ground legal clearance work with artists who only gave their consent to
+       be live streamed/VODd on Yahoo on the day of the performance or having
+       watched the performance (Wireless only); and
+    • Legal reviews of multi-market competitions, in particular where Vine video
+       entries contain music footage.
+
+2) Germany – Ancillary Copyright Law
+
+Another copyright-related example that undermines provision of information-based
+services throughout the EU is the so-called German “Ancillary Copyright Law.” On 1
+August 2013, this law took effect in Germany. The new law limits search engine
+providers and providers of similar services (e.g. news aggregators) to displaying only
+“individual words” and/or “smallest text excerpts” of German press content, unless
+
+          Yahoo Response to Public Consultation on Review of EU Copyright Rules      7
+they have obtained respective licences from publishers. The law does not define
+what “individual words” and/or “smallest text excerpts” mean, so these will need to be
+determined by future case law.
+
+Due to this new law Yahoo Germany changed its news content related search
+service (Yahoo News Search) that we offer to German users. Given the uncertainty
+of the scope of this new law and to avoid potential violations it was decided to only
+display headers of German based content sources rather than headers and small
+snippets.
+
+
+3) Different local law definitions for copyright fair use or limitations and
+exceptions
+
+See responses to questions 21-23 below.
+
+4) Premium video content licensing
+
+Yahoo has also experienced major challenges licensing premium television video
+content for multiple EU countries. For example, our German premium video content
+licensing agreements usually limit our rights to use the content to German speaking
+countries (Austria, Switzerland and Germany) or sometimes only in Germany. In
+addition, IP blocking of foreign addresses is often contractually required. This is
+clearly undesirable as it prevents us from making these services available to our
+German-speaking users while they travel to other jurisdictions, even within the EU.
+
+
+
+
+A.6. [In particular if you are e.g. a broadcaster or a service provider:] Are
+there reasons why, even in cases where you have acquired all the necessary
+rights for all the territories in question, you would still find it necessary or
+justified to impose territorial restrictions on the service recipient (in order for
+instance, to redirect the consumer to a different website than the one he is
+trying to access)?
+
+YES – Please explain by giving examples
+As noted previously, there are occasionally other issues such as a lack of
+harmonised consumer protection laws, personal rights laws, youth protection and
+other kinds of illegal content (or censorship) laws which may affect what can be
+offered in any individual Member State, making EU-wide offerings difficult, and
+therefore limiting what is available for consumers in a given Member State. There is
+also some variation in how individual Member States interpret and analyse active
+versus passive hosting status in connection with liability determinations, and some
+inconsistencies around when injunctive relief may be imposed.
+
+
+
+          Yahoo Response to Public Consultation on Review of EU Copyright Rules     8
+A.   Is there a need for more clarity as regards the scope of what needs to be
+authorised (or not) in digital transmissions?
+[The definition of the rights involved in digital transmissions]
+
+
+
+B.3. Linking and browsing.
+
+11. Should the provisions of a hyperlink leading to a work or other subject
+matter protected under copyright, either in general or under specific
+circumstances, be subject to the authorisation of the rightholder?
+
+NO. Please explain whether you consider this to be the case in general, or under specific
+circumstances, and why (e.g. because it does not amount to an act of communication to the
+public – or to a new public, or because it should be covered by a copyright exception)
+
+No. Under no circumstance should the provision of a hyperlink leading to a work or
+other subject matter fall under copyright protection.
+
+The practice of hyperlinking not only serves as the backbone for how users engage
+with the Internet, but it is also one of the most fundamental and basic activities of
+Internet use. Linking is what makes the Internet a web, rather than a collection of
+millions of discrete and unconnected sites. In fact, Yahoo’s story is inextricably tied to
+offering hyperlinks. That history traces back to 1994.
+
+Beginning as a personal hobby during their time at Stanford University, Jerry Yang
+and David Filo (the founders of Yahoo) tracked their personal interest on the Internet
+through a list of links. Eventually, Jerry and David's lists became too long and
+unwieldy, so they began to parse them into categories and subcategories, and from
+there, Yahoo’s portal concept took shape. The site started out as "Jerry and David's
+Guide to the World Wide Web" but eventually received a new moniker: Yahoo, an
+acronym for "Yet Another Hierarchical Officious Oracle." Today the portal is the one
+of the leading destinations on the Web, with over 800 million visitors per month.
+
+If offering hyperlinks to works required authorisation, these two electrical engineering
+students would never have been able to transform their personal list of websites into
+a portal that serves nearly a billion people every month. Likewise, a billion people
+would be left without a starting place for their activity on the web.
+
+Setting this personal history aside, requiring consent to insert a hyperlink minimizes
+the web’s social and productive value. An examination of Yahoo’s news reporting
+practices illustrates this point. When covering events and breaking news stories, our
+online editorial teams rely on hyperlinks to supplement coverage, attribute sources,
+suggest where readers can find multiple and nuanced sides to an event, identify
+other stories where readers can further explore specific points, or even provide
+context to a point made within the editorial. If hyperlinking becomes protected by
+copyright, it would harm any one of those activities, in turn, limiting free expression.
+
+          Yahoo Response to Public Consultation on Review of EU Copyright Rules         9
+Imagine if a journalist had to ask a company for permission to offer a link to a press
+release within an article that harshly criticises the company’s products; such
+permission would be unlikely, and valid commentary would be suppressed in the
+name of copyright. Consumers and EU citizens would lose valuable context that aids
+their understanding of the news.
+
+Requiring permission to offer hyperlinks has other profound consequences on
+consumers; it would impact competition, pricing situations and social conversations.
+A scan of the Yahoo Answers property demonstrates this fact. Yahoo Answers is an
+online community in which participants ask and answer questions on a wide range of
+topics. Users post and respond to the questions, and frequently offer links with a
+response, for example:
+
+Q: What is the best Anti-Virus Software? (posted Feb 21, 2014)
+A: The best Anti-Virus software that I know of is [brand name]. You can find it Here:
+[link]
+
+Similarly a user might link to a hotel or restaurant they wish to recommend, or link to
+a wide variety of additional, relevant, and otherwise freely available information about
+people, places, websites and things. Further evidence of the social value links serve
+can be seen within Yahoo Groups. Take, for example, a group dedicated to jazz fans
+in London. If a user wanted to broadcast a post about an upcoming jazz show, a
+prohibition on linking would preclude that user from sharing that information absent
+consent. This is analogous to prohibiting card catalogues within libraries absent
+express permission from the copyright owner of the books found in that library.
+Without question, applying copyright law to hyperlinks would jeopardize the nature of
+the Internet.
+
+Yahoo incorporates and refers to CCIA’s response to this question for a more
+detailed examination of the legal arguments.
+
+
+12. Should the viewing of a web-page where this implies the temporary
+reproduction of a work or other subject matter protected under copyright on
+the screen and in the cache memory of the user’s computer, either in general
+or under specific circumstances, be subject to the authorization of the
+rightholder?
+
+NO – Please explain whether you consider this to be the case in general, or under specific
+circumstances, and why (e.g. because it is or should be covered by a copyright exception)
+
+No. The viewing of a webpage should not be subject to the authorisation of a
+copyright holder, in any circumstance.
+
+Generally speaking, browsing sites or using online services involves the creation of
+multiple temporary copies as a necessary step in the process of viewing requested
+content. What results is a web cache – a temporary storage of web documents
+ranging from HTML pages to images. Absent this process, the cost of connecting to
+
+         Yahoo Response to Public Consultation on Review of EU Copyright Rules         10
+the Internet for many could be prohibitive and the utilitarian nature of the Internet
+would suffer.
+
+Traffic on the Web consumes more bandwidth than any other Internet service,
+therefore any method that can reduce bandwidth requirements is particularly
+welcome in parts of the world in which telecommunication services are expensive
+and in which service is often provided on a cost per bit basis. Yahoo and other global
+service providers rely on caching technology to dampen the impact of such
+connectivity challenges.
+
+Second, caching technology reduces the latency of wait times for users during their
+browsing experience. Browsing on mobile devices such as tablets and smart phones
+is, in part, manageable because of caching technology. Physical limitations such as
+environment and location, as well as financial limitations, lead to variations in
+bandwidth and latencies, but caching can help smooth such rough spots. This is
+especially true with mobile bandwidth.
+
+Converting its global portal into a more mobile friendly destination requires Yahoo to
+rely on the widely accepted practice of caching in order for users to view and read
+content. With mobile devices replacing traditional desktop connectivity, robbing users
+of the ability to cache pages would dramatically impact innovation in this area.
+
+Last, requiring permission for this technical process opens up unnecessary and
+additional permissions. A user should not be subject to obtaining permissions from
+rights holders simply because that user’s browser, mobile device, or other connected
+device prepares a transient and incidental copy in the background. Ultimately, this
+added burden on users has the capacity to stifle the flow of information and the
+exchange of ideas on the Internet.
+
+Yahoo would also like to point out that the exception to the reproduction right
+contained in Article 5(1) of the Directive 2001/29/EC on the harmonisation of certain
+aspects of copyright and related rights in the information society extends to
+temporary copies made in the course of browsing the Internet.
+
+
+
+
+         Yahoo Response to Public Consultation on Review of EU Copyright Rules     11
+    III. Limitations and exceptions in the Single Market
+
+
+21. Are there problems arising from the fact that most limitations and
+exceptions provided in the EU copyright directives are optional for the
+Member States?
+
+YES – Please explain by referring to specific cases
+
+Yes. The incongruences among Member States regarding limitations and exceptions
+present challenges to Internet providers, like Yahoo, that offer services cross-border.
+
+On this point Yahoo has another personal story to share. Yahoo both generates
+enormous amounts of copyrighted material and consumes or aggregates copyrighted
+material produced by other firms and individuals. As a result, Yahoo understands and
+has an interest in both sides of the copyright coin: the crucial importance of providing
+incentives and rewards for creative intellectual effort; and the equally important goal
+of providing the public at large and future creators convenient access to the fruits of
+that intellectual effort. Yet, leaving optional how the second side of the coin is treated
+among Member States not only disrupts the balance struck by this equation with
+cross-border works, but also leads to a fragmented market. This problem is
+particularly acute with regard to newly created rights.
+
+First, a lack of uniform exceptions and limitations makes it difficult for Yahoo to gauge
+the risk associated with new products and services that may squarely – and
+appropriately rely on such exceptions and limitations. Because damages under
+copyright can become massive, minor risks and uncertainties can derail investment
+and innovation. The UK Government refers to this as a “very real problem for the
+UK’s emerging digital businesses.”1
+
+Second, the existence of differing limitations and exceptions among Member States
+hampers news reporting and media, and thereby chills freedoms of expression – by
+both individuals and the press. What should the outcome be if, in connection with the
+preparation of a news story about a political party in France, Yahoo exercises certain
+quotation exceptions available in France, but publicises that story to French-speaking
+users in the UK, where quotation rights are more limited? Must the story be modified
+in every market?
+
+Online users are also subject to such uncertainty. Many users engage with user-
+generated-content platforms to prepare works for exhibition across borders that, in
+certain cases, incorporate pieces of existing works. Exceptions for quotations, news
+
+
+1
+ “Modernising Copyright: A modern, robust and flexible framework”, p 9, December 2012,
+http://www.ipo.gov.uk/response-2011-copyright-final.pdf
+
+
+
+           Yahoo Response to Public Consultation on Review of EU Copyright Rules         12
+reporting, and parodies play a significant role in determining whether the “mash-up” is
+legal in one State versus a neighbouring State.
+
+And, third, optional limitations and exceptions can lead to the troubling development
+of the creation of new rights. One example is the ancillary copyright, or
+Leistungsschutzrecht, that was passed in Germany in 2013 and cited earlier in this
+submission. We understand that other Member States have or are now considering
+similar laws. There would be less room for such developments to take hold in
+Member States if greater harmonisation existed with limitations and exceptions. In
+turn, this would stave off further fragmentation within the EU market.
+
+
+22. Should some/all of the exceptions be made mandatory and, if so, is there a
+need for a higher level of harmonisation of such exceptions?
+
+Harmonised exceptions would lead to clear benefits in the marketplace. It would
+provide, in part, greater legal certainty, unleash innovation, and ensure equal
+treatment for online user’s expressions embodied in a host of digital works.
+
+Any approach to harmonisation must also be viewed within the context of the overall
+aims of copyright policy, in particular, the aim of striking the appropriate balance and
+flexibility to ensure room for innovative ideas and businesses, and to keep pace with
+new information and communication technologies. The UK Government’s approach
+serves as an example on this point. When examining the proposed reforms, the UK
+Government specifically called out the fact that such measures “are aimed at clear
+economic benefits through increased innovation and improved efficiency.”2 Yahoo,
+therefore, encourages the Commission to examine harmonisation against the
+backdrop of policy aims to ensure greater flexibility and balance in the system.
+
+Echoing CCIA’s response, the need for mandatory exceptions should be assessed
+taking into account whether:
+
+    (1) there is a detrimental impact on the internal market;
+    (2) fundamental rights and/or the public interest are a strong justification for the
+        exception;
+    (3) an underlying policy goal, such as economic growth and support for
+        innovation, is better achieved at the EU level.
+
+
+23. Should any new limitations and exceptions be added to or removed from
+the existing catalogue? Please explain by referring to specific cases.
+
+Exceptions should not be removed from the existing catalogue. Trimming the current
+exceptions would disrupt the necessary balance within the copyright framework,
+which seeks both to provide incentives and rewards for creative intellectual effort and
+
+2
+ “Modernising Copyright: A modern, robust and flexible framework”, p 9, December 2012,
+http://www.ipo.gov.uk/response-2011-copyright-final.pdf
+
+
+           Yahoo Response to Public Consultation on Review of EU Copyright Rules         13
+to provide the public at large and future creators convenient access to the fruits of
+that intellectual effort.
+
+Rather, Yahoo encourages the Commission to consider new exceptions. Innovative
+uses of works – for example, anti-plagiarism software and audio recognition tools –
+and the proliferation of UGC works on global platforms, present challenges in light of
+the current catalogue of exceptions and limitations. Content aggregation within the
+online environment is another area that is ripe for guidance given its tremendous
+social benefits. A flexible framework is critical to ensuring that the copyright system
+keeps pace with innovation.
+
+Yahoo believes that thought should be directed towards considering how open-ended
+norms can be injected into the copyright framework to deal with new advancements
+in technology. One crucial principle that should anchor any open-ended norms is that
+of ‘balance.’ One approach to achieve this balance is to offer strong protections
+against unauthorized non-transformative uses – consumptive or parasitic uses that
+do not modify or enhance value of the underlying materials - yet, permit
+transformative uses of copyrighted materials – uses that alter the meanings or
+purposes of those materials or in other ways advance the public interest.
+
+
+(III) E. Text and Data Mining
+
+54. If there are problems [with respect to text or data mining methods,
+including across borders, linked to copyright], how would they best be solved?
+
+Text and data mining are not copyright events. Admittedly these terms may be
+subject to a range of different interpretations, but most typically, they relate to
+reading, research and analysing of materials that are already openly accessible
+online. For example, Yahoo has a laboratory presence in Barcelona. Researchers
+and academics affiliated with the Barcelona lab engage in text and data mining and
+in the process, usually use the information gleaned to in turn create more information
+and knowledge. Viewing, reading and analysing freely available data has never been
+and should not now be subject to copyright law. The fruits of such activities offer
+enormous social, cultural, innovative, scientific and economic benefits.
+
+
+
+
+         Yahoo Response to Public Consultation on Review of EU Copyright Rules      14
+

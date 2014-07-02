@@ -1,0 +1,103 @@
+Wikimedia Denmark comments and suggestions for ”Public
+Consultation on the review of the EU copyright rules”
+https://dk.wikimedia.org
+
+General comments
+I. Clarification on whether photos of images are consider original works of art and covered by
+copyright. The United States has had a key court decision, "Bridgeman Art Library v. Corel Corp.",
+which stated that photos of public domain images can not be protected by copyright, because the
+photos lack originality. The situation in Europe (or at least in Denmark) is not clear, and therefore
+the dissemination of public domain works, e.g., through photos of paintings of European masters, is
+hindered. A paragraph in a revised law stating that "photos and scans of two-dimensional images
+are not protected by copyright unless the original image is covered by copyright" is wanted.
+This would put EU law in harmonization with US case law. Given that many European-owned
+public domain works exist as public domain digital copies in the US, the digital copies may already
+exists on US server accessible to Europeans, meaning that European citizens may access such work,
+but cannot (for fear of a possible copyright lawsuit) themselves distribute such work.
+
+II. Harmonization of freedom of panorama laws. European countries enjoy a variety of different
+rules regarding what can be photographed outdoor (public spaces), wrt. copyright laws. In some
+countries you are allowed to take photos of buildings and statues and use it commercially, while in
+other countries commercial photos will infringe the copyright of architects and sculpturers. The
+problem is not restricted to Europe: A photo taken by a work in public display in a European
+country with Freedom of Panorama can receive a US DCMA take-down notice if the photo is
+uploaded to a US server, e.g., the server that hosts the images of Wikipedia, because of the lack of
+Freedom of Panorama law in the US (this was apparently the case with the sculpturer Claes
+Oldenburg and Coosje van Bruggen). It is suggested the EU converge towards liberal Freedom of
+Panorama rules as found in the UK, Germany, Sweden etc. and push the US to adopt similar rules.
+
+III. Issues with orphan works, e.g., old photos where the photographer is unknown. Historical
+photos where the photographer is unknown presents a problem if they are to be used in free content:
+A photo that can be identified as from, say the 1920s, cannot be used in free works because the
+photographer can have died much later, say 1970, extending the copyright to 2040 with the 70-years
+rule. This problem can affect archives that cannot release old photos, where they do not own the
+copyright or know the original copyright holder, fearing "submarine" copyright holders can appear
+and claim copyright. A suggestion for a paragraph is "Orphan works, where the creator is not or
+has not been generally known, is not protected by copyright after 50 years from the creation".
+
+IV. "Open Knowledge Foundation Germany" has recently got a cease and desist order in relation to
+their website Frag den Staat (https://fragdenstaat.de/), which publishes documents obtained under
+Freedom Of Information. The German Federal Ministry of the Interior claims copyright. It seems
+reasonable that a citizen that has obtain Freedom of Information material can distribute the material
+to other citizens so they can join in an informed discussion. Free distribution of Freedom of
+Information material may also take a burden from the authorities that do need to handle multiple
+requests for the same material. Furthermore, free distribution of Freedom of Information material
+may also help the authorities to defend against critique for using copyright laws to restrict the
+access of citizens. A paragraph with "Public information released under Freedom Of
+Information does not fall under copyright" is wanted.
+VI. Even though a single EU Copyright Title would make life easier for owners of copyrights and
+users of copyrighted material, there might be a wish to ensure local/national exemptions. You could
+have a common set of basic rules for all member states (e.g. the current rule of life + 70 years for
+copyright expiration) and still acknowledge that on a local/national basis there might be arguments
+for specific rules or exemptions.
+
+Specific comments
+11. "Should the provision of a hyperlink leading to a work or other subject matter protected under
+copyright, either in general or under specific circumstances, be subject to the authorisation of the
+rightholder?"
+      NO. Wikipedia references will typically make deep links to source specific statements in the
+      encyclopedia, e.g., deep links to an news article. Wikipedia references do usually not link to
+      illegal copies, e.g., YouTube videos not uploaded by the copyright holder.
+
+12. "Should the viewing of a web-page where this implies the temporary reproduction of a work or
+other subject matter protected under copyright on the screen and in the cache memory of the user’s
+computer, either in general or under specific circumstances, be subject to the authorisation of the
+rightholder?"
+      NO. Digital technologies' use of content inevitably produces a copy. If a webpage has been
+      legally delivered to a user's computer, there should not be legal limitations that prohibit or
+      limit technical improvements to how the device or software handles the content.
+
+15. "Would the creation of a registration system at EU level help in the identification and licensing
+of works and other subject matter?"
+      Registration would reduce the burden of search for those wishing to reuse potentially
+      copyrighted content. In many cases, the year of death of an author or the identity of a pen
+      name (pseudonym) is not publicly known and a potential user cannot tell if an old work is
+      copyrighted or not.
+
+16. "What would be the possible advantages of such a system?"
+     If the system enabled machine-oriented queries (e.g., checksums of image files), simple
+     plagiarism could quickly be detected by comparing a work in question with the system
+     content.
+
+17. "What would be the possible disadvantages of such a system?"
+     It is difficult to see how old archival data would be registered, so that it would be possible to
+     determine when a piece of art are no longer covered by copyright. As there can be no
+     compulsory registration system, the database cannot have full coverage. If a user queries the
+     database to determine whether a work is a copyrighted work (by another person than stated) a
+     result with no response can either be taken to mean that the work in question has no previous
+     copyright or that the previous work has not been registered. This may limit the utility of the
+     database.
+
+20. "Are the current terms of copyright protection still appropriate in the digital environment?"
+      For wider dissemination of European works in Wikipedia a reduction to 50 years after the
+      death of the author would be appropriate.
+
+21. "Are there problems arising from the fact that most limitations and exceptions provided in the
+EU copyright directives are optional for the Member States?"
+      Especially the rules regarding freedom of panorama are a real problem.
+23. "Should any new limitations and exceptions be added to or removed from the existing
+catalogue?"
+      Especially public domain for government (national, regional and perhaps local) works would
+      mean a lot. Alternatively some variation of CC-BY where attribution is required, but all use is
+      granted in advance.
+

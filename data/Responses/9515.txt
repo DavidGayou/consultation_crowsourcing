@@ -1,0 +1,1 @@
+Error: Command failed: registered/cmos/FRO_EN.doc is not a Word Document.

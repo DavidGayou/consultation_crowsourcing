@@ -1,0 +1,221 @@
+###  Translation from RTF performed by UnRTF, version 0.21.5 
+### font table contains 1 fonts total
+
+-----------------
+Public Consultation 
+markt-copyright-consultation@ec.europa.eu. 
+Your file would not open in Word of any age or type. I have had to use Wordpad, which lacks spell check.. 
+Please identify yourself:
+
+Name:
+Dr OHG Sparrow (www.chforum.org)
+In the interests of transparency, organisations (including, for example, NGOs, trade associations and commercial enterprises) are invited to provide the public with relevant information about themselves by registering in the Interest Representative Register and subscribing to its Code of Conduct.
+1       
+If you are a Registered organisation, please indicate your Register ID number below. Your contribution will then be considered as representing the views of your organisation.
+We are not, and this is a personal submission. 
+
+If you would like to submit your reply on an anonymous basis please indicate it below by underlining the following answer:
+
+1       
+Yes, I would like to submit my reply on an anonymous basis
+
+
+Type of respondent (Please underline the appropriate):
+
+9       
+Other (Please explain):
+I am struggling to use this form, as it is hopelessly over-specific. I am writing both as a generator of IP and as a consultant-observer of the overall structure of commerce out to 2040 or so. See the web site nominated above for an idea of the perspective. That doe snto fit into any of your categories. 
+
+
+I.      
+Rights and the functioning of the Single Market
+A.      
+Why is it not possible to access many online content services from anywhere in Europe? 
+1.      
+[In particular if you are an end user/consumer:] Have you faced problems when trying to access online services in an EU Member State other than the one in which you live?
+
+ NO
+2.      
+[In particular if you are a service provider:] Have you faced problems when seeking to provide online services across borders in the EU?
+
+ NO
+3.      
+ [In particular if you are a right holder or a collective management organisation:] How often are you asked to grant multi-territorial licences? Please indicate, if possible, the number of requests per year and provide examples indicating the Member State, the sector and the type of content concerned. 
+Never
+4.      
+If you have identified problems in the answers to any of the questions above  what would be the best way to tackle them?
+ [Open question]
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.
+
+5.      
+[In particular if you are a right holder or a collective management organisation:] Are there reasons why, even in cases where you hold all the necessary rights for all the territories in question, you would still find it necessary or justified to impose territorial restrictions on a service provider (in order, for instance, to ensure that access to certain content is not possible in certain European countries)? 
+
+ NO
+ NO OPINION
+
+6.      
+[In particular if you are e.g. a broadcaster or a service provider:] Are there reasons why, even in cases where you have acquired all the necessary rights for all the territories in question, you would still find it necessary or justified to impose territorial restrictions on the service recipient (in order for instance, to redirect the consumer to adifferent website than the one he is trying to access)?
+
+ NO OPINION
+
+7.      
+Do you think that further measures (legislative or non-legislative, including market-led solutions) are needed at EU level to increase the cross-border availability of content services in the Single Market, while ensuring an adequate level of protection for right holders?
+ NO OPINION
+B.      
+Is there a need for more clarity as regards the scope of what needs to be authorised (or not) in digital transmissions?
+ NO OPINION
+1.      
+Linking and browsing 
+Hyperlinks are references to data that lead a user from one location in the Internet to another. They are indispensable for the functioning of the Internet as a network. Several cases are pending before the CJEU in which the question has been raised whether the provision of aclickable link constitutes an act of communication to the public/making available to the public subject to the authorisation of the rightholder. 
+A user browsing the internet (e.g. viewing a web-page) regularly creates temporary copies of works and other subject-matter protected under copyright on the screen and in the 'cache' memory of his computer. A question has been referred to the CJEU as to whether such copies are always covered by the mandatory exception for temporary acts of reproduction provided for in Article 5(1) of Directive 2001/29/EC. 
+
+11.     
+Should the provision of a hyperlink leading to a work or other subject matter protected under copyright, either in general or under specific circumstances, be subject to the authorisation of the rightholder?
+
+This is an example of the over-specificity of this silly document. You should not be asking about minitiae - the issue is far broader. It is what does and does not constitute valid IP. Whether something is or is not hyperlinked is less important than what it is, its legal state. What shoudl be in the state of protectible IP is the issue.
+The primary problem with patent law, and copyright, is that it does nto effectivelyidentify meaningful innovation and the trivial in granting IP; and fails in the same way when that IP is tested. That has led to:
+1: Gross over-coverage, where essentially meaningless patents are being used to block innovation. (The trivial issue of musical and entertainment copyright has similar problems: minor quotations should not be subject to copyright.)
+2: IP is often used not so much to reward innovators as to deter them. Patents are used, for example, to slow competitors or play a sort fo technological Go, capturing bits of territory with IP so as to prevent certain domains of knledge being used. 
+It is time to rethink what a patent is for, and what does and does not onstitute legitimate copyright. 
+
+12.     
+Should the viewing of a web-page where this implies the temporary reproduction of a work or other subject matter protected under copyright on the screen and in the cache memory of the users computer, either in general or under specific circumstances, be subject to the authorisation of the rightholder? 
+
+ NO  Please explain whether you consider this to be the case in general, or under specific circumstances, and why (e.g. because it is or should be covered by a copyright exception)
+A web page exists to be viewed. If the owners place a pay-to-view system over it, that is their privilege. If they do not, then it is as public as a roadside placard. 
+
+1.      
+Download to own digital content 
+13.     
+[In particular if you are an end user/consumer:] Have you faced restrictions when trying to resell digital files that you have purchased (e.g. mp3 file, e-book)? 
+ NO OPINION: not a user.
+14.     
+[In particular if you are a right holder or a service provider:] What would be the consequences of providing a legal framework enabling the resale of previously purchased digital content? Please specify per market (type of content) concerned.
+[Open question] 
+All material that we sell is registered onto a computer for single use. It cannot be copied without serious technical skill. We do this not solely because there is no legal framework but because there can be no conceivabel legal framework that is enforceable without mass scrutiny. 
+C.      
+Registration of works and other subject matter  is it a good idea?
+Registration is not often discussed in copyright in the EU as the existing international treaties in the area prohibit formalities as a condition for the protection and exercise of rights. However, this prohibition is not absolute. Moreover a system of registration does not need to be made compulsory or constitute aprecondition for the protection and exercise of rights. With a longer term of protection and with the increased opportunities that digital technology provides for the use of content (including older works and works that otherwise would not have been disseminated), the advantages and disadvantages of a system of registration are increasingly being considered. 
+15.     
+Would the creation of a registration system at EU level help in the identification and licensing of works and other subject matter? 
+NO , for reasons given in (14). The EU will tehreby protect non-EU material (perhaps) but it will not solve the real problem, which is the leakage into and repackaging by non-compliant nations, the vast majority of humanity. The solution is encryption plus ping-to-play, but that adds seriou overheads (comms, servers) and issues where communications are limited. 
+16.     
+What would be the possible advantages of such a system? 
+[Open question]
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.
+
+17.     
+What would be the possible disadvantages of such a system? 
+[Open question]
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.
+
+18.     
+What incentives for registration by rightholders could be envisaged?
+[Open question]
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.
+D.      
+How to improve the use and interoperability of identifiers
+There are many private databases of works and other subject matter held by producers, collective management organisations, and institutions such as libraries, which are based to agreater or lesser extent on the use of (more or less) interoperable, internationally agreed identifiers. Identifiers can be compared to a reference number embedded in a work, are specific to the sector in which they have been developed, and identify, variously, the work itself, the owner or the contributor to a work or other subject matter. There are notable examples of where industry is undertaking actions to improve the interoperability of such identifiers and databases. The Global Repertoire Database should, once operational, provide a single source of information on the ownership and control of musical works worldwide. The Linked Content Coalition was established to develop building blocks for the expression and management of rights and licensing across all content and media types. It includes the development of a Rights Reference Model (RRM)  a comprehensive data model for all types of rights in all types of content. The UK Copyright Hub is seeking to take such identification systems a step further, and to create a linked platform, enabling automated licensing across different sectors. 
+19.     
+What should be the role of the EU in promoting the adoption ofidentifiers in the content sector, and in promoting the development and interoperability of rights ownership and permissions databases?
+[Open question]
+See (C15) above. This is bigger than the EU. It needs at least the nascent Asian trade zone to ome on board, plus China, India. 
+E.      
+Term of protection  is it appropriate?
+Works and other subject matter are protected under copyright for a limited period of time. After the term of protection has expired, a work falls into the public domain and can be freely used by anyone (in accordance with the applicable national rules on moral rights). The Berne Convention requires a minimum term of protection of 50 years after the death of the author. The EU rules extend this term of protection to 70 years after the death of the author (as do many other countries, e.g. the US). 
+
+With regard to performers in the music sector and phonogram producers, the term provided for in the EU rules also extend 20 years beyond what is mandated in international agreements, providing for a term of protection of 70 years after the first publication. Performers and producers in the audio-visual sector, however, do not benefit from such an extended term of protection. 
+
+20.     
+Are the current terms of copyright protection still appropriate in the digital environment?
+ YES 
+I.      
+Limitations and exceptions in the Single Market
+ NO OPINION The EU is too small an aggregate to address this issue. 
+I.      
+Private copying and reprography
+
+64.     
+In your view, is there a need to clarify at the EU level the scope and application of the private copying and reprography exceptions in the digital environment?
+ YES  Please explain 
+Please see B(11) above
+
+
+65.     
+Should digital copies made by end users for private purposes in the context of aservice that has been licensed by rightholders, and where the harm to the rightholder is minimal, be subject to private copying levies?
+
+ NO  Please explain
+Enthusiasts for "free" digital copying tend to see the distribution network as somehow parasitic on the "pure" relationship that ought to exist between the producer of the IP and the consumer of it. They view anything from cinema chanis to former rcord retailers as grasping, but adding nothing. If that were true, of course, such entities would disappear and legal constraints of copying material exist solely to protect a former state of things. 
+A musician is, of course, at liberty to give away their music, or to charge for it in a weak way that does not prevent widespread copying. It can be argued that such copying in fact advertises the musician and promotes their future work. Equally, though, it can be argued that an instance of music (or software, or anything else of this intangible nature) is simply property, to be protected by property rights. If someone chooses to waive these, that is their privilege; but the fact that they can do this does not in any way invalidate the principle that such products are proerty, coming with rights. 
+How are these rights to be policed? Essntially, by something that acts for the individual producer.There are three classes of entity that coudl carry this out, acting under the law that enables their activity. 
+First, a collective of producers or individual producers acting on their own behalf, paid for by the producrs; 
+Second and intermediary, paid for by the consumers and 
+Third, the state, paid for by tax payers to carry out not the enactment of law but the detailed enforcement of it. Entertainment distributors are examples of the second category of enforcement. No state should burden itself with such matters directly, but it has to create clear law under which others can operate. 
+I have already indicated what I believe is wrong with current law. It allows trivia the same weight as major IP. It permits proliferation of trivia. But focusing on triva in specific instances - the pursuit of silly music-related rights - it creates resentment against the broader and very valid need for intellectual property rights, and brings the law into disrepute.
+
+66.     
+How would changes in levies with respect to the application to online services (e.g. services based on cloud computing allowing, for instance, users to have copies on different devices) impact the development and functioning of new business models on the one hand and rightholders revenue on the other? 
+[Open question]
+Ping-to-play is one approach, device registration another. .
+
+67.     
+ Would you see an added value in making levies visible on the invoices for products subject to levies?
+
+ NO OPINION
+Diverging national systems levy different products and apply different tariffs. This results in obstacles to the free circulation of goods and services in the Single Market. At the same time, many Member States continue to allow the indiscriminate application of private copying levies to all transactions irrespective of the person to whom the product subject to a levy is sold (e.g. private person or business). In that context, not all Member States have ex ante exemption and/or ex post reimbursement schemes which could remedy these situations and reduce the number of undue payments. 
+
+68.     
+Have you experienced a situation where a cross-border transaction resulted in undue levy payments, or duplicate payments of the same levy, or other obstacles to the free movement of goods or services? 
+
+  NO OPINION
+
+
+I.      
+Fair remuneration of authors and performers
+
+
+72.     
+[In particular if you are an author/performer:] What is the best mechanism (or combination of mechanisms) to ensure that you receive an adequate remuneration for the exploitation of your works and performances?
+I have discussed this earlier. There is a poisonous fallacy in play to the effect that return to effort should follow productions costs, and that as (re)production and distribution costs are very low for some kinds of IP, so all remuneration can be dispensed with. 
+Why is this a fallacy? First, it is a generalisation of an Economics 101 notion of how prices are set - that is, by the marginal cost of production. This is true only of commodities in perfect markets, neither of which condditions apply. IP is a grant of monopoly or oligopoly specifically to avoid this - that is, to protect the producer from the corrosive effects of free copying of their ideas or product. Our societies have decided that, colectively, we are better off if we respect these propertry rights just as we respect other personal property. 
+Second, it thinks only in terms of marginal cost. A professional's opinion costs very little to utter, but it has taken a lifetime of work for that opinion to be useful. Nobody asserts that a lawyer or doctor should work for no remuneration because the opinion that they utter is, in the immediate present, without cost. A movie or a drug molecule may cost very little to copy, but has cost a huge amount to put together, and relies on an even more costly infrastructure that has to be recompensed. 
+The factor that has changed in the past twenty years is that routes to the consumer have altered. That is, the essence of making a new pharmaceutical or an entertainment have remained structurally the same - if different in detail - but the basic structure for harnessing and distributing that knowledge has changed very radically. The fallacy outlined above woudl, if widely applied, destroy the structural means of production. As a society, we recognise this but some of us do not like the impications. The laws on IP have to adjust to take account of this. 
+The industrial world, of which the EU is of course a part, needs to earn its living by doig complex thinsg which only stabel and complex environments can support, That is to say, more and mroe of what it does will be intangible, or rely on embedded inteligence - intelligence that may manifest itself as software or good taste, tactile design or precise user focus. These are precisely the things which IP legislation has to protect. It si not at all am exaggeration to say that the future prosperity fo the industrial nations relies on sound, internationally respected and harmonious IP. This, of course, requires a re-think.
+The reconsideration of IP needs to involve the entire OECD-plus-G8, as already discussed. What it shoudl ask itself is what are the structural issues that it has to strengthen and harmonise, and what is the dross that it cna eject. And there is a great deal of dross: tens of millions of patents without merit, spoiler IP, oceans of copyright without merit. I suggest two guiding thoughts:
+1: If there is no tort (civil, economic) loss, then there is no IP to protect. It should be for the plaintiff in any IP case to demonstrate actual loss or harm by virtue of a breach of IP. 
+2: Any assertion of IP should be based on a demonstration of real novelty and real economic significance. It should not be possibel to patent fifty different ways of wiring a plug, for example. A computers come to write music and when games becoem user-dominated, flexible and when users can add new characters and new stroy lines, what constitutes "novelty" will need to be clarified. If my machine and I generate a new adventure for Harry Potter, cui bono? The author of the books, of the game, of the software on which the game rests, I myself? I, as th eperson trying for the IP, would need to demonstrate novelty, meaning that I have transcended in a meaningful manner the scope of the "infrastructure" with which I have worked. 
+
+73.     
+Is there a need to act at the EU level (for instance to prohibit certain clauses in contracts)? 
+ 
+ NO  Please explain why
+OECD + G8
+
+74.     
+If you consider that the current rules are not effective, what would you suggest to address the shortcomings you identify?
+as above
+I.      
+Respect for rights
+Directive 2004/48/EE provides for a harmonised framework for the civil enforcement of intellectual property rights, including copyright and related rights. The Commission has consulted broadly on this text. Concerns have been raised as to whether some of its provisions are still fit to ensure a proper respect for copyright in the digital age. On the one hand, the current measures seem to be insufficient to deal with the new challenges brought by the dissemination of digital content on the internet; on the other hand, there are concerns about the current balance between enforcement of copyright and the protection of fundamental rights, in particular the right for a private life and data protection. While it cannot be contested that enforcement measures should always be available in case of infringement of copyright, measures could be proposed to strengthen respect for copyright when the infringed content is used for a commercial purpose. One means to do this could be to clarify the role of intermediaries in the IP infrastructure. At the same time, there could be clarification of the safeguards for respect of private life and data protection for private users. 
+75.     
+Should the civil enforcement system in the EU be rendered more efficient for infringements of copyright committed with a commercial purpose?
+
+ NO OPINION beyond what I have already said
+
+76.     
+In particular, is the current legal framework clear enough to allow for sufficient involvement of intermediaries (such as Internet service providers, advertising brokers, payment service providers, domain name registrars, etc.) in inhibiting online copyright infringements with a commercial purpose? If not, what measures would be useful to foster the cooperation of intermediaries?
+
+Nationally, yes. This is either subsidary to the EU or much broader than it. 
+
+77.     
+Does the current civil enforcement framework ensure that the right balance is achieved between the right to have ones copyright respected and other rights such as the protection of private life and protection of personal data? 
+'Please explain' is my reaction to this. You mean: should ping to play be anonymous? Yes. 
+
+I.      
+A single EU Copyright Title
+No opinion
+

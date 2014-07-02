@@ -1,0 +1,124 @@
+Urheberrecht als Mittel zur Beschränkung des freien
+Handels
+Das Urheberrecht aus Sicht der zu schützenden Rechteinhaber sollte natürlich dafür
+sorgen, dass ihr Recht auf angemessene Verwertung ihrer Leistungen ausreichend geschützt
+wird.
+
+Das bisherige Urheberrecht wurde aber (oft auch unter Zuhilfenahme des Markenrechts) von
+großen Rechteinhabern (z.B. Softwarekonzernen) mit Quasi-Monopolstellung dazu
+missbraucht, den freien Handel ihrer Produkte innerhalb des Binnenmarktes zu stören bzw. zu
+verhindern.
+
+Immer häufiger wird in den letzten Jahren schon bei der Produktgestaltung darauf
+hingearbeitet, dass der (Gebraucht-)Handel mit diesen Produkten rechtlich unmöglich
+gemacht wird.
+
+
+Milliardenmarkt Microsoft-Betriebssysteme
+Ein gutes Beispiel dafür sind die Betriebssysteme der Firma Microsoft:
+
+Windows 95 bzw. NT wurde anfänglich ausgeliefert als CD-ROM mit Handbuch, auf dessen
+Umschlagseite das sogenannte „Certificate of Authenticity“ – ein Echtheitszertifikat mit
+Echtheitsmerkmalen ähnlich denen auf einem Geldschein – fest aufgebracht war.
+
+Gegen Ende des Produktzyklus von Windows NT – kurz vor Erscheinen von Windows 2000
+– wurde dann umgestellt auf sogenannte COA-Sticker: kleine Aufkleber, bei denen der
+Computerhändler bzw. der Käufer dazu aufgefordert wurde, ihn unbedingt auf den Computer
+zu kleben, auf den das Betriebssystem das erste Mal installiert wurde. Die Sticker sind
+absichtlich so perforiert, dass sie bei einem Ablöseversuch zerreißen.
+
+Etwa zur gleichen Zeit führte Microsoft die sogenannte „Recovery“-Technologie ein:
+Installationsdatenträger werden nicht mehr als CD-ROM oder DVD ausgeliefert. Stattdessen
+werden die zur Installation des Betriebssystems notwendigen Dateien auf einem virtuellen
+Teil („Partition“) der mit dem Computer ausgelieferten und in diesen eingebauten Festplatte
+gespeichert. Im Falle eines irreversiblen Systemfehlers soll dann von dieser Partition die
+Neuinstallation des Betriebssystems vorgenommen werden. Bei einem Hardwaredefekt hat
+der Kunde das Nachsehen, denn wenn die Festplatte physikalisch defekt ist, ist auch die
+Recovery-Partition nicht mehr lesbar und das käuflich erworbene Betriebssystem ist verloren.
+Händlern, die die „Certificates of Authenticity“ als Lizenz bezeichneten und diese ohne
+Datenträger handelten wurden von Microsoft regelmäßig mit dem Hinweis auf das
+Markenrecht erfolgreich abgemahnt. Kern der Abmahnung war die polemisch anmutende
+Anmerkung, dass der Datenträger die in den Computer eingebaute Festplatte sei und diese
+Festplatte ja vom abgemahnten Händler nicht zusammen mit dem COA angeboten worden
+sei. Der BGH, der im Jahr 2000 noch den marktgerichteten Missbrauchsversuch des UrhG
+erkannte (Az.:1 ZR 244/97), konnte im Jahr 2011 nicht umhin, ein selbst in Fachkreisen
+umstrittenes und in seinen Konsequenzen widersprüchliches Urteil zu fällen (Az.: I ZR 6/10).
+
+Mit Windows 8 wurde dieses System weiter verfeinert: nun ist ein spezieller Schlüssel des
+Betriebssystems im BIOS (basic input/output system, einem auf jedem PC vorhandenen
+Speicher, der das Laden des eigentlichen Betriebssystems erst ermöglicht) des mit dem
+Betriebssystem gekauften Computers hinterlegt. Es ist nach geltendem Recht nicht möglich,
+ein solches gekauftes Recovery-Betriebssystem von Windows 8 von dem Erstrechner zu lösen
+und auf einen anderen Rechner zu übertragen, denn in Deutschland steht diesem
+möglicherweise § 202a des StGB entgegen, der ein „Ausspähen von Daten“ untersagt, das
+aber nötig wäre, um den Schlüssel aus dem BIOS auszulesen. Aber selbst ohne dieses Verbot
+wäre ein Handel dieser Lizenz schwierig bis unmöglich, gibt es doch keine physische
+Entsprechung der Lizenz mehr (ein Certificate of Authenticity gibt es ebenso wenig wie einen
+externen Datenträger).
+
+Fazit: Ausgediente Microsoft-Betriebssysteme werden seit mehr als einem Jahrzehnt lieber
+entsorgt statt weniger anspruchsvollen Nutzern (wie z.B. Schulen oder weniger
+zahlungskräftigen Personen) über einen Gebrauchtmarkt zur Verfügung gestellt. Microsoft
+steigert durch gezielten Missbrauch des derzeitigen Urheber- und Markenrechts
+künstlich den Umsatz an (neuen) Betriebssystemen. Der Verbraucher hat das
+Nachsehen, denn sein nicht mehr benutztes Betriebssystem kann er aufgrund der
+undurchschaubaren Rechtslage nicht verkaufen.
+
+
+Milliardenmarkt App-Stores
+Möglicherweise nimmt die Bedeutung der Microsoft-Betriebssysteme in Zukunft weiter ab, so
+dass das Ausmaß des oben kritisierten Missbrauchs der derzeitigen Gesetzeslage bei
+Betriebssystemen abnimmt.
+
+Demgegenüber wächst der Markt von Computerprogrammen für die weit verbreiteten
+Smartphones und Tablet-Computer überproportional. Dieser Markt ist ebenfalls betroffen und
+von einem freien Handel komplett ausgeschlossen.
+
+In den derzeitig existierenden App-Stores der Hersteller, also Online-Shops für den Kauf von
+Programmen für die gängigen Smartphones, werden die Programme mithilfe eines
+individuellen Nutzerkonten heruntergeladen und bezahlt. Danach kann der Verbraucher die
+Programme auf seinem Gerät (oder je nach Hersteller auch auf mehreren seiner Geräte)
+nutzen. Möchte er das Programm nach einiger Zeit nicht mehr nutzen und es wieder
+veräußern, so ist dies weder im Appstore vorgesehen noch anders technisch möglich.
+
+Der BGH beurteilt die Möglichkeit, technische Mittel zur Verhinderung der Nutzung einer
+gebraucht gehandelten Spielesoftware einzusetzen, nach der derzeitigen Gesetzeslage
+ausdrücklich als legal: siehe Urteil vom 11.2.2010 (Az.: 10 U 87/07).
+
+Man stelle sich einen PKW-Hersteller vor, der seine Neuwagen mit einem
+Fingerabdrucksensor ausliefert und dadurch einen Gebrauchthandel mit PKW
+komplett verhindert; ein gebraucht gekaufter PKW könnte durch den neuen Benutzer
+nicht mehr gestartet werden und wäre dadurch quasi wertlos.
+
+
+Fazit: Gesetzgeber soll festlegen, was eine Lizenz verbrieft
+Das gängige Urheberrechtsgesetz bietet den Urhebern aus Sicht des freien Handels einen zu
+großen Fundus an Missbrauchsmöglichkeiten. So hilft ihnen der juristische Status Quo, den
+Markt als Monopolisten zu beherrschen und unliebsame Konkurrenz juristisch und technisch
+erfolgreich zu bekämpfen.
+Der Gesetzgeber hat es bisher versäumt, zweifelsfrei festzulegen, was eine Lizenz verbrieft.
+Anders als beim Hauskauf, wo ein Grundbuch alle Zweifel über die bestehenden (Eigentums-)
+Rechte ausräumt, existiert bei den Softwarelizenzen manchmal ein Online-Portal, in dem der
+momentane Nutzungsberechtigte mit der Anzahl Lizenzen eingetragen ist, in anderen Fällen
+existiert ein sogenanntes „Certificate of Authenticity“, was aber im Zweifellsfall laut
+Herstellerwillen dann doch nicht die Lizenz verbriefen soll, sondern nur die Authentizität der
+mitgelieferten Produktbestandteile…
+
+Was fehlt, ist eine gesetzliche Festlegung, was eine Lizenz ausmacht (verbrieft), und wie eine
+rechtssichere Übertragung möglich ist. Dies ist im Interesse der Verbraucher
+(Rechtssicherheit!), aber auch im Interesse der Rechteinhaber (Schutz vor illegalen
+Kopien). Ein Lösungsansatz könnte ein europaweit geführtes Lizenzregister nach dem
+Vorbild eines Grundbuchs sein. Die meisten großen Softwarehersteller führen ein solches
+Register bereits für ihre Software, schränken aber die Übertragung oft gesetzeswidrig auf
+verbundene Unternehmen ein.
+
+Bei weiteren Rückfragen stehe ich Ihnen gerne zur Verfügung:
+
+Dirk Lynen
+2ndsoft GmbH
+Colynshofstraße 46
+52074 Aachen
+www.2ndsoft.de
+Tel.: +49 241 559693-0
+Fax.: +49 241 559693-29
+

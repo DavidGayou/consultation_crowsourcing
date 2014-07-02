@@ -1,0 +1,870 @@
+Response by Electronic Information for Libraries (EIFL)
+
+   to the European Commission Public Consultation
+         on the review of the EU copyright rules
+
+                     March 2014
+PLEASE IDENTIFY YOURSELF:
+
+
+Name: Stichting eIFL.net (EIFL)
+
+
+In the interests of transparency, organisations (including, for example, NGOs, trade
+associations and commercial enterprises) are invited to provide the public with relevant
+information about themselves by registering in the Interest Representative Register and
+subscribing to its Code of Conduct.
+    •   If you are a Registered organisation, please indicate your Register ID number below.
+        Your contribution will then be considered as representing the views of your
+        organisation.
+        Interest Representative Register ID: 13020287260-60
+
+
+    •   If your organisation is not registered, you have the opportunity to register now.
+        Responses from organisations not registered will be published separately.
+
+
+
+If you would like to submit your reply on an anonymous basis please indicate it below by
+underlining the following answer:
+
+
+    •   Yes, I would like to submit my reply on an anonymous basis
+
+
+
+
+2                        Electronic Information for Libraries (EIFL)
+TYPE OF RESPONDENT (Please underline the appropriate):
+     € Institutional user (e.g. school, university, research centre, library, archive)      OR
+       Representative of institutional users
+     € à for the purposes of this questionnaire normally referred to in questions as
+       "institutional users"
+
+This response is made by Electronic Information for Libraries (EIFL), an international not-
+for-profit organization that works with libraries in more than 60 developing and transition
+economy countries in Africa, Asia, Europe and Latin America1 to enable access to knowledge
+for education, learning, research and sustainable community development.
+
+EIFL partners with national library consortia - groups of libraries that work together to co-
+ordinate activities, reduce duplication of effort and combine expertise for example, to manage
+a joint automated library system, or to negotiate access to e-resources. EIFL works with
+consortia in the following European countries that represent 645 libraries:
+
+      •    EU Member States: Estonia2, Latvia3, Lithuania4, Poland5, Slovenia6
+      •    EU candidate countries: Former Yugoslav Republic of Macedonia7, Serbia8
+      •    Potential candidates: Albania9, Bosnia and Herzegovina10, Kosovo11
+
+Libraries in other EIFL partner consortia throughout the world are affected by EU copyright
+law and policy because bilateral trade and economic partnership agreements may require the
+adaptation of local copyright laws in accordance with EU rules and standards.
+
+EIFL welcomes the opportunity to respond to the European Commission Public Consultation
+on the review of EU copyright rules. EIFL supports the submission of the International
+Federation of Library Associations and Institutions (IFLA).
+
+We hope that the consultation will help to inform global discussions at the World Intellectual
+Property Organization (WIPO) on copyright Limitations and Exceptions that concern some of
+the issues raised in this Consultation12. EIFL, together with IFLA and the International
+Council on Archives (ICA), is advocating for an international instrument setting minimum,
+mandatory limitations and exceptions for certain core library and archive activities.
+
+
+
+
+1
+    http://www.eifl.net/where-we-work
+2
+  Consortium of Estonian Libraries Network (ELNET) Eesti Raamatukoguvõrgu Konsortsium
+3
+  Culture Information Systems Centre (Latvia)
+44
+   Lithuanian Research Library Consortium (LMBA) Lietuvos mokslinių bibliotekų asociacija
+5
+  Poznan Foundation of Scientific Libraries (Poland)
+6
+  Consortium of Slovene Electronic Collections (COSEC) Konzorcija Slovenskih knjižnic
+7
+  Macedonian Electronic Libraries
+8
+  Serbian Library Consortium for Coordinated Acquisition (KoBSON) Konzorcijum biblioteka Srbije
+za objedinjenu nabavku
+9
+  Consortium of Albanian Libraries
+10
+   Electronic Information Consortium of Bosnia and Herzegovina (EICBIH)
+11
+   Consortium of Electronic Libraries in Kosova (CELK)
+12
+   http://www.wipo.int/meetings/en/details.jsp?meeting_id=29944
+
+
+3                              Electronic Information for Libraries (EIFL)
+Our response will focus on the following questions:
+
+    •   Limitations and exceptions in the single market (question 22)
+    •   Access to content in libraries and archives
+           o Off-premises access to library collections (questions 32-33)
+           o E-lending (questions 36-37)
+           o Mass digitization (question 39)
+    •   Disabilities (questions 50-51)
+
+For ease of reference, the above parts only are included in this document.
+
+
+
+
+4                        Electronic Information for Libraries (EIFL)
+     III. Limitations and exceptions in the Single Market
+Limitations and exceptions to copyright and related rights enable the use of works and other
+protected subject-matter, without obtaining authorisation from the rightholders, for certain
+purposes and to a certain extent (for instance the use for illustration purposes of an extract
+from a novel by a teacher in a literature class). At EU level they are established in a number
+of copyright directives, most notably Directive 2001/29/EC13.
+Exceptions and limitations in the national and EU copyright laws have to respect international
+law14. In accordance with international obligations, the EU acquis requires that limitations and
+exceptions can only be applied in certain special cases which do not conflict with a normal
+exploitation of the work or other subject matter and do not unreasonably prejudice the
+legitimate interest of the rightholders.
+Whereas the catalogue of limitations and exceptions included in EU law is exhaustive (no
+other exceptions can be applied to the rights harmonised at EU level)15, these limitations and
+exceptions are often optional16, in the sense that Member States are free to reflect in national
+legislation as many or as few of them as they wish. Moreover, the formulation of certain of
+the limitations and exceptions is general enough to give significant flexibility to the Member
+States as to how, and to what extent, to implement them (if they decide to do so). Finally, it is
+worth noting that not all of the limitations and exceptions included in the EU legal framework
+for copyright are of equivalent significance in policy terms and in terms of their potential
+effect on the functioning of the Single Market.
+In addition, in the same manner that the definition of the rights is territorial (i.e. has an effect
+only within the territory of the Member State), the definition of the limitations and exceptions
+to the rights is territorial too (so an act that is covered by an exception in a Member State "A"
+may still require the authorisation of the rightholder once we move to the Member
+State "B")17.
+The cross-border effect of limitations and exceptions also raises the question of fair
+compensation of rightholders. In some instances, Member States are obliged to compensate
+rightholders for the harm inflicted on them by a limitation or exception to their rights. In other
+instances Member States are not obliged, but may decide, to provide for such compensation.
+If a limitation or exception triggering a mechanism of fair compensation were to be given
+cross-border effect (e.g. the books are used for illustration in an online course given by an
+university in a Member State "A" and the students are in a Member State "B") then there
+
+
+13
+   Plus Directive 96/9/EC on the legal protection of databases; Directive 2009/24/EC on the legal protection of
+computer programs, and Directive 92/100/EC on rental right and lending right.
+14
+   Article 9(2) of the Berne Convention for the Protection of Literary and Artistic Works (1971); Article 13 of
+the TRIPS Agreement (Trade Related Intellectual Property Rights) 1994; Article 16(2) of the WIPO Performers
+and Phonograms Treaty (1996); Article 9(2) of the WIPO Copyright Treaty (1996).
+15
+   Other than the grandfathering of the exceptions of minor importance for analogue uses existing in Member
+States at the time of adoption of Directive 2001/29/EC (see, Art. 5(3)(o)).
+16
+   With the exception of certain limitations: (i) in the Computer Programs Directive, (ii) in the Database
+Directive, (iii) Article 5(1) in the Directive 2001/29/EC and (iv) the Orphan Works Directive.
+17
+   Only the exception established in the recent Orphan Works Directive (a mandatory exception to copyright and
+related rights in the case where the rightholders are not known or cannot be located) has been given a cross-
+border effect, which means that, for instance, once a literary work – for instance a novel – is considered an
+orphan work in a Member State, that same novel shall be considered an orphan work in all Member States and
+can be used and accessed in all Member States.
+
+
+
+5                            Electronic Information for Libraries (EIFL)
+would also be a need to clarify which national law should determine the level of that
+compensation and who should pay it.
+Finally, the question of flexibility and adaptability is being raised: what is the best mechanism
+to ensure that the EU and Member States’ regulatory frameworks adapt when necessary
+(either to clarify that certain uses are covered by an exception or to confirm that for certain
+uses the authorisation of rightholders is required)? The main question here is whether
+a greater degree of flexibility can be introduced in the EU and Member States regulatory
+framework while ensuring the required legal certainty, including for the functioning of the
+Single Market, and respecting the EU's international obligations.
+
+21.    Are there problems arising from the fact that most limitations and exceptions
+provided in the EU copyright directives are optional for the Member States?
+ YES – Please explain by referring to specific cases
+……………………………………………………………………………………………….
+ NO – Please explain
+……………………………………………………………………………………………….
+ NO OPINION
+
+22.    Should some/all of the exceptions be made mandatory and, if so, is there a need for
+a higher level of harmonisation of such exceptions?
+Yes. EIFL believes that the exceptions in Directive 2001/29/EC should be made
+mandatory. The Directive itself states that existing differences in the exceptions and
+limitations to certain restricted acts have direct negative effects on the functioning of the
+internal market of copyright and related rights, and that such differences could become
+more pronounced in view of the development of trans-border exploitation of works.18.
+Since the Directive was enacted in 2001, cross-border activities for information
+resources have developed exponentially.
+
+A requirement in international law to mandate certain uses of protected works stems
+from the need to set limits to absolute protection in the public interest19. While
+international treaties and European Directives have generally chosen to provide
+permissive exceptions20, the two most recent examples of such instruments include both
+mandatory exceptions and a cross-border effect: the Marrakesh Treaty to Facilitate
+Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise
+Print Disabled adopted by WIPO Member States in 2013, and the 2012 Orphan Works
+Directive. Both instruments concern issues heightened by the digital environment, not
+solved by the market that consequently required intervention by the legislator. These
+policy responses, that EIFL supports, show that changing needs necessitate a modern
+approach.
+
+As the EU is expanded to 28 Member States and new technologies increase the desire for
+cross-border co-operation, trans-national activities such as large-scale library
+
+18
+   Directive 2001/29/EC Recital 31
+19
+   e.g. Berne Convention Article 10(1)
+20
+   For European Directives, with the exception of certain limitations: (i) in the Computer Programs Directive, (ii)
+in the Database Directive, (iii) Article 5(1) in the Directive 2001/29/EC.
+
+
+
+6                             Electronic Information for Libraries (EIFL)
+digitization projects, online learning opportunities and joint research information
+infrastructures must be facilitated by law. The Study on the Application of Directive
+2001/29/EC (2013) by De Wolf and Partners, commissioned by the European
+Commission, found that mandatory exceptions could in particular be justified in the
+case of the library exception to achieve, inter alia, a key policy objective to promote
+Europe’s cultural heritage in the online environment21.
+
+In order to ensure that the exceptions are given effect for licensed resources (that
+concerns most electronic resources in libraries), the exceptions must be protected from
+overrule by contractual terms in copyright contracts. Unlike Directive/96/9/EC	  on the
+Legal Protection of Databases, and Directive/2009/24/EC on Computer Programs that
+protects beneficiaries of exceptions from such contractual terms22, the InfoSoc Directive
+gives priority to the rights of rightsholders.
+
+As discussed in the De Wolf study “Where it is permissible to exclude the application of an
+exception by contract on a national basis, the beneficiaries of the exception may find their
+position weakened by the contractual practices of the right holders. This tension between
+the exception and the possibility to override it by contract may have cross-border effects.” 23
+Therefore discussion on making exceptions mandatory or harmonizing their effect, must
+be accompanied by a measure that will give binding effect to the exceptions that are
+otherwise subject to the consent of the rightsholder.
+
+In addition to Member States that have opted to safeguard exceptions in contractual
+terms24, the UK government accepted a recommendation by the Hargreaves Review of
+Intellectual Property and Growth that contractual terms should not undermine the
+benefits of exceptions25, and the report of the Copyright Review Committee in Ireland
+makes a comprehensive recommendation to support exceptions against contract terms26.
+
+23.    Should any new limitations and exceptions be added to or removed from the
+existing catalogue? Please explain by referring to specific cases.
+[Open question]
+
+24. Independently from the questions above, is there a need to provide for a greater
+degree of flexibility in the EU regulatory framework for limitations and exceptions?
+ YES – Please explain why
+……………………………………………………………………………………………….
+ NO – Please explain why
+……………………………………………………………………………………………….
+
+21
+     De Wolf & Partners Study on the application of Directive 2001/29/EC on copyright and related
+rights in the information society - 16.12.2013, p. 301
+22
+     Article 15 Directive/96/9/EC, and Article 9(1) Directive/2009/24/EC.
+23
+     Ibid p. 436
+24
+     Ibid Belgium, Portugal, Denmark Ibid FN 548 p. 255
+25
+   	  The Government Response to the Hargreaves Review of Intellectual Property and Growth,
+http://www.ipo.gov.uk/ipresponse-full.pdf
+26
+     Modernising Copyright. Review Report. http://www.enterprise.gov.ie/en/Publications/CRC-
+Report.pdf
+
+
+7                          Electronic Information for Libraries (EIFL)
+ NO OPINION
+25.    If yes, what would be the best approach to provide for flexibility? (e.g. interpretation
+by national courts and the ECJ, periodic revisions of the directives, interpretations by the
+Commission, built-in flexibility, e.g. in the form of a fair-use or fair dealing provision /
+open norm, etc.)? Please explain indicating what would be the relative advantages and
+disadvantages of such an approach as well as its possible effects on the functioning of the
+Internal Market.
+[Open question]
+……………………………………………………………………………………………….
+
+26.    Does the territoriality of limitations and exceptions, in your experience, constitute
+a problem?
+ YES – Please explain why and specify which exceptions you are referring to
+……………………………………………………………………………………………….
+ NO – Please explain why and specify which exceptions you are referring to
+……………………………………………………………………………………………….
+ NO OPINION
+
+
+27.    In the event that limitations and exceptions established at national level were to
+have cross-border effect, how should the question of “fair compensation” be addressed,
+when such compensation is part of the exception? (e.g. who pays whom, where?)
+[Open question]
+……………………………………………………………………………………………….
+
+A.      Access to content in libraries and archives
+Directive 2001/29/EC enables Member States to reflect in their national law a range of
+limitations and exceptions for the benefit of publicly accessible libraries, educational
+establishments and museums, as well as archives. If implemented, these exceptions allow acts
+of preservation and archiving27 and enable on-site consultation of the works and other subject
+matter in the collections of such institutions28. The public lending (under an exception or
+limitation) by these establishments of physical copies of works and other subject matter is
+governed by the Rental and Lending Directive29.
+
+Questions arise as to whether the current framework continues to achieve the objectives
+envisaged or whether it needs to be clarified or updated to cover use in digital networks. At
+the same time, questions arise as to the effect of such a possible expansion on the normal
+exploitation of works and other subject matter and as to the prejudice this may cause to
+rightholders. The role of licensing and possible framework agreements between different
+stakeholders also needs to be considered here.
+
+
+
+27
+   Article 5(2)c of Directive 2001/29.
+28
+   Article 5(3)n of Directive 2001/29.
+29
+   Article 5 of Directive 2006/115/EC.
+
+
+
+8                             Electronic Information for Libraries (EIFL)
+1.      Preservation and archiving
+The preservation of the copies of works or other subject-matter held in the collections of
+cultural establishments (e.g. books, records, or films) – the restoration or replacement of
+works, the copying of fragile works - may involve the creation of another copy/ies of these
+works or other subject matter. Most Member States provide for an exception in their national
+laws allowing for the making of such preservation copies. The scope of the exception differs
+from Member State to Member State (as regards the type of beneficiary establishments, the
+types of works/subject-matter covered by the exception, the mode of copying and the number
+of reproductions that a beneficiary establishment may make). Also, the current legal status of
+new types of preservation activities (e.g. harvesting and archiving publicly available web
+content) is often uncertain.
+28.    (a) [In particular if you are an institutional user:] Have you experienced specific
+problems when trying to use an exception to preserve and archive specific works or other
+subject matter in your collection?
+(b) [In particular if you are a right holder:] Have you experienced problems with the use by
+libraries, educational establishments, museum or archives of the preservation exception?
+ YES – Please explain, by Member State, sector, and the type of use in question.
+EIFL notes that if implemented, these exceptions allow acts including of preservation
+and archiving30.
+ NO
+ NO OPINION
+
+
+29.    If there are problems, how would they best be solved?
+[Open question]
+……………………………………………………………………………………………….
+30.    If your view is that a legislative solution is needed, what would be its main
+elements? Which activities of the beneficiary institutions should be covered and under
+which conditions?
+[Open question]
+……………………………………………………………………………………………….
+
+31.     If your view is that a different solution is needed, what would it be?
+[Open question]
+……………………………………………………………………………………………….
+
+2.      Off-premises access to library collections
+Directive 2001/29/EC provides an exception for the consultation of works and other subject-
+matter (consulting an e-book, watching a documentary) via dedicated terminals on the
+premises of such establishments for the purpose of research and private study. The online
+
+30
+  Article 5(2)c of Directive 2001/29. “in respect of specific acts of reproduction made by publicly
+accessible libraries, educational establishments or museums, or by archives, which are not for direct or
+indirect economic or commercial advantage”;
+
+
+9                           Electronic Information for Libraries (EIFL)
+consultation of works and other subject-matter remotely (i.e. when the library user is not on
+the premises of the library) requires authorisation and is generally addressed in agreements
+between universities/libraries and publishers. Some argue that the law rather than agreements
+should provide for the possibility to, and the conditions for, granting online access to
+collections.
+32.     (a) [In particular if you are an institutional user:] Have you experienced specific
+problems when trying to negotiate agreements with rights holders that enable you to
+provide remote access, including across borders, to your collections (or parts thereof) for
+purposes of research and private study?
+(b) [In particular if you are an end user/consumer:] Have you experienced specific problems
+when trying to consult, including across borders, works and other subject-matter held in
+the collections of institutions such as universities and national libraries when you are not
+on the premises of the institutions in question?
+Yes.
+1. Publishers in developed countries demand very high prices for remote access to e-
+resources by university students. This affects in particular small and medium sized
+institutions, and institutions that are less well off. To give an example of the costs
+involved in licensing electronic resources in a developed country, the national university
+site licensing initiative in the UK31 manages agreements for 15 major journals with 15
+publishers identified by the community as being important for their researchers and
+students, at an annual cost of approx. £63 million (€75 million) of public funds in 2013.
+These 15 agreements represent 60-70% of the total journal budgets. Due to the
+monopolistic nature of copyright, libraries (in every country) are forced to pay the
+prices charged and to adhere to whatever conditions are ultimately imposed, otherwise
+they cannot have access to materials needed by their faculty and students.
+2. Licences are country and governing law specific, and cross border access is not
+allowed.
+3. EIFL wishes to address in particular the issue of cross-border inter-library document
+supply (ILDS). As no library can acquire every published work and some libraries have
+specialist collections that are not available anywhere else, a library may wish to obtain a
+copy of an item, in response to a request from an end user, from another library where
+necessary. This established system of co-operation is known as “inter-library loan” for
+returnable items such as books, and “inter-library document supply” for items such as a
+copy of a book chapter or journal article. If the requested item is not available locally, it
+can usually be requested from a library in another country. Inter-library document
+supply services are a vital adjunct in meeting the specialist information meets of
+scholars and researchers. ILDS must be supported through an exception because it is
+not possible or practical for every library to obtain a licence for each item that may be
+requested by an end user.
+
+Here are two examples from EIFL partner countries that illustrate the need for an
+exception:
+
+Example 1. In 2013, a PhD student in Estonia was undertaking comparative research on
+historiographical narratives in five Baltic and Nordic countries. The student needed to
+consult materials and book chapters from c. 1920-1930 that were not available in
+
+31
+     https://www.jisc-collections.ac.uk/nesli2/
+
+
+
+10                               Electronic Information for Libraries (EIFL)
+Estonia. The university library in Estonia sent electronic requests to libraries in Latvia,
+Norway and Iceland that each had some of the requested materials in their collections.
+Latvia satisfied the request, but it was not possible to get the material from either
+Norway or Iceland due to copyright and licensing restrictions.
+As a result the student could not get information that was needed purely for research
+purposes that was important for their study. In these cases, it is especially hard for a
+library to explain to the end user why they cannot reasonably get the material, and when
+it seems to the end user that the only way to get information needed for their bona fide
+research request is to circumvent the law – a bad outcome for copyright and for
+libraries.
+Example 2. Libraries in developing and transition economy countries often look to
+major research libraries such as the British Library, the national library of the United
+Kingdom, to obtain articles from serials and journals not available in institutions in
+their own country. In January 2012, the British Library withdrew its copyright-based
+Overseas Library Privilege Service, and replaced it with a publisher licensing
+arrangement, known as the International Non-Commercial Document Supply (INCD)
+service. Through INCD, overseas libraries serving educational users can order articles
+from a limited number of journals under certain conditions at a reduced royalty rate.
+
+However, there are important differences. Some items that are requested are no longer
+available. Other items are available but have become prohibitively expensive because
+they are not part of the INCD (non-commercial) title list, and so attract the publisher’s
+full commercial royalty fee. New administrative obligations and conditions of use that
+vary from publisher to publisher can apply that can create confusion and uncertainty -
+variables include the territory of the library, electronic delivery to the end user may be
+permitted or not, extra charges for direct supply may apply or not.
+
+A library serving academic and research users in south-eastern Europe had been using
+the British Library’s overseas document supply service since the 1980s. Until 2012, the
+service was used frequently because it was fast, reliable and affordable. Now the licensed
+service is being abandoned because it has become too strict and expensive to use. Some
+items are not available, or are only available at commercial rates that are unaffordable.
+For example, the price per article of some requested items increased from c. £13 to £52
+(c. €15 to €63). The high costs have put the service out of reach for other libraries e.g. for
+a library of education science in Lithuania.
+
+An array of inflexible rules regarding supply options can create practical problems. In
+particular, developing countries need reasonable options that can accommodate local
+conditions. Librarians in Malawi have had supply problems with the licensed service.
+Where the option of forwarding an electronic copy of that particular item to the end
+user is not available, the end user is required to pick up a paper copy in person. So when
+a researcher at Mzuzu University in Malawi requested such an item, they would have
+had to travel over 440 km to the University of Malawi in Zomba, which is the location of
+the account holder, the Malawi Library and Information Consortium (MALICO). In
+addition, when it is not possible to send the item electronically to the end user due to
+local connectivity problems, suitable alternative methods of delivery are needed
+including download, print, scan or fax. Librarians need reasonable copyright and
+licensing rules that work in the real world.
+
+
+
+
+11                       Electronic Information for Libraries (EIFL)
+(c) [In particular if you are a right holder:] Have you negotiated agreements with
+institutional users that enable those institutions to provide remote access, including across
+borders, to the works or other subject-matter in their collections, for purposes of research
+and private study?
+[Open question]
+……………………………………………………………………………………………….
+33.        If there are problems, how would they best be solved?
+[Open question]
+One suggestion to address the problem of the imbalance in negotiating power is through
+the establishment of an independent body with intervening powers in case of abuse of
+monopoly position by publishers. It could be styled, for example, on the work of the
+European Ombudsman32. While the ombudsman model is largely used to resolve
+complaints made by individuals against public bodies33, there are examples of
+interventions in the private sector that might usefully be applied in the situation of
+libraries and publishers described above34. We would welcome further exploration by
+the Commission of this idea or alternatives that might help to diffuse tensions and
+provide support to libraries in negotiating fair licences with publishers.
+………………………………………………………………………………………….
+34.    If your view is that a legislative solution is needed, what would be its main
+elements? Which activities of the beneficiary institutions should be covered and under
+which conditions?
+[Open question]
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+
+35.        If your view is that a different solution is needed, what would it be?
+[Open question]
+……………………………………………………………………………………………….
+
+3.         E – lending
+Traditionally, public libraries have loaned physical copies of works (i.e. books, sometimes
+also CDs and DVDs) to their users. Recent technological developments have made it
+technically possible for libraries to provide users with temporary access to digital content,
+such as e-books, music or films via networks. Under the current legal framework, libraries
+need to obtain the authorisation of the rights holders to organise such e-lending activities. In
+various Member States, publishers and libraries are currently experimenting with different
+business models for the making available of works online, including direct supply of e-books
+to libraries by publishers or bundling by aggregators.
+
+
+32
+ The European Ombudsman investigates complaints about institutions and bodies of the European
+Union, http://www.ombudsman.europa.eu/
+33
+     http://www.ombudsmanassociation.org/about-the-role-of-an-ombudsman.php
+34
+     http://www.bbc.com/news/business-21117701
+
+
+
+12                            Electronic Information for Libraries (EIFL)
+ 36 (a) [In particular if you are a library:] Have you experienced specific problems when
+trying to negotiate agreements to enable the electronic lending (e-lending), including across
+borders, of books or other materials held in your collection?
+YES. EIFL provides examples of specific problems in two partner countries relating to
+e-lending.
+Example 1. Tallinn Central Library, a member of the Consortium of Estonian Libraries
+Network (ELNET), is a public library that serves the city of Tallinn, Estonia. In part
+due to high internet penetration, literature is becoming more widely available in English
+than in Estonian, leading to concerns about the future reading, speaking and writing
+skills of young people in Estonian. One of the Library’s objectives is the promotion of
+the Estonian language, spoken by about 1.3 million people, and to increase access to
+Estonian literature.
+
+In 2012, the Library took the initiative to introduce Estonian e-books, that first became
+available in 2009. With cooperation and goodwill from local publishers and authors, the
+library has developed an e-book service known as ELLU (E-raamatute laenamis-
+ja lugemiskeskkond) that has had success. But the process and basis of the system, that
+depends on voluntary agreements with right holders, highlights problems that cannot be
+overcome without changes to European copyright law. For example,
+
+- libraries no longer have the right to decide for themselves which published books to
+acquire – the loss of a fundamental freedom. The right holder can refuse a licence, or
+impose an embargo period after publication. 58.7% of the Library’s requests for
+Estonian titles have consequently been refused.
+
+- the Library is therefore in an unequal bargaining position when seeking to negotiate
+the terms and conditions of the licence. Such conditions, some of which act like digital
+roadblocks that are counter-intuitive to the digital environment include single-user use
+only; online, streamed access only - no downloading to a device; the licence is valid for
+20 “loans” after which a new licence must be purchased (reduced from 35 “loans” in
+2013).
+
+- the process of seeking individual permission from publishers, or sometimes directly
+from authors to acquire the title is costly and time-consuming even for a small country
+such as Estonia, especially since the administration is handled by a single municipal
+library.
+
+Libraries, authors and publishers have a common goal to encourage reading and writing
+in the Estonian language, essential to preserve national culture and identity. While the
+market continues to develop, important issues such as fear of piracy and compensation
+for authors for e-book lending are discussed with local publishers. But progress will be
+slow and piecemeal until the intractable issue of copyright is addressed at European
+level to give equal treatment to information carriers (print and electronic books), and
+leverage to libraries to negotiate fair deals with right holders.
+
+Example 2. The library community in neighbouring Latvia also seeks action at
+European and international level to resolve the e-lending problem. During an eight
+month project (2013) to develop agreement on best practice principles for e-book
+
+
+
+
+13                       Electronic Information for Libraries (EIFL)
+acquisition and lending35, a draft Memorandum of Understanding did not succeed in
+getting publisher endorsement and efforts to offer e-books to library readers on
+reasonable terms for libraries and their readers have stalled.
+
+In the absence of a sound legal framework for e-lending, it can be expected that
+frustrated readers will look elsewhere for their e-reading materials with the effect of
+driving them away from literature in local languages, or towards illegal file-sharing
+sites. At the same time, libraries will be forced to succumb to whatever access rules that
+publishers and intermediaries set in order to fulfil reader expectations, thus forfeiting
+their social mission to provide access to information to all members of society without
+discrimination.
+
+36.     If there are problems, how would they best be solved?
+EIFL believes that libraries need a clear right to acquire commercially available e-
+books, and to lend e-books under reasonable terms and conditions. While various cases
+are pending before the European Court of Justice that relate to the issue of digital
+exhaustion that may take many years to settle, the legislator should amend Directive
+2001/29 to include a provision that prohibits the vendor from refusing to license, or to
+sell a copy of, a commercially available copyright work to a library.
+An independent body with intervening powers in case of abuse of monopoly position by
+publishers (see question 33) could also be helpful.
+The European Commission should share their experiences of library e-lending problems
+at WIPO’s Standing Committee on Copyright and Related Rights under the agenda
+item Limitations and Exceptions, and make proposals that seek a solution at
+international level, such as that set out in the Treaty Proposal on Limitations and
+Exceptions for Libraries and Archives from EIFL, IFLA, ICA and Innovarte36 that
+reflects Principle 1 of the IFLA Principles for Library eLending37.
+
+4.      Mass digitisation
+The term “mass digitisation” is normally used to refer to efforts by institutions such as
+libraries and archives to digitise (e.g. scan) the entire content or part of their collections with
+an objective to preserve these collections and, normally, to make them available to the public.
+Examples are efforts by libraries to digitise novels form the early part of the 20th century or
+whole collections of pictures of historical value. This matter has been partly addressed at the
+EU level by the 2011 Memorandum of Understanding (MoU) on key principles on the
+digitisation and making available of out of commerce works (i.e. works which are no longer
+found in the normal channels of commerce), which is aiming to facilitate mass digitisation
+efforts (for books and learned journals) on the basis of licence agreements between libraries
+and similar cultural institutions on the one hand and the collecting societies representing
+authors and publishers on the other38. Provided the required funding is ensured (digitisation
+projects are extremely expensive), the result of this MoU should be that books that are
+currently to be found only in the archives of, for instance, libraries will be digitised and made
+available online to everyone. The MoU is based on voluntary licences (granted by Collective
+35
+   Thought leaders in Latvia: libraries and e-books, http://www.eifl.net/case-study-libraries-and-ebooks-
+in-latvia
+36
+   See Article 6 in http://www.eifl.net/system/files/201401/tlib_v4_4_december_2013.pdf.
+37
+   http://www.ifla.org/node/7418
+38
+          You will find more information about his MoU on the following website:
+http://ec.europa.eu/internal_market/copyright/out-of-commerce/index_en.htm .
+
+
+
+14                          Electronic Information for Libraries (EIFL)
+Management Organisations on the basis of the mandates they receive from authors and
+publishers). Some Member States may need to enact legislation to ensure the largest possible
+effect of such licences (e.g. by establishing in legislation a presumption of representation of
+a collecting society or the recognition of an “extended effect” to the licences granted)39.
+
+40. [In particular if you are an institutional user, engaging or wanting to engage in mass
+digitisation projects, a right holder, a collective management organisation:] Would it be
+necessary in your country to enact legislation to ensure that the results of the 2011 MoU
+(i.e. the agreements concluded between libraries and collecting societies) have a cross-
+border effect so that out of commerce works can be accessed across the EU?
+41.     Would it be necessary to develop mechanisms, beyond those already agreed for
+other types of content (e.g. for audio- or audio-visual collections, broadcasters’ archives)?
+The 2011 MoU on key principles on the digitisation and making available of out
+of commerce works recognizes that the large-scale digitisation and making available of
+Europe's cultural heritage contained in the collections of publicly accessible cultural
+institutions is in the public interest, as well as in the interest of the cultural and creative
+sector.
+EIFL notes that large-scale or “mass digitisation” by libraries is usually undertaken
+within the context of a specific project or collection, and does not usually involve
+scanning the entire content of a library (see the introduction to this section). Library
+policies on digitization usually set out the scope and selection criteria (taking into
+account copyright status or permission to digitize), technical standards and access.
+Many policies can be viewed online.
+EIFL can relate experiences concerning mass digitization as follows:
+Experience from Lithuania:
+Lithuanian copyright law (Article 22 Part 1 §3) contains an exception that enables
+memory institutions to use a work for non-commercial research or personal study by
+making it accessible via computer networks on the premises of the institution, provided
+the work is not on public sale and the copyright holder has not prohibited its
+exploitation. A library may reproduce copies of works but only for the technical purpose
+of making them accessible via a computer network, and only up to the equivalent
+number of copies held by the institution. This provision makes it very complicated to
+make works accessible to library users.
+
+Martynas Mažvydas National Library of Lithuania is authorized to perform the
+function of representing the State in Europeana, the European Digital Library that is
+co-funded by the European Commission, with a view to ensuring consistent promotion
+of Lithuania’s cultural heritage and its dissemination in the area of European cultural
+heritage. Accordingly, the Library is implementing two digitization projects funded by
+EU Structural Funds.
+
+
+
+39
+  France and Germany have already adopted legislation to back the effects of the MoU. The French act (LOI n°
+2012-287 du 1er mars 2012 relative à l'exploitation numérique des livres indisponibles du xxe siècle) foresees
+collective management, unless the author or publisher in question opposes such management. The German act
+(Gesetz zur Nutzung verwaister und vergriffener Werke und einer weiteren Änderung des Urheberrechtsgesetzes
+vom 1. Oktober 2013) contains a legal presumption of representation by a collecting society in relation to works
+whose rightholders are not members of the collecting society.
+
+
+
+15                            Electronic Information for Libraries (EIFL)
+In accordance with Lithuanian copyright law (Article 15), the Library signs agreements
+with authors for works in commerce for the non-exclusive right to exploit such works by
+digital reproduction or making publicly available. However restrictions in the
+agreements mean that the Library cannot contribute certain important project
+materials to Europeana. In some cases, it is impossible to get agreements at all because
+although the works are not orphaned, the copyright status of the work still cannot be
+ascertained.
+
+The project “Development of the Virtual Electronic Heritage System” has difficulties
+with musical works. According to the author agreements, musical works may only be
+listened to, and only within the territory of the Republic of Lithuania. Other uses such
+as downloading onto mobile devices are prohibited, as well as making the materials
+publicly accessible via third party computer networks, including cross-border. As a
+result, these works must be excluded from Europeana.
+
+The second project concerns the digitization of works of modern classical literature
+from the 20th and 21st centuries. For works in commerce, the National Library engages
+in processes to find the author for every work that takes much time and financial
+resources, and involves lengthy debates with publishers. One of the problems is that the
+authors or other copyright holders, with whom agreements should be signed, often do
+not know if the publisher is the owner of the copyright, for what period of time the
+copyright has been transferred, or if this period has expired. In addition, translators,
+illustrators, book or cover designers must also be found to give their permission.
+
+Experience from Poland:
+
+In Poland, the limitation of access to digitized material on dedicated terminals on the
+premises is a huge problem for university libraries. A broad definition of “the premises”
+is crucial for everyday activities. Digitization and mass preservation is a costly process.
+Libraries (in Poland and elsewhere) believe that duplication of costly digitization efforts,
+where an item is digitized by several times by different university libraries and is
+available only on the premises of each particular library, is no longer feasible. Libraries
+believe that in the near future they will share infrastructures for digitization activities.
+Libraries need an exception that meets the realities of the online environment - a
+modern equivalent of “on the premises” - that permits access at least within the network
+of the library.
+
+Experience from Latvia:
+
+While the state invests in the digital preservation of protected works that are considered
+part of the national heritage of Latvia, the digital works cannot usually be made
+available for society to enjoy (even in low resolution formats). So there is no equality
+between the interests of society, that has invested in the preservation of the work, and its
+availability for the benefit of society.
+
+Libraries in Latvia have highlighted problems digitizing photographs that are orphan
+works e.g. photographs from Soviet times that do not include the photographer’s name,
+and photographs from private collections. In rural areas, the local library (and museum)
+is a quasi cultural centre for the region documenting local history, culture and customs.
+Photos are an important part of studies and local publications, but it is hard for the
+
+
+
+16                      Electronic Information for Libraries (EIFL)
+institutions to undertake expensive investigations of copyright holders, and to make
+qualitative decisions. As photographs are excluded from the scope of Directive
+2012/28/EU on certain permitted uses of orphan works, libraries are looking to the
+legislator to resolve this outstanding issue. (Subject-matter not currently included in the
+scope of the Directive, in particular stand-alone photographs and other images, is
+subject to review in the Directive by October 2015).
+
+D.      Disabilities
+Directive 2001/29/EC40 provides for an exception/limitation for the benefit of people with
+a disability. The open formulation of this (optional) provision allows for rather different
+implementations at Member States level. At EU and international level projects have been
+launched to increase the accessibility of works and other subject-matter for persons with
+disabilities (notably by increasing the number of works published in special formats and
+facilitating their distribution across the European Union) 41.
+
+The Marrakesh Treaty42 has been adopted to facilitate access to published works for persons
+who are blind, visually impaired, or otherwise print disabled. The Treaty creates a mandatory
+exception to copyright that allows organisations for the blind to produce, distribute and make
+available accessible format copies to visually impaired persons without the authorisation of
+the rightholders. The EU and its Member States have started work to sign and ratify the
+Treaty. This may require the adoption of certain provisions at EU level (e.g. to ensure the
+possibility to exchange accessible format copies across borders).
+
+50(b) [In particular if you are an organisation providing services for persons with
+disabilities:] Have you experienced problems when distributing/communicating works
+published in special formats across the EU?
+YES. EIFL will comment on cross-border problems relating to the provision of services
+for persons with disabilities.
+The Lithuanian Library for the Blind (LAB), a member of the Lithuanian Research
+Library Consortium (LMBA), is a state-designated library with a mandate to ensure
+that blind and visually impaired people have equal rights to access information,
+participate in social life and learn about Lithuanian culture. LAB is the only producer of
+talking books – about 200 titles annually - in Lithuania. For school children and
+students, LAB produces academic materials in the user’s preferred format e.g. enlarged
+text, MP3, read by a speech synthesiser, and in multi-formats that comprise merged text
+and audio files. The copies are made under an exception in the Lithuanian Copyright
+and Related Rights Act (2012) Article 10.
+
+In 2010, a Virtual Library for the Blind (known as ELVIS), co-funded by the European
+Regional Development Fund, was established to provide materials in DAISY and other
+digital formats to end-users. Since then, 228 registered users who are blind, low sighted
+
+40
+   Article 5(3)b of Directive 2001/29.
+41
+   The European Trusted Intermediaries Network (ETIN) resulting from a Memorandum of Understanding
+between representatives of the right-holder community (publishers, authors, collecting societies) and interested
+parties        such         as       associations        for        blind      and      dyslexic        persons
+(http://ec.europa.eu/internal_market/copyright/initiatives/access/index_en.htm) and the Trusted Intermediary
+Global Accessible Resources (TIGAR) project in WIPO (http://www.visionip.org/portal/en/).
+42
+   Marrakesh Treaty to Facilitate Access to Published Works by Visually Impaired Persons and Persons with
+Print Disabilities, Marrakesh, June 17 to 28 2013.
+
+
+
+17                            Electronic Information for Libraries (EIFL)
+or have a print disability can download or stream about 7,000 digital audio publications
+that has helped to empower readers who no longer have to travel to the library.
+
+There are two problems relating to cross-border services.
+(1) While special format material is available only in the Lithuanian language, national
+minorities in Lithuania need literature in other languages. For example, books in Polish
+and Russian are in demand among senior readers, who constitute the greater part of the
+readership. However receiving physical and digital material from libraries in other
+countries, even within the EU, is difficult or impossible due to copyright rules.
+(2) With increased migration and movement of peoples around Europe, there is a
+growing demand for materials from Lithuanians with a visual disability living in other
+countries. For example, LAB has been contacted by emigrants living in Germany,
+Ireland, and Norway who would like to get reading material in their own language
+through ELVIS. As the service develops, LAB envisages increased demand from
+qualified users living abroad. The lack of a unified copyright exception throughout
+Europe, and the lack of import/export provisions is a major impediment to the service.
+In addition, the definition of persons with a visual impairment in the 2012 Act does not
+include other reading disabilities, such as dyslexia.
+
+
+51. If there are problems, what could be done to improve accessibility?
+EIFL urges the European Commission to ratify and implement the WIPO Marrakesh
+Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually
+Impaired or Otherwise Print Disabled. The Commission should expedite its
+transposition into EU law as a matter of urgency and amend, if necessary, Directive
+2001/29/EC. Ratification would be in line with the European Disability Strategy 2010-
+2020 that aims to ensure effective participation in society on an equal basis with others
+by, inter alia, removing legal barriers to education and lifelong learning systems.
+It is 29 years since a joint WIPO-UNESCO report recommended an international
+instrument that would permit production and distribution of accessible formats. EU
+ratification should not be bundled with other copyright issues under consideration, as
+this could have the effect of further delaying implementation into national law by
+several years. The current situation represents a market and a policy failure that must
+be fixed without delay.
+It is really unfortunate that persons with disabilities other than print disabilities, such as
+deaf people, were excluded from negotiations in the Marrakesh Treaty. In order to
+maintain the inclusive formulation of Article 5(3)b of Directive 2001/29, the provisions
+of the Treaty should be extended for the benefit of European citizens with any disability,
+to the extent required by the specific disability. An inclusive definition of the
+beneficiaries would avoid the inadvertent creation of a two-tier system of access to
+information depending on the nature of the disability.
+
+52.   What mechanisms exist in the market place to facilitate accessibility to content?
+How successful are they?
+[Open question]
+……………………………………………………………………………………………….
+
+
+
+
+18                       Electronic Information for Libraries (EIFL)
+

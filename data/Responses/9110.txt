@@ -1,0 +1,695 @@
+                                                         April response to the
+
+
+
+ Public Consultation on the review 
+     of the EU copyright rules
+                                                                                05 March 2014
+
+
+
+
+                                                              April – 2, place Sainte Opportune – 75001 Paris
+                              Tél: +33 1 78 76 92 80                                          Web : http://www.april.org  – Courriel : contact@april.org 
+Association régie par la loi du 1er juillet 1901, déclarée le 20 /11/1996 à la préfecture de Bobigny et publiée au Journal Officiel n°51 du 18/12/1996
+Identification information
+Name: April
+
+
+
+Registration Number : 748730712579­06 
+
+
+
+Type of respondent: Other ­ Non­profit organisation
+
+
+
+Contact Address: April – 2, place Sainte­Opportune – 75001 Paris – France. 
+
+
+
+
+April                       Public consultation on the review of the EU copyright rules   page 2/17
+Table of contents
+Identification information..............................................................................................................................2
+Table of contents............................................................................................................................................3
+Introduction....................................................................................................................................................4
+   About April...............................................................................................................................................4
+Answers to the consultation ..........................................................................................................................5
+   II. Rights and the functioning of the Single Market..................................................................................5
+   III. Limitations and exceptions in the Single Market................................................................................6
+       F. Teaching...........................................................................................................................................8
+       G. Research...........................................................................................................................................9
+       H. Disabilities.....................................................................................................................................11
+   V. Private copying and reprography.......................................................................................................12
+   VI. Respect for rights..............................................................................................................................14
+   VIII. Other issues....................................................................................................................................15
+       DRMs..................................................................................................................................................15
+       Interoperability and reverse engineering............................................................................................15
+       Abuse of personal data ......................................................................................................................16
+       Neutrality of technical intermediaries................................................................................................16
+       Databases............................................................................................................................................16
+       Free licenses.......................................................................................................................................16
+Conclusion...................................................................................................................................................17
+
+
+
+
+April                                   Public consultation on the review of the EU copyright rules                                                page 3/17
+Introduction
+The consultation on the review of the EU copyright rules launched by the European Commission is an opportunity  
+for April to call for a revised approach of copyright by the Commission.
+The current repressive approach, which considers that restrictions of individual rights are the norm in the field of 
+copyright, cannot create a relevant regulatory framework. The lack of even an acknowledgement to the issues 
+posed by digital rights management (DRM 1) tools, the absence of any question relating to interoperability for users 
+and their issues with the lack of interoperability, the lack of questioning whether levies are needed, are a few of the  
+issues that plague the consultation.
+April presents here its answer, and is always putting its expertise at the disposal of the Commission. We however 
+deeply regret that alternatives, new ways of approaching copyright and creation, are not even treated here. April has 
+been working on EU regulations for over 10 years, including a participation in the EUCD.INFO initiative in 2002,  
+whose   mission   was   to   inform   about   the   social   and   economic   negative   consequences   of   the   European   Union  
+Copyright Directive. April regrets that the Commission's stance has not changed, even though current practices and 
+user habits have shown that the current approach is no longer relevant. It is time for a complete revision of how 
+copyright is treated, including revising the false hypotheses which are currently slanting the copyright approach of 
+the Commission.
+
+
+
+
+About April
+A Pioneer of Free Software in France since 1996, April is a major  player in the democratisation of Free Software 
+and open standards, and in their spread to the general public, professionals and institutions  of the French­speaking 
+world. In the digital era that is ours, it also aims to inform the public on the dangers of an exclusive appropriation  
+of information and knowledge by private interests.
+The organisation is a non­profit and it has over 3,600 members, who use or produce Free Software.
+
+
+
+
+1 Digital Rights Management” (abbreviated “DRM”) refers to technical mechanisms designed to impose restrictions on 
+  computer users – a more accurate term to describe them could be Digital Restrictions Management or digital handcuffs.
+
+April                            Public consultation on the review of the EU copyright rules                            page 4/17
+Answers to the consultation 
+
+II. Rights and the functioning of the Single Market
+
+
+
+        11. Should the provision of a hyperlink leading to a work or other subject matter protected 
+        under   copyright,   either   in   general   or   under   specific   circumstances,   be   subject   to   the 
+        authorisation of the rightholder?
+
+NO
+The ability to hyperlink is a fundamental basis of how the Internet works. Most people do it every day, without  
+even thinking about it (for instance by making a link on their blog, or by sharing a link via micro­blogging). In  
+other words, a hyperlink is basically giving directions, pointing to available resources. It is a reference, and a  
+reference is not, and should not be, copyrightable. The rightholders already have full control: they choose whether  
+to make some works available on the Internet or not. Once it is online, a hyperlink is equivalent to make a reference  
+or a footnote.
+
+
+
+
+        12. Should the viewing of a web­page where this implies the temporary reproduction of a work 
+        or other subject matter protected under copyright on the screen and in the cache memory of the 
+        user’s   computer,   either   in   general   or   under   specific   circumstances,   be   subject   to   the 
+        authorisation of the rightholder?
+
+NO
+The temporary  copy is a technical requirement for viewing pages. As said before, the rightholder have full control 
+to publish a content on the Internet or not. Imposing a control on the access to something that has already been  
+made available is a serious threat to the right to read and share information.
+
+
+
+
+        13. [In particular if you are an end user/consumer:] Have you faced restrictions when trying to 
+        resell digital files that you have purchased (e.g. mp3 file, e­book)?
+
+YES
+The main issue we have encountered is with Digital Right Management (DRM). Their existence prevent users from 
+using digital files that they have purchased, let alone resell them. Similarly, it prevents users from choosing which 
+software to use, and prevent cross­platform reselling.
+
+
+April                          Public consultation on the review of the EU copyright rules                       page 5/17
+This type of restriction does not apply in the physical world: everyone can read a book wherever they want, and a  
+book can be resold by its successive owners without any limitation. On the contrary, DRMs are digital handcuffs 
+that prevent consumers from being able to do some or all of those things. Basically, DRMed works are not fully 
+owned by the consumer, even though he/she paid for it: the consumer cannot do what he/she wants with the work,  
+they just have a limited right to use the works as the rightholder sees fit.
+
+
+
+
+        14.   [In   particular   if   you   are   a   right   holder   or   a   service   provider:]   What   would   be   the 
+        consequences of providing a legal framework enabling the resale of previously purchased digital 
+        content? Please specify per market (type of content) concerned.
+
+A consumer having purchased (and not rented) works, whether digital of physical, should have the right to do  
+whatever they want with it – including reselling it.
+There   should   not   be   any   specific   framework   on   that   issue,   unless   the   Commission   considers   that   selling 
+copyrighted works is merely providing a license to use. If this is the case, consumers should be clearly informed  
+that they do not own a copy of the work in question, but a limited right to use it.
+
+
+
+
+        20. Are the current terms of copyright protection still appropriate in the digital environment?
+
+NO
+They should be shorter. 
+The non­stop extension of the terms of copyright prohibits re­making old works, as well as improving them or re­
+using them freely for new works. It creates an undue, state­sanctioned monopoly where the rise into public domain  
+would contribute to knowledge­sharing and access to those works.
+Moreover,  the  ongoing extension of  the terms  of  copyright  causes   many  issues  in the  Software   sector   :  with 
+restrictions applicable for 70 years after the death of the author, in the last 30 years no proprietary software is open  
+to the re­use and re­making. This is creating monopolies, without any benefits for the general public and/or society.
+However, the problem goes beyond the directive: the Berne convention is outdated and needs also to be revised, in 
+order to take into account the changes in production, diffusion and use of works.
+
+
+
+
+III. Limitations and exceptions in the Single Market
+
+
+
+        21. Are there problems arising from the fact that most limitations and exceptions provided in 
+        the EU copyright directives are optional for the Member States?
+
+YES
+
+
+April                            Public consultation on the review of the EU copyright rules                              page 6/17
+A first issue is that the lack of clarity on those limitations and exceptions is confusing for EU consumers. For  
+instance, on the circumvention of DRMs, April had to go in front of the French Conseil d'Etat to make sure that  
+consumers   actually   do   have   such   rights.   Another   example   would   be   the   optionality   of   a   fair   use   exception,  
+including for teachers: the fact that it was not transposed in France is causing a lot of issues for teachers, who are  
+often not able to use works or sometimes use them illegally.
+ Moreover, it is problematic in itself that consumers' rights are considered to be "exceptions" and not the rule. The  
+EU copyright directive needs to be rebalanced in favor of consumers, with their rights clearly stated and not  
+narrowly restricted to optional "exceptions".
+
+
+
+
+        22. Should some/all of the exceptions be made mandatory and, if so, is there a need for a higher 
+        level of harmonisation of such exceptions?
+
+YES
+Consumers rights need to be reaffirmed, clearly stated in the directive, and enforced in all member states.
+Currently, only one guarantee for consumer rights is mandatory (temporary acts of reproduction) while all other are 
+optional and much of the freedom­restricting measures are considered mandatory.
+This need a complete do­over:  consumers rights should not be called exceptions; any limitation to individual rights  
+should be clearly justified, their scope clearly defined and limited. Such limitations to individual rights need to 
+become the so­called "exceptions" rather than the rules in any future directive.
+
+
+
+
+        23.   Should   any   new   limitations   and   exceptions   be   added   to   or   removed   from   the   existing 
+        catalogue? Please explain by referring to specific cases.
+
+YES
+First of all, none of the current "exceptions" guaranteeing consumers' rights should be removed, as they are already 
+too weak. On the contrary, they all need to be made mandatory.
+Moreover, a guarantee regarding consumers' rights should be applied: consumers should have the right to expect  
+that the works they buy are DRM­free and interoperable.
+
+
+
+
+        24. Independently from the questions above, is there a need to provide for a greater degree of 
+        flexibility in the EU regulatory framework for limitations and exceptions?
+
+YES
+Consumers' rights need to be the rule, not the exception.
+As a consequence, they should not be restricted by the EU frameworks.
+On the contrary, it should be restrictions to consumers' rights and freedoms that are narrowly defined and limited  
+by the EU framework.
+
+
+April                             Public consultation on the review of the EU copyright rules                                 page 7/17
+        25. If yes, what would be the best approach to provide for flexibility? (e.g. interpretation by 
+        national   courts   and   the   ECJ,   periodic   revisions   of   the   directives,   interpretations   by   the 
+        Commission, built­in flexibility, e.g. in the form of a fair­use or fair dealing provision / open 
+        norm, etc.)? Please explain indicating what would be the relative advantages and disadvantages 
+        of such an approach as well as its possible effects on the functioning of the Internal Market.
+
+The approach needs to be reviewed: consumers' freedom should be the norm, and limitations to their freedoms the 
+exceptions. With such principles put into place, it would mean that the situation would be clearer, with less need for 
+periodic changes in legislation. This would provide more certainty for consumers, more unification on the internal 
+market and less issues related to the lack of flexibility.
+Moreover, a periodic revision of the directive does not seem realistic when one takes into account the time taken  
+for the current revision.
+
+
+
+
+        26.   Does   the   territoriality   of   limitations   and   exceptions,   in   your   experience,   constitute   a 
+        problem?
+
+YES
+Although it might not be the more significant issue here, territoriality constitutes a problem for consumers as it  
+adds uncertainties on what is authorised and what is not.
+
+
+
+
+        27. In the event that limitations and exceptions established at national level were to have cross­
+        border   effect,   how   should   the   question   of   “fair   compensation”   be   addressed,   when   such 
+        compensation is part of the exception? (e.g. who pays whom, where?)
+
+The question is problematic in itself, as it considers compensation be a given.
+
+
+
+
+        F. Teaching
+
+
+
+
+        42.   (a)   [In   particular   if   you   are   an   end   user/consumer   or   an   institutional   user:]   Have   you 
+        experienced specific problems when trying to use works or other subject­matter for illustration 
+        for teaching, including across borders? (b) [In particular if you are a right holder:] Have you 
+        experienced specific problems resulting from the way in which works or other subject­matter 
+        are used for illustration for teaching, including across borders?
+
+YES
+Teachers require two types of activities: searching for illustrative resources and sharing works. In both cases,  
+copyright   as   it   is   currently   enforced   prevents   the   use   of   some   resources.   For   instance,   when   searching   for  
+
+April                              Public consultation on the review of the EU copyright rules                                 page 8/17
+illustrative resources, teachers need to both search for such resources and for their authors, then contact them and 
+ask them for the right to use the resource. In the everyday life of a teacher, this is a real problem as it is very costly  
+in time. Moreover, it causes issues when the teacher want to share his/her works: even though the teacher has the 
+right to use the works, he/she might not have to right to share its lesson plan with other teachers.
+The lack of educative contents placed under a free license and the lack of a fair use doctrine for teachers effectively 
+prevent them from using works in their teaching.
+In sharing the works, another issue is the formats used: the lack of open standards in education structures and in  
+school's IT equipment choices lead teachers to being unable to exchange information, or require them to buy  
+specific software to be able to share their works.
+
+
+
+
+        43. If there are problems, how would they best be solved?
+
+A fair­use mechanism for teaching materials should be implemented, so that teachers can use various works with  
+their students without too many hindrances. Paternity of the works should of course always be recognized, but  
+allowances need to be made to allow teachers to use resources during their classes.
+Similarly,   mandating   the   use   of   open   standards   in   education   and   education   material   would   significantly   help 
+teachers to share their works.
+
+
+
+
+        45. If your view is that a legislative solution is needed, what would be its main elements? Which  
+        activities of the beneficiary institutions should be covered and under what conditions?
+
+The main element would be the establishment of a fair­use doctrine that allow teacher to use works for their classes  
+without having to ask for permission from the right holder.
+
+
+
+
+        G. Research
+
+
+
+
+        47.   (a)   [In   particular   if   you   are   an   end   user/consumer   or   an   institutional   user:]   Have   you 
+        experienced specific problems when trying to use works or other subject matter in the context 
+        of research projects/activities, including across borders? (b) [In particular if you are a right  
+        holder:] Have you experienced specific problems resulting from the way in which works or 
+        other  subject­matter are  used  in  the context  of  research projects/activities,  including  across 
+        borders?
+
+YES
+As related by April members, many researchers give up on reading specific articles because they are not publicly  
+available or the access is not provided by their university. And when the article is crucial and absolutely needed,  
+many researchers, after wasting time trying to find it online, need to make a formal request at a university library, 
+
+
+April                             Public consultation on the review of the EU copyright rules                               page 9/17
+spend time filling out forms, and then wait for the articles to arrive. As a consequence, researchers need to stop  
+their research as long as they cannot access the articles in question, and resume it later on. It leads to huge losses in  
+productivity.
+This   example   is   confirmed   by   UNESCO   in   its   report   (http://www.unesco.org/new/en/communication­and­
+information/portals­and­platforms/goap/)   Policy   guidelines   for   the   development   and   promotion   of   open   access 
+(2013). See for instance in Section 3 : "Many studies have shown that this is so even in wealthy research­intensive  
+countries. The Research Information Network (RIN) in the UK, concluded in a meta­report that brought together  
+the findings from five RIN­sponsored studies carried out on discovery and access51, that 'the key finding is that  
+access is still a major concern for researchers."
+
+
+
+
+        48. If there are problems, how would they best be solved?
+
+Research means that researchers need to compare their results to those of their colleagues. However, data are often 
+unavailable, and when they are, it is difficult to reuse. Indeed, releasing data represents a significant work which is  
+not considered in the criteria in researchers evaluations. This represents a significant obstacle to make progress in  
+open data.
+About articles, it is also well­known that Universities are facing rising costs to obtain access to the main publishers.  
+Thus, collaborations across Universities and countries are necessary to publicly release funded research: research 
+needs to be made available under a free/libre license, so that is can be studied and re­used by other researchers.
+
+
+
+
+        49. What mechanisms exist in the Member States to facilitate the use of content for research  
+        purposes? How successful are they?
+
+Universities or countries settled public websites in which authors can archive their work. For instance, in France,  
+we   can   cite   HAL   (http://hal.archives­ouvertes.fr/)   also   promoted   by   universities   (e.g.  http://hal.upmc.fr/)   or 
+institutes   (e.g.  http://hal.inria.fr/).   However,   these   repositories   do   not   eliminate   the   issues   around   scientific 
+publications.  Indeed,  to appear  in these  repositories,   the   journal  policy  (often  difficult   to  understand for   non­
+lawyers) must comply with such practices and it also requires an additional action from the authors. Thus, only a  
+small fraction of papers are available in this green open access way.
+About the gold open access, consisting in paying for a publication under a free/libre license, the cost could not be 
+endorsed by researchers themselves because no budget is dedicated.
+For   instance,   Lund   University   promotes   the   publication   in   open   access   journals 
+(http://www.lub.lu.se/en/publish/open­access/freely­accessible­journals/funding­for­article­processing­costs.html) 
+by providing funds to researchers.
+Such initiatives must be generalized in all European Universities.
+
+
+
+
+April                             Public consultation on the review of the EU copyright rules                              page 10/17
+        H. Disabilities
+
+
+
+
+        50.   (a)   [In  particular  if   you   are   a  person   with   a   disability  or   an   organisation  representing  
+        persons   with   disabilities:]   Have   you   experienced   problems   with   accessibility   to   content,  
+        including across borders, arising from Member States’ implementation of this exception? (b) 
+        [In particular if you are an organisation providing services for persons with disabilities:] Have 
+        you   experienced   problems   when   distributing/communicating   works   published   in   special 
+        formats across the EU? (c) [In particular if you are a right holder:] Have you experienced  
+        specific problems resulting from the application of limitations or exceptions allowing for the 
+        distribution/communication of works published in special formats, including across borders?
+
+YES
+Persons with a disability encounter many issues when trying to access copyrighted works.
+As said by the Commission in its Communication on Copyright in the Knowledge Economy   : "Persons with 
+disabilities   continue   to   experience   obstacles   in   accessing   information   or   knowledge   products.   In   particular,  
+visually impaired people are pushing to counter their “book famine” ­ only 5% of European publications are  
+available in accessible formats, a situation compounded by restrictions on cross­border distribution, even between  
+countries   sharing   a   language."   (source:  http://ec.europa.eu/internal_market/copyright/docs/copyright­
+infso/20091019_532_en.pdf  )
+The lack of accessible formats is compounded by the presence of DRMs. By technically restricting their use (for 
+instance by prohibiting copying), DRMs effectively prevent persons with disability from converting works to an 
+accessible format.
+Finally, the exception present in the current directive suffers from being optional and vague in its formulation. The 
+lack of clear regulation ensuring that people with disability can access works is preventing them from participating 
+in the cultural life on a daily basis. Such an "exception" needs to become compulsory, and as said before, such 
+individuals rights should not be narrowly defined as "exceptions" but rather as the rule in any future directive.
+
+
+
+
+        51. If there are problems, what could be done to improve accessibility?
+
+On the "book famine" issue, an immediate step that needs to be taken by the European Union is the ratification of 
+the   Marrakech   Treaty   for   Blind,   which   provides   significant   improvements   for   blind   people,   including   the 
+recognition   of   their   right   to   participate   in   the   cultural   life   of   the   community.   Other   disabilities   must   also   be 
+included in exceptions to copyright, and these must be made mandatory.
+Regarding DRMs, a reform of the EUCD Directive is sorely needed, in order to ensure that existing DRMs can be  
+circumvented, in order to allow for such legitimate uses. Moreover, the question of the legality and relevance of 
+DRMs needs to be posed.
+
+
+
+
+April                               Public consultation on the review of the EU copyright rules                                     page 11/17
+V. Private copying and reprography
+
+
+
+        64. In your view, is there a need to clarify at the EU level the scope and application of the 
+        private copying and reprography exceptions in the digital environment?
+
+YES
+The copyright exception of private copying is far from harmonised, creates legal uncertainties for individual use  
+and barriers to innovation.
+
+
+
+
+        65. Should digital copies made by end users for private purposes in the context of a service that  
+        has been licensed by rightholders, and where the harm to the rightholder is minimal, be subject  
+        to private copying levies?
+
+NO
+The question is problematic, as it is formulated in a way that implies that the fact that users make private copies is 
+undoubtedly harmful to rightholders. On the contrary, exceptions such as private copying were created with the  
+expectation that they do not interfere with the normal exploitation of the works – hence not creating any harm to  
+rightholders.
+Moreover, the consumer paid for licenses (when licenses costs are applicable) in order to have access to the work.  
+The act of copying is often needed for private use of the works that where purchased (whether copying it on a  
+portable music player, or copying it from one hard drive to the next). Such actions should not imply that the  
+consumer has to pay to pay again.
+
+
+
+
+        66. How would changes in levies with respect to the application to  online services (e.g. services  
+        based on cloud computing   allowing, for instance, users to have copies on different devices) 
+        impact   the   development   and   functioning   of   new   business   models   on   the   one   hand   and 
+        rightholders’ revenue on the other?
+
+Once again, the question is problematic.
+Levies have been put into place in order to compensate an alleged financial loss for authors and creators in the 
+exploitation   of   works.   This   loss   have   not   been   proven   so   far.   Before   putting   any   extra   tax   on   upcoming 
+technologies and innovation, the first question to ask is whether levies are justified, whether for online services or 
+not.
+Moreover, the issue is not only between "new business models" and "rightholders'" revenue: a key actor is missing  
+here is the consumer, who is the one paying for the levies.
+
+
+
+
+April                             Public consultation on the review of the EU copyright rules                              page 12/17
+        67.  Would you see an added value in making levies visible on the invoices for products subject 
+        to levies?
+
+YES
+If such levies were to be put into place, transparency must be at the forefront – both on the amount paid by 
+consumers and on the distribution of the money collected by the levy, including – but not limited to – how much 
+money is being used by collecting agencies and how much money goes to the creators and authors.
+
+
+
+
+        69. What percentage of products subject to a levy is sold to persons other than natural persons  
+        for purposes clearly unrelated to private copying? Do any of those transactions result in undue 
+        payments?   Please   explain   in   detail   the   example   you   provide   (type   of   products,   type   of 
+        transaction, stakeholders, etc.).
+
+It is surprising that the European Commission does not have such an information and would rely on stakeholders 
+testimonies.
+Moreover, the question is problematic, as it excludes natural persons, who are paying a levy even when their  
+purposes   are   clearly  unrelated  to  private  copying.   Memory  cards   for   cameras,   hard   drives   used  for   operating 
+systems, ... are still subjected to levies even though they are clearly not used for private copying.
+In   France,   the   collecting   agency   for   such   levies   has   been   under   much   public   and   legal   scrutiny   for   forcing 
+companies to due undue payments. (For more information, see for instance : http://www.pcinpact.com/news/86227­
+copie­privee­copie­france­revoit­discretement­sa­copie.htm.)   It   is   currently   close   to   impossible   for   a   small 
+organisation (a non­profit for instance) to avoid paying the levy even though their work is clearly unrelated to 
+private copying. To take our example as the association  April, our organisation ends up paying a levy, even though 
+the hard drives we are buying are for our servers, which do not have any purpose related to private copying.
+
+
+
+
+        70. Where such undue payments arise, what percentage of trade do they affect? To what extent 
+        could a priori exemptions and/or ex post reimbursement schemes existing in some Member 
+        States help to remedy the situation?
+
+The question is problematic as it infers that it is an issue only to the extend that it affects trade.
+Moreover, it is problematic that the Commission do not have independent figures on the issue by rather rely on 
+stakeholders testimonies.
+A priori exemptions and/or ex post reimbursement schemes are not answers to a problem that starts with the idea of  
+levies itself.
+
+
+
+
+        71. If you have identified specific problems with the current functioning of the levy system, how  
+        would these problems best be solved?
+
+There are many problems with the current levy system: it is based under the assumption that private copying  
+
+April                              Public consultation on the review of the EU copyright rules                                page 13/17
+created a loss that need to be compensated by a tax, it does not take under consideration the fact that consumers pay  
+for such a tax even when their purposes are clearly unrelated, and the system has been put into place without any  
+real answer on how to compensate those, both companies and individuals, who pay for a tax they should not have  
+to pay for.
+As a consequence, the system need to be redone and the legitimacy of levies be put into question and studied.
+
+
+
+
+VI. Respect for rights
+
+
+
+        75. Should the civil enforcement system in the EU be rendered more efficient for infringements  
+        of copyright committed with a commercial purpose?
+
+NO
+Once again, the question is problematic : a commercial purpose is not clearly defined here. It is not possible to  
+answer a question without have the terms clear, especially the “commercial purpose” which is not clearly defined.
+
+
+
+
+        76.   In   particular,   is   the   current   legal   framework     clear   enough   to   allow   for     sufficient  
+        involvement of intermediaries (such as Internet service providers, advertising brokers, payment 
+        service providers, domain name registrars, etc.) in inhibiting online copyright infringements 
+        with a commercial purpose? If not, what measures would be useful to foster the cooperation of 
+        intermediaries?
+
+First of all, the question is problematic: it implies that intermediaries should be involved in such issues. Indeed,  
+forcing   intermediaries   such   as   ISP   to   monitor   copyright   infringement   is   dangerous   for   privacy   and   for   net  
+neutrality.
+On the contrary, intermediaries should only be expected to provide the services they are offering, such as providing  
+Internet   access.   Moreover,   many   examples   show   that   when   intermediaries   are   expected   to   block   copyright  
+infringement, over­blocking is a frequent issue, as well as the use of such procedures for intimidation purposes.
+
+
+
+
+        77. Does the current civil enforcement framework ensure that the right balance is achieved 
+        between the right to have one’s copyright respected and other rights such as the protection of  
+        private life and protection of personal data?
+
+NO
+The  way the questions are phrased show that there is no balance between  the individual's rights and copyright.  
+Protection of private life and protection of personal data, which are stated in the question, are crucial rights, but 
+
+
+April                             Public consultation on the review of the EU copyright rules                              page 14/17
+they are not the only rights attacked by the current enforcement framework. For instance,  freedom of expression, 
+the right to communicate are also impacted by the imbalance in favor of copyright, yet they are not even mentioned 
+in the question.
+
+
+
+
+VIII. Other issues
+
+
+
+        80. Are there any other important matters related to the EU legal framework for copyright? 
+        Please explain and indicate how such matters should be addressed.
+
+Many issues are not addressed in the consultation:
+
+
+
+
+        DRMs
+
+One of the most important issues regarding copyright is not mentioned: Digital Rights Management (or DRM).
+DRMs' only functionality is to control access to digital works and to restrict their use. Moreover, they prevent 
+interoperability: DRMs are usually tied to the use of one (or few) software, prohibiting users to choose the program  
+with which they want to enjoy the works they have acquired, and usually demanding proprietary programs, hence 
+locking out free software users.
+Moreover, the circumvention of DRMs is prohibited by law, with some narrow exception. As a consequence,  
+consumers who unknowingly bought DRMed works are often unable to read them, and could be breaking the law 
+by even trying to read them.
+Despite all those problems, the issue of DRMs, which are an important part of the copyright directive, is not even  
+mentioned in the public consultation. Even though DRMs are one of the major issues for consumers, and are even 
+recognized to be inefficient and even detrimental to innovation, the Commission does not take it into account.
+Reforming copyright in Europe need to start with DRM and their abolition: they are inefficient in the goals they are  
+purported to have, as those technical measures need to be protected by law in order not to be bypassed; they do not  
+benefit consumers in any way, as their only aim is to restrict functionalities; they restrict competition, by forcing  
+consumers to have specific software (usually the dominant and/or monopolistic ones) to be able to enjoy some of  
+the works they have legally acquired; they limit knowledge sharing and archiving, as they lock cultural works in  
+such a way that they might not be readable in the future.
+
+
+
+
+        Interoperability and reverse engineering
+
+Similarly, interoperability issues are not tackled in this consultation. The only mention of interoperability is related 
+to  identifiers,  never  in the  context  of  interoperability  for  individual  users.  This  is  problematic,  as  the  lack  of 
+interoperability is one of the major issues encountered by users when using copyrighted works. Whether because of 
+proprietary formats or because of DRMs, many recent works are only proposed to consumers in formats that do not  
+
+
+April                           Public consultation on the review of the EU copyright rules                          page 15/17
+allow any interoperability. This is obviously an issue for individuals, who cannot enjoy the works they have legally 
+acquired; but it is also causing issues in competition: by creating vendor lock­in, its prevents consumers from  
+choosing other, more innovative solutions.
+This issue is made even stronger by the restrictions put on reverse engineering, which is currently only a narrowly­
+defined exception of the European Union Computer Programs Directive. Reverse­engineering is the one of the only  
+way left to ensure some interoperability for users. With the increase in vendor lock­in for DRMed, copyrighted  
+works, users often find themselves unable to enjoy works they have legally acquired, because their software is not  
+the   one   requested   by   the   rightholders.   Worse   still,   different   works   might   require   different   software,   or   even 
+different   software,   even   though  it   is   the  same   type   of   works.   It   is   the   case   for   instance   with  ebooks,   where  
+consumers can be locked in a given platform and cannot buy or exchange ebooks from another, even though the  
+works are essentially the same. As a consequence, a right to interoperability needs to be considered, to ensure 
+availability, competition and reduce technological lock­in.
+
+
+
+
+        Abuse of personal data 
+
+No mention is made in the consultation of the issue regarding the release of personal data of individual users to  
+private companies.
+
+
+
+
+        Neutrality of technical intermediaries
+
+Encouraging intermediaries to take "voluntary measures" against alleged online infringement causes serious issues  
+to fundamental rights, which are not mentioned anywhere in the consultation. Allowing intermediaries to become a 
+private police, by tracking users and taking down content without any court order poses serious threats to due  
+process and presumption of innocence.
+Moreover, the experience of the Digital Millennium Copyright Act (DMCA) in the United Stats shows that such  
+private police measures are often used to intimidate and take down content without any legal basis.
+
+
+
+
+        Databases
+
+Another issue is the specific rights granted to databases by the 96/9/EC Directive, which April regrets is not taken 
+into consideration by the current consultation. Indeed, the Sui Generis right of the database creator, which can  
+prohibit the re­use of information contained in a database even when this information is public domain, recreate a 
+monopoly and a limitation to the access to information.
+
+
+
+
+        Free licenses
+
+Finally, as a last mention, April regrets that the Commission seems to consider copyright to be only consisting of 
+proprietary licenses, without taking into account free/libre licenses, although those are developing in use. Indeed,  
+the undertone in the consultation is that all authors and copyright holders demand to be paid for the use of their  
+works by a license system.
+
+April                               Public consultation on the review of the EU copyright rules                                   page 16/17
+Conclusion
+As a conclusion, April is advocating for a new approach for the Commission work, which it is currently based on a  
+willingness to maintain outdated economic models based on controlling digital resources and private use. Deciding  
+on a new directive on the same basis seems reminiscent of lemmings rushing to the sea. Let's promote the creative 
+uses of the Internet, innovation,  and the development  of new economic models respectful  of  users,  as  well  a  
+fundamental rights instead.
+
+
+
+
+April                        Public consultation on the review of the EU copyright rules                page 17/17
+

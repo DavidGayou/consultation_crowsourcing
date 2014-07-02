@@ -1,0 +1,459 @@
+                             Public Consultation
+                   on the review of the EU copyright rules
+
+
+
+
+PLEASE IDENTIFY YOURSELF:
+
+
+Name:                 WALDORF FROMMER Rechtsanwälte
+                      Beethovenstraße 12
+                      80336 München
+                      Deutschland
+
+
+
+
+TYPE OF RESPONDENT (Please underline the appropriate):
+
+
+  Other (Please explain):
+
+WALDORF FROMMER ist eine auf das Urheber- und Medienrecht spezialisierte Rechtsan-
+waltskanzlei, die zahlreiche namhafte Film-, Musik- und Verlagsmandanten berät und vertritt.
+Die Kanzlei ist seit vielen Jahren mit der Durchsetzung der Rechte am geistigen Eigentum in
+Fällen von gewerblichen bzw. nicht gewerblichen Rechtsverletzungen im Internet betraut.
+
+Aufgrund der Erfahrungen im Bereich der Rechtsdurchsetzung wird zu den Fragen 75 bis 77
+(„Respect for rights“) eingehend Stellung genommen.
+
+
+
+
+                                                                                          1
+VI. Respect for rights
+
+75. Should the civil enforcement system in the EU be rendered more efficient for in-
+fringements of copyright committed with a commercial purpose?
+   YES – Please explain
+
+Die Frage zielt offenbar auf die unterschiedliche Zweckrichtung von Urheberrechtsverletzun-
+gen ab: die zu gewerblichen bzw. geschäftlichen Zwecken begangenen einerseits und die
+die zu rein privaten Zwecken begangenen anderseits. Eine derartige Differenzierung ist bei
+Rechtsverletzungen im Internet vielfach weder sachgerecht noch zielführend.
+
+Der den Rechteinhabern durch Online-Piraterie entstehende massive Schaden hängt regel-
+mäßig gerade nicht davon ab, ob der Rechtsverletzer zu gewerblichen Zwecken handelt oder
+nicht. In den beiden vorherrschenden Piraterieformen, dem Filehosting einerseits und dem
+Filesharing (P2P) andererseits, sind die primär rechtsverletzenden Handlungen, nämlich der
+Upload sowie der Download der geschützten Inhalte, regelmäßig rein privater Natur.
+
+Dieser Umstand scheint im Bereich des Filesharing (P2P) durchaus bekannt zu sein. Hier
+wird der „private“ Nutzer bekanntlich sowohl zum Anbieter (Uploader) als auch zum Abrufen-
+den (Downloader).
+
+Im Bereich des Filehosting scheint jedoch teils das Missverständnis zu bestehen, dass es
+sich insgesamt um rein gewerblich motivierte Rechtsverletzungen handele. Richtig ist zwar,
+dass die Filehosting-Dienste (Bereitstellung von Speicherplatz) und die Betreiber der flankie-
+renden Portalseiten bzw. Link-Sammlungen regelmäßig gewerblich agieren, wobei sie sich
+zumeist durch Werbung bzw. diverse Bezahlmodelle finanzieren. Wie beim Filesharing ist
+jedoch auch beim Filehosting entscheidend, dass sowohl die illegale Bereitstellung der ge-
+schützten Inhalte (Upload auf die Server der Filehoster) als auch deren – ebenfalls illegaler –
+Abruf (Download) nahezu ausschließlich durch Privatpersonen erfolgt.
+
+Die durch private Nutzer begangenen Rechtsverletzungen können zwar nicht mit gewerbli-
+chen Rechtsverletzungen gleichgesetzt werden. Keinesfalls jedoch dürfen privat motivierte
+Rechtsverletzungen bagatellisiert oder gar von der Rechtsverfolgung ausgenommen werden.
+Dies wäre dem Respekt vor dem geistigen Eigentum in der Gesellschaft in jeder Hinsicht
+abträglich.
+
+Bei Urheberrechtsverletzungen im Internet muss daher unabhängig von der gewerblichen
+oder nicht gewerblichen Zweckrichtung der Rechtsverletzung ein effektiver Rechtsschutz
+gewährleistet werden.
+
+
+
+
+                                                                                             2
+76. In particular, is the current legal framework clear enough to allow for sufficient in-
+volvement of intermediaries (such as Internet service providers, advertising brokers,
+payment service providers, domain name registrars, etc.) in inhibiting online copyright
+infringements with a commercial purpose? If not, what measures would be useful to
+foster the cooperation of intermediaries?
+[Open question]
+
+Zentrales Problem bei der Durchsetzung von Urheberrechten im Internet ist die Anonymität,
+in der sich Rechtsverletzer und Vermittler („intermediaries“) regelmäßig bewegen: Up- und
+Downloader verstecken sich hinter Access-Providern, Filehostern und Anonymisierungs-
+diensten. Die Internetseiten der Filehoster, Portalseiten und Link-Sammlungen verstecken
+sich hinter ausländischen Domainvergabestellen. Die Vermittler wiederum verstecken sich
+hinter Haftungsprivilegien u.s.w.
+
+Eine Rechtsverfolgung und damit auch eine nachhaltige Prävention vor weiteren Rechtsver-
+letzungen ist jedoch nur dann möglich, wenn der Rechtsverletzer bekannt ist. Dringender
+Handlungsbedarf zur Gewährleistung eines effektiven Rechtschutzes besteht daher insbe-
+sondere dort, wo sich Vermittler weigern, ihre Nutzer zu identifizieren.
+
+Dies gilt vor allem bei Rechtsverletzungen in Filesharing-Netzwerken sowie über File-
+hoster, die den wesentlichsten Teil der Urheberrechtsverletzungen im Internet ausmachen.
+
+
+
+I. Eine nachhaltige Bekämpfung von Internetpiraterie ist untrennbar mit der Deanonymisie-
+   rung der eigentlichen Rechtsverletzer verbunden. Eine (nachträgliche) Deanonymisierung
+   ist jedoch nur dann möglich, wenn die involvierten Vermittler verpflichtet werden, die Na-
+   men und Adressen ihrer Nutzer bzw. die für eine Identifizierung zwingend erforderlichen
+   Verbindungsdaten (IP-Adressen) zu speichern (Registrierungs- bzw. Speicherpflicht).
+
+   Das Europarecht sieht in Art. 8 der Richtlinie 2004/48/EG vor, dass Auskunftsverfahren
+   zur Identifizierung von Rechtsverletzern bzw. Nutzern gerade auch gegenüber Vermittlern
+   möglich sein müssen. Der Auskunftsanspruch gegenüber Vermittlern läuft jedoch sowohl
+   bei Rechtsverletzungen in Filesharing-Netzwerken als auch bei Rechtsverletzungen über
+   Filehoster regelmäßig ins Leere, da die für eine Identifizierung erforderlichen Daten so-
+   wohl von Access-Providern als auch Filehostern mangels entsprechender Rechtsgrund-
+   lagen entweder nicht gespeichert oder nicht herausgegeben werden.
+
+
+
+1. Insbesondere beim illegalen Filesharing kann der Rechtsverletzer ausschließlich mit Hilfe
+   des Access-Providers identifiziert werden, da der Rechtsverletzer im Filesharing-
+   Netzwerk nur unter der vom Access-Provider vergebenen IP-Adresse in Erscheinung tritt.
+
+   Nur dem Access-Provider ist bekannt, welchem seiner Kunden er zu welchem Zeitpunkt
+   eine IP-Adresse zur Nutzung des Internets zuweist. Um einen Rechtsverletzer zu identifi-
+   zieren, muss der Access-Provider daher in seinen Datenbanken nachsehen können, an
+   welchen seiner Nutzer er die für eine Rechtsverletzung verwendete IP-Adresse vergeben
+   hat.
+
+                                                                                           3
+   Gegenwärtig ist den Access-Providern die Zuordnung der Verbindungsdaten jedoch viel-
+   fach nicht möglich. Zum einen besteht Verunsicherung, inwieweit etwa die auf Grundlage
+   der Richtlinie 2006/24/EG gespeicherten (Verbindungs-)Daten auch zur Erteilung von
+   Auskünften nach Art. 8 der Richtlinie 2004/48/EG herangezogen werden dürfen.
+
+   Zum anderen ist die Vorratsdatenspeicherung gerade in Deutschland noch nicht einmal
+   umgesetzt, so dass Auskunftsverfahren nach Art. 8 der Richtlinie 2004/48/EG nur dann
+   möglich sind, wenn ein Access-Provider die erforderlichen Verbindungsdaten auf freiwilli-
+   ger Basis erhebt und speichert. Sofern der Access-Provider nicht (freiwillig) speichert, ist
+   eine Identifizierung der Nutzer von vornherein ausgeschlossen. Denn aufgrund fehlender
+   nationaler Regelungen kann ein deutscher Access-Provider nicht zur Erhebung und
+   Speicherung der zur Identifizierung erforderlichen Verbindungsdaten verpflichtet werden
+   (u.a. Oberlandesgericht Düsseldorf, 07.03.2013, Az. I-20 W 162/11 – Vodafone). Rechts-
+   verletzungen, die von Nutzern nicht speicherwilliger Access-Provider begangen werden,
+   können daher generell nicht verfolgt werden.
+
+   Die Mehrheit der deutschen Access-Provider speichert die Daten zwar zumindest für ei-
+   nen kurzen Zeitraum (bis zu maximal sieben Tage) aus technischen Gründen freiwillig.
+   Andere marktstarke Access-Provider, wie insbesondere Vodafone, sehen hierfür jedoch
+   keinen Anlass. Vodafone besitzt in Deutschland zwar nur ca. 10 Prozent Marktanteil bei
+   Breitbandanschlüssen. Die Kunden von Vodafone sind jedoch für ca. 30 Prozent aller in
+   Filesharing-Netzwerken ermittelten Rechtsverletzungen verantwortlich. Weil Rechtsver-
+   letzungen in Filesharing-Netzwerken ausschließlich über die Zuordnung der verwendeten
+   IP-Adressen aufgeklärt werden können, wechseln zahlreiche Rechtsverletzer gezielt zu
+   den nicht speichernden Access-Providern („Safe Harbour“). Hierdurch wird diesen Ac-
+   cess-Providern zwangsläufig ein Wettbewerbsvorteil gegenüber allen speicherwilligen
+   Access-Providern verschafft.
+
+   Es ist daher dringend geboten, dass die Richtlinie 2006/24/EG bzw. eine entsprechende
+   Speicherverpflichtung für Access-Provider in allen Mitgliedstaaten umgesetzt wird. Zu-
+   dem muss klargestellt werden, dass auf die gespeicherten Daten auch zur Erfüllung des
+   Auskunftsanspruchs nach Art. 8 der Richtlinie 2004/48/EG (Verletzung von Immaterialgü-
+   terrechten) zurückgegriffen werden kann und muss.
+
+
+
+2. Bei Rechtsverletzungen, die über Filehoster bzw. deren flankierende Portalseiten und
+   Link-Sammlungen begangen werden, kann die Anonymität des Rechtsverletzers in aller
+   Regel nur unter Mithilfe des von ihm genutzten Filehosters aufgehoben werden. Bekann-
+   te Filehoster bzw. Portalseiten und Link-Sammlungen sind etwa share-online.biz, uploa-
+   det.net, youtube.com, myvideo.de, clipfish.com, kinox.to, movie4k.to, mygully.com oder
+   boerse.bz.
+
+   Für Dritte ist nur die IP-Adresse bzw. Domain des Filehosters sichtbar. Welche Nutzer
+   bzw. welche Nutzer-IP-Adressen auf den Filehosting-Dienst zugreifen, kann hingegen nur
+   der Betreiber des Filehosters selbst sehen. Nur er kennt die für eine Identifizierung erfor-
+   derlichen Daten.
+
+
+
+                                                                                             4
+   Der Auskunftsanspruch aus Art. 8 der Richtlinie 2004/48/EG läuft gerade hier mangels
+   Registrierungs- und Speicherpflicht regelmäßig leer, denn freiwillig geben die Nutzer ihre
+   realen Namen nicht an, sondern verwenden in aller Regel bloße Pseudonyme. Soweit
+   zumindest aber Verbindungsdaten (IP-Adressen der Nutzer) von den Filehostern zu ei-
+   genen Zwecken gespeichert werden, berufen sich Filehoster (z.B. youtube) regelmäßig
+   darauf, dass gemäß Art. 8 der Richtlinie 2004/48/EG nur natürliche Namen und postali-
+   sche Anschriften, nicht jedoch gespeicherte IP-Adressen herauszugeben seien.
+
+   Zum Schutz seiner Rechte muss der Rechteinhaber daher auf eigene Kosten laufend das
+   gesamte Internet (d.h. unzählige Filehoster bzw. deren Portalseiten und Link-
+   Sammlungen) nach Rechtsverletzungen an seinen Werken durchsuchen. Zu jedem Fund
+   muss er den jeweiligen Filehoster bzw. die Portalseite oder Link-Sammlung individuell zur
+   Beseitigung der Rechtsverletzung auffordern und die Löschung der hochgeladenen Da-
+   teien bzw. Links überwachen („notice and take down“).
+
+   Ein Vorgehen gegenüber dem eigentlichen Rechtsverletzer (Uploader) scheidet jedoch in
+   aller Regel aus, da der Uploader vom Filehoster nicht identifiziert wird. Die Betreiber der
+   Filehoster haben ebenfalls keinerlei Sanktionen zu befürchten, da sie von den mitglied-
+   staatlichen Gerichten selbst dann (noch) als haftungsprivilegiert i.S.d. Art. 12 bis 15 der
+   Richtlinie 2000/31/EG angesehen werden, wenn sie eine Identifizierung der Uploader
+   bewusst verweigern. Im Ergebnis können anonyme Uploader wieder und wieder Inhalte
+   illegal bereitstellen, was für den Rechteinhaber ein kostenintensives Katz-und-Maus-Spiel
+   zur Folge hat. Ein nachhaltiger Rechtsschutz ist damit ausgeschlossen.
+
+   An einer freiwilligen Speicherung zur gegebenenfalls erforderlichen Auskunftserteilung
+   haben die meisten Filehoster naturgemäß kein Interesse. Im Gegenteil: Die Betreiber der
+   Filehoster werden durch ihre Haftungsprivilegierung sogar ermutigt, die anonyme Verbrei-
+   tung illegaler Inhalte bis zu einer Beseitigungsaufforderung („notice“) durch den Rechte-
+   inhaber billigend in Kauf zu nehmen bzw. für die eigenen wirtschaftlichen Interessen aus-
+   zunutzen. Die kostenlosen (illegalen) Angebote steigern die Attraktivität der Dienste mas-
+   siv. Die erhöhten Zugriffszahlen lassen sich durch erhöhte Werbeeinnahmen unmittelbar
+   gewinnbringend verwerten. Durch die Gewährleistung von Anonymität wird zudem der
+   Verkauf kostenpflichtiger (anonym zahlbarer) Premiumaccounts gefördert.
+
+a. Als Ausgleich für die weitgehenden Haftungsprivilegierungen der Filehoster ist daher drin-
+   gend erforderlich, die Registrierungs- und Speicherpflichten im Internet dahingehend
+   zu erweitern, dass insbesondere Filehoster die Namen, Adressen und Verbindungsdaten
+   ihrer Kunden erheben und für etwaige urheberrechtliche Auskunftsansprüche der Rechte-
+   inhaber zumindest für kurze Zeit vorhalten müssen. Ergänzend ist klarzustellen, dass der
+   Auskunftsanspruch nach Art. 8 der Richtlinie 2004/48/EG nicht nur Name und Anschrift,
+   sondern auch die gespeicherten Verbindungsdaten (IP-Adressen) umfasst, sofern dies
+   für die Identifizierung des Rechtsverletzers erforderlich ist. Die Auskunftsansprüche
+   selbst könnten dabei ohne Weiteres unter den Vorbehalt einer richterlichen Prüfung ge-
+   stellt werden (Richtervorbehalt).
+
+   Die Einführung einer entsprechenden Registrierungspflicht stünde vor allem auch im Ein-
+   klang mit der Rechtsprechung des Europäischen Gerichtshofs. Dieser hatte insbesondere
+
+                                                                                            5
+   in seiner Entscheidung vom 12.07.2011 (Az. C-324/09 – „L’Oréal“ – dort Rn. 142) festge-
+   stellt, dass dem Betreiber einer Plattform im Internet (dort eBay) zum Schutz von Rechten
+   des geistigen Eigentums Maßnahmen aufgegeben werden können, die die Identifizierung
+   seiner Kunden ermöglichen und zur Vorbeugung gegen (erneute) Rechtsverletzungen
+   beitragen. Für die Betreiber von Filehosting-Diensten kann nichts anderes gelten.
+
+b. Um die Einhaltung der Registrierungs- bzw. Speicherpflicht sicherzustellen, sollte aller-
+   dings auch eine subsidiäre Haftung des Filehosters, sofern er einen seiner Nutzer
+   schuldhaft nicht identifizieren kann oder will.
+
+   Der Umfang der Haftung sollte dabei zumindest die für die Ermittlung der Rechtsverlet-
+   zung und die Geltendmachung des Beseitigungsanspruchs erforderlichen Kosten umfas-
+   sen (Kosten- bzw. Aufwendungsersatzanspruch). Soweit der Filehoster einen Nutzer
+   schuldhaft nicht identifizieren kann, wäre es zudem gerechtfertigt, den Betreiber subsidiär
+   auf Erstattung des verursachten Lizenzschadens haften zu lassen. Letzteres ist schon
+   deshalb gerechtfertigt, da der Filehoster in aller Regel unmittelbar von der Verletzung der
+   Lizenzrechte profitiert (Attraktivitätssteigerung seines Angebots, Werbeeinnahmen etc.),
+   sich hierfür jedoch jedwede Aufwendungen erspart.
+
+
+
+3. Die Rechtsdurchsetzung im Internet wird zudem oft dadurch verhindert, dass Domainin-
+   habern eine anonyme Nutzung von Top-Level-Domains ermöglicht wird. Bei der Wahl ih-
+   rer Top-Level-Domains können Filehoster und sämtliche sonstigen Seitenbetreiber Do-
+   mainvergabestellen nutzen, ohne dabei ihre Identität offen legen zu müssen, z.B. bei
+   der für die Vergabe der Domain .to zuständigen Vergabestelle für das Königreich Tonga.
+   Unter deren „.to“-Domains sind vor allem zahlreiche Filehoster vertreten, die erkennbar
+   strukturell rechtsverletzend agieren (z.B. kinox.to, movie4k.to). Eine Rechtsverfolgung ist
+   hier bereits mangels Identifizierbarkeit des Seitenbetreibers nahezu unmöglich.
+
+   Dringend erforderlich ist daher auch die Einführung eines weltweiten Standards zur Ver-
+   gabe von Top-Level-Domains. Es sollte seitens der EU auf internationaler Ebene darauf
+   hingewirkt werden, die Vergabe von Top-Level-Domains an eine Überprüfung des Do-
+   maininhabers durch die Domainvergabestelle (Identverfahren), die Abrufbarkeit der Inha-
+   berdaten durch Dritte (Whois-Datenbank) und eine Mindestimpressumspflicht (Name und
+   Anschrift) zu knüpfen.
+
+   Dies sollte insbesondere auch im Rahmen der zukünftigen Gestaltung der Internet-
+   Governance berücksichtigt werden (vgl. Pressemitteilung der europäischen Kommission
+   vom 12.02.2014, IP/14/142 sowie die entsprechende Mitteilung der Kommission vom
+   12.02.2014, COM(2014) 72 final).
+
+
+
+4. Geboten ist zudem, dass auch sog. Anonymisierungsdienste (TOR-Server, VPN-
+   Dienste wie iPredator u.ä.) kooperieren, indem sie die Daten ihrer Nutzer speichern. Ge-
+   gen die Verwendung eines sog. Anonymisierungsdienstes im Internet bestehen grund-
+   sätzlich zwar keine Bedenken, in Fällen von Rechtsverletzungen muss die Anonymität
+
+
+
+                                                                                            6
+   des Rechtsverletzers jedoch i.S. des Art. 8 der Richtlinie 2004/48/EG in einem rechts-
+   staatlichen Verfahren (Richtervorbehalt) aufhebbar sein.
+
+   Gegenwärtig entwickeln sich sogar Geschäftsmodelle, die ausdrücklich mit der Möglich-
+   keit zur anonymen Begehung von Rechtsverletzungen werben (in Deutschland z.B. Free-
+   domFighterBox, Sorglosbox). Die Bereitstellung anonymer Internetzugänge zur Bege-
+   hung von Rechtsverletzungen kann jedoch kein von der Rechtsordnung toleriertes Ge-
+   schäftsmodell sein.
+
+
+
+5. Geboten ist schließlich auch eine Registrierungs- und Speicherpflicht für sämtliche
+   Hotspot-Betreiber. Dies gilt jedenfalls für diejenigen Hotspot-Betreiber, die von etwaigen
+   Haftungsprivilegierungen nach Art. 12 und 15 der Richtlinie 2000/31/EG profitieren wollen.
+
+   Eine Haftungsprivilegierung ist auch bei Hotspot-Betreibern nur dann gerechtfertigt, so-
+   weit diese nicht nur die Privilegien, sondern auch die Verantwortung und die Pflichten ei-
+   nes Access-Providers übernehmen: Insbesondere also die Pflicht zur Registrierung und
+   Vorratsdatenspeicherung sowie die Pflicht zur Erteilung von Auskünften i.S.d. Art. 8 der
+   Richtlinie 2004/48/EG.
+
+
+
+II. Bei zahlreichen Filehostern, Portalseiten und Link-Sammlungen mit unbekanntem Sitz
+    oder Sitz im nichteuropäischen Ausland können die Rechteinhaber noch nicht einmal ei-
+    ne Beseitigung der illegalen Inhalte („notice and take down“) durchsetzen. Freiwillig kom-
+    men diese Filehoster, Portalseiten und Link-Sammlungen den Beseitigungsaufforderun-
+    gen nicht oder jedenfalls nicht hinreichend nach. Eine gerichtliche Inanspruchnahme
+    scheitert in aller Regel bereits daran, dass die Betreiber nicht ermittelbar sind (etwa bei
+    Verwendung einer „.to“-Domain, siehe oben).
+
+   Um Rechtsverletzungen über solche Vermittler einzugrenzen, ist es technisch zwar mög-
+   lich, dass Access-Provider den Zugang zu diesen illegalen Internetangeboten verhin-
+   dern („notice and block“). Hierzu sind die Access-Provider jedoch gerade in Deutsch-
+   land nicht bereit. Die gerichtliche Durchsetzung derartiger Sperrungen scheitert an einer
+   entsprechenden Rechtsgrundlage im deutschen Recht (vgl. Oberlandesgericht Hamburg,
+   Entscheidungen vom 22.12.2010, Az. 5 U 36/09 sowie 21.11.2013, Az. 5 U 68/10).
+
+   Das Europarecht hingegen sieht derartige Sperrungen bzw. gerichtliche Anordnungen,
+   die die Beseitigung und Verhinderung derartiger Rechtsverletzung verlangen, in Art. 12
+   Abs. 3 (i.V.m. Art. 18 Abs. 1) und den Erwägungsgründen 40 und 45 der Richtlinie
+   2000/31/EG ausdrücklich vor. Zudem fordert Art. 8 Abs. 3 der Richtlinie 2001/29/EG,
+   dass die Beantragung gerichtlicher Anordnungen gegenüber sämtlichen Vermittlern mög-
+   lich sein muss, deren Dienste von einem Dritten zur Verletzung eines Urheberrechts oder
+   verwandter Schutzrechte genutzt werden. Hierunter fallen also insbesondere (auch) die
+   Access-Provider, die den Zugang zu den illegalen Downloadangeboten vermitteln. Dies
+   wird von Erwägungsgrund 59 der Richtlinie 2001/29/EG nochmals bekräftigt, in dem es
+   heißt: „Oftmals sind diese Vermittler selbst am besten in der Lage, diesen Verstößen ein
+   Ende zu setzen. Daher sollten die Rechtsinhaber – unbeschadet anderer zur Verfügung
+
+                                                                                             7
+   stehender Sanktionen und Rechtsbehelfe – die Möglichkeit haben, eine gerichtliche An-
+   ordnung gegen einen Vermittler zu beantragen, der die Rechtsverletzung eines Dritten in
+   Bezug auf ein geschütztes Werk […] in einem Netz überträgt.“
+
+   Anderes als in Deutschland sind daher in zahlreichen anderen Mitgliedsstaaten der EU
+   (u.a. in Frankreich, England, Italien, Dänemark, Finnland, Belgien, Niederlande, Irland)
+   entsprechende Sperrungen möglich und durchsetzbar. Um den urheberrechtlichen Besei-
+   tigungsanspruch europaweit zu gewährleisten, müssen jedoch in allen Mitgliedstaaten
+   entsprechende Sperransprüche gegenüber Access-Providern gesetzlich normiert werden.
+   Gegebenenfalls können auch die Sperrungen unter den Vorbehalt einer richterlichen Prü-
+   fung (Richtervorbehalt) gestellt werden.
+
+
+
+III. Geboten ist darüber hinaus, dass Rechtsgrundlagen geschaffen werden, um die Werbe-
+     partner der Filehoster in Anspruch nehmen zu können. Die Werbepartner sind keine un-
+     mittelbaren Vermittler der rechtsverletzenden Inhalte, sie fördern die Vermittlung jedoch,
+     indem sie diese finanzieren. Die Werbeeinnahmen sind oft die Haupteinnahmequelle der
+     Betreiber von Filehostern bzw. flankierenden Portalseiten und Link-Sammlungen.
+
+   Für die Werbepartner besteht keine Verpflichtung, Werbung im Umfeld illegal zugänglich
+   gemachter Inhalte zu unterlassen. Gegen ein freiwilliges Unterlassen entsprechender
+   Werbung spricht vor allem die hohe Attraktivität, die die illegalen Angebote aufgrund ihrer
+   naturgemäß hohen Zugriffszahlen für die Werbeindustrie haben.
+
+   Ein Unterlassungsanspruch gegenüber Werbetreibenden ist daher insbesondere dann
+   geboten, wenn offensichtlich ist, dass etwa über Filehoster, Portalseiten oder Link-
+   Sammlungen rechtsverletzende Inhalte verbreitet werden bzw. der Betreiber seinen
+   Dienst strukturell auf die Vermittlung von Rechtsverletzungen anlegt.
+
+
+
+IV. Gerade bei Filehostern, die das Streamen von Inhalten ermöglichen, ist es zudem ange-
+    zeigt, nicht nur die Uploader, sondern auch die Downloader stärker zur Verantwortung
+    zu ziehen. Dies gilt zumindest beim Abruf (temporärem Download) offensichtlich illegal
+    zugänglich gemachter Streaminginhalte.
+
+   Im Namen der deutschen Bundesregierung hat sich am 30.12.2013 das Ministerium für
+   Justiz und Verbraucherschutz dahingehend geäußert (Bundestagsdrucksache 18/195),
+   dass das „Betrachten“ von gestreamten Filmwerken über das Internet für rechtlich unbe-
+   denklich gehalten werde.
+
+   Begründet wurde dies mit der urheberrechtlichen Schrankenregelung § 44a UrhG, die
+   Art. 5 Abs. 1 der Richtlinie 2001/29/EG umsetzt. Das Ministerium stellte jedoch auch klar,
+   dass eine Bewertung letztlich dem Europäischen Gerichtshof überlassen bleibe. In die-
+   sem Zusammenhang wurde explizit auf die aktuelle Überprüfung des europäischen Ur-
+   heberrechts durch die Europäische Kommission verwiesen.
+
+
+
+
+                                                                                             8
+   Inwieweit der Abruf (bzw. temporäre Download) von urheberrechtlich geschützten Filmen
+   im Wege eines Streams rechtswidrig oder von der Schrankenregelung in Art. 5 Abs. 1 der
+   Richtlinie 2001/29/EG (§ 44a UrhG) gedeckt ist, bleibt somit vorerst unklar. Die Aussage
+   des Ministeriums hat daher zu einer noch größeren Verunsicherung sowohl der Nutzer
+   als auch der Rechteinhaber in Deutschland geführt.
+
+   Jedenfalls bei offensichtlich illegal zugänglich gemachten Streamingangeboten (z.B. ak-
+   tueller Kinofilm) kann jedoch auch ein bloß temporärer Download nicht gerechtfertigt sein.
+   Es sollte daher klargestellt werden, dass die Privilegierung jedenfalls dann entfällt, wenn
+   der angebotene Stream offensichtlich rechtswidrig zur Verfügung gestellt wird.
+
+
+
+77. Does the current civil enforcement framework ensure that the right balance is
+achieved between the right to have one’s copyright respected and other rights such as
+the protection of private life and protection of personal data?
+  NO – Please explain
+
+Wie vorstehend aufgezeigt, ist gerade bei Rechtsverletzungen über Filesharing-Netzwerke
+und Filehoster vielfach kein ausreichender Rechtsschutz gegeben. Die Rechteinhaber wer-
+den einseitig zu Gunsten der Rechtsverletzer und Vermittler benachteiligt, die ohne spürbare
+Konsequenzen von massenhaften Rechtsverletzungen profitieren können. Von einem ge-
+rechten Ausgleich der rechtlich geschützten Positionen kann insofern keine Rede sein.
+
+Um das gebotene Gleichgewicht zwischen den betroffenen Rechtsgütern herzustellen, ist es
+zwingend erforderlich, dass bei Rechtsverletzungen im Internet zumindest ein Verantwortli-
+cher vom Verletzten identifiziert und in Anspruch genommen werden kann. Dies kann nur
+dadurch geschehen, indem die für eine Identifizierung der Rechtsverletzer erforderlichen
+Nutzerdaten von den Vermittlern registriert bzw. gespeichert werden. Andernfalls müssten
+die bisherigen Haftungsprivilegierungen der Vermittler (weitgehend) eingeschränkt werden.
+
+Die berechtigten (Datenschutz-)Interessen der Nutzer können hinreichend dadurch geschützt
+werden, dass der Zugriff auf die gespeicherten Daten erst nach einer behördlichen oder ge-
+richtlichen Feststellung der Rechtsverletzung gestattet wird. Eine grundsätzlich anonyme
+Nutzung des Internets würde damit weiterhin gewahrt. Gleichzeitig wäre damit aber auch der
+Schutz des Urheberrechts im Internet hinreichend gewährleistet.
+
+In diesem Sinne hat sich auch der Deutsche Juristentag auf seiner 69. Tagung am
+20.09.2012 durch Beschluss ausgesprochen: „Ein ’Recht auf anonyme Internet-Nutzung’ ist
+nicht anzuerkennen. Bei aktiver Nutzung des Internets mit eigenen Beiträgen darf der Nut-
+zer nicht anonym bleiben, sondern muss im Rahmen einer Verwendung von Pseudo-
+nymen zumindest identifizierbar sein. Nur dann lassen sich Rechtsverstöße wirksam
+verfolgen. Internet-Dienste sollen den Klarnamen und die Internetverbindung ihrer
+Nutzer registrieren.“
+
+Beim Deutschen Juristentag handelt es sich um eine Institution, die die Notwendigkeit von
+Änderungen und Ergänzungen der Rechtsordnung regelmäßig untersucht. Es handelt sich
+nicht um eine Interessenvertretung bestimmter beruflicher oder gesellschaftlicher Gruppen.
+
+                                                                                            9
+Die Vorschläge zur Fortentwicklung des Rechts haben daher für den deutschen Gesetzgeber
+regelmäßig ein besonderes Gewicht.
+
+Ebenso hat das Bundesverfassungsgericht (02.03.2010, Az. 1 BvR 256/08) festgestellt, dass
+ein gesteigertes Interesse besteht, Kommunikationsvorgänge im Internet den jeweiligen Ak-
+teuren zuordnen zu können, da in einem Rechtsstaat auch das Internet keinen rechtsfreien
+Raum bilden darf. Die Möglichkeit einer individuellen Zuordnung von Internetkontakten bei
+Rechtsverletzungen von einigem Gewicht bilde deshalb ein legitimes Anliegen des Gesetz-
+gebers. Zur Gewährleistung einer verlässlichen Zuordnung könne der Gesetzgeber dabei
+insbesondere auch die Vorhaltung der erforderlichen Daten durch die Diensteanbieter vorse-
+hen.
+
+Auch der Bundesgerichtshof (19.04.2012, Az. I ZB 77/11) hat aktuell entschieden, dass die
+Rechteinhaber bezüglich ihrer von der Verfassung geschützten Rechte (Art. 14 GG) faktisch
+schutzlos gestellt würden, wenn eine Identifizierung der Rechtsverletzer unter Zuhilfenahme
+der Daten der Internetprovider nicht möglich wäre. Die Rechte der Internet-Provider hätten
+daher gegenüber einem entsprechenden Auskunftsanspruch zurückzutreten und auch der
+Rechtsverletzer sei bei einer offensichtlichen Urheberrechtsverletzung nicht mehr schutz-
+würdig.
+
+
+
+
+                                                                                        10
+

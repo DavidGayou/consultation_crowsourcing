@@ -1,0 +1,291 @@
+                                  Kristian Emil Benestad
+                     Falkonervænget 19, 2 tv • 1952 Frederiksberg C • Denmark
+                    Tel.: +45-5353 6486 / +47-9528 7401 • kristian@benestad.net
+
+
+European Commission
+℅ Internal Market and Services DG
+Unit D1 – Copyright
+SPA 2 04/085
+1049 Brussels
+Belgium
+via e-mail: markt-copyright-consultation@ec.europa.eu
+
+Public Consultation on the Review of the EU Copyright Rules
+Please find the answers attached within the Public Consultation document attached below. The ques-
+tions that have been answered – pertaining to problems encountered as an end user, as well as views on
+on certain aspects of digital copyright – have been reproduced on the next six pages.
+On the whole, while this process is welcome, it does not reach far enough. The question of digital copy-
+right must be treated within a paradigm which takes into account both its special characteristica as well
+as the scope and idea of the Single Market.
+
+
+
+Yours faithfully
+Kristian Benestad, LL.B.
+
+
+
+
+                                                                                               Page 1 of 7
+1. [In particular if you are an end user/consumer:] Have you faced problems when trying to access
+online services in an EU Member State other than the one in which you live?
+YES: Two different categories spring to mind: Music and film and TV content. Music, especially newer
+or older music outside the “mainstream” that are available in one country may not be licensed outside
+that territory.
+TV broadcasts are often territorially limited even though the overwhelming content presented is ori -
+ginal. A single song – e.g. a theme song – may be enough to restrict content to domestic use only, even
+if only a fraction of downloads may originate from abroad. This is for example the case with program -
+ming produced by public broadcaster NRK in Norway; while living in Denmark, where DR and TV2
+held the rights, there was naturally a focus on showing e.g. Danish curling matches. The licensing agree -
+ments meant that other countries national broadcaster were unavailable outside their own territory, in -
+cluding broadcasts where there would be no net loss for the right holders to accept broadcasting outside
+the broadcaster's natural territory.
+Netflix is another service, where some films are not available in Scandinavia, but is in the UK and Ire -
+land – while films that are available in several regions only carry subtitles in the region's language. I.e.
+German-language films available both in Scandinavia and the UK and Ireland, do not carry English
+subtitles in Scandinavia, even though they are clearly available to Netflix.
+7. Do you think that further measures (legislative or non-legislative, including market-led solu-
+tions) are needed at EU level to increase the cross-border availability of content services in the
+Single Market, while ensuring an adequate level of protection for right holders?
+YES: Licences granted per territory makes little sense where the conveyance of information is dependent
+on a system which does not discriminate on a territorial basis. In instances where the content is tied to a
+tangible media per copy – e.g. a book or a DVD – territorial licensing makes sense as content is con -
+trolled by means of controlling copies. Such a method of controlling the spread of content does not in-
+terfere much with the idea of a single market, as it is the production of the copies themselves that gives
+rise to the duty to pay royalties, not the subsequent reselling.
+In the digital marketplace, however, access replaces the copy as the mean to control the spread of con -
+tent. As both the control method and infrastructure is wholly different, new regulations are needed. Re -
+lying on mechanisms designed to cope with individual physical copies in a world where access to a cent -
+ral copy is key is not only unwise and reactionary – it also goes against the very idea of the Single Mar -
+ket, which is why a central regulation of copyright is needed.
+8. Is the scope of the “making available” right in cross-border situations – i.e. when content is dis-
+seminated across borders – sufficiently clear?
+NO: The court has reached a natural decision when considering the rather muddy terrain it is operating
+in. Going forward however, it may be hard to keep this definition. Consider a business in Ireland, offer -
+ing its services in English and priced in Euro. Advertisements are bought online and placed on random
+websites including sites in other EU countries, including the UK. The company receive interest from
+other countries, including articles in trade magazines, etc., further increasing customer flow from out -
+side countries without the company actively seeking publicity in these countries.
+Where does the company need licence agreements in order to stay within the boundaries of “targeting”?
+In Ireland only? In Ireland and the UK, as English-speaking countries? In Ireland and the other Euro
+countries, or in Ireland, the Euro countries and the UK?
+
+
+                                                                                                  Page 2 of 7
+In order to stay “out” of certain markets, primitive measures such as blocking certain IPs may be imple -
+mented, although they are neither secure nor able to keep out VPN connections masking as a connec-
+tion from a different country.
+Digital delivery of content does not only enable delivery to any computer with internet access; on the
+server side, statistics may show exactly who buys what when from where. This is a possibility licensing
+societies ought to have seized long ago; as they haven't legislation might be the only way to tap into this
+potential.
+11. Should the provision of a hyperlink leading to a work or other subject matter protected under
+copyright, either in general or under specific circumstances, be subject to the authorisation of the
+rightholder?
+NO: As noted by the first line in this paragraph, hyperlinks are references. They merely tell you the loc -
+ation of where material can be found, and the link provides an instruction to the browser to fetch in-
+formation, if clicked.
+Hyperlinks are integral to a hypertext document. While they do communicate to the browser an in-
+struction as to where and how to fetch the information, they merely make the act of fetching this in-
+formation easier by telling the browser where and how, and enabling the user to go directly to the con-
+tent. The present wording, which only pertains to hyperlinks, but not non-linked information, would
+create an absurd situation where <a href=”http://www.http://ec.europa.eu/”>ec.europa.eu</a> would re-
+quire authorisation, but ec.europa.eu alone would not – even if they both lead to the same site.
+Due to this – and hyperlinks referencing nature, which can not in itself infringe a right holder's right in
+any way on its own – hyperlinks ought not to be subject to right holder's authorisation.
+12. Should the viewing of a web-page where this implies the temporary reproduction of a work or
+other subject matter protected under copyright on the screen and in the cache memory of the
+user’s computer, either in general or under specific circumstances, be subject to the authorisation
+of the rightholder?
+NO: All content that is accessed online must necessarily be reproduced in one way or another on the
+end user's machine. This is a technical limitation of the medium, and, as such, ought to be excepted
+from copyright coverage.
+13. [In particular if you are an end user/consumer:] Have you faced restrictions when trying to re-
+sell digital files that you have purchased (e.g. mp3 file, e-book)?
+NO.
+15. Would the creation of a registration system at EU level help in the identification and licensing
+of works and other subject matter?
+YES.
+16. What would be the possible advantages of such a system?
+A registration system would make it much easier to identify copyrighted works, and should also include
+notices of public domain / “less-than-copyrighted” work referenced in the new work. Also, for digital
+content the content itself could be stored, making it easier to police possible transgressions.
+17. What would be the possible disadvantages of such a system?
+A registration system would require a database authority to be established, and would likely incur costs
+for those registering.
+
+                                                                                                 Page 3 of 7
+18. What incentives for registration by rightholders could be envisaged?
+Works that have been registered in the database ought to enjoy a speedier way of enforcing their copy-
+right claims.
+19. What should be the role of the EU in promoting the adoption of identifiers in the content sec-
+tor, and in promoting the development and interoperability of rights ownership and permissions
+databases?
+The EU ought to ensure that entry barriers to such databases are as low as possible, such as not to ex -
+clude any groups – whether they are artists without a major label backing them, or come from poorer
+countries.
+20. Are the current terms of copyright protection still appropriate in the digital environment?
+YES and NO. In the digital environment, content creation is cheap. That is why a comprehensive over-
+haul, which takes the different forms of intellectual property, into account when deciding on appropri-
+ate terms. A web application and a novel – the former a type of content which does not change over
+time, and the latter a type of content which may change rapidly – are very different, and ought as such
+to be treated and protected differently.
+28. (a) [In particular if you are an institutional user:] Have you experienced specific problems
+when trying to use an exception to preserve and archive specific works or other subject matter in
+your collection?
+(b) [In particular if you are a right holder:] Have you experienced problems with the use by librar -
+ies, educational establishments, museum or archives of the preservation exception?
+        31. If your view is that a different solution is needed, what would it be?
+It is in the Union's best interest that works are available for research throughout the Union. Hence it
+should encourage – but not direct – educational institutions and right holders institutions to cooperate
+on making works available through one or several centralised outlets in an affordable way for all institu-
+tions regardless of which Member State they may be located in.
+This is especially important when it comes to preserving access for institutions in “fringe” territories, as
+well as preserving access for materials published in a “fringe” language.
+32. (a) [In particular if you are an institutional user:] Have you experienced specific problems
+when trying to negotiate agreements with rights holders that enable you to provide remote access,
+including across borders, to your collections (or parts thereof ) for purposes of research and
+private study?
+(b) [In particular if you are an end user/consumer:] Have you experienced specific problems when
+trying to consult, including across borders, works and other subject-matter held in the collections
+of institutions such as universities and national libraries when you are not on the premises of the
+institutions in question?
+(c) [In particular if you are a right holder:] Have you negotiated agreements with institutional
+users that enable those institutions to provide remote access, including across borders, to the
+works or other subject-matter in their collections, for purposes of research and private study?
+        35. If your view is that a different solution is needed, what would it be?
+Off-site access is an issue that is best resolved by the parties themselves.
+47. (a) [In particular if you are an end user/consumer or an institutional user:] Have you experi-
+
+                                                                                                  Page 4 of 7
+enced specific problems when trying to use works or other subject matter in the context of re -
+search projects/activities, including across borders?
+(b) [In particular if you are a right holder:] Have you experienced specific problems resulting from
+the way in which works or other subject-matter are used in the context of research projects/activit -
+ies, including across borders?
+YES: Many legal journals and databases are walled gardens, where accessing premium content often is
+restricted to a single database only – i.e. few attempts at consolidating search in several databases at
+once. In instances where such search are facilitated, a lack of standardisation makes results unreliable.
+48. If there are problems, how would they best be solved?
+These problems require the organisations behind the journals and the databases to understand the im -
+portance of common standards. In the field of law it might be too much to ask for a common standard
+for citations for example; a problem which may be solved by introducing a machine-readable standard
+instead.
+49. What mechanisms exist in the Member States to facilitate the use of content for research pur-
+poses? How successful are they?
+In Denmark, the State Library (Aarhus) and the Royal Library (Copenhagen) both offer on-site, and in
+some cases off-site, access to most mainstream databases. While this means that most needs are cur -
+rently covered, more specialised access may be difficult to obtain.
+53. (a) [In particular if you are an end user/consumer or an institutional user:] Have you experi-
+enced obstacles, linked to copyright, when trying to use text or data mining methods, including
+across borders?
+(b) [In particular if you are a service provider:] Have you experienced obstacles, linked to copy-
+right, when providing services based on text or data mining methods, including across borders?
+(c) [In particular if you are a right holder:] Have you experienced specific problems resulting from
+the use of text and data mining in relation to copyright protected content, including across bor-
+ders?
+        55. If your view is that a legislative solution is needed, what would be its main elements?
+        Which activities should be covered and under what conditions?
+Data mining is an integral part of the internet as we know it – without it, there will be no search en-
+gines. However, it is clear that the present state is not sustainable. Search engine companies may make
+good money off the back of actual content creators – even if content is not displayed, this content is still
+helpful in building up databases over different types of content, its presentation, etc.
+It is clear that some form of either fair compensation or perhaps profit sharing is necessary. On the
+other hand, repercussion must be available in order to penalise actors who refuse to follow industry
+standards (such as robots.txt), as well as implementing mechanisms for right holders to manage their
+content available in search engines.
+56. If your view is that a different solution is needed, what would it be?
+See above.
+57. Are there other issues, unrelated to copyright, that constitute barriers to the use of text or data
+mining methods?
+Robots.txt (rightly so).
+
+                                                                                                  Page 5 of 7
+60. (a) [In particular if you are an end user/consumer or a right holder):] Have you experienced
+problems when trying to be remunerated for the use of the work you have created (on the basis of
+pre-existing works)?
+(b) [In particular if you are a service provider:] Do you provide remuneration schemes for users
+publishing/disseminating the works they have created (on the basis of pre-existing works) through
+your service?
+63. If your view is that a different solution is needed, what would it be?
+User Generated Content present a whole set of problems that does not fit neatly within the current
+copyright framework. Users' knowledge of copyrights, protection, thresholds, et. al. is often low, remu -
+neration schemes are close to non-existent, and works are rarely identified. Coupled with a prevalent be -
+lief that “content should be free”, it is clear that this kind of content needs a different approach.
+Most probably some thresholds must be established which allow users some leeway within the scope of
+copyright (e.g. where the original content creator could not realistically expect that a derivative work
+would be made), while services that are profiting off such content compensate right holders by contrib -
+uting towards a right holders' fund, similar to the copy fees levied by some countries on cassettes and
+CDs.
+64. In your view, is there a need to clarify at the EU level the scope and application of the private
+copying and reprography exceptions1 in the digital environment?
+YES. Within the Single Market there ought to be a single approach to copyright – and this includes the
+scope and application of private copying and reprography exceptions. The digital environment is fur-
+thermore a new environment, and as such deserves to be treated different that physical media.
+65. Should digital copies made by end users for private purposes in the context of a service that
+has been licensed by rightholders, and where the harm to the rightholder is minimal, be subject to
+private copying levies?
+NO. Where the harm to the right holder is minimal, the private individual ought not to compensate
+the rights holder. I am unsure whether there should be a general fund, funded by levies on e.g. broad-
+band subscriptions, cloud storage and portable music players to compensate right holders in the same
+manner copy levies have been used, but in my opinion this would (a) run contrary to the new content
+model (where content and medium is separate), and (b) only enhance the general feeling that content
+should be offered free of charge and as such diminish the actual value of content.
+67. Would you see an added value in making levies visible on the invoices for products subject to
+levies?
+YES. If end users are to pay extra for the right to reproduce otherwise copyrighted content this must be
+presented clearly to the end user, for example by specifying the levy on the invoice.
+75. Should the civil enforcement system in the EU be rendered more efficient for infringements of
+copyright committed with a commercial purpose?
+YES. The enforcement of intellectual property infringements is currently left to the Member States,
+which may make it harder for right holders to pursue their rights abroad. A mechanism similar to either
+the current unitary patent or the new union patent ought to be established so that right holders may
+present their case once despite the infringements' cross-border characteristica.
+77. Does the current civil enforcement framework ensure that the right balance is achieved
+between the right to have one’s copyright respected and other rights such as the protection of
+
+                                                                                                Page 6 of 7
+private life and protection of personal data?
+NO. As enforcement is left to the individual Member States, there may be differing standards between
+the States. As long as there is no single standard, the “right” balance can not be said to have been
+achieved in 27+ jurisdictions.
+78. Should the EU pursue the establishment of a single EU Copyright Title, as a means of estab-
+lishing a consistent framework for rights and exceptions to copyright across the EU, as well as a
+single framework for enforcement?
+YES.
+79. Should this be the next step in the development of copyright in the EU? Does the current
+level of difference among the Member State legislation mean that this is a longer term project?
+A unified Copyright Code within the union should absolutely be the next step. The protection terms
+(death+70 years) are likely to be an even bigger obstacle than the differences between Member States' le-
+gislation – while legislation may be harmonised, it may be harder to get stakeholders to accept the chan -
+ging circumstances.
+80. Are there any other important matters related to the EU legal framework for copyright? Please
+explain and indicate how such matters should be addressed.
+The current regulations governing copyright date back to the 1800s, with the general framework being
+even older. This framework was specifically set up in response to technological change and the develop -
+ment of society. Applying the same century-old framework to new technology is an unfortunate devel -
+opment. Instead of trying to fit technology which first surfaced in the 1970s and 80s into an already
+outdated framework, right holders, technology developers and politicians must work together to create
+a new framework.
+The only similarity between digital output and current copyright legislation is content – however, while
+the production methods have shifted from expensive printing presses to cheap-to-no-cost computerised
+creation and reproduction methods, legislation has not changed. This has led to the peculiar situation
+where software programs, including web applications are covered by copyright afforded literary works.
+Few people would categorise Wuthering Heights and webmail applications together, but for copyright
+purposes they are the same kind of works.
+This discrepancy needs to be addressed on a broad basis where all parties recognise what the technology
+shift means. A comprehensive review and a resulting copyright code need to build on the realities we're
+facing today. As a new start, it should take into consideration that copyright is not only an agreement
+between a rights holder and an end user, but also a tool to encourage innovation and growth. As such, it
+is necessary to make sure that the different categories and terms of protection are appropriate, as well as
+encouraging use and re-use while at the same time simplifying enforcement options throughout the
+union. Also, some legal consideration must be given to the new concepts of sharing and creation, which
+is especially prevalent within the code community, where much software is being published under more
+lenient licences with a multitude of creators and rights holders.
+
+
+
+
+                                                                                                 Page 7 of 7
+

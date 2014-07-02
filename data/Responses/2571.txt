@@ -1,0 +1,196 @@
+ 
+Public Consultation  
+on the review of the EU copyright rules 
+PLEASE IDENTIFY YOURSELF: 
+ 
+Name: 
+Graham Smith
+ 
+In the interests of transparency, organisations (including, for example, NGOs, trade associations and commercial enterprises) are invited to provide the public with relevant information about themselves by registering in the Interest Representative Register and subscribing to its Code of Conduct. 
+
+ If you are a Registered organisation, please indicate your Register ID number below. Your contribution will then be considered as representing the views of your organisation. 
+
+................................................................................................................. 
+................................................................................................................. 
+ 
+
+ If your organisation is not registered, you have the opportunity to register now. Responses from organisations not registered will be published separately.  
+
+ 
+ 
+If you would like to submit your reply on an anonymous basis please indicate it below by underlining the following answer: 
+ 
+
+ Yes, I would like to submit my reply on an anonymous basis 
+
+ 
+TYPE OF RESPONDENT (Please underline the appropriate): 
+
+ End user/consumer (e.g. internet user, reader, subscriber to music or audiovisual service, researcher, student) OR Representative of end users/consumers  
+
+ for the purposes of this questionnaire normally referred to in questions as "end users/consumers" 
+ 
+
+ Institutional user (e.g. school, university, research centre, library, archive)  OR Representative of institutional users  
+
+ for the purposes of this questionnaire normally referred to in questions as "institutional users" 
+ 
+
+ Author/Performer OR Representative of authors/performers 
+
+ 
+
+ Publisher/Producer/Broadcaster OR Representative of publishers/producers/broadcasters 
+
+ 
+ the two above categories are, for the purposes of this questionnaire, normally referred to in questions as "right holders" 
+ 
+
+ Intermediary/Distributor/Other service provider (e.g. online music or audiovisual service, games platform, social media, search engine, ICT industry) OR Representative of intermediaries/distributors/other service providers 
+
+ for the purposes of this questionnaire normally referred to in questions as "service providers" 
+ 
+
+ Collective Management Organisation 
+
+ 
+
+ Public authority 
+
+ 
+
+ Member State 
+
+ 
+
+ Other (Please explain): 
+
+I am a lawyer in private practice and am active in the field of copyright and the internet. I am the main author of the Sweet & Maxwell legal textbook 'Internet Law and Regulation'.  I also write the Cyberleagle blog.  This response reflects only my personal views. I am responding only to the question on linking.
+
+3. Linking and browsing  
+Hyperlinks are references to data that lead a user from one location in the Internet to another. They are indispensable for the functioning of the Internet as a network. Several cases are pending before the CJEU in which the question has been raised whether the provision of a clickable link constitutes an act of communication to the public/making available to the public subject to the authorisation of the rightholder.  
+A user browsing the internet (e.g. viewing a web-page) regularly creates temporary copies of works and other subject-matter protected under copyright on the screen and in the 'cache' memory of his computer. A question has been referred to the CJEU as to whether such copies are always covered by the mandatory exception for temporary acts of reproduction provided for in Article 5(1) of Directive 2001/29/EC.  
+ 
+
+11. Should the provision of a hyperlink leading to a work or other subject matter protected under copyright, either in general or under specific circumstances, be subject to the authorisation of the rightholder? 
+ YES  -  Please explain whether you consider this to be the case in general, or under specific circumstances, and why 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ NO  -  Please explain whether you consider this to be the case in general, or under specific circumstances, and why (e.g. because it does not amount to an act of communication to the public  -  or to a new public, or because it should be covered by a copyright exception) 
+
+
+Since this Consultation was published the CJEU has issued its decision in Svensson.  My detailed analysis of the decision, raising a number of questions and concerns about it, is set out in a post to my Cyberleagle blog.  I attach the text as an Annex.
+
+The basic proposition of Svensson is summarised as follows in the UK Intellectual Property Office Copyright Notice on 'Digital images, photographs and the internet' published on 3 March 2014: 
+
+"internet users should be free to share links to material, for example photos or videos, providing the material itself has been published freely online with the permission of the rights holder." 
+
+The words "with the permission of the rights holder" do not appear in the operative part of the CJEU judgment. However the reasoning of the judgment suggests that that is how it is meant to be understood.
+
+The UK Intellectual Property Office released its Copyright Notice on 3 March 2014, the day after the Oscars ceremony.  As it was doing so, Ellen de Generes' tweet of her Oscars 'selfie' was breaking all records for retweets.  At the time of writing over 3 million internet users have publicly retweeted her tweet, containing a link to the photo. Each retweet also contains that link.  
+
+The photo appears to have been taken by Bradley Cooper. That suggests that under EU law (never mind any possible complications from the fact that the Oscars took place in the USA) he would prima facie be the author of the photo. He may or may not have been the copyright owner, depending on (for instance) any commercial arrangements that may have been in place surrounding the Oscars. If for the sake of illustration we hypothetically assume that Bradley Cooper was the copyright owner, according to Svensson a retweet of the link would amount to a communication to the public unless he had given Ellen de Generes permission to tweet the photo, or had in some other way made it freely available elsewhere on the internet. If this is what Svensson means, the result is an absurdity.  It places an impossible due diligence burden on internet users, who under UK law are subject to strict liability for infringement by communication to the public. This result does not accord with the legitimate expectations of reasonable, law abiding, ordinary internet users. It is no answer to say that no one would ever sue an individual user. A disjunct of this magnitude between law and reality is bad for copyright. Reality gaps breed credibility gaps. General lack of respect for copyright follows.  
+
+In human rights terms 'link at your peril', with no practical means of ascertaining in advance whether your link infringes, creates an unwarranted chilling effect under ECHR Article 10/EU Charter Article 11. Copyright has to be appropriately balanced with other fundamental rights including freedom of expression (SABAM v Scarlet; Donald Ashby). 
+
+These issues could be avoided if it were made clear that someone performs an act of communication only if he (actually or putatively) materially intervenes in the transmission, so as to participate in the transmission.  Only if that strict condition were satisfied would consideration then be given to whether the act of communication was 'to the public'.
+--------------------------------------------------------------------------------
+ NO OPINION 
+  
+
+ANNEX
+
+CYBERLEAGLE BLOG POST BY GRAHAM SMITH
+
+Tuesday, 18 February 2014 
+(updated 19 and 20 February 2014)
+Svensson - free to link or link at your risk?
+
+Last week's CJEU Svensson v Retriever decision has established some important points about the legality of linking under EU copyright law:
+* A clickable direct link to a copyright work made freely available on the internet with the authority of the copyright holder does not infringe. 
+* It makes no difference to that if a user clicking on the link is given the impression that the work is on the linking site.
+* However, it seems that a clickable link will (unless saved by any applicable copyright exceptions) infringe if the copyright holder has not itself authorised the work to be made freely available on the internet (but see further discussion below).
+* If the work is initially made available on the internet with restrictions so that only the site's subscribers can access it, then a link that circumvents those restrictions will infringe (again subject to any applicable exceptions and further discussion below).
+* The same is true where the work is no longer available on the site on which it was initially communicated, or where it was initially freely available and subsequently restricted, while being accessible on another site without the copyright holder's authorisation.
+It seems to follow, although this is not very clear in the judgment, that a link to an infringing copy does not infringe if, and for so long as, a copy of the same work is freely available somewhere on the internet with the authority of the copyright holder. ("How could I possibly know that?" you ask.  More on that theme below.)  But this would not exempt links to infringing copies of works that are not legitimately available on the internet at all, or which have only been legitimately made available on the internet under restrictions.
+
+In practical terms the Court has made a valiant attempt to balance the competing considerations of protecting rightsholders' content without restricting reasonable user behaviour.  However among the commentators (see here, here, here and here - hat tip to these for some of the questions raised below) some are already suggesting that the CJEU's reasoning  -  giving a very wide meaning to an act of communication, then reining back the scope according to whether the link makes the work available to a `new public' compared with that contemplated by the copyright holder  -  may store up trouble for the future.
+Open questions
+Before delving into that, let's mention some areas that Svensson may have left open for future decisions (such as, possibly, the pending references in C More Entertainment and Bestwater).
+
+*  The Court draws a distinction between freely available content and, on the other hand, restricted content where a link circumvents the restrictions. Are those intended to be the only two possible categories, so that if a copyright work is not `restricted' it is necessarily `freely available'? Or are they two ends of a spectrum, the middle of which has yet to be explored? What, for instance, would be the position if the copyright holder has authorised a licensee to make the content freely available on the internet, but the licensee makes it available only on a restricted basis?
+* Does `restricted' refer only to technical restrictions (and how sophisticated?), or does it also encompass licence or contractual restrictions?
+* The judgment refers only to clickable links.  What about other varieties of link, or analogous technologies? The logic of the judgment would seem to apply to inline links where, rather than awaiting the user's click, the linked-to content is served up automatically to the user when the web page is requested.
+* The judgment refers to links `to' copyright works, affording `direct' access to those works. Does the link have to be to the actual work itself in order to make it available, or does a link to a page containing the work suffice? So applying theSvensson reasoning a clickable link to the URL of a news page makes available the HTML text of that page. Does it also make available a photograph which loads automatically as part of the news page, but which is nevertheless a separate copyright work with its own URL capable of being separately linked to? What about a playable video within the page, or a PDF downloadable from that page? Each of those is a separate copyright work requiring a further click by the user to access it.  Might they be regarded as indirectly, rather than directly, accessible from a link to the news page containing them?
+* Does the reservation for subsequently removed or restricted works apply only to new links created after the initially freely available work was withdrawn or restricted, or do existing links to unauthorised copies automatically become infringing?
+*  What is the position where initially the work was lawfully made freely available on the internet under an exception to copyright, such as fair dealing? Is that different from when it was done with the authorisation of the copyright holder? On the face of it the Svensson version of the 'new public' test would not of itself legitimise linking in the former situation.
+It is also important to understand that the Court's decision only concerns whether a link can amount to 'communication to the public' for the purposes of harmonised EU copyright law. It does not deal with other ways in which linking might infringe, for instance by authorising infringement or joint liability for someone else's infringement.  Nor does it say anything about non-copyright issues such as passing off or unfair competition.
+Authorising the initial internet communication
+The most significant aspect of the Svensson judgment is, oddly, not mentioned in the operative part of the decision (in which the Court provides its definitive answer to the question posed by the referring national court). The operative part says:
+
+"...the provision on a website of clickable links to works freely available on another website does not constitute an `act of communication to the public' ... ."
+
+Taken at its face, that could suggest that a link to any freely available work does not infringe, regardless of whether the copyright holder initially authorised the work to be made freely available on the internet. That would broadly legitimise most links. But if that is right it is difficult to understand the numerous references in the judgment to whether the copyright holders authorised the initial communication to the public on the internet, and the potential audience contemplated when they did so.  It seems likely that the operative part should instead be understood to mean:
+
+"...the provision on a website of clickable links to works freely available on another website, in circumstances where the copyright holder has authorised such works to be made freely available at [that]/ [an] internet location, does not constitute an `act of communication to the public' ... ."
+
+The alternatives `that'/`an' reflect the possible uncertainty about the effect of the judgment on links to unauthorised copies where the copyright holder has authorised the work to be freely available at some other location on the internet. 
+The curious case of the freelance journalist
+The significance of the copyright holder's authorisation of the initial internet communication is well illustrated by the facts of Svensson itself. According to the CJEU judgment the Swedish proceedings were between four journalists, Mr Svensson, Mr Sjögren, Ms Sahlman and Ms Gadd, who sued Retriever Sverige AB for compensation resulting from Retriever's inclusion on its website of clickable links to press articles in which the journalists held the copyright.
+
+The Court said:
+"[The journalists] wrote press articles that were published in theGöteborgs-Posten newspaper and on the Göteborgs-Posten website. Retriever Sverige operates a website that provides its clients, according to their needs, with lists of clickable Internet links to articles published by other websites. It is common ground between the parties that those articles were freely accessible on the Göteborgs-Posten newspaper site. ..."
+The journalists claimed that by linking to the articles on the newspaper website Retriever was making their articles available to its clients without their consent. When the CJEU discussed `new public' it said:
+"a communication, such as that at issue in the [Swedish] proceedings, concerning the same works as those covered by the initial communication and made, as in the case of the initial communication, on the Internet, and therefore by the same technical means, must also be directed at a new public, that is to say, at a public that was not taken into account by the copyright holders when they authorised the initial communication to the public ....
+... it must be held that, where all the users of another site to whom the works at issue have been communicated by means of a clickable link could access those works directly on the site on which they were initially communicated, without the involvement of the manager of that other site, the users of the site managed by the latter must be deemed to be potential recipients of the initial communication and, therefore, as being part of the public taken into account by the copyright holders when they authorised the initial communication.
+Therefore, since there is no new public, the authorisation of the copyright holders is not required for a communication to the public such as that in the main proceedings." (emphasis added)
+The assumption of the Court in coming to this conclusion on the facts appears to be that the four copyright holder journalists all authorised the newspaper to make the articles freely available on the newspaper website - the site on which the initial communication on the internet was made and to which Retriever linked.  
+
+But what if the journalists had authorised publication only in the print newspaper and not on the newspaper website? It then seems inescapable that since the initial communication on the internet would not have been authorised by the journalists, a public link to the newspaper website article would be caught, even though the article was freely available on the newspaper website and not subject to any restriction.
+
+Curiously, that scenario may have some relevance to the Svensson case itself. In his judgment in Paramount Home Entertainment v BSkyB, Mr Justice Arnold summarised the facts of Svensson based on English translations of the Swedish judgments provided by Paramount. He said this:
+
+"14.The claimants were four journalists who between them had written 13 articles published by the Göteborgs-Posten newspaper. Three of the journalists were employed by the newspaper, while one was freelance. All of the articles had all been published not only in print, but also online on the newspaper's website. In the case of one of the articles, which was written by the freelance author, the online publication by the newspaper was not licensed by the author." (emphasis added)
+
+If that is right, then for one of the 13 articles the copyright holding journalist who wrote it did not authorise initial communication to the public on the internet. For that article (assuming that the journalist had not authorised freely available publication elsewhere on the internet) the CJEU's conclusion that the link did not amount to a communication to a new public would be thrown into doubt (unless it is wrong to read the 'authorisation of initial communication' qualification into the operative part, as discussed above).
+Does Svensson pass the 'reasonable internet user' test?
+Whatever the precise facts of Svensson may be, this example illustrates a fundamental difficulty with the CJEU's judgment, assuming that the 'authorisation of initial communication' qualification is correct.  Ordinary internet users are put in the position of publicly linking at their risk to any freely available content on the internet, however reputable the site may be, because they cannot be certain and have no practicable way of finding out whether the site owns copyright in its material, or has properly licensed it in, or whether a third party copyright owner has authorised the same material to be made freely available elsewhere on the internet.
+
+A good test when evaluating copyright judgments that directly affect the general public, especially internet users, is this: 
+* Can I explain to a user with confidence exactly what rules s/he has to follow?
+* Will a reasonable internet user think those rules are sensible?
+* In any given situation can the user readily ascertain whether what s/he wants to do will infringe?
+Svensson just about passes the first question, probably fails the second and certainly fails the third.
+
+The third point is especially significant since, at least in the UK, civil liability for primary copyright infringement is strict. You can infringe by accident, in situations where you are blameless. It is no excuse that you did everything you could to avoid infringement, or that you had no reason to think you were infringing.
+
+That has always been the case in the UK for primary infringement (reproduction, communication to the public and some other types of restricted act).  It is a hangover from the hard copy days when copyright was almost entirely a commercial matter and hardly impinged on end users. It was reasonable to expect commercial publishers and broadcasters to clear rights first. Even then dealers, such as commercial distributors, were subject only to secondary infringement: they did not infringe copyright unless they had reason to believe they were handling an infringing copy.
+
+Now, thanks to the long reach of digital copyright (which Svensson's interpretation of 'making available' has arguably extended even further) primary copyright infringement impinges directly on end users.
+
+End users are in no position to clear rights before, for instance, posting links to public discussion forums or on social media platforms. We make decisions to send public tweets, including links, in a matter of seconds.  If we are retweeting, we may not even visit the location to which the original tweet links.  If we are expected to embark on some investigation to satisfy ourselves that our link won't infringe, for instance because someone's unlicensed copyright might be lurking behind a reputable site  -  worse still if there is no practicable investigation that we can make - then we have a regime that risks chilling freedom of expression. 
+
+It is no answer to suggest that if the links are harmless no-one will ever complain.  That would repeat the UK format-shifting episode, where the gap between copyright principle and reality has been so great as to bring copyright into disrepute.  Nor is it an answer to say that you don't have to tweet links.  That is exactly the kind of chilling effect that copyright law should avoid.
+
+Of course copyright law does contain some built-in freedom of expression accommodation.  Many linking tweets may find refuge in, say, the UK fair dealing exceptions for criticism, review and news reporting.  However these contain their own technicalities and limitations. For instance the UK news reporting exception does not apply to photographs. And the exceptions vary from one country to another, even within the EU. That is problematic for a user given the inherently cross-border nature of the internet. Is a tweeter expected to consider which countries her tweet may be thought to be targeting before tweeting a link?
+Whatever happened to Article 10?
+Again on the point of chilling freedom of expression, the CJEU judgment contains a surprising omission. Notwithstanding that it has adopted an interpretation of `making available' of such breadth that it must engage Article 10 ECHR/Article 11 EU Charter, the Court conducted no proportionality assessment. In fact there is no mention of Article 10/11 at all; this after SABAM v Scarlet and Donald Ashby, in which the CJEU and European Court of Human Rights respectively have held that copyright has to be balanced against other fundamental rights.
+What could the CJEU have done differently?
+The CJEU could have avoided these problems had it adopted a narrower view of "making available". It could have restricted it to material intervention in the actual or putative transmission, so that but for the intervention no transmission would take place.  In most previous CJEU communication to the public cases the defendant was an actual or putative transmitter. In Airfield the defendant was not, but supplied encryption keys and decoder cards without which the transmission could not take place. Thus there was a material intervention (in effect a participation) in the transmission. 
+In its first communication to the public case, Rafael Hoteles, the CJEU treated the `without which' transmission requirement as forming part of the test for an `act of communication to the public'.   In Airfield the `without which' test became mixed up with `new public'.  Now, in Svensson, the process is complete. `Act of communication' has been completely decoupled from transmission.  `New public' is everything.  One has to wonder whether this is a wise progression.
+

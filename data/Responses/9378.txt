@@ -1,0 +1,841 @@
+GHT QUESTIONNAIRE
+2014
+Submission of CEPIC. 
+FINAL VERSION
+                                       
+                             Public Consultation 
+                    on the review of the EU copyright rules
+
+
+
+* Introduction
+
+PLEASE IDENTIFY YOURSELF:
+
+Name:
+CEPIC Coordination of European picture Agencies Press Stock Heritage
+
+Code in Transparency registry: 197834213050-71
+
+TYPE OF RESPONDENT
+
+* Publisher/Producer/Broadcaster OR Representative of publishers/producers/broadcasters 
+ the two above categories are, for the purposes of this questionnaire, normally referred to in questions as "right holders"
+CEPIC represents approx. 900 picture agencies and libraries in 20 countries in Europe. We have affiliates all over the world. CEPIC's membership includes large and smaller stock photo libraries, major photo news agencies, art galleries, historical archives and museums, video companies. It is mostly made up of micro and small to medium businesses but includes the larger global players such as Getty, Corbis and Reuters. Through its membership, CEPIC represents more than 150.000 authors and creators in direct licensing.
+CEPIC is part of the Linked Content Coalition and leads work package 8 (images) in the Rights Data Integration project working towards the application of the Rights Reference Model. CEPIC was previously part of the ARROW PLUS project and together with EVA authored a Feasibility Study on the inclusion of visual material into the ARROW system. CEPIC has been a member of IPTC since 2005.
+CEPIC's members produce, collect and distribute visual content  -  moving and still images: footage and photographs for the major part, but also illustrations, cartoons, graphics, maps and 3D images. They have been digitising content from the advent of the Internet, making the resulting digital asset available for commercial use, such as to newspapers, magazines and broadcasters, advertising, off and on-line, as well as in non- commercial environments for the purposes of research and education.
+Picture agencies and libraries rely on copyright to pay the authors and to recoup their own investment in indexing, cataloguing, key wording and marketing. They often own the copyright on their picture material. More often, they represent photographers and videographers with whom they have a direct relationship on an exclusive or non-exclusive basis. Picture agencies market the pictures and share the revenues based on this partition of work.
+The picture business is for the largest part a B2B business. However, in the last ten years a B2C business has also developed, proposing high quality photography to consumers for their personal use ("Microstock"). A great deal of non-commercial exchange also takes place online with the creation of photo communities or a site such as Flickr.
+As a business that has gone digital as an early date; the picture business is also one who is most affected by piracy. Pictures are more easily than any other medium copied, used on commercial websites or blogs. This happens although, as noted above, cheap to free legal offer has existed for a long time. According to the studies from CEPIC members, 85% of pictures found online by visual search systems are unlawful copies and 80% of those illegal images have been spread through search engines such as Google Images. Together with the offer of free content, piracy represents an economic challenge for online stakeholders as their business model is only sustainable if the same image is used several times: re-use and/or volume make up for low prices of the individual image. 
+The submission below is limited to those questions most relevant to our membership and the use of visual content online B2B or B2C when applicable. Our answers reflect the diversity of our membership in terms of product and business models.
+
+* Rights and the functioning of the Single Market
+* Why is it not possible to access many online content services from anywhere in Europe?  
+[The territorial scope of the rights involved in digital transmissions and the segmentation of the market through licensing agreements]
+
+* --------------------------------------------------------------------------------
+ [In particular if you are an end user/consumer:] Have you faced problems when trying to access online services in an EU Member State other than the one in which you live?
+--------------------------------------------------------------------------------
+ NO OPINION  Our industry is not concerned by this question.In the picture industry, cross border access to content is:
+* --------------------------------------------------------------------------------
+Already a reality
+* --------------------------------------------------------------------------------
+ Not an issue of concern except when it comes to piracy and enforcement of rights (Please See title VI Respect of rights. The picture business is for the largest part a B2B business in which the acquisition of rights is quite straightforward. It is also a well organised business who has tackled the trans-border acquisition of rights at a very early stage in the 20[th] century: Alinari (Italy), Gireaudon (France), Hanstaengel (Germany), Mansell (UK), All over Press in Scandinavia are but only a few examples of picture agencies active across border at an early date in the 20[th] century. The advent of the Internet provided additional tools to trade effectively.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[In particular if you are a service provider:] Have you faced problems when seeking to provide online services across borders in the EU?
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[In particular if you are a right holder or a collective management organisation:] How often are you asked to grant multi-territorial licences? Please indicate, if possible, the number of requests per year and provide examples indicating the Member State, the sector and the type of content concerned.  
+--------------------------------------------------------------------------------
+Our Members indicate that a maximum of 20% requests are for worldwide rights (these include European rights). This is true although in many cases, clients request world rights even though the use will be limited to one territory, or in just one language. 
+--------------------------------------------------------------------------------
+Usually clients (publishers of pictures  -  be it a book, newspaper or website publisher) of picture agencies need territorial rights rather than world rights as consumer taste varies from territory to territory. Demand is regional with, for example, a book cover (image) being switched as not adapted to the one territory
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If you have identified problems in the answers to any of the questions above  -  what would be the best way to tackle them?
+--------------------------------------------------------------------------------
+In general, the present system works in a satisfactory way. 
+--------------------------------------------------------------------------------
+As noted, the picture industry has been trading rights internationally for over a century  -  with and without the internet. The diversity of the European culture is mirrored in our membership made up mostly with micro and small enterprises, working flexibly and across borders using a network of agents, close to consumer taste and needs and supporting cultural diversity and pluralism. Even global players such as getty images or Corbis have opened national offices in order to serve the needs of their clientele locally.
+--------------------------------------------------------------------------------
+Differences between national legal systems exist but these differences are worked out and solved through the agent network or the national office.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[In particular if you are a right holder or a collective management organisation:] Are there reasons why, even in cases where you hold all the necessary rights for all the territories in question, you would still find it necessary or justified to impose territorial restrictions on a service provider (in order, for instance, to ensure that access to certain content is not possible in certain European countries)? 
+--------------------------------------------------------------------------------
+ YES  - Our answer below addresses the B2B market
+--------------------------------------------------------------------------------
+- Sometimes exclusivity may be required, either by the agency (in another territory) or by the customer itself (book publishers, ad agency etc.) 
+--------------------------------------------------------------------------------
+- Our members sometimes find it necessary to redirect customers to the right website in another country to access the picture because the overseas partners' network has a better knowledge on price or chasing payments.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[In particular if you are e.g. a broadcaster or a service provider:] Are there reasons why, even in cases where you have acquired all the necessary rights for all the territories in question, you would still find it necessary or justified to impose territorial restrictions on the service recipient (in order for instance, to redirect the consumer to a different website than the one he is trying to access)?
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Do you think that further measures (legislative or non-legislative, including market-led solutions) are needed at EU level to increase the cross-border availability of content services in the Single Market, while ensuring an adequate level of protection for right holders?
+--------------------------------------------------------------------------------
+ YES  -  
+As explained in the responses to the questions above, the current legislation is of no hindrance to multi-territorial licensing in the image sector. However, we do see space for amelioration with regard to the protection of metadata and identifiers online.
+--------------------------------------------------------------------------------
+The EU should work at a better protection of metadata as representing:
+--------------------------------------------------------------------------------
+- an important investment in specialist knowledge, time and resources
+--------------------------------------------------------------------------------
+- the memory of the pictures being put online
+--------------------------------------------------------------------------------
+- a way to identify pictures online and avoid "orphan works"
+--------------------------------------------------------------------------------
+This is particularly true in an online cross-border environment.
+--------------------------------------------------------------------------------
+In general, the best approach is to favour industry led solutions facilitated by the EU
+Is there a need for more clarity as regards the scope of what needs to be authorised (or not) in digital transmissions?
+* [The definition of the rights involved in digital transmissions]
+The act of "making available" 
+. 
+* --------------------------------------------------------------------------------
+Is the scope of the "making available" right in cross-border situations  -  i.e. when content is disseminated across borders  -  sufficiently clear? 
+--------------------------------------------------------------------------------
+ YES  in the definition provided by the Court of Justice of the European Union
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[In particular if you are a right holder:] Could a clarification of the territorial scope of the "making available" right have an effect on the recognition of your rights (e.g. whether you are considered to be an author or not, whether you are considered to have transferred your rights or not), on your remuneration, or on the enforcement of rights (including the availability of injunctive relief)?
+--------------------------------------------------------------------------------
+ NO 
+--------------------------------------------------------------------------------
+
+Two rights involved in a single act of exploitation 
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[In particular if you a service provider or a right holder:] Does the application of two rights to a single act of economic exploitation in the online environment (e.g. a download) create problems for you? 
+--------------------------------------------------------------------------------
+ NO
+--------------------------------------------------------------------------------
+Archive pictures as older contracts do not include the right of making available online next to the right of reproduction.
+--------------------------------------------------------------------------------
+Also contemporary contracts between picture agencies and photographers sometimes may not include both rights, either because the photographer did not wish to transfer his/her right or for other reasons.
+--------------------------------------------------------------------------------
+In general, licenses define the use required which may or may not include a reproduction right additionally to the making available.
+--------------------------------------------------------------------------------
+This state of affairs, however, is not any that causes any "problem", therefore the answer to this question is No.
+--------------------------------------------------------------------------------
+
+Linking and browsing 
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Should the provision of a hyperlink leading to a work or other subject matter protected under copyright, either in general or under specific circumstances, be subject to the authorisation of the rightholder?
+--------------------------------------------------------------------------------
+ YES  -   under certain circumstances. 
+--------------------------------------------------------------------------------
+Hyperlinks are necessary to the functioning of the Internet. They make it breathe.
+--------------------------------------------------------------------------------
+Also, many search engines use the number of hyperlinks leading to a site as a way to decide where to rank a page or site.
+--------------------------------------------------------------------------------
+Therefore, in a general way and in conformity with common sense, hyperlinking should not be subject to authorization by the rights holders.
+--------------------------------------------------------------------------------
+However beyond common sense, the devil is in the details.
+--------------------------------------------------------------------------------
+We see two major exceptions and limitations that should be considered by courts and legislators if they do not want to rip authors and publishers of the fruit of their work and investment, stifle creativity and bring all sites with protected content behind a secured paywall.
+--------------------------------------------------------------------------------
+Technique used. In the case of images, the hyperlinks involve the reproduction of the whole work. The link is the image. It makes no difference from the point of view of the Viewer (the Internet user) whether the image seen on the visited website is a Jpeg uploaded from a computer to the site where it stored or by an inlink to a picture stored on another site. In the second case, the publishing website actually saves its own storage capacity while using the bandwidth of the source website (with or without authorization).
+--------------------------------------------------------------------------------
+Copyright protection should not be dependent on the technique used to reproduce, but on the fact that there is an act of reproduction. This is particularly true when it comes to the Inline linking of images.
+--------------------------------------------------------------------------------
+Consequently, when the purpose of the inlink is to display a picture subject to a license on a third party website/platform, then the answer to the above question is Yes: regardless whether the content is displayed or simply referred to through a link, the main issue for the rights holder will be to be fairly remunerated for the use of their content by any commercial entity working for its own gain.
+--------------------------------------------------------------------------------
+This is true when for example a still picture is extracted from a video clip and then used as a link. The video has been manipulated and the picture should not be considered as a "quote". In general, images are not "quotable".
+--------------------------------------------------------------------------------
+It should be said that in most cases, the authorization from the rightholder will be straightforward, as with any other use on a publication website (press publisher, commercial blog, any commercial website). In the case of mass but traceable usages, such in social media websites, some of our members advocate non mandatory, non-exclusive licenses managed by a collecting society as part of the solution. 
+
+--------------------------------------------------------------------------------
+Framing: In the recent Stevensson decision of 13 February 2014, the ECJ has ruled that linking  -  in this case text hyperlinks  -  to freely available content does not require authorization by developing a very broad view of "communication to the public". "The owner of a website, such as that of Retriever Sverige, may, without the authorisation of the copyright holders, redirect internet users, via hyperlinks, to protected works available on a freely accessible basis on another site". However, beyond the interpretation of Article 3 paragraph 1 of the Directive 2001/29/CE, the court seems by the same token to be giving green light to the appropriation of the work of third parties using framing techniques. "That finding is not called into question by the fact that the internet users who click on the link have the impression that the work is appearing on Retriever Sverige's site, whereas in fact it comes from the Göteborgs-Posten."
+--------------------------------------------------------------------------------
+Why an on-line newspapers would be required to pay a license to a journalist but a mere aggregator would not hurts as much common sense as having to get authorization by each hyperlink.
+--------------------------------------------------------------------------------
+In the issue of hyperlinking, context is key. Therefore interpretation should be left to national courts and the European Court of Justice
+--------------------------------------------------------------------------------
+Certainly, it would be too time-consuming and costly for an aggregator to relicense each single link reframed on its website. In this case, a framework agreement providing an equitable remuneration, to be managed by the publishers or by a CMO, may be an acceptable compromise and a way forward.
+* --------------------------------------------------------------------------------
+Should the viewing of a web-page where this implies the temporary reproduction of a work or other subject matter protected under copyright on the screen and in the cache memory of the user's computer, either in general or under specific circumstances, be subject to the authorisation of the rightholder? 
+--------------------------------------------------------------------------------
+ YES  -  
+--------------------------------------------------------------------------------
+The actual viewing of a page (from a user's perspective) should not be subject to authorisation when it involves a genuine act of temporary reproduction as a necessary technical process. 
+--------------------------------------------------------------------------------
+However, in the future as technology evolves, it will possible to read complete books on streaming rather than in a printed edition. Streaming achieves the same effect without producing a hard copy or a copy stored on a device. 
+--------------------------------------------------------------------------------
+As noted in the answer to the previous question, copyright protection should not be dependent on the technique used to reproduce, but on the fact that there is an act of reproduction. In other words, the usage should determine the right and technology (which may evolve again in ten years from now) should not be used as a pretext for not retributing the artist.
+--------------------------------------------------------------------------------
+Presently, in the case of streaming, some of our members already apply an additional right on videos since it is possible to track usage. When possible direct licenses should be the rule rather than the management over a CMO.
+Download to own digital content 
+
+* --------------------------------------------------------------------------------
+[In particular if you are an end user/consumer:] Have you faced restrictions when trying to resell digital files that you have purchased (e.g. mp3 file, e-book)? 
+--------------------------------------------------------------------------------
+ NO OPINION
+* --------------------------------------------------------------------------------
+[In particular if you are a right holder or a service provider:] What would be the consequences of providing a legal framework enabling the resale of previously purchased digital content? Please specify per market (type of content) concerned.
+--------------------------------------------------------------------------------
+The answer to this question should take into consideration the differences between the physical and the non-physical world.
+--------------------------------------------------------------------------------
+In the physical world, a second hand copy is a deteriorated version of the original work. In the non-physical world, there is no "second hand" as there is no deterioration and the copy is actually identical to the original.
+--------------------------------------------------------------------------------
+This is true for all types of content.
+--------------------------------------------------------------------------------
+Applying the exhaustion principle to the picture industry would in effect:
+- create a second, third and fourth market with billions of unsourced, unreferenced pictures 
+- harm the business model of our members picture agencies, which relies on the re-use of works in order to recoup the initial investment in producing, sourcing, indexing, cataloguing, referencing, retouching, marketing
+- make the production of photos such as special subject shooting, use of models, or press photography unprofitable 
+- create metadata chaos with no serious reference on not only the author but also the content
+- lead to the potential infringement of categories of rights other than copyright, such as moral rights and personality rights
+--------------------------------------------------------------------------------
+Part of this scenario is already at work with companies such as Pinterest, Instagram or Facebook claiming ownership of the content up-loaded by users on their platform. In September 2013, for example, the New York Times reported how Facebook had used the picture of a dead girl in an advertisement (http://nyti.ms/1c5GE3i). Beyond the anecdotal nature of such a case, the question is whether this is the kind of Internet that we want.
+Registration of works and other subject matter  -  is it a good idea?
+* --------------------------------------------------------------------------------
+Would the creation of a registration system at EU level help in the identification and licensing of works and other subject matter? 
+--------------------------------------------------------------------------------
+ NO  - 
+--------------------------------------------------------------------------------
+Obligatory or voluntary registration system would only create an additional layer of administration, raise cost but will have little effect on legal security of the user due to the difficulty of keeping registration up to date.
+--------------------------------------------------------------------------------
+This is particularly true for the visual sector: a registry for visual works would be costly, always incomplete and therefore not useful for the identification of works. 
+--------------------------------------------------------------------------------
+The visual sector works in two ways:- based on identification of the author in the photographers' databases or the databases of picture agencies (who pay their photographers monthly to quarterly and therefore contain all the necessary information) or, when applicable to photographers, of collecting societies for visual arts - based on identification of the work using visual technology sourcing back to the withholding database (Example: Picscout)
+--------------------------------------------------------------------------------
+With this background, it is difficult to see how an additional registration would be of any help. 
+--------------------------------------------------------------------------------
+Cost and time are an issue. Visual author could not afford the cost and the work to register each and every work in addition to existing registering methods and they will not take the time to do so unless they have to go out of their way to register.
+--------------------------------------------------------------------------------
+Example of the Registration system in the USA. In the USA, electronic registration of a work through the ECO portal of the Copyright Office costs 35 dollars per registration. For that amount, it is possible to place hundreds of images into the system within a limited upload time. However, under current requirements, the group registration is not image searchable. US trade associations have been lobbying for changes for some time in order to adapt to the unique nature of images: a flat fee for as many registrations as needed within a year, an API from the ECO system so that registration could be made by an auction within the DAM programme etc.
+--------------------------------------------------------------------------------
+Another problem is that the market value of a photograph is usually not known before registration. In practice most US based photographers do not register their works at the copyright office and when they do they find that they have registered works that will not be infringed, while non-registered works have been right-clicked several times. 
+--------------------------------------------------------------------------------
+Generally speaking, the value of many visual works, including photographs, is very often not recognised in the time of their creation but only later. These works would therefore not be registered and covered by protection once they are embraced by the larger public. 
+--------------------------------------------------------------------------------
+In any case, there is no evidence that the requirement to register works has been useful in the identification of works by users. In the USA, a country that still practices registration (to be noted a practice inherited from the 19[th] century), users of Internet content lament the lack of legal security. The USA were also the first country to initiate bills on "orphan works" (in 2003 and now again through recent copyright consultations). "For good faith users, orphan works are a frustration, a liability risk, and a major cause of gridlock in the digital marketplace", notes the Copyright Office.
+--------------------------------------------------------------------------------
+To summarize, evidence shows that registration only lowers the protection for the authors. The constant need of keeping data updated in a database makes it costly while legal uncertainty, as evidence of existing registration systems shows, is not reduced.
+--------------------------------------------------------------------------------
+The above comments and observations apply, regardless whether the registration is obligatory or build on the freedom of service.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+What would be the possible advantages of such a system? 
+--------------------------------------------------------------------------------
+We see absolutely no advantage in such a system.
+--------------------------------------------------------------------------------
+Parties who advocate registration say that more information on protected works and rights holders would be available. However, information is already available and plentiful: picture agencies manage huge databases of works with detailed licensing information and information on the author. Information may be embedded in the picture in the form of metadata and standards have been developed next to machine readable rights.
+--------------------------------------------------------------------------------
+Measures and enforcing legislation to prevent stripping of metadata or other identifiers presently in use must be considered as a workable alternative. As a recent IPTC study has found out, most social network sites strip metadata, such as EXIF or IPTC info, even if the information has been duly integrated and attached to the image file. (http://www.embeddedmetadata.org/social-media-test-results.php)
+--------------------------------------------------------------------------------
+There should be an obligation for them not to do so.
+--------------------------------------------------------------------------------
+Rather than creating a new obligation of filing information, the European Commission should ensure that existing systems are respected.
+--------------------------------------------------------------------------------
+We support copyright hubs supporting content seeker in their search. Examples are: the UK copyright hub, the ARROW search tool for librarians, the LCC identifying system. CEPIC is working on the project of a visual copyright finder, sourcing existing visual content databases with existing technologies for users seeking the origin of an "orphaned" image ("CiR" is working title). The European Commission should support this type of existing industry led projects rather than create a new registration system.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+What would be the possible disadvantages of such a system? 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Cost of keeping huge databases up-dated in a reliable way.
+--------------------------------------------------------------------------------
+Ownership and governance of such a database
+--------------------------------------------------------------------------------
+Unreliability with difficulty to keep system updated
+--------------------------------------------------------------------------------
+Will not solve the problem of "orphan works" in a pre-digital time
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+What incentives for registration by rightholders could be envisaged?
+--------------------------------------------------------------------------------
+In the United States, the incentive provided to rights holders is the recovery of statutory damages in the case of (very costly) court cases. However, since in practice the overwhelming majority of photographers do not do this "extra effort" to register their works, it can be said that this type of incentivehas failed.
+--------------------------------------------------------------------------------
+Any registration system should be funded and sustained by those who require it. A possible incentive would be to pay rights holders for this extra effort of registering their works.
+--------------------------------------------------------------------------------
+
+How to improve the use and interoperability of identifiers
+* --------------------------------------------------------------------------------
+What should be the role of the EU in promoting the adoption of identifiers in the content sector, and in promoting the development and interoperability of rights ownership and permissions databases?
+--------------------------------------------------------------------------------
+The EU should play the role of a facilitator by supporting cross media and country cooperation, finance projects agreed and promoted by large stakeholders consortium such as in the case of the Linked Content Coalition. Any system being developed should be based on open standards and developed in a multi-stakeholder approach.
+--------------------------------------------------------------------------------
+The EU should support the creation of the Image Work Cluster (IWC) as proposed in the feasibility study prepared by EVA and CEPIC for the ARROW PLUS project.
+--------------------------------------------------------------------------------
+The EU should also support the creation of unique persistent identifiers within the picture industry and cooperate with IPTC and similar institutions in order to help reduce the number of orphan works in the visual realm.
+--------------------------------------------------------------------------------
+It should be noted that the EU is already doing this by, for example, financing the project RDI (Rights Data Integration). In this project CEPIC is leading a working group dealing with identification.
+--------------------------------------------------------------------------------
+In other words, the EU should support what exists rather than re-invent the wheel and set-up a costly system with unclear advantages.
+Term of protection  -  is it appropriate?
+
+* --------------------------------------------------------------------------------
+Are the current terms of copyright protection still appropriate in the digital environment?
+--------------------------------------------------------------------------------
+ YES  -  .
+--------------------------------------------------------------------------------
+It should be noted that in photography and in some European countries, shorter terms apply or have applied to large groups of photographs: 15 to 50 years after publication or after creation. In the EU harmonization process, these different terms have little meaning in practice at European level as a picture protected in country A for 70 years p.m.a will be protected all through the Union. These shorter terms of protection do keep their meaning within the boundaries of the National States: photographers will get different types of protection depending on the Member State they live in. For instance a UK based photographer working for a UK picture agency licensing photographs of two-dimensional works of art to an art book publisher may be reminded of the Bridgeman v. Corel case, told that his work is only "slavish copying" and be denied any recognition while an Italian photographer shooting the same type of pictures will, at least, get a 20-years protection for his picture from the time of their production.
+--------------------------------------------------------------------------------
+Also, a huge legal uncertainty remains for this type of photographic material lacking sufficient "originality" to get copyright protection as "works of art". Protection is then dependent on the whims of courts which changes with time.
+--------------------------------------------------------------------------------
+However, as for the length of the term itself is concerned, it remains true in the 21[st] century what was true in the 20[th] century: many visual works are not recognised during the lifetime of the author, or gain value only after their death. So the visual artists/creators, or at least their heirs, have an economic benefit of a long term of protection. 
+--------------------------------------------------------------------------------
+Archive photographic material needs careful curating and archiving costs: the long copyright terms benefit this type of material as well. 
+--------------------------------------------------------------------------------
+Certainly shorter terms would promote access by the public at large to cultural heritage material held by publicly funded institutions like Europeana. But this facilitation of access to "free" material will be at the cost of the private creative economy made up for the overwhelming part of individual authors and of dynamic micro, small and medium businesses. Also a number of cultural heritage organisations have trading companies that own and run their own commercial image libraries: the trading company is expected to generate revenue on its own in order to make up for the lack of public funds.
+--------------------------------------------------------------------------------
+Furthermore, in the Internet age, shortening the term of copyright would effectively transfer the right of the creative author to Internet stakeholders who were not part in the creation or original publication of the work, letting these organisations reap the benefit of the initial investment.
+--------------------------------------------------------------------------------
+
+* Limitations and exceptions in the Single Market
+* --------------------------------------------------------------------------------
+Are there problems arising from the fact that most limitations and exceptions provided in the EU copyright directives are optional for the Member States? 
+--------------------------------------------------------------------------------
+ NO  - 
+--------------------------------------------------------------------------------
+The picture industry has been managing rights on a multi territorial basis for more than a century. This means that it has also been dealing with the differences in the application of the copyright directive and its exceptions. 
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Should some/all of the exceptions be made mandatory and, if so, is there a need for a higher level of harmonisation of such exceptions? 
+--------------------------------------------------------------------------------
+ NO  -  Please explain
+--------------------------------------------------------------------------------
+From the mere superficial face of it or from an intellectual academic approach, it would certainly simplify the EU copyright system for the sake of large multi-national companies as well as its understanding by common citizens.
+--------------------------------------------------------------------------------
+In practice, however, it may be very difficult to make this happen. The European legal model is based on two different legal traditions, one of common law and one of civil law. Some member states will be extremely attached to some of the exceptions they have or they have not implemented. Each existing exception listed in Art. 5 will need to be revisited: any "uniformisation" may be seen as being "forced upon" well entrenched national customs.
+--------------------------------------------------------------------------------
+We also believe that existing exceptions are flexible enough to apply to many cases of the digital age.
+--------------------------------------------------------------------------------
+We therefore favour the pragmatic approach taken by the EU so far, who based on the principle of "harmonization", respects legal traditions based on common and civil law as well as national cultures which, because of the cultural and linguistic diversity of Europe is still consumed locally.
+
+* --------------------------------------------------------------------------------
+Should any new limitations and exceptions be added to or removed from the existing catalogue? Please explain by referring to specific cases.
+--------------------------------------------------------------------------------
+We believe that existing exceptions are flexible enough to apply to many cases of the digital age. More detailed norms will only add complexity to a continuing evolving environment. There might be a need for flexibility in the application of existing exceptions but no need for additional rules.
+--------------------------------------------------------------------------------
+Therefore, rather than adding or removing exceptions from the present catalogue, the EU should focus on implementing existing exceptions. The EU should also support industry-led solutions and concerted dialogue to problems that may arise.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Independently from the questions above, is there a need to provide for a greater degree of flexibility in the EU regulatory framework for limitations and exceptions?
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If yes, what would be the best approach to provide for flexibility? (e.g. interpretation by national courts and the ECJ, periodic revisions of the directives, interpretations by the Commission, built-in flexibility, e.g. in the form of a fair-use or fair dealing provision / open norm, etc.)? Please explain indicating what would be the relative advantages and disadvantages of such an approach as well as its possible effects on the functioning of the Internal Market.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+We strongly oppose Fair Use
+Fair use is a vague notion ill adapted to the vastness of the Internet and the plurality of its users. What the Internet needs are clear rules that cannot be debated by interpretation.
+In the US a vast amount of copyright cases are fought under the auspices of fair use. This vague notion only exacerbates the grey area of copyright with lawyers who have to define the shades of grey on a case by case basis. On the other hand, powerful companies with significant financial means, foremost Google, use the legal uncertainty to grow their own business model  -  while they are the only ones able to pay lawyers to cement their initiatives.
+The definitions of Fair Use in the Copyright Act in the US have been continuingly expanding due to the rulings in the courts and increasing significance of "transformative use" in evaluating a fair use defence. The internet has created a legal atmosphere where a vague notion of the "the public good" now outweighs the rights of the individual copyright owners.
+
+A good example is the fight around the Google Book Settlement. The original settlement proposed by Google and published in October 2008, avoided the unclear issue of fair use and proposed a payment to the authors at Google' own conditions. At the relief of authors' community worldwide, Judge Chin finally decided three years later to reject the settlement on the ground that it was putting copyright on its head. Nevertheless, two years later the same judge praised public education and recognised that fair use applied to Google's scanning without prior authorization, ruining in effect an entire creative category of authors. Yet, one year earlier, publishers had been successful in striking a (non-published) financial deal with Google. On the other hand, representatives of visual authors are still waiting for a decision for their category of content. So, at the end of the day the "fair use" argument has led to expensive law suits with different outcomes.
+While Google has unlimited means to fight the wars it chooses to in order to impose the ways which serve best its business model, this is not the case with the creative community.
+We should not accept this doctrine in Europe a situation where larger companies (Google, Amazon, Facebook etc.) set a practice on the market while the authors have to struggle for years in courts to be finally faced with a verdict based on reality.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Does the territoriality of limitations and exceptions, in your experience, constitute a problem?
+--------------------------------------------------------------------------------
+ NO  -  Please explain why and specify which exceptions you are referring to
+--------------------------------------------------------------------------------
+The only reason to answer Yes is that it would be easier to live by one set of rule. In practice, problems can be solved by the industry itself following national and consumer demand. 
+
+* --------------------------------------------------------------------------------
+In the event that limitations and exceptions established at national level were to have cross-border effect, how should the question of "fair compensation" be addressed, when such compensation is part of the exception? (e.g. who pays whom, where?)
+--------------------------------------------------------------------------------
+ [Open question] 
+--------------------------------------------------------------------------------
+A system is already in place for this type of issues: CMOs collect remuneration (and compensation) within their territory and distribute money to their members and the shares for foreign authors to CMOs in the respective country based on reciprocal agreements.
+--------------------------------------------------------------------------------
+Also picture agencies pay their photographers either directly or through the agent network.
+* Access to content in libraries and archives
+* Preservation and archiving
+* --------------------------------------------------------------------------------
+ (a) [In particular if you are an institutional user:] Have you experienced specific problems when trying to use an exception to preserve and archive specific works or other subject matter in your collection?
+--------------------------------------------------------------------------------
+(b) [In particular if you are a right holder:] Have you experienced problems with the use by libraries, educational establishments, museum or archives of the preservation exception? 
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If there are problems, how would they best be solved?
+--------------------------------------------------------------------------------
+[Open question]
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a legislative solution is needed, what would be its main elements? Which activities of the beneficiary institutions should be covered and under which conditions?
+--------------------------------------------------------------------------------
+[Open question]
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a different solution is needed, what would it be?
+--------------------------------------------------------------------------------
+ [Open question]
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+Off-premises access to library collections
+
+* --------------------------------------------------------------------------------
+ (a) [In particular if you are an institutional user:] Have you experienced specific problems when trying to negotiate agreements with rights holders that enable you to provide remote access, including across borders,  to your collections (or parts thereof) for purposes of research and private study? 
+--------------------------------------------------------------------------------
+(b) [In particular if you are an end user/consumer:] Have you experienced specific problems when trying to consult, including across borders, works and other subject-matter held in the collections of institutions such as universities and national libraries when you are not on the premises of the institutions in question?
+--------------------------------------------------------------------------------
+(c) [In particular if you are a right holder:] Have you negotiated agreements with institutional users that enable those institutions to provide remote access, including across borders,  to the works or other subject-matter in their collections, for purposes of research and private study?
+--------------------------------------------------------------------------------
+[Open question]
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If there are problems, how would they best be solved?
+--------------------------------------------------------------------------------
+[Open question].
+--------------------------------------------------------------------------------
+N/A 
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a legislative solution is needed, what would be its main elements? Which activities of the beneficiary institutions should be covered and under which conditions?
+--------------------------------------------------------------------------------
+[Open question]
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a different solution is needed, what would it be?
+--------------------------------------------------------------------------------
+[Open question]
+--------------------------------------------------------------------------------
+N/A
+E  -  lending
+* --------------------------------------------------------------------------------
+(a) [In particular if you are a library:] Have you experienced specific problems when trying to negotiate agreements to enable the electronic lending (e-lending), including across borders, of books or other materials held in your collection?
+--------------------------------------------------------------------------------
+(b) [In particular if you are an end user/consumer:] Have you experienced specific problems when trying to borrow books or other materials electronically (e-lending), including across borders, from institutions such as public libraries? 
+--------------------------------------------------------------------------------
+(c) [In particular if you are a right holder:] Have you negotiated agreements with libraries to enable them to lend books or other materials electronically, including across borders?
+--------------------------------------------------------------------------------
+Publishers negotiate with libraries publishers. With regards to this section, CEPIC therefore supports the views expressed by the European Federation of Publishers as the price of the picture license will be dependent on the price of the book license. Unfortunately, when prices go down, experience shows that the first budget cut is the one for photographs with a request for more rights or more pictures for a flat fee.
+ 
+* --------------------------------------------------------------------------------
+If there are problems, how would they best be solved? 
+--------------------------------------------------------------------------------
+E-books are very cheap which gives very little to the photographer or illustrator and puts pressure on the contractual situation leading to the situation where publishers try to get all rights for all future uses.
+--------------------------------------------------------------------------------
+On top of this, E-lending might create a secondary market in competition with the first market and, as in the case of digital exhaustion, ruin the first market.
+--------------------------------------------------------------------------------
+This type of usages would be a good case for a legitimate CMS licensing scheme, to be negotiated carefully between all stakeholders, including the providers of the images in the books.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[In particular if you are an institutional user:] What differences do you see in the management of physical and online collections, including providing access to your subscribers? What problems have you encountered?
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[In particular if you are a right holder:]  What difference do you see between libraries' traditional activities such as on-premises consultation or public lending and activities such as off-premises (online, at a distance) consultation and e-lending? What problems have you encountered?
+--------------------------------------------------------------------------------
+[Open question]
+Mass digitisation
+* --------------------------------------------------------------------------------
+[In particular if you are an institutional user, engaging or wanting to engage in mass digitisation projects, a right holder, a collective management organisation:] Would it be necessary in your country to enact legislation to ensure that the results of the 2011 MoU (i.e. the agreements concluded between libraries and collecting societies) have a cross-border effect so that out of commerce works can be accessed across the EU? 
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Would it be necessary to develop mechanisms, beyond those already agreed for other types of content (e.g. for audio- or audio-visual collections, broadcasters' archives)?
+--------------------------------------------------------------------------------
+ YES  -  
+--------------------------------------------------------------------------------
+The MoU on out of commerce books which was signed in 2012 does not consider the use of images properly (although at least it does consider the use of images). Also the project Re-LIRE in France left out the issue of images. 
+--------------------------------------------------------------------------------
+The reason why we believe that the use of images in books was not considered properly by the MoU on out of commerce books or by the project Re-Lire in France is that the vast majority of photographers and picture agencies in Europe are not represented by collecting societies for visual arts, whose primary membership includes artists such as painters, sculptors, architects, illustrators etc.
+--------------------------------------------------------------------------------
+We therefore think that this type of solutions should be revisited and integrate the point of view of the photographic community in its diversity.
+--------------------------------------------------------------------------------
+On the other hand, mechanisms  -  technical solutions  -  making it possible to find/ identify images properly, and presently being developed should be supported. We refer to our answer to question 19 in Chapter II D. regarding the identification of images.
+Teaching
+* --------------------------------------------------------------------------------
+ (a) [In particular if you are an end user/consumer or an institutional user:] Have you experienced specific problems when trying to use works or other subject-matter for illustration for teaching, including across borders? 
+--------------------------------------------------------------------------------
+(b) [In particular if you are a right holder:] Have you experienced specific problems resulting from the way in which works or other subject-matter are used for illustration for teaching, including across borders?
+--------------------------------------------------------------------------------
+ YES  -  Please explain 
+--------------------------------------------------------------------------------
+With regards to this section, CEPIC supports the views expressed by the European Federation of Publishers as any price of a license will affect the price of the subcontracted licenses.
+--------------------------------------------------------------------------------
+In online offers for educational purposes, this happens for example, when publishers add unlimited amount of pictures for the purpose of education but without wanting to pay additional rights; (French: "publication enrichie")
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If there are problems, how would they best be solved?  
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+What mechanisms exist in the market place to facilitate the use of content for illustration for teaching purposes? How successful are they? 
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a legislative solution is needed, what would be its main elements? Which activities of the beneficiary institutions should be covered and under what conditions?
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a different solution is needed, what would it be?
+--------------------------------------------------------------------------------
+
+
+Research
+
+* --------------------------------------------------------------------------------
+(a) [In particular if you are an end user/consumer or an institutional user:] Have you experienced specific problems when trying to use works or other subject matter in the context of research projects/activities, including across borders?   
+--------------------------------------------------------------------------------
+(b) [In particular if you are a right holder:] Have you experienced specific problems resulting from the way in which works or other subject-matter are used in the context of research projects/activities, including across borders?
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If there are problems, how would they best be solved? 
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+What mechanisms exist in the Member States to facilitate the use of content for research purposes? How successful are they? 
+--------------------------------------------------------------------------------
+N/A 
+--------------------------------------------------------------------------------
+.
+Disabilities 
+* --------------------------------------------------------------------------------
+ (a) [In particular if you are a person with a disability or an organisation representing persons with disabilities:] Have you experienced problems with accessibility to content, including across borders, arising from Member States' implementation of this exception? 
+--------------------------------------------------------------------------------
+(b) [In particular if you are an organisation providing services for persons with disabilities:] Have you experienced problems when distributing/communicating works published in special formats across the EU?
+--------------------------------------------------------------------------------
+(c) [In particular if you are a right holder:] Have you experienced specific problems resulting from the application of limitations or exceptions allowing for the distribution/communication of works published in special formats, including across borders?
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If there are problems, what could be done to improve accessibility? 
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+What mechanisms exist in the market place to facilitate accessibility to content? How successful are they?
+--------------------------------------------------------------------------------
+N/A
+Text and data mining
+
+* --------------------------------------------------------------------------------
+(a) [In particular if you are an end user/consumer or an institutional user:] Have you experienced obstacles, linked to copyright, when trying to use text or data mining methods, including across borders?
+--------------------------------------------------------------------------------
+(b) [In particular if you are a service provider:] Have you experienced obstacles, linked to copyright, when providing services based on text or data mining methods, including across borders?
+--------------------------------------------------------------------------------
+(c) [In particular if you are a right holder:] Have you experienced specific problems resulting from the use of text and data mining in relation to copyright protected content, including across borders?
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If there are problems, how would they best be solved? 
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a legislative solution is needed, what would be its main elements? Which activities should be covered and under what conditions?
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a different solution is needed, what would it be?
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Are there other issues, unrelated to copyright, that constitute barriers to the use of text or data mining methods?
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+.............................................................................................................
+User-generated content
+* --------------------------------------------------------------------------------
+(a) [In particular if you are an end user/consumer:] Have you experienced problems when trying to use pre-existing works or other subject matter to disseminate new content on the Internet, including across borders? 
+--------------------------------------------------------------------------------
+(b) [In particular if you are a service provider:] Have you experienced problems when users publish/disseminate new content based on the pre-existing works or other subject-matter through your service, including across borders?
+--------------------------------------------------------------------------------
+(c) [In particular if you are a right holder:] Have you experienced problems resulting from the way the users are using pre-existing works or other subject-matter to disseminate new content on the Internet, including across borders?
+--------------------------------------------------------------------------------
+ YES  -  Please explain by giving examples
+--------------------------------------------------------------------------------
+A lot of protected content is shared on the Internet where the added value is shifted from the creator to the distributing platform whose revenue stems from the free sharing of content.
+--------------------------------------------------------------------------------
+Pictures are copied incessantly, either cropped or used in total. According to statistics established by visual recognition tools that crawl the web, searching for unlicensed usage of images, 85% of protected images on the internet are pirated! They are re-used on money making web pages without providing a proper credit to the author, let alone remuneration.
+--------------------------------------------------------------------------------
+A good example of this type of business model in our industry is represented by Pinterest. Pinterest is photo-sharing website that allows users to create and manage image collections such as events, interests, and hobbies made up of the photos they have found on the web. Many of these images are protected material. In October 2013, Pinterest won a $225 million round of equity funding that valued the website at $3.8 billion.
+--------------------------------------------------------------------------------
+This is a financial issue as the consumer is usually not in a position to pay for this content. But this is also a legal issue as in terms of responsibility the consumer may be liable, when in fact it is the service provider which is making money out of the sharing free content.
+--------------------------------------------------------------------------------
+It is the intermediary who should pay a license as it lives from the sharing of content.(See answer to question 61)
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+(a) [In particular if you are an end user/consumer or a right holder:] Have you experienced problems when trying to ensure that the work you have created (on the basis of pre-existing works) is properly identified for online use? Are proprietary systems sufficient in this context?
+--------------------------------------------------------------------------------
+(b) [In particular if you are a service provider:] Do you provide possibilities for users that are publishing/disseminating the works they have created (on the basis of pre-existing works) through your service to properly identify these works for online use? 
+--------------------------------------------------------------------------------
+ YES  -  Please explain
+--------------------------------------------------------------------------------
+a) The biggest problem the picture industry is faced too is the fact that metadata is being scraped due to the bad will of social media sites. (http://www.embeddedmetadata.org/social-media-test-results.php)
+--------------------------------------------------------------------------------
+Proprietary systems are sufficient and technology is further being developed but the legislation around the protection of metadata should be strengthened.
+--------------------------------------------------------------------------------
+b) Data protection issues may arise if a blanket exception were to be enforced
+--------------------------------------------------------------------------------
+c) Unauthorized use of third-party content is an issue in the context of a no-competitive internet market
+--------------------------------------------------------------------------------
+.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+(a) [In particular if you are an end user/consumer or a right holder):] Have you experienced problems when trying to be remunerated for the use of the work you have created (on the basis of pre-existing works)?
+--------------------------------------------------------------------------------
+(b) [In particular if you are a service provider:] Do you provide remuneration schemes for users publishing/disseminating the works they have created (on the basis of pre-existing works) through your service?
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If there are problems, how would they best be solved?
+--------------------------------------------------------------------------------
+[Open question]
+--------------------------------------------------------------------------------
+For practical, pragmatic reasons, tolerance towards private users is the practice within our industry. This means that the private blogger who "borrowed" a picture (a news picture, celebrity, history etc.) will not be sued. Usually a simple request to, at least publish the source/ credit of the picture will be sent. Educating the consumer is the pragmatic rule.
+--------------------------------------------------------------------------------
+Because this practice is tolerated does not mean it should be legalised as well. An exception for this type of "private" "non-commercial" usage would legalise the unauthorized use by the platform  -  neither "private" nor "non-commercial". It would be very harmful to the entire Internet ecosystem if this kind of usages would not be actionable.
+--------------------------------------------------------------------------------
+On the internet, consumers should be allowed to share as they wish as long as it is for non-commercial purposes (for "fun"). However, intermediaries who draw a commercial advantage from these non-commercial usages should take their responsibility: they should either ensure that the legal security of the data is provided for or pay a fee to cover the usage of protected content. This could happen through individual agreements whenever possible, as uses on the Internet are all traceable, or through a collective scheme yet to be defined or a combination of both.
+--------------------------------------------------------------------------------
+In this context, a better definition of "service providers" and their role may be useful  -  and what a commercial usage is v. a non-commercial usage: Blogs for example are used for self-promotion and/or bring traffic to the hosting website (example: aufeminin.com). Just because a blog is called "blog" does not mean it is private and can use content freely.
+--------------------------------------------------------------------------------
+Technology making it possible to find/ identify images properly, and presently being developed should be supported. The use of machine readable rights is a way forward. This is the work undertaken at international level by organisations such as IPTC (http://www.phmdc.org/) or the Linked Content Coalition or the RDI project in the Esperanto of the Internet, or the "CiR project" of CEPIC.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a legislative solution is needed, what would be its main elements? Which activities should be covered and under what conditions?
+--------------------------------------------------------------------------------
+[Open question] 
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If your view is that a different solution is needed, what would it be?
+--------------------------------------------------------------------------------
+[Open question]
+--------------------------------------------------------------------------------
+See answer to question 61.
+
+* Private copying and reprography
+
+* --------------------------------------------------------------------------------
+In your view, is there a need to clarify at the EU level the scope and application of the private copying and reprography exceptions in the digital environment?
+--------------------------------------------------------------------------------
+ NO OPINION 
+
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Should digital copies made by end users for private purposes in the context of a service that has been licensed by rightholders, and where the harm to the rightholder is minimal, be subject to private copying levies?
+--------------------------------------------------------------------------------
+ YES  -  
+--------------------------------------------------------------------------------
+Private copying must be subject to compensation, even if the harm caused by such copying, considered separately, might appear minimal. Given the small incomes of a majority of authors even small amounts are not insignificant.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+How would changes in levies with respect to the application to online services (e.g. services based on cloud computing allowing, for instance, users to have copies on different devices) impact the development and functioning of new business models on the one hand and rightholders' revenue on the other? 
+
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+ Would you see an added value in making levies visible on the invoices for products subject to levies?
+--------------------------------------------------------------------------------
+ YES  -  
+--------------------------------------------------------------------------------
+We believe that this is a positive measure to ensure transparency in compensation payments for private copies and their correct application, especially since people who have reproduction equipment, devices and media and who, on that basis, in law or in fact, make that equipment available to private users or who provide copying services for them and pay a compensation have the possibility of passing on the payment to the private users.
+
+* --------------------------------------------------------------------------------
+Have you experienced a situation where a cross-border transaction resulted in undue levy payments, or duplicate payments of the same levy, or other obstacles to the free movement of goods or services? 
+--------------------------------------------------------------------------------
+ NO OPINION
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+What percentage of products subject to a levy is sold to persons other than natural persons for purposes clearly unrelated to private copying? Do any of those transactions result in undue payments? Please explain in detail the example you provide (type of products, type of transaction, stakeholders, etc.). 
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Where such undue payments arise, what percentage of trade do they affect? To what extent could a priori exemptions and/or ex post reimbursement schemes existing in some Member States help to remedy the situation? 
+
+--------------------------------------------------------------------------------
+N/A
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If you have identified specific problems with the current functioning of the levy system, how would these problems best be solved?
+--------------------------------------------------------------------------------
+N/A
+* Fair remuneration of authors and performers
+
+* --------------------------------------------------------------------------------
+[In particular if you are an author/performer:] What is the best mechanism (or combination of mechanisms) to ensure that you receive an adequate remuneration for the exploitation of your works and performances?
+--------------------------------------------------------------------------------
+[Open question]  
+--------------------------------------------------------------------------------
+There is no best mechanism applied to all categories of authors. The "best" mechanism will depend on the way the work is exploited and the rights transferred.
+--------------------------------------------------------------------------------
+In the case of mass usages and complex rights situations, CMOs governed by authors are an efficient tool to manage rights and to ensure that the authors benefit from remuneration due for uses of their works.
+--------------------------------------------------------------------------------
+Direct licensing remains the best method to obtain the highest gain for the individual author. Direct licensing is possible when uses can be negotiated and the transfer of rights is straightforward. Technology makes it increasingly possible to trace usages on the Internet and manage rights in a machine readable way. The development of these technologies in Europe and accompanying standards should therefore be supported.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Is there a need to act at the EU level (for instance to prohibit certain clauses in contracts)? 
+--------------------------------------------------------------------------------
+ YES  -  Please explain 
+--------------------------------------------------------------------------------
+Contracts with unlimited duration, total transfer of all remuneration rights and all rights for exclusive exploitation, waiver of moral rights, in general rights transfers that exceed the scope needed for a specific use are becoming the rule. Such clauses should be banned on EU level.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+If you consider that the current rules are not effective, what would you suggest to address the shortcomings you identify?
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+N/A
+* Respect for rights
+. 
+* --------------------------------------------------------------------------------
+Should the civil enforcement system in the EU be rendered more efficient for infringements of copyright committed with a commercial purpose?
+--------------------------------------------------------------------------------
+ YES  -  
+--------------------------------------------------------------------------------
+Images are right-clicked easily and piracy made easy by image search engines. On the other hand, image recognition softwares are able to track and find the stolen pictures in a very accurate way, even when the picture has been cropped or colours have been switched. When it comes to the Enforcement of rights, on the other hand, this becomes more difficult. First, pictures may be found on websites of non-European countries with low respect of copyright. Second, the cost of enforcing rights may be higher than the price to be paid for the pictures and/or damages too low. In the UK, the small claim tribunal is a step in the right direction.
+--------------------------------------------------------------------------------
+Solutions:
+--------------------------------------------------------------------------------
+- Better collaboration on enforcement from States who are not members of the EU
+--------------------------------------------------------------------------------
+- Possibility to address small cases in the national courts all though the European Union is a step in the right direction.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+In particular, is the current legal framework  clear enough to allow for  sufficient involvement of intermediaries (such as Internet service providers, advertising brokers, payment service providers, domain name registrars, etc.) in inhibiting online copyright infringements with a commercial purpose? If not, what measures would be useful to foster the cooperation of intermediaries?
+--------------------------------------------------------------------------------
+[Open question]
+--------------------------------------------------------------------------------
+ISP Responsibility
+--------------------------------------------------------------------------------
+The EU should encourage collaboration with ISP providers. 
+--------------------------------------------------------------------------------
+Simplification of notice and take down across Europe would be a first step.
+--------------------------------------------------------------------------------
+In some cases, ISPs should be liable for the infringements of copyright within their services. They facilitate the use of protected works in a way that bypasses official sources and by that bypass information on the legal status of works should not be allowed.
+--------------------------------------------------------------------------------
+Search engine collaboration
+--------------------------------------------------------------------------------
+CEPIC members are worried by the evolution of image search engines whose functionalities and lack of proper information about source and content fuel Image piracy and/or retain traffic from the publishers' website onto the search engine platform. In 2013, the new features of Google Images Search provoked an up-roar in the photographic community. Users looking for images on the web can now see large pictures, often in full high-resolution size, directly on Google's pages and out of their original context. Users do not need to click to the source of the image in order to access the image. The original publishing website does not show in the background frame anymore. Only a very small note at the bottom of the screen, not adjacent to the image, indicates that the images "may" be subject to copyright while the information possibly available in the EXIF file (which provides basic information on the image and its origin) has now completely disappeared from the right hand side. The display of the image out of its original context and the lack of information induce copyright infringement by innocent or less innocent users. On top of this, and as a result of this change of display, studies show that three months after the roll out, traffic is being heavily driven away from the image content providers' websites (-70% traffic) and retained on Google's.
+--------------------------------------------------------------------------------
+This type of evolution should not be tolerated. Nor is the argument acceptable that rights holder may "opt out" of the search engine if they don' like it. Firstly, the opt-out mechanisms proposed by Google are neither sufficient nor provide enough granularity to be useful. Secondly, it has to be recognized that opting-out is not an alternative in the uncompetitive context of the Internet as it practically means opting out of the internet itself.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Does the current civil enforcement framework ensure that the right balance is achieved between the right to have one's copyright respected and other rights such as the protection of private life and protection of personal data? 
+--------------------------------------------------------------------------------
+ NO OPINION
+* A single EU Copyright Title
+
+* --------------------------------------------------------------------------------
+Should the EU pursue the establishment of a single EU Copyright Title, as a means of establishing a consistent framework for rights and exceptions to copyright across the EU, as well as a single framework for enforcement? 
+--------------------------------------------------------------------------------
+ NO 
+--------------------------------------------------------------------------------
+In principle, it would be nice to have a single EU title. But in practice it will be impossible to make it happen and take years to negotiate. The EU legislator must recognise that it is not a white sheet of paper which is being written but that the present different copyright systems have a long history engrained in national culture. 
+--------------------------------------------------------------------------------
+The present framework with its system of mandatory and non-mandatory exceptions is functioning in principle rather well. Shortcomings can be solved with small intervention on EU and on national level. Such initiative would not be in line with the principle of subsidiarity.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+79. Should this be the next step in the development of copyright in the EU? Does the current level of difference among the Member State legislation mean that this is a longer term project
+
+N/A
+* Other issues
+
+--------------------------------------------------------------------------------
+80. Are there any other important matters related to the EU legal framework for copyright? Please explain and indicate how such matters should be addressed.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+1) Protection of metadata. At question 7 under Title II, we already mentioned the importance of retaining metadata in terms of credit attribution and content in formation. 
+--------------------------------------------------------------------------------
+2) Role of "intermediaries"  -  social media, search engines
+--------------------------------------------------------------------------------
+In the last ten years, the Internet has grown into a commercial market place which is "free" to users searching for content provided they are willing to pay with their private data. Content providers are expected to provide their data for free unless they hide it behind extensive paywalls. 
+--------------------------------------------------------------------------------
+"Sharing is caring". Solutions exist which would allow Internet users to share as much as they will without hindering the business model of intermediaries. Intermediaries' responsibility for the use of protected works could for instance enter into voluntary non-exclusive collective agreements of blanket licenses against an equitable remuneration for the authors and their distributor when applicable. Such mechanisms should include an opt-out solution from blanket licenses and ECL for the right owners that could negotiate an agreement by themselves (this means usually to better conditions).
+--------------------------------------------------------------------------------
+3) Search engines regulation. Most image providers are dependent on search engines such as google Images to have their material found and to have adequate. In view of very high piracy figures, efforts can be legitimately expected from search engines to propose features that restrain piracy rather than encourage it. On a competitive search market place, the possibility to opt-out from the "wrong" crawler would easily solve the dilemma. On a non-competitive market, on the other hand, and this is the case of the search market, opt-out is not an option.
+--------------------------------------------------------------------------------
+Besides "opt out" hurts the rules of copyright which is based on opt-in mechanisms.
+--------------------------------------------------------------------------------
+In the context of a market dominated by one single company proposing a service of public interest but enforcing practices for its sole business's benefit, a legislative initiative to regulate the Internet as a place to the benefit of all stakeholders is necessary.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+4 Overlapping of copyright with other rights. The EU legislator should be careful not to kill the hen with the golden eggs. Not only will plurality and European multiculturalism be endangered by a unification of authors and copyright, but a limitation of the rights of creators will unavoidably lead to a development of the use of overlapping rights in order to fill the gap left by a lack of legitimate protection: property rights, database rights, personality right, competition right will then have to be used to protect authors against the undesired exploitation of their works by third-parties. Authors need to be protected online by effective rights rather than have to resort to expensive technology and miscellaneous legal means, leading at the end to more insecurity, more legal strife and less quality content available online.
+THE END  -  26 February 2014

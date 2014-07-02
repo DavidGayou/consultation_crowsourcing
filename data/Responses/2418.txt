@@ -1,0 +1,475 @@
+PLEASE IDENTIFY YOURSELF:
+
+
+Name: David Hansen, Kathryn Hashimoto, Gwen Hinze, Pamela Samuelson, Jason Schultz, and
+Jennifer Urban – researchers with the UC Berkeley Digital Library Copyright Project.1
+
+
+TYPE OF RESPONDENT (Please underline the appropriate):
+       End user/consumer (e.g. internet user, reader, subscriber to music or audiovisual service,
+        researcher, student) OR Representative of end users/consumers
+           for the purposes of this questionnaire normally referred to in questions as "end
+          users/consumers"
+       Institutional user (e.g. school, university, research centre, library, archive)                     OR
+        Representative of institutional users
+           for the purposes of this questionnaire normally referred to in questions as "institutional
+          users"
+       Author/Performer OR Representative of authors/performers
+       Publisher/Producer/Broadcaster                          OR                Representative            of
+        publishers/producers/broadcasters
+           the two above categories are, for the purposes of this questionnaire, normally referred to
+          in questions as "right holders"
+       Intermediary/Distributor/Other service provider (e.g. online music or audiovisual
+        service, games platform, social media, search engine, ICT industry) OR Representative of
+        intermediaries/distributors/other service providers
+           for the purposes of this questionnaire normally referred to in questions as "service
+          providers"
+       Collective Management Organisation
+       Public authority
+       Member State
+       Other (Please explain):
+Rather than writing as researchers who are end-users of materials, we are responding as
+researchers who are studying the copyright system itself.
+We are researchers with the University of California Berkeley Digital Library Copyright Project,
+a grant-funded initiative that aims to investigate copyright obstacles faced by libraries and other
+like-minded organizations in their efforts to realize the full potential of present and future digital
+library initiatives. Our efforts are concentrated on both the obstacles themselves and the range of
+possible legal, technological, social, and market-based solutions to overcome them. Among other
+
+1
+    For more information about this project, please see http://www.law.berkeley.edu/librarycopyright.htm.
+issues, we are specifically examining challenges with respect to orphan works, library privileges,
+digital lending, metadata ownership, and copyright formalities. Our work has primarily focused
+on approaches for the United States, but because of the international nature of these challenges,
+our research has also carefully considered the legal situation in the EU and in various Member
+States.
+Our responses below are limited to those issues on which we have conducted significant research
+over the course of this project. We are aware of the differences in the copyright legal doctrines
+and statutory regimes in the U.S. and the EU, which are also amply documented in the Study on
+the Application of Directive 2001/29/EC on Copyright and Related Rights in the Information
+Society prepared for the Commission.2 We recognize that we live in a globally networked
+information society and that information and digital copyrighted works are now accessed across
+national borders every day. We also recognize that sound policy development requires
+considering the strengths and weaknesses of the full range of potential policy solutions. In light
+of this, and to facilitate the Commission’s understanding of how key consultation issues are
+being addressed in the U.S., we have focused on providing information about how the policy
+debate within the U.S. has treated these matters.
+Our main contribution to this consultation is the set of research papers cited in our answers (and
+attached to this document). We hope the Commission will consider our research as the
+Commission develops a balanced response that takes into account the important needs of
+libraries, archives, and other memory institutions both within the EU and internationally.
+
+
+
+13.     [In particular if you are an end user/consumer:] Have you faced restrictions when trying
+to resell digital files that you have purchased (e.g. mp3 file, e-book)?
+        – Please explain by giving examples
+Our research has shown that end users and institutional users such as libraries and archives face
+significant challenges when trying to resell, transfer, or lend digital files of copyrighted works. In
+many circumstances, users are uncertain about whether principles of exhaustion—or other general
+principles of copyright law—even apply to their resale or transfer of their digital copy. End user
+license agreements (EULAs) often include contract terms that conflict with default copyright
+principles such as exhaustion, causing uncertainty as to which rules apply. The Commission should
+rectify this situation by making clear that contract terms cannot override copyright limitations and
+exceptions. Among many others, Professor Ian Hargreaves has, in his independent review of UK
+intellectual property law, argued for this type of change for reasons similar to those discussed
+above.3
+In addition to uncertainty with respect to resale of works covered by EULAs, we have also found
+that users confront restrictions when the distribution of digital works is accompanied by the
+exercise of other rights such as reproduction. While exhaustion clearly covers distribution, users
+2
+  Jean-Paul Triaille, Severine Dusollier, Sari Depreeuw, Jean-Benoit Hubin, Francois Coppens and Amelie de
+Francquen, De Wolf & Partners, STUDY ON APPLICATION OF DIRECTIVE 2001/29/EC ON COPYRIGHT AND RELATED
+RIGHTS IN THE INFORMATION SOCIETY, (DEC. 2013), at
+http://ec.europa.eu/internal_market/copyright/docs/studies/131216_study_en.pdf
+3
+  IAN HARGREAVES, DIGITAL OPPORTUNITY: A REVIEW OF INTELLECTUAL PROPERTY AND GROWTH 51 (2011),
+HTTP://WWW.IPO.GOV.UK/IPREVIEW-FINALREPORT.PDF.
+are uncertain about whether the principle of exhaustion covers the incidental reproductions that
+occur when moving digital objects from one device to another. Oracle v. UsedSoft develops a
+broader conception of the exhaustion right that allows for some digital transfers, but the exhaustion
+right as applied in that case was emphasized to be lex specialis. With that limitation in mind, we
+understand that at least one court has concluded that the same rule should not apply to e-books,
+and that that case is currently on appeal.4 The Commission should clarify the law in this area to
+make clear that the UsedSoft principle of exhaustion should apply more broadly to other types of
+copyrighted works, including e-books.
+Jason Schultz and Aaron Perzanowski, in their article Digital Exhaustion, 58 UCLA L. Rev. 889
+(2011) (attached as an Appendix), have addressed in great detail the policy and legal rationale
+under U.S. law for why a broad conception of the exhaustion right should be applied to digital
+transfers. We urge the Commission to review that article, and in particular, Part I which highlights
+the documented benefits of exhaustion and how those benefits apply in the digital environment.
+
+
+    NO
+    NO OPINION
+
+
+14.    [In particular if you are a right holder or a service provider:] What would be the
+consequences of providing a legal framework enabling the resale of previously purchased digital
+content? Please specify per market (type of content) concerned.
+Our research indicates that providing a legal framework for resale of digital content would, in
+practical terms, also require understanding and supporting the specialized technology that would
+be needed to support those markets. While other models exist, we encourage the Commission to
+investigate the digital resale system developed by ReDigi, LLC, an American firm that runs an
+online market place for the resale of used mp3s, and that is in the process of developing an online
+marketplace for the sale of used software, ebooks, and audiobooks. The ReDigi system addresses
+the “forward and delete” question through software that participating sellers must install to ensure
+no copy of the work remains on the seller’s device after a sale. See https://www.redigi.com/site/.
+Although we believe the ReDigi system has merit, other models could also accomplish this goal.
+Further, please note that the ReDigi system specifically is currently being tested in court in Capitol
+Records v. Redigi, Case No. 12-0095 (S.D.N.Y. 2012).
+
+
+15.     Would the creation of a registration system at EU level help in the identification and
+licensing of works and other subject matter?
+
+
+    NO
+    NO OPINION
+
+
+4
+ See LG Bielefeld, Decision of March 5, 2013, docket no.4 O
+191/11,
+http://www.boersenverein.de/sixcms/media.php/976/LG_Bielefeld_vom_05.03.13_Klage_Verbraucherzentralen.pdf
+16.    What would be the possible advantages of such a system?
+Copyright formalities, and registration in particular, is an issue that we have researched
+extensively. Based on both our own work and that of many others, we believe that the
+implementation of copyright formalities, including registration, may be one of the most important
+strategies for reconciling copyright law and the challenges of the digital age. Never before have
+creative works been made available to the public on such a large scale. This has presented new
+challenges for copyright law and a need to create more legal certainty regarding claims of
+copyright, to facilitate rights clearances and to enhance the free flow of information. Registration
+can help meet these challenges. A properly formulated registry could provide legal certainty about
+ownership, which is especially important with works whose rights are divided and owned by many
+third parties. A registration system that sufficiently tracks ownership could also facilitate rights
+clearance by giving potential users a clear and trusted source to consult in locating owners.
+The functions and benefits of registration and other copyright formalities have been well
+documented. Stef van Gompel, researcher with the Universiteit von Amsterdam Instituut voor
+Informatierecht (IViR), has produced an in-depth review of the history and possible future of
+copyright formalities: FORMALITIES IN COPYRIGHT LAW: AN ANALYSIS OF THEIR HISTORY,
+RATIONALES AND POSSIBLE FUTURE (KLUWER LAW INTERNATIONAL 2011).
+While registration has many benefits, the design and implementation of such a system deserves
+further study. In April 2013 we, through the UC Berkeley Center for Law and Technology,
+sponsored a major academic symposium—with several speakers from the EU, US, and
+elsewhere—titled “Reform(aliz)ing Copyright for the Internet Age” Conference speakers
+addressed, among other things, the economic impacts of formalities regimes, their implementation
+under the Berne Convention, and the various models for implementing for such a system. We
+encourage the Commission to draw upon this research as it studies what a registration system
+might look like in the EU.
+The conference materials are available online here: http://www.law.berkeley.edu/formalities.htm,
+and related research articles will be published in Spring 2014 by the Berkeley Technology Law
+Journal, available here: http://btlj.org/.
+
+
+17.    What would be the possible disadvantages of such a system?
+In the past registration and other copyright formalities have been criticised as a “trap for the
+unwary”, leading creators to lose or substantially impair their enjoyment of rights because the
+creator failed to comply with a technicality. Registration has also, at times, been considered
+onerous and costly. While no registration system will ever be entirely costless, our study of the
+issue has brought to light several technological solutions, such as integrated metadata, electronic
+registration—a simple web form, for example, and more flexible rules about how to effectively
+register a work, that can help overcome these disadvantages. In short, it is possible to get many
+of the benefits that formalities promise for a more efficient and focused copyright law, without
+the problems that led us to do away with them in the first place. Several of the presenters at the
+UC Berkeley Conference on formalities discussed examples of new technology that makes
+registration more effective and efficient. Those presentations are available at
+http://www.law.berkeley.edu/formalities.htm.
+18.     What incentives for registration by rightholders could be envisaged?
+Through our work in the study of copyright formalities we have identified several promising
+ways to incentivize registration. Incentives for registration could, for example, include enhanced
+procedural benefits for holders. These might include simplified court procedures or presumptions
+of proof concerning ownership.
+In addition, registration incentives could be combined with other reforms, such as a shortening of
+copyright terms for all works except for those works that are registered. Maria Pallante, U.S.
+Register of Copyrights, has entertained just such an approach, suggesting that terms longer than
+the Berne minimum 50 years could be conditioned on registration.5 Tying registration to the
+relief available to a plaintiff in the event of a dispute—for example, making monetary damages
+only available for registered works—may also be a viable option. These and other possibilities,
+as well as their feasibility under Berne, were discussed in detail at the UC Berkeley copyright
+formalities conference mentioned above.
+
+
+19.     What should be the role of the EU in promoting the adoption of identifiers in the content
+sector, and in promoting the development and interoperability of rights ownership and
+permissions databases?
+With respect to the situation in the United States, we have suggested that the U.S. Copyright Office
+take a leading role in encouraging the development of technological tools and registries that would
+facilitate better access to copyright-relevant information. In particular, our study of the issue has
+led us to recommend that the U.S. Copyright Office take a leading role in ensuring the accuracy
+and trustworthiness of private registries while also ensuring that those registries do not become
+subject to exclusive private commercial exploitation. One way to achieve these ends is for the
+Copyright Office to certify registries that comply with best practices, using its position to help
+convene roundtable meetings with stakeholders to help facilitate the development of those
+standards and best practices. While recognizing the different legal and regulatory framework, the
+EU should consider designating some official body to take on a similar role.
+In whatever way the EU decides to promote the development of these important tools, it should
+take care that it only encourages high-quality private databases and registries that adhere to certain
+overarching principles. These include:
+-Content: Registries should include information about the copyright status and current licensing
+arrangements that cover their works.
+-Searchable: Registries should be fully searchable, including by metadata describing the creator
+and subjects of photographs and visual art works.
+-Publicly accessible: Registries should be publicly accessible and searchable by all for low or no
+cost.
+
+
+
+5
+ Maria A. Pallante, The Curious Case of Copyright Formalities, 28 BERKELEY TECH. L.J. (forthcoming 2014),
+http://www.law.berkeley.edu/files/Pallante-BerkeleyKeynote.pdf.
+-Linked: Registries should be federated with other rights management databases and metadata
+sources, with the goal of creating a single search interface for searching, along the lines of the UK
+Copyright Hub.
+-Extensible and Interoperable: Registries should be extensible and interoperable, permitting
+rightsholders and users to provide updated information subject to an appropriate verification
+process, and enabling other entities to build new database interfaces and search applications that
+interoperate freely with the data in the registries.
+-Comprehensively sourced: federated system of registries should provide access to data held by
+both public entities and by private sector parties.
+For a more complete explanation of these principles and how they fit into the overall copyright
+scheme, please see David Hansen, Kathryn Hashimoto, Gwen Hinze, Pamela Samuelson, and
+Jennifer Urban, Solving the Orphan Works Problem for the United States, 34 Columbia J. L. &
+Arts (2013), http://ssrn.com/abstract=2323945 (attached in the Appendix).
+
+
+20.    Are the current terms of copyright protection still appropriate in the digital environment?
+  YES – Please explain
+……………………………………………………………………………………………….
+……………………………………………………………………………………………….
+       – Please explain if they should be longer or shorter
+The range of issues that we have studied—from orphan works and mass digitization to copyright
+formalities to exhaustion—has clearly illustrated the problems of long copyright terms. This is
+especially true for those issues that affect libraries, archives, and other memory institutions. The
+orphan works problem, for example, is exacerbated by long copyright terms because the authors
+of copyrighted works are more difficult to find as time passes. Mass digitization is hampered
+because many of the collections that are candidates for digitization—for example, those from the
+early- and mid-twentieth century—are still protected by copyright. The Berne minimum term
+exceeds, in most cases, the term of realistic economic viability for many copyrighted works. This
+means that the public is deprived of meaningful access to important cultural works that are no
+longer being exploited by their owners. Furthermore, the effect of long copyright terms is
+amplified in the digital environment because copyright status is so frequently implicated by
+modern uses. In the past a reader could take a book off the library shelf, regardless of copyright
+status, and read it with almost no legal implications. Now that users expect digital access,
+borrowing an e-book from an online library raises a whole host of issues, making copyright status
+paramount.
+For a more complete account of how term extension harms libraries, archives, and the public who
+use those institutions, please see Sections I and II of David Hansen, Kathryn Hashimoto, Gwen
+Hinze, Pamela Samuelson, Jennifer Urban, Solving the Orphan Works Problem for the United
+States, 34 Columbia J. L. & Arts (2013), http://ssrn.com/abstract=2323945 (attached in the
+Appendix).
+
+
+  NO OPINION
+21.    Should any new limitations and exceptions be added to or removed from the existing
+catalogue? Please explain by referring to specific cases.
+Fair use is one of the most important and frequently relied upon exceptions in U.S. copyright law.
+In our own research we have seen that content creators, users, and intermediaries such as libraries
+and archives all rely heavily on this flexible doctrine to bring new creative works and services to
+the public. We strongly encourage the Commission to consider the addition of a fair-use like
+exception to the current list.
+Unlike specific limitations and exceptions that provide bright-line rules about a narrow set of uses,
+fair use is a judicially-developed doctrine that looks to several factors to balance the needs of
+content owners and users in the context of a given use. Traditionally, U.S. courts examine four fair
+use factors:
+1) the purposes and character of the proposed use
+2) the nature of the work used,
+3) the amount and substantially of the use,
+4) the effect of the proposed use on the market for the original.
+The doctrine is codified in the U.S. Copyright Act, which gives several examples of non-infringing
+fair uses for purposes such as criticism, comment, news reporting, teaching (including multiple
+copies for classroom use), scholarship, or research.
+Because the fair use factors can be applied regardless of the specific technology, it gives a degree
+of adaptability that is not possible with specific limitations or exceptions. It also allows the law to
+foster innovation without needing to anticipate it. This flexibility has been important for the
+development of significant new technology services in the United States. For over a decade major
+technology firms such as Google and Microsoft have relied on fair use to make temporary index
+copies of webpages, which are needed to operate their search engines. Google Image Search,
+Turnitin.com’s plagiarism-detection software, and the HathiTrust digital library’s text- and data-
+mining systems used by social scientists are just some recent examples of new technologies that
+would be difficult to anticipate with a specific limitation or exception but which are thought to be
+covered by fair use.
+Given this flexibility, fair use is sometimes criticized as leading to inconsistent results. Recent
+efforts to understand the doctrine through comprehensive review of its application in the courts
+has challenged this assertion. For example, in Unbundling Fair Uses, 77 Fordham L. Rev. 2537
+(2009) (attached in the Appendix), Pamela Samuelson surveyed the landscape of U.S. fair use case
+law. Grouping the decisions into “policy-relevant clusters,” she concluded that “once one
+recognizes that fair use cases tend to fall into common patterns,” the “fair use law is both more
+coherent and more predictable than many commentators have perceived.” A number of other
+studies have come to similar conclusions.6 Furthermore, recognizing that users have an incentive
+to develop even more predictability, entire user communities have come together to develop best
+
+
+6
+ See Barton Beebe, An Empirical Study of United States Copyright Fair Use Opinions, 1978- 2005, 156 U. Pa.
+L. Rev. 549 (2008); Michael J. Madison, A Pattern-Oriented Approach to Fair Use, 45 Wm. & Mary L. Rev. 1525
+(2004); Matthew Sag, Predicting Fair Use, 73 Ohio St. L.J. 47 (2012).
+practice guidelines that make the application of fair use even more consistent. See
+http://www.cmsimpact.org/fair-use/best-practices
+While helpful in a wide variety of applications, fair use has played an especially important role in
+improving access to non-profit library and archive materials and in enabling educational uses of
+copyrighted works. Major U.S. research libraries have relied on fair use to support mass
+digitization for purposes of digital preservation and for providing access to the blind and print-
+disabled. The Library of Congress has relied on fair use as a partial solution to enabling access to
+orphan works in its collection.
+While Google Books and the HathiTrust digital library, both of which are currently defending
+lawsuits, have made bold and controversial uses of copyright works in reliance on the fair use
+doctrine, many U.S. libraries large and small rely on the doctrine almost daily to provide routine
+service and to experiment with providing new services. The vast majority of these uses—from
+creating personal copies of works for library patrons, to small-scale digitization projects of unique
+archival collections—are uncontroversial and generate no negative response from rightsholders.
+For a more complete account of how fair use serves the missions of libraries and archives, we
+encourage the Commission to review the document attached in the Appendix to this response,
+titled How Flexibility Supports to Goals of Copyright Law: Fair Use and the U.S. Library
+Experience, prepared for the Library Copyright Alliance (2013), http://infojustice.org/wp-
+content/uploads/2013/04/Hadzima-and-Wood-How-Flexibility-Supports-the-Goals-of-
+Copyright-Law.pdf.
+Also attached in the Appendix is Jennifer Urban, How Fair Use Can Help Solve the Orphan Works
+Problem, 27 Berkeley Tech. L.J. 1380 (2012), which highlights one way that fair use can be used
+to help libraries and archives address the difficult orphan works problem without resorting to a
+complex regulatory scheme.
+
+
+
+22.    (a) [In particular if you are an institutional user:] Have you experienced specific problems
+when trying to use an exception to preserve and archive specific works or other subject matter
+in your collection?
+(b) [In particular if you are a right holder:] Have you experienced problems with the use by
+libraries, educational establishments, museum or archives of the preservation exception?
+        – Please explain, by Member State, sector, and the type of use in question.
+Based on our experience and research with organizations both in the United States and in the EU,
+libraries, archives and other memory institutions cannot effectively fund, create, and provide
+meaningful offsite access to digitally preserved materials under current library and archive
+exceptions. Digital preservation and access for both published and unpublished works is one of
+the most significant problem areas for libraries, archives, and other memory organizations.
+For a review of just some of the problems libraries and archives face when undertaking digital
+preservation and access projects, especially in the context of collections that likely contain orphan
+works, please see Jennifer Urban, David Hansen, Patricia Aufderheide, Peter Jaszi, and Meredith
+Jacob, REPORT ON ORPHAN WORKS CHALLENGES FOR LIBRARIES, ARCHIVES, AND OTHER MEMORY
+INSTITUTIONS                                                                                   (2013)
+http://www.cmsimpact.org/sites/default/files/documents/report_on_orphan_works_challenges.pd
+f (also attached in the Appendix).
+  NO OPINION
+
+
+23.    If there are problems, how would they best be solved?
+
+From our research we have concluded that one of the most promising strategies for addressing
+digital preservation—and a whole host of other library issues—is to use a combination of specific
+exceptions that give libraries certainty about many of the most common uses, along with a flexible
+fair use exception that allows libraries and archives to offer new services. In Solving the Orphan
+Works Problem for the United States, 34 Columbia J. L. & Arts (2013),
+http://ssrn.com/abstract=2323945 (attached in the Appendix), we explain how fair use and specific
+limitations and exceptions can work together.
+
+In addition, the Commission should also be aware that the U.S. Register of Copyrights has recently
+indicated a willingness to study updates to U.S. library and archive exceptions. As the DeWolf &
+Partners Study notes, a 2008 report, “The Section 108 Study Group Report” concluded that the
+current U.S. copyright law’s library and archive exceptions are outdated. That study group report
+made a first attempt at drafting proposed revisions that would better facilitate digital preservation
+and other new activities such as web archiving. Within the next year we expect a new proposal
+from the Copyright Office that suggests similar changes.
+
+
+24.     (a) [In particular if you are a library:] Have you experienced specific problems when
+trying to negotiate agreements to enable the electronic lending (e-lending), including across
+borders, of books or other materials held in your collection?
+(b) [In particular if you are an end user/consumer:] Have you experienced specific problems
+when trying to borrow books or other materials electronically (e-lending), including across
+borders, from institutions such as public libraries?
+(c) [In particular if you are a right holder:] Have you negotiated agreements with libraries to
+enable them to lend books or other materials electronically, including across borders?
+        – Please explain with specific examples
+
+
+As we explain in response to Question 13 on exhaustion and digital resale, our research has shown
+that libraries and their U.S. users face problems with respect to e-book lending for two primary
+reasons: 1) lack of clarity and understanding about how license agreements and principles of
+exhaustion interact, and 2) lack of clarity about how principles of exhaustion apply to the creation
+of reproductions that are made incidental to the distribution of the work. On both points, we refer
+the Commission to Jason Schultz and Aaron Perzanowski, Digital Exhaustion, 58 UCLA L. Rev.
+889 (2011).
+25.     [In particular if you are an institutional user, engaging or wanting to engage in mass
+digitisation projects, a right holder, a collective management organisation:] Would it be
+necessary in your country to enact legislation to ensure that the results of the 2011 MoU (i.e. the
+agreements concluded between libraries and collecting societies) have a cross-border effect so
+that out of commerce works can be accessed across the EU?
+    YES – Please explain why and how it could best be achieved
+It is our understanding that most EU nations would need to enact legislation to make the 2011
+MoU fully effective in their jurisdictions. This is primarily due to a need to authorize collective
+rights organizations to have extended authority to license on behalf of non-members. While the
+MoU has admirable goals, the reliance on extended collective licensing makes its application
+concerning, especially for making available works that are potentially orphaned. If the
+Commission recommends that member nations enact legislation that enables extended collective
+licensing, we encourage the Commission to continue to think carefully about how to help Member
+States to regulate those collective organizations to avoid conflicts of interest and to ensure efficient
+distribution of funds in accordance with the CMO Directive, as recently adopted by Parliament.7
+We explain these concerns in more detail in David Hansen, Gwen Hinze and Jennifer Urban, What
+Constitutes a Diligent Search Under Present and Proposed Orphan Work Regimes? (Berkeley
+Digital Library Copyright Project, White Paper No. 5, 2013), http://ssrn.com/abstract=2229021
+(attached in the Appendix).
+26.    (a) [In particular if you are an end user/consumer or an institutional user:] Have you
+experienced obstacles, linked to copyright, when trying to use text or data mining methods,
+including across borders?
+(b) [In particular if you are a service provider:] Have you experienced obstacles, linked to
+copyright, when providing services based on text or data mining methods, including across
+borders?
+(c) [In particular if you are a right holder:] Have you experienced specific problems resulting
+from the use of text and data mining in relation to copyright protected content, including across
+borders?
+         – Please explain
+Our research has shown that the primary obstacle is the creation of databases to support text and
+data mining. Text and data mining are most effective when researchers are able to mine collections
+that are comprehensive for their field. To create such large, comprehensive collections, users must
+be able to engage in mass digitization of print collections and mass reproduction for existing digital
+objects.
+
+
+
+7
+  See http://www.europarl.europa.eu/news/en/news-
+room/content/20140203IPR34615/html/Copyright-cross-border-licences-for-online-music-
+services; http://consilium.eu.int/homepage/highlights/council-adopts-directive-on-copyright-
+and-access-to-online-music?lang=it
+For print materials, copyright poses a challenge because the owners of copies of those materials
+are hesitant to make digital reproductions, even when that copying is only incidental to a use that
+does not implicate copyright, as with many text and data mining uses. In the EU there is no existing
+exception that would permit such incidental copying. In the United States, members of our team
+have argued, on behalf of digital humanities scholars in the Google Books and HathiTrust cases,
+that digitization for purposes of text mining is a fair use. The briefs in both cases have been
+persuasive. Attached in the Appendix is the brief we submitted in the HathiTrust Case, Authors
+Guild, Inc. v. HathiTrust, Case No. 12-4547-cv, Brief of Digital Humanities and Law Scholars as
+Amici Curiae (June 4, 2013). For a more thorough explanation of the rationale for why fair use
+covers copying for the purpose of text and data mining, see Matthew Sag, Orphan Works as Grist
+for the Data Mill, 27 Berkeley Tech. L.J. 1503 (2013).
+For existing digital objects, database creators are frustrated in their efforts by restrictive license
+terms. This problem is especially acute for those who seek to create digital collections of scientific
+and other scholarly articles that are available online only under restrictive license terms. Those
+articles—especially the newest, most recent research, much of which is supported by public
+funding—contain in them facts and ideas that directly contribute to advances in science, medicine,
+and other areas of research. For more about why access to scientific literature for subsequent
+analysis is such a problem, see Jerome H. Reichman and Ruth L. Okediji, When Copyright Law
+and Science Collide: Empowering Digitally Integrated Research Methods on a Global Scale, 96
+Minn.        L.      Rev.        1362       (2012),       http://www.minnesotalawreview.org/wp-
+content/uploads/2012/08/ReichmanOkediji_MLR1362.pdf.
+
+
+  NO – Please explain
+  NO OPINION
+
+27.    If there are problems, how would they best be solved?
+
+To facilitate digitization for text and data mining, a specific copyright limitation that authorized
+copying incidental to the creation of databases for text and data mining may be desirable. A fair
+use provision, as discussed above, could supplement a text and data mining limitation to cover use
+cases not yet known.
+
+For mining of existing digital objects, restrictive license terms and paywall access stand out as
+some of the most significant barriers to text and data mining. Reichman and Okediji, cited in
+response to Question 26, discuss this issue in detail. As mentioned above, the Commission should
+study whether exceptions and limitations should take precedence over contrary license terms to
+facilitate activities like text and data mining. In addition, because so many scientific research
+articles are publicly funded, the Commission should ensure that resulting published research is
+made available on a truly open access basis, including not only the right to read the work but to
+reuse and manipulate it in text and data mining systems.
+

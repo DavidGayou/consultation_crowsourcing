@@ -1,0 +1,1147 @@
+                           Sabiedriskā apspriešana
+                par ES autortiesību noteikumu pārskatīšanu
+Saturs
+
+I.	Ievads	2
+A.	Apspriešanas konteksts	2
+B.	Kā iesniegt atbildes uz šo anketu	3
+C.	Konfidencialitāte	4
+II.	Tiesības un Vienotā tirgus darbība	7
+A.	Kāpēc nav iespējams no jebkuras vietas Eiropā piekļūt daudziem tiešsaistes satura pakalpojumiem?	7
+B.	Vai ir nepieciešama lielāka skaidrība attiecībā uz darbībām, kurām jāsaņem (vai nav jāsaņem) digitālajai pārraidei nepieciešamās atļaujas?	10
+1.	Darbība, ar kuru darbs vai blakustiesību objekts „tiek padarīts pieejams sabiedrībai"	10
+2.	Vienas izmantošanas darbības ietvaros iesaistīti divi tiesību veidi	11
+3.	Saišu veidošana un pārlūkošana	12
+4.	Lejupielāde digitālā satura iegūšanai	13
+C.	Darbu un blakustiesību objektu reģistrācija  -  vai tā ir laba ideja?	14
+D.	Kā uzlabot identifikatoru lietošanu un sadarbspēju	15
+E.	Aizsardzības termiņš  -  vai tas ir piemērots?	15
+III.	Ierobežojumi un izņēmumi Vienotajā tirgū	16
+A.	Pieeja saturam bibliotēkās un arhīvos	19
+1.	Saglabāšana un arhivēšana	19
+2.	Ārpustelpu pieeja bibliotēku kolekcijām	20
+3.	E  -  patapinājums	21
+4.	Masveida digitalizācija	22
+B.	Mācīšana	23
+C.	Pētniecība	25
+D.	Lietotāji ar invaliditāti	25
+E.	Tekstizrace un datizrace	27
+F.	Lietotāju radīts saturs	28
+IV.	Privātā kopēšana un reprogrāfija	31
+V.	Autoru un izpildītāju taisnīga atlīdzība	34
+VI.	Tiesību ievērošana	35
+VII.	Vienots ES autortiesību regulējums	36
+VIII.	Citi jautājumi	36
+
+
+
+
+
+Ievads
+* Apspriešanas konteksts
+Pēdējo divdesmit gadu laikā digitālās tehnoloģijas un internets ir mainījuši veidus, kādos tiek radīts, izplatīts un saņemts saturs. Ir pieejamas jaunas iespējas kā satura (piemēram, filmas, romāna, dziesmas) radītājiem un ražotājiem, jaunajām un jau pastāvošajām izplatīšanas platformām, tādām iestādēm kā, piemēram, bibliotēkām, tādām darbībām kā, piemēram, pētniecībai, tā arī iedzīvotājiem, kuri tagad sagaida, ka viņiem būtu jābūt pieejamam šim saturam gan informācijas un izglītošanās, gan izklaides nolūkos, neņemot vērā ģeogrāfiskās robežas.
+Taču šī jaunā vide rada arī izaicinājumus. Viens no tiem ir saistīts ar to, kā tirgum turpināt pielāgoties jaunajām izplatīšanas un izmantošanas formām. Otrs attiecas uz likumdevēju, lai tiktu nodrošināts, ka tiek saglabāta atbilstoša tiesību, tiesību ierobežojumu un piemērošanas sistēma, kas tiek pielāgota jaunajai videi. Šī konsultācija ir vērsta uz šo otro pieminēto izaicinājumu  -  kā nodrošināt, lai ES autortiesību regulējums turpinātu būt piemērots savam mērķim digitālajā vidē ar nolūku atbalstīt radīšanu un inovācijas, pilnībā izmantotu Vienotā tirgus potenciālu, sekmētu mūsu ekonomikas izaugsmi un ieguldījumus tajā, kā arī veicinātu kultūras dažādību. 
+"Paziņojumā par saturu digitālā vienotā tirgus apstākļos" Komisija iezīmējusi divus paralēlus darbības ceļus  -  no vienas puses, pabeigt pašlaik notiekošos darbus pie ES autortiesību regulējuma pārskatīšanas un modernizēšanas nolūkā 2014. gadā pieņemt lēmumu par nepieciešamību virzīt apspriešanai priekšlikumus normatīvā regulējuma reformām, un no otras puses  -  sekmēt praktiskus, nozares diktētus risinājumus ar ieinteresēto pušu dialoga "Licences Eiropai" palīdzību jautājumos, kuros nepieciešama un ir iespējama ātra virzība.   
+Patlaban "Licences Eiropai" process ir iegājis finiša taisnē. Komisija atzīst ieinteresēto pušu piedāvātos praktiskos risinājumus šajā kontekstā un pārraudzīs to turpmāko gaitu. Ieinteresētās puses ir izteikušas apņemšanos visās četrās darba grupās (pakalpojumu pārrobežu pārnesamība, lietotāju radīts saturs, audiovizuālais un filmu mantojums, un tekstizrace un datizrace). Komisija sagaida, ka šīs apņemšanās kopumā veidos nākamo soli uz vienkāršāku lietotāju vidi dažādās situācijās. Tāpat arī Komisija ir ņēmusi vērā faktu, ka divas grupas  -  lietotāju radītā satura un tekstizraces un datizraces darba grupas, nepanāca klātesošo ieinteresēto pušu vienbalsīgu vienošanos ne attiecībā uz risināmajām problēmām, ne rezultātiem. Iniciatīvas "Licences Eiropai" diskusijas un rezultāti tiks ņemti vērā arī pārskatāmā regulējuma kontekstā.
+Patlaban Komisija kā daļu no pārskatīšanas procesa uzsāk sabiedriskās konsultācijas par "Paziņojumā par saturu digitālā vienotā tirgus apstākļos" izvirzītajiem jautājumiem, tas ir: "teritorialitāte iekšējā tirgū; autortiesību saskaņošana, ierobežojumi un izņēmumi digitālajā laikmetā; autortiesību tirgus sadrumstalotība ES; un kā uzlabot piemērošanas efektivitāti un rezultativitāti, vienlaikus atbalstot tās leģitimitāti plašākā kontekstā, proti, saistībā ar autortiesību reformu". Kā atzīmēts Eiropadomes 2013. gada oktobra Secinājumos "Digitālo pakalpojumu un satura nodrošināšanai vienotajā tirgū nepieciešama digitālajam laikmetam piemērota autortiesību režīma izveidošana. Tāpēc Komisija pabeigs pašreiz notiekošo darbu pie ES autortiesību regulējuma pārskatīšanas 2014. gada pavasarī. Ir būtiski modernizēt Eiropas autortiesību režīmu un veicināt licencēšanu, tajā pat laikā nodrošinot intelektuālā īpašuma tiesību augsta līmeņa aizsardzību un ievērojot kultūras daudzveidību".
+Šīs konsultācijas ir veidotas uz iepriekšējo konsultāciju un sabiedrisko apspriešanu pamata, it sevišķi tām, kas attiecās uz "Zaļo grāmatu par autortiesībām uz zināšanām balstītā ekonomikā", "Zaļo grāmatu par audiovizuālo darbu izplatīšanu tiešsaistē" un "Saturu tiešsaistē".  Šīs konsultācijas nodrošināja vērtīgu atgriezenisko saiti ar ieinteresētajām pusēm vairākos jautājumos tik dažādās jomās kā autortiesību teritorialitāte un iespējamie teritorialitātes pārvarēšanas veidi, ar zināšanu izplatīšanu tiešsaistē saistītie izņēmumi un tiesību īpašnieku atlīdzības, it īpaši audiovizuālajā sektorā. Viedokļus izteica ieinteresētās puses, kuras pārstāvēja visas vērtību ķēdes posmus, tostarp tiesību īpašnieki, izplatītāji, patērētāji un akadēmiķi. Šie jautājumi norādīja uz ļoti atšķirīgiem viedokļiem par to, kā labāk turpināt iesākto. "Zaļajai grāmatai par autortiesībām uz zināšanām balstītā ekonomikā" sekoja Paziņojums. Atbilžu uz "Zaļo grāmatu par audiovizuālo darbu izplatīšanu tiešsaistē" rezultātā izvērtās turpmākas diskusijas par Mantisko tiesību kolektīvā pārvaldījuma direktīvu un pašreiz notiekošais pārskatīšanas process.
+* Kā iesniegt atbildes uz šo anketu
+Jūs esat laipni aicināti iesniegt savas atbildes līdz 2014. gada 5. februārim, nosūtot tās Word,   pdf vai atvērtā dokumenta (OpenDocument) formātā uz šo "DG Internal Market and Services" e-pasta adresi: markt-copyright-consultation@ec.europa.eu. Lūdzam ievērot, ka atbildes, kas būs nosūtītas pēc šī datuma, netiks izskatītas. 
+Šī konsultācija ir adresēta dažādām ieinteresēto pušu kategorijām. Ciktāl iespējams, jautājumi norāda to respondentu kategoriju/-jas, uz kuriem tie visdrīzāk attiecas (anotācija iekavās pirms jautājuma). Taču respondenti var pēc savas izvēles atbildēt uz jebkuriem/visiem jautājumiem. Turklāt lūdzam ievērot, ka izņemot jautājumu par respondenta identificēšanu, neviena jautājuma atbildēšana nav obligāta. Tiks pieņemtas arī tās anketas, kurās būs atbildēti tikai daļa jautājumu.
+Lūgums sniegt atbildes tieši šajā konsultāciju dokumentā. Jautājumos ar atbilžu variantiem "Jā/Nē/Nav viedokļa" lūdzam izcelt izvēlēto atbildi treknrakstā un pasvītrot to, lai mums būtu viegli saprast Jūsu izvēli.
+Atbildēs uz jautājumiem lūdzam Jūs atsaukties uz situāciju ES dalībvalstīs. Tāpat arī lūdzam Jūs it īpaši norādīt, kur tas ir atbilstoši, kāda būtu Jūsu izvirzīto variantu ietekme izmaksu, iespēju un ieņēmumu ziņā.
+Sabiedriskās konsultācijas teksts ir pieejams angļu valodā. Tomēr atbildes var sūtīt jebkurā no 24 ES oficiālajām valstu valodām.
+* Konfidencialitāte 
+Šajā konsultāciju raundā saņemtās ziņas, kā arī kopsavilkuma ziņojums, kurā atbildes būs redzamas statistiskā un apkopotā veidā, tiks publicētas "DG MARKET" mājas lapā.
+Lūdzam ievērot, ka visas saņemtās ziņas tiks publicētas kopā ar to sniedzēja identitāti, izņemot, ja ziņu sniedzējs iebilst pret savu personas datu publicēšanu, pamatojoties uz to, ka šāda publikācija varētu kaitēt viņa vai viņas leģitīmajām interesēm. Šādā gadījumā ziņas pēc to sniedzēja skaidri izteikta lūguma tiks publicētas anonīmi. Pretējā gadījumā ziņas netiks publicētas, un to saturs netiks atspoguļots kopsavilkuma ziņojumā.
+Lūdzam iepazīties ar mūsu Konfidencialitātes noteikumiem. 
+LŪDZU, IDENTIFICĒJIET SEVI:
+
+Vārds:                 Mārcis Krūmiņš
+Lai nodrošinātu caurskatāmību, lūdzam organizācijas (tostarp, piemēram, NVO, tirdzniecības asociācijas un komersantus) nodrošināt sabiedrību ar atbilstošu informāciju par savu organizāciju, reģistrējoties Interešu pārstāvniecības reģistrā un parakstot tā Ētikas kodeksu. 
+* Ja esat jau reģistrēta organizācija, lūdzu, norādiet šeit savu reģistra ID numuru. Jūsu sniegtās ziņas tiks uzskatītas par Jūsu organizācijas viedokli.
+
+Fiziska persona
+
+* Ja Jūsu organizācija nav reģistrēta, Jums ir iespējams to reģistrēt tagad. Nereģistrēto organizāciju sniegtās atbildes tiks publicētas atsevišķi.
+
+
+Ja vēlaties iesniegt savas atbildes anonīmi, lūdzu norādiet to šeit, pasvītrojot šo atbildi:
+
+* Jā, es vēlos iesniegt savas atbildes anonīmi.
+
+RESPONDENTA TIPS (Lūdzu pasvītrot atbilstošo):
+X  Gala lietotājs/patērētājs (piemēram, interneta lietotājs, lasītājs, mūzikas vai audiovizuālo pakalpojumu abonements, pētnieks, students)   VAI gala lietotāju/patērētāju pārstāvis
+ šīs aptaujas anketas vajadzībām parasti jautājumos minēts kā "gala lietotāji/patērētāji"
+
+* Institucionāls lietotājs (piemēram, skola, universitāte, pētījumu centrs, bibliotēka, arhīvs)  VAI institucionālo lietotāju pārstāvis
+ šīs aptaujas anketas vajadzībām parasti jautājumos minēts kā "institucionālie lietotāji"
+
+* Autors/izpildītājs VAI autoru/izpildītāju pārstāvis
+
+* Izdevējs/producents/raidorganizācija VAI izdevēju/producentu/raidorganizāciju pārstāvis
+
+ abas šīs kategorijas šīs aptaujas anketas vajadzībām parasti jautājumos minētas kā "tiesību īpašnieki"
+
+* Starpnieks/izplatītājs/cita pakalpojuma sniedzējs (piemēram, tiešsaistes mūzikas vai audiovizuālie pakalpojumi, spēļu platformas, sociālie mediji, meklētājprogrammas, IKT nozare) VAI starpnieku/izplatītāju/citu pakalpojumu sniedzēju pārstāvis
+ šīs aptaujas anketas vajadzībām parasti jautājumos minēts kā "pakalpojumu sniedzēji"
+
+* Mantisko tiesību kolektīvā pārvaldījuma organizācija
+
+* Valsts iestāde
+
+* Dalībvalsts
+
+* Cits (Lūdzu, paskaidrojiet):
+.............................................................................................................
+.............................................................................................................
+
+Tiesības un Vienotā tirgus darbība
+* Kāpēc nav iespējams no jebkuras vietas Eiropā piekļūt daudziem tiešsaistes satura pakalpojumiem? 
+[Ar digitālo pārraidi saistīto tiesību teritoriālais apjoms un tirgus segmentācija ar licencēšanas līgumiem]
+Autortiesību un blakustiesību īpašnieki, piemēram, rakstnieki, dziedātāji, mūziķi, neizbauda  vienotu aizsardzību visā ES. Tā vietā viņu aizsardzību nodrošina katrā dalībvalstī pastāvošo nacionālo tiesību kopums. Vairumā gadījumu šīs tiesības ir saskaņotas ar spēkā esošajām ES direktīvām. Tomēr atšķirības pastāv, un tiesību ģeogrāfiskais apjoms ir ierobežots ar tās dalībvalsts teritoriju, kas tās nodrošina. Tādējādi autortiesības ir teritoriālas tādā ziņā, ka šīs tiesības tiek iegūtas un īstenotas saskaņā ar nacionālo likumdošanu katrā attiecīgajā valstī. 
+Tādēļ ar autortiesībām aizsargāta satura izplatīšanai internetā, kuru veic, piemēram, mūzikas straumēšanas pakalpojuma sniedzējs vai tiešsaistes elektronisko grāmatu pārdevējs, principā būtu nepieciešama atļauja attiecība uz ikvienas valsts teritoriju, kurā attiecīgais saturs tiek publiskots sabiedrībai. Protams, tiesību īpašniekiem ir iespēja piešķirt daudzteritoriālo jeb Eiropas mēroga licenci, kas nodrošina satura pakalpojumu sniegšanu vairākās dalībvalstīs un pāri robežām. Eiropas Savienības līmenī ir veikti vairāki pasākumi daudzteritoriālo licenču lietošanas veicināšanai: priekšlikumam Mantisko tiesību kolektīvā pārvaldījuma direktīvai vajadzētu ievērojami uzlabot mūzikas darbu daudzteritoriālo licenču izsniegšanu tiešsaistes pakalpojumu sniedzējiem; strukturēts ieinteresēto pušu dialogs "Licences Eiropai" un tirgus diktētie attīstības virzieni, kā, piemēram, pašreiz notiekošais darbs Saistītā satura koalīcijā.
+"Licences Eiropai" pievēršas galvenokārt specifiskajam pārrobežu pārnesamības jautājumam, tas ir, patērētāju iespējai, piereģistrējoties tiešsaistes pakalpojumu saņemšanai savā dalībvalstī, piekļūt šiem pakalpojumiem arī īslaicīgi atrodoties citās dalībvalstīs. Tā rezultātā audiovizuālā sektora pārstāvji sagatavoja kopīgu paziņojumu, kas apliecina viņu apņemšanos turpināt darbu pie pārrobežu pārnesamības tālākas attīstības.
+Par spīti šim progresam, pastāv ilgstošas, ar pakalpojumu pārrobežu nodrošināšanu un pieejamību saistītas problēmas. Vistiešāk ar šīm problēmām saskaras patērētāji, kuri vēlas piekļūt pakalpojumiem, kuriem pieeja ir nodrošināta citās dalībvalstīs, bet ne valstī, kurā viņi dzīvo. Ne visi tiešsaistes pakalpojumi ir pieejami visās dalībvalstīs un, mēģinot piekļūt šiem pakalpojumiem pāri robežām, patērētāji saskaras ar problēmām. Dažos gadījumos, pat ja "tas pats" pakalpojums ir pieejams visās dalībvalstīs, patērētāji nevar tam piekļūt pāri robežām (viņi var piekļūt tikai savam "nacionālajam" pakalpojumam, un ja viņi mēģina piekļūt "tam pašam" pakalpojumam citā dalībvalstī, viņi tiek novirzīti uz to pakalpojumu, kas paredzēts viņu mītnes valstij).
+Šāda situācija, iespējams, radusies no tiesību teritorialitātes un grūtībām, kuras tiek saistītas ar tiesību noskaidrošanu (clearing of rights) dažādās teritorijās. Dažu problēmu (piekļuves atteikšana, novirzīšana) pamatā var būt arī starp tiesību īpašniekiem un izplatītājiem un/vai starp izplatītājiem un gala lietotājiem noslēgto licencēšanas līgumu noteikumi.
+Tādēļ galvenais šeit risināmais jautājums būtu par to, vai turpmākos pasākumus (likumdošanas vai ar likumdošanu nesaistītos, tostarp tirgus diktētos risinājumus) nepieciešams veikt vidējā termiņā ES līmenī, lai uzlabotu satura pakalpojumu pārrobežu pieejamību Vienotajā tirgū, vienlaikus nodrošinot piemērotu aizsardzības līmeni tiesību īpašniekiem. 
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat gala lietotājs/patērētājs:] Vai esat saskārušiem ar problēmām, mēģinot piekļūt tiešsaistes pakalpojumiem ES dalībvalstī, kura nav jūsu mītnes zeme?
+--------------------------------------------------------------------------------
+X  JĀ  -  Lūdzu, sniedziet piemērus, norādot dalībvalsti, nozari un attiecīgo satura veidu (piemēram, maksas saturs  -  konkrētas filmas un TV seriāli, audiovizuālais saturs kopumā, mūzika, e-grāmatas, žurnāli un laikraksti, spēles, aplikācijas un citas datorprogrammas)
+--------------------------------------------------------------------------------
+Jā, esmu. E-grāmatas, kurām ir liegta piekļuve attālināti bibliotēkā, jo izdevēji nevēlas atļaut saņemt lasītājam e-grāmatu pat tad, ja lasītājs ir gatavs par lietošanu (lasīšanu) samaksāt zināmu abonenta maksu (Latvija), ko fiksē bibliotēka.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ NĒ
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat pakalpojumu sniedzējs:] Vai esat saskāries ar problēmām, mēģinot sniegt pārrobežu tiešsaistes pakalpojumus ES ietvaros?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet vai saskaņā ar jūsu pieredzi šādas problēmas ir saistītas ar autortiesībām vai citiem jautājumiem (piemēram, uzņēmumu lēmumiem saistībā ar pārrobežu pakalpojumu sniegšanas izmaksām, citu tiesību, piemēram, patērētāju aizsardzības, ievērošanu)? Lūdzam sniegt piemērus, norādot dalībvalsti, nozari un attiecīgo satura veidu (piemēram, maksas saturs  -  konkrētas filmas un TV seriāli, audiovizuālais saturs kopumā, mūzika, e-grāmatas, žurnāli un laikraksti, spēles, aplikācijas un citas datorprogrammas).
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat tiesību īpašnieks vai mantisko tiesību kolektīvā pārvaldījuma organizācija:] Cik bieži jums tiek lūgts piešķirt daudzteritoriālās licences? Ja iespējams, lūdzu, norādiet pieprasījumu skaitu gadā un sniedziet piemērus, norādot dalībvalsti, nozari un attiecīgo satura veidu.
+--------------------------------------------------------------------------------
+[Atvērtā tipa jautājums]
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja esat identificējuši problēmas atbildēs uz jebkuru no iepriekšējiem jautājumiem, kāds būtu vislabākais veids to risināšanai?
+--------------------------------------------------------------------------------
+ [Atvērtā tipa jautājums]
+--------------------------------------------------------------------------------
+Risinājums ir salīdzinoši vienkāršs  -  izdevēji neliek šķēršļus lietotājam tiešsaistes vai citā režīmā piekļūt e-grāmatai bibliotēkā, par ko notiek fiksācija ar programmas starpniecību, kā arī tiek veikta samaksa par darba izmantošanu, kuru tiek sadalīta starp pakalpojuma sniedzēju un tiesību īpašnieku. Protams, tehniskais risinājums ir izdomājams.    
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat tiesību īpašnieks vai mantisko tiesību kolektīvā pārvaldījuma organizācija:] Vai pastāv iemesli, kuru dēļ, pat tad, ja jums pieder visas nepieciešamās tiesības visās attiecīgajās teritorijās, jūs tik un tā uzskatiet par pamatotu vai nepieciešamu noteikt teritoriālos ierobežojumus pakalpojuma sniedzējam (lai nodrošinātu, piemēram, ka konkrētās Eiropas valstīs nav iespējama piekļuve konkrētam saturam)?
+--------------------------------------------------------------------------------
+x JĀ  -  Lūdzu, paskaidrojiet ar piemēriem.
+--------------------------------------------------------------------------------
+Jā, tas var būt tikai tajā gadījumā, kad šādu ierobežojumu ir vēlējies pats autors, nevis tiesību pārņēmējs (izdevējs). Tiesību pārņēmējam šādas tiesības nevajadzētu dot.
+--------------------------------------------------------------------------------
+ NĒ
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat, piemēram, raidorganizācija vai pakalpojumu sniedzējs:] Vai pastāv iemesli, kuru dēļ, pat tad, ja esat ieguvuši visas nepieciešamās tiesības visās attiecīgajās teritorijās, jūs tik un tā uzskatiet par pamatotu vai nepieciešamu noteikt teritoriālos ierobežojumus pakalpojuma saņēmējam (lai nodrošinātu, piemēram, patērētāja novirzīšanu uz citu tīmekļa vietni tās vietā, kurai viņš cenšas piekļūt)?
+--------------------------------------------------------------------------------
+JĀ  -  Lūdzu, paskaidrojiet ar piemēriem.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X  NĒ
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Vai jūsuprāt ir nepieciešami turpmāki pasākumi (likumdošanas vai ar likumdošanu nesaistīti, tostarp tirgus diktēti risinājumi) ES līmenī, lai uzlabotu satura pakalpojumu pārrobežu pieejamību Vienotajā tirgū, vienlaikus nodrošinot piemērotu aizsardzības līmeni tiesību īpašniekiem?
+--------------------------------------------------------------------------------
+X JĀ  -  Lūdzu, paskaidrojiet.  
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ Nepieciešami, jo nav atrisināts jautājums par piekļuvi e-grāmatām, kuras atrodas citu valstu bibliotēkās. Iespējams, ka tas ir regulējams ar Regulu. 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+* Vai ir nepieciešama lielāka skaidrība attiecībā uz darbībām, kurām jāsaņem (vai nav jāsaņem) digitālajai pārraidei nepieciešamās atļaujas?
+[Ar digitālo pārraidi saistīto tiesību definīcija]
+ES regulējumu, kas aizsargā autortiesības un blakustiesības digitālajā vidē, lielākoties veido Direktīva 2001/29/EK par dažu autortiesību un blakustiesību aspektu saskaņošanu informācijas sabiedrībā. Citas tiešsaistes videi piemērojamās ES direktīvas šajā jomā ir saistītas ar programmatūras un datubāžu aizsardzību.
+Direktīva 2001/29/EK saskaņo autoru un blakustiesību īpašnieku tiesības, kuras ir būtiskas darbu digitālo kopiju (piemēram, e-grāmatu) un citu aizsargāto objektu (piemēram, ierakstu MP3 formātā) pārraidei internetā vai tamlīdzīgos digitālajos tīklos. 
+Digitālajai pārraidei visnozīmīgākās tiesības ir reproducēšanas tiesības, tas ir, tiesības atļaut vai aizliegt kopiju izgatavošanu, (sevišķi būtiskas pārraides sākumposmā, piemēram, darba digitālās kopijas augšupielāde serverī ar nolūku padarīt to pieejamu sabiedrībai internetā vai tamlīdzīgos digitālajos tīklos, kā arī lietotājam, piemēram, kad lietotājs lejupielādē darba digitālo kopiju) kā arī publiskošana/tiesības padarīt pieejamu sabiedrībai, tas ir, tiesības atļaut vai aizliegt darbu izplatīšanu digitālajos tīklos. Šīs tiesības ir nesaraujami saistītas digitālo pārraižu ietvaros un tām nepieciešama noskaidrošana (clearing of rights). 
+  + Darbība, ar kuru darbs vai blakustiesību objekts „tiek padarīts pieejams sabiedrībai"
+Direktīva 2001/29/EK nenorāda ne to, kas tiek ietverts tiesībās padarīt darbu/ blakustiesību objektu pieejamu sabiedrībai (piemēram, augšupielāde, publikas piekļuves iespēja, faktiskā piekļuves izmantošana no publikas puses), ne arī kur šī darbība, ar kuru darbs/ blakustiesību objekts tiek padarīts pieejams sabiedrībai, notiek. Tas nerada jautājumus, ja šī darbība notiek vienas teritorijas robežās. Taču jautājumi rodas brīdī, kad pārraide aptver vairākas teritorijas un nepieciešama tiesību noskaidrošana (vai darbs/ blakustiesību objekts tiek padarīt pieejams sabiedrībai tikai augšupielādes valstī? Ikvienā valstī, kurā pastāv potenciāla piekļuve saturam? Ikvienā valstī, kurā faktiski notiek piekļuve saturam?). Jaunākā Eiropas Savienības Tiesas (EST) tiesu prakse liecina, ka viens no attiecināmajiem kritērijiem ir konkrētas dalībvalsts sabiedrības noteikšana par "mērķauditoriju". Saskaņā ar šo pieeju uz autortiesībām attiecināmā darbība (kurai nepieciešama licencēšana) notiek vismaz tajās valstīs, kuras par "mērķauditoriju" izvirzījis tiešsaistes pakalpojumu sniedzējs. Pakalpojumu sniedzējs nosaka kā "mērķauditoriju" klientu grupu, kas dzīvo konkrētā valstī, virzot uz šo grupu savas darbības, piemēram, izmantojot reklāmu, tirdzniecības veicināšanas kampaņas, valodu vai valūtu, kas īpaši virzīta uz šo grupu.
+* --------------------------------------------------------------------------------
+Vai tiesību „padarīt darbu/ blakustiesību objektu pieejamu sabiedrībai" apjoms pārrobežu situācijās, tas ir  -  izplatot saturu pāri robežām, ir pietiekami skaidrs?
+--------------------------------------------------------------------------------
+X JĀ
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet, kā to varētu padarīt skaidrāku un kāds skaidrojums būtu nepieciešams (piemēram, līdzīgi kā iepriekš izskaidrotā "mērķauditorijas" pieeja vai "izcelsmes valsts" pieeja)
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+ 
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat tiesību īpašnieks:] Vai tiesību „padarīt darbu/ blakustiesību objektu pieejamu sabiedrībai" teritoriālā apjoma skaidrojums varētu ietekmēt jūsu tiesību atzīšanu (piemēram, vai jūs tiekat vai netiekat uzskatīts par autoru, vai tiek uzskatīts, ka esat nodevis savas tiesības vai ne), jūsu atlīdzību vai tiesību īstenošanu (tostarp tiesiskās aizsardzības līdzekļu pieejamību)?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet, kā rīkoties šajos iespējamās ietekmes gadījumos.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X NĒ
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+  + Vienas izmantošanas darbības ietvaros iesaistīti divi tiesību veidi
+Ikviena pārraides darbība digitālajos tīklos (pašreizējā tehnoloģiju un tiesību situācijā) rada  vairākas reprodukcijas. Tas nozīmē, ka ar digitālo pārraidi ir saistīti divi tiesību veidi: reproducēšanas tiesības un tiesības padarīt darbu/ blakustiesību objektu pieejamu sabiedrībai. Tas var sarežģīt darbu licencēšanu tiešsaistes izmantošanai, it īpaši tad, ja šie divu tiesību veidi pieder dažādām personām/organizācijām.  
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat pakalpojumu sniedzējs vai tiesību īpašnieks:] Vai divu tiesību veidu piemērošana vienai ekonomiskās izmantošanas darbībai tiešsaistes vidē (piemēram, lejupielādei) rada jums problēmas?
+--------------------------------------------------------------------------------
+JĀ  -  Lūdzu, paskaidrojiet, kādi pasākumi būtu nepieciešami, lai risinātu šīs problēmas (piemēram, kopīgu licenču piešķiršanas veicināšana gadījumos, kad tiesības pieder dažādām personām, normatīvais regulējums, kas nodrošinātu "tiesību apvienošanu").
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+NĒ
+--------------------------------------------------------------------------------
+NAV VIEDOKĻA
+  + Saišu veidošana un pārlūkošana
+Hipersaites ir atsauces uz datiem, kas aizved lietotāju no vienas interneta vietnes uz citu. Tās ir obligāts interneta kā tīkla funkcionēšanas nodrošināšanas elements. EST izskatīšanu gaida vairākas lietas, kuru ietvaros ir izvirzīts jautājums par to, vai saites, kura aktivizējas, uzklikšķinot uz tās, nodrošināšana ir publiskošana/darba vai blakustiesību objekta padarīšana par pieejamu sabiedrībai, kurai nepieciešama tiesību īpašnieka atļauja. 
+Pārlūkojot internetu (piemēram, apskatot tīmekļa vietni), lietotājs regulāri rada darbu un blakustiesību objektu pagaidu kopijas uz ekrāna un sava datora 'kešatmiņā'.   EST ir iesniegts jautājums par to, vai uz šādām kopijām it visos gadījumos attiecas obligātais īslaicīgās reproducēšanas izņēmums, kas noteikts Direktīvas 2001/29/EK 5.(1). pantā. 
+
+* --------------------------------------------------------------------------------
+Vai hipersaites, kas aizved pie darba vai cita ar autortiesībām aizsargāta objekta, nodrošināšanai vispārējos vai īpašos apstākļos būtu nepieciešama tiesību īpašnieka atļauja?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet, vai jūs to uzskatāt par problemātisku jautājumu vispār vai kādos īpašos apstākļos, un kāpēc.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X NĒ  -   Lūdzu, paskaidrojiet, vai jūs to uzskatāt par problemātisku jautājumu vispār vai kādos īpašos apstākļos, un kāpēc (piemēram, tāpēc, ka tā rezultātā nenotiek publiskošana vai publiskošana jaunai auditorijai, vai tāpēc, ka uz to būtu jāattiecina autortiesību izņēmums).
+--------------------------------------------------------------------------------
+Saites ievietošana pati par sevi nevar radīt tiesību aizskārumu pēc būtības. Ievietojot darbu  e vidē autors pats to ir vēlējies. Skatot šo jautājumu turpinājumā ir jāskatās kādi ir darba lietošanas noteikumi, ar kuriem var iepazīties ar hipersaites palīdzību tiekot pie autora darba. Ja autors ir vēlējies , ka citi tiek pie darba sākuma apskates. Tas vai darbu var redzēt vai dzirdēt daļēji vai pilnībā ir atkarīgs tikai no autora. Ja autors nevēlas, lai viņa darbs tiek izmantots, tad pašam autoram ir jānodrošina tas, ka darbu nevar kopēt  vai citādi ar to rīkoties. Tā ir autora atbildība, ievērojot Internet īpatnības.  
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+
+
+
+* --------------------------------------------------------------------------------
+Vai mājas lapas aplūkošanai, ja tas rada darbu vai citu ar autortiesībām aizsargātu objektu īslaicīgu reproducēšanu uz ekrāna un lietotāja datora kešatmiņā, vispār vai īpašos apstākļos būtu nepieciešama tiesību īpašnieka atļauja? 
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet, vai jūs to uzskatāt par problemātisku jautājumu vispār vai kādos īpašos apstākļos, un kāpēc.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X NĒ  -  Lūdzu, paskaidrojiet, vai jūs to uzskatāt par problemātisku jautājumu vispār vai kādos īpašos apstākļos, un kāpēc (piemēram, tāpēc, ka uz to attiecas vai būtu jāattiecina autortiesību izņēmums).
+--------------------------------------------------------------------------------
+Tā ir autora izvēle kādā apjomā, veidā utt. lietotājam bez maksas ir pieejams autora darbs. Pamatojums tāds pats kā 11.jautājumā.
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+  + Lejupielāde digitālā satura iegūšanai
+Digitālo saturu aizvien biežāk iegādājas digitālās pārraides ceļā (piemēram, lejupielādējot). Rodas jautājumi, vai lietotājiem ir iespēja atsavināt šādā veidā iegādātus failus (piemēram, pārdodot tos vai dāvinot). ES izplatīšanas tiesību izbeigšanās princips attiecas uz fizisko eksemplāru izplatīšanas gadījumiem (piemēram, kad tiek pārdots materiāls objekts, kā CD vai grāmata utt., tiesību īpašnieks nevar novērst tālāku šī materiālā objekta izplatīšanu). Šeit rodas jautājums par to, vai šo principu iespējams pielietot pārraides darbībām, kas pēc savas būtības ir ekvivalentas izplatīšanai (tas ir, kad pircējs iegādājas kopiju īpašumā). Tas izraisa grūti risināmus jautājumus, it īpaši attiecībā uz šādas pieejas praktisku pielietošanu (kā izvairīties no tā, ka tālākpārdevēji patur un lieto darba kopiju pēc tam, kad viņi to ir "tālākpārdevuši"  -  bieži vien šos gadījumus dēvē par "pārsūti un dzēs" jautājumu), kā arī uz ekonomiskajām sekām, kādas izraisa lietoto preču tirgus radīšana, kurā tirgo nevainojamas kvalitātes kopijas, kas nekad nepasliktinās (pretēji lietotu fizisko preču tirgum).
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat gala lietotājs/patērētājs:] Vai esat saskāries ar ierobežojumiem, mēģinot tālākpārdot iegādātos digitālos failus (piemēram, mp3 failus, e-grāmatas)?
+--------------------------------------------------------------------------------
+X JĀ  -  Lūdzu, paskaidrojiet ar piemēriem.
+--------------------------------------------------------------------------------
+Uzskatu, ka tas nav regulējams ar Regulu, jo tālāka pārdošana nepaturot darbu nevar tikt aizliegta. Neradot papildus eksemplāru netiek radīti zaudējumu autoram. Iespējams, ka pie dažādiem objektiem varētu būt atšķirīgi risinājumu, bet par to ir nepieciešams ilgāks laiks un analīze.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ NĒ
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat tiesību īpašnieks vai pakalpojumu sniedzējs:]  Kādas būtu sekas tad, ja tiktu radīts regulējums, kas atļautu iepriekš iegādāta digitālā satura tālāku pārdošanu? Lūdzu, norādiet attiecībā uz konkrētiem tirgiem (satura veidiem).
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+Tas pastāv jau šodien, tāpēc nedomāju, ka vajag radīt ko jaunu. (Sk.13.punkta atbildi)
+*  Darbu un blakustiesību objektu reģistrācija  -  vai tā ir laba ideja?
+Reģistrācija netiek bieži apspriesta saistībā ar autortiesībām ES, jo šajā jomā spēkā esošie starptautiskie līgumi aizliedz formalitātes kā tiesību aizsardzības un izmantošanas nosacījumu. Tomēr šis aizliegums nav absolūts. Turklāt reģistrācijas sistēmu nav nepieciešams padarīt obligātu vai par priekšnosacījumu tiesību aizsardzībai un īstenošanai. Aizsardzības termiņiem kļūstot ilgākiem un paplašinoties iespējām, kādas digitālās tehnoloģijas piedāvā satura izmantošanai (tostarp, attiecībā uz senākiem darbiem un darbiem, kas citādi nebūtu izplatīti), arvien vairāk tiek apsvērtas reģistrācijas sistēmas priekšrocības un trūkumi.  
+* --------------------------------------------------------------------------------
+Vai reģistrācijas sistēmas izveidošana ES līmenī palīdzēs darbu un blakustiesību objektu identificēšanai un licencēšanai?
+--------------------------------------------------------------------------------
+X  JĀ
+--------------------------------------------------------------------------------
+ NĒ 
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Kādas būtu šādas sistēmas iespējamās priekšrocības?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+Autoru un tiesību īpašnieku identifikācija, kā arī tiesām būtu vieglāk izšķir strīdus, kas rodas procesa laikā par tiesību piederību, ja tāda tiek apstrīdēta. Reģistrācija norāda darba tapšanas laiku.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Kādi būtu šādas sistēmas iespējamie trūkumi?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+    o --------------------------------------------------------------------------------
+Autori , ne vienmēr laicīgi piereģistrē savu darbu un tas var gadīties viņiem liktenīgi, jo kāds to izdarīs ātrāk. 
+    o --------------------------------------------------------------------------------
+Kas uzturēs un par kādu naudu autoru darbu reģistru?
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Kādus stimulus varētu paredzēt tiesību īpašnieku reģistrācijas veicināšanai?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājum)
+--------------------------------------------------------------------------------
+Pamatā tas ir tiesību aizsardzības jautājums. Kas, protams, atspoguļojas darbu pārdošanā un autora finansēs. Ja tagad, pastāv gari tiesāšanas procesi un pierādījumu iespējamā viltošanas, tad reģistrācija to novērš un tiesas sekmīgāk var pieņemt pagaidu noregulējuma līdzekļus autortiesību strīdos. 
+* Kā uzlabot identifikatoru lietošanu un sadarbspēju 
+Pastāv daudz darbu un blakustiesību objektu privāto datubāžu, kuras pieder producentiem, mantisko tiesību kolektīvā pārvaldījuma organizācijām un tādām iestādēm, kā, piemēram, bibliotēkas, kas lielākā vai mazākā mērā balstās uz (vairāk vai mazāk) sadarbspējīgu, starptautiski apstiprinātu 'identifikatoru' lietošanu. Identifikatorus var salīdzināt ar darbā iestrādātu reģistrācijas numuru; tie ir specifiski nozarei, kurā tie ir izstrādāti, un dažādos veidos identificē pašu darbu, darba īpašnieku vai personu, kas ir ieguldījusi darbā vai blakustiesību objektā. Pastāv labi zināmi piemēri tam, kā nozare veic pasākumus šo identifikatoru un datubāžu sadarbspējas uzlabošanai. Pasaules repertuāra datubāzei (the Global Repertoire Database), kad tā sāks darboties, būtu jānodrošina vienots informācijas avots par mūzikas darbu piederību un kontroli visā pasaulē. Saistītā satura koalīcija (the Linked Content Coalition) tika izveidota, lai tā izstrādātu pamatelementus tiesību īstenošanai un pārvaldībai, kā arī licencēšanai attiecībā uz visa veida saturu un mediju veidiem. Tas ietver arī Tiesību atsauču modeļa (Rights Reference Model - RRM)  -  visaptveroša datu modeļa visa veida tiesībām uz jebkāda veida saturu  -  izstrādāšanu. Apvienotās Karalistes "Copyright Hub" meklē veidus, kā veikt nākamo soli šādu identifikācijas sistēmu attīstīšanā un radīt sasaistītu platformu, kas ļautu automātiski veikt licencēšanu dažādās jomās. 
+* --------------------------------------------------------------------------------
+Kādai būtu jābūt ES lomai identifikatoru lietošanas sekmēšanā satura jomā un tiesību piederības un atļauju datubāžu attīstīšanas un sadarbspējas veicināšanā?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums] 
+--------------------------------------------------------------------------------
+Iespējams, ka tas arī ir datubāžu reģistrs. 
+--------------------------------------------------------------------------------
+ES , ja ir finansējums, varētu ieviest šādu sistēmu ar satura identificēšanu. Sākotnēji kaut vai attiecībā uz noteiktie autora tiesību objektiem. Ja datubāzes tiks reģistrētas, tad šāda identifikācija būs tikai pie reģistrēšanas un atkritīs ārējā kontroles funkcija. 
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+* Aizsardzības termiņš  -  vai tas ir piemērots?
+Darbi un blakustiesību objekti ir aizsargāti ar autortiesībām ierobežotu laika periodu. Pēc aizsardzības perioda beigām darbs kļūst pieejams plašākai sabiedrībai un jebkuram ir tiesības to brīvi izmantot (saskaņā ar spēkā esošajiem nacionālajiem noteikumiem par morālajām tiesībām). Bernes konvencija nosaka, ka minimālais aizsardzības termiņš ir 50 gadi pēc autora nāves. ES noteikumi pagarina šo aizsardzības termiņu līdz 70 gadiem pēc autora nāves (tāpat rīkojušās arī daudzas citas valstis, piemēram, ASV).  
+
+Attiecībā uz izpildītājiem mūzikas jomā un fonogrammu producentiem, ES normatīvie akti nosaka termiņu, kas par 20 gadiem pārsniedz starptautiskajos līgumos noteikto, nosakot 70 gadu aizsardzības termiņu pēc pirmās publicēšanas. Tomēr audiovizuālās nozares izpildītāji  un producenti negūst nekādu labumu no šī pagarinātā aizsardzības termiņa.  
+
+* --------------------------------------------------------------------------------
+Vai pašreizējie autortiesību aizsardzības termiņi vēl arvien ir piemēroti arī digitālajā vidē?
+--------------------------------------------------------------------------------
+XJĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+Jā, ir. Digitālā ir tikai cits darba izmatošanas un piekļuves veids, kas nedrīkst ietekmēt tiesību aizsardzības termiņu.
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet, vai tiem būtu jābūt garākiem vai īsākiem.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+Ierobežojumi un izņēmumi Vienotajā tirgū
+Autortiesību un blakustiesību ierobežojumi un izņēmumi atļauj darbu un blakustiesību objektu izmantošanu konkrētiem mērķiem un konkrētā apjomā (piemēram, skolotājs literatūras stundā ilustratīvos nolūkos izmanto fragmentu no romāna), nesaņemot atļauju no tiesību īpašniekiem. ES līmenī tas noteikts vairākās autortiesību direktīvās, sevišķi Direktīvā 2001/29/EK. 
+Nacionālajos un ES autortiesību likumos noteiktajiem izņēmumiem un ierobežojumiem jāatbilst starptautiskajām tiesībām. Saskaņā ar starptautiskajām saistībām ES acquis nosaka, ka ierobežojumi un izņēmumi ir piemērojami tikai īpašos gadījumos, kas nav pretrunā ar normālu darba vai blakustiesību objekta izmantošanu un nenonāk nepamatotā pretrunā tiesību īpašnieku leģitīmajām interesēm. 
+Lai gan ES tiesību aktos ietvertais ierobežojumu un izņēmumu katalogs ir izsmeļošs (ES līmenī saskaņotajām tiesībām nav piemērojami nekādi citi izņēmumi), šie ierobežojumi un izņēmumi bieži vien ir neobligāti, tādējādi, ka dalībvalstis var pēc saviem ieskatiem atspoguļot nacionālajā likumdošanā tik daudzus no tiem, cik tās uzskata par nepieciešamu. Vēl jo vairāk, dažu ierobežojumu un izņēmumu formulējums ir pietiekami vispārīgs, lai dotu dalībvalstīm ievērojamu manevrēšanas iespēju attiecībā uz to, kā un kādā mērā tos ieviest savos nacionālajos tiesību aktos (ja tās ir izlēmušas šādi rīkoties). Visbeidzot, būtu jāatzīmē, ka visi ES autortiesību regulējumā noteiktie ierobežojumi un izņēmumi nav vienlīdz svarīgi politikas nozīmē un to iespējamās ietekmes uz Vienotā tirgus darbību nozīmē. 
+Turklāt, gluži tāpat kā tiesību būtība ir teritoriāla (tas ir, tās piemērojamas tikai attiecīgās dalībvalsts teritorijā), arī tiesību ierobežojumu un izņēmumu būtība ir teritoriāla (tādējādi, darbībai, kas atzīta par izņēmumu dalībvalstī "A", tik un tā var būt nepieciešama tiesību īpašnieka atļauja, ja pārvietojamies uz dalībvalsti "B"). 
+Tāpat arī ierobežojumu un izņēmumu pārrobežu ietekme rada jautājumu par taisnīgu atlīdzību tiesību īpašniekiem. Dažos gadījumos dalībvalstu pienākums ir atlīdzināt tiesību īpašniekiem nodarīto kaitējumu, ko radījis viņu tiesību ierobežojums vai izņēmums. Citos gadījumos dalībvalstīm nav pienākums, taču tās var lemt par šādas atlīdzības nodrošināšanu. Ja ierobežojumam vai izņēmumam, kas ir taisnīgas atlīdzības mehānisma pamatā, būtu pārrobežu ietekme (piemēram, grāmatas tiek izmantotas kā ilustratīvi piemēri dalībvalstī "A" esošas universitātes tiešsaistes mācību kursā, bet studenti atrodas dalībvalstī "B"), tad rastos arī nepieciešamība noskaidrot, kuras nacionālās likumdošanas ietvaros būtu jānosaka šādas atlīdzības līmenis un kam tā būtu jāmaksā.
+Visbeidzot, rodas jautājums par elastību un piemērojamību: kāds būtu labākais mehānisms, ar kura palīdzību varētu nodrošināt, ka ES un dalībvalstu regulējums tiek piemērots, kad nepieciešams (vai nu lai noskaidrotu, vai uz konkrēto izmantošanu attiecas izņēmums vai, lai apstiprinātu, ka konkrētajai izmantošanai nepieciešama tiesību īpašnieku atļauja). Būtiskākais jautājums ir, vai attiecībā uz ES un dalībvalstu regulējumiem ir iespējams paredzēt augstāku elastīguma pakāpi, vienlaikus nodrošinot nepieciešamo tiesisko noteiktību, tostarp Vienotā tirgus darbības un ES starptautisko saistību ievērošanas nolūkos. 
+* --------------------------------------------------------------------------------
+Vai pastāv problēmas, kuru pamatā ir fakts, ka vairums ES autortiesību direktīvās noteikto ierobežojumu un izņēmumu nav dalībvalstīm obligāti?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet, atsaucoties uz konkrētiem gadījumiem.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+Domāju, ka te nav problēmas, jo tiesību īpašnieks e vidē nosaka, kāda ir darba izmantošanas cena un tam nav būtiskas nozīmes kurā valstī lietotājs . E-vidē pieslēdzoties darbam tiek samaksāta autora noteiktā summa par noteikto laiku un darbs tiek izmantots.   E-vidē pazūd  teritorialitātes princips.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Vai kādiem/visiem izņēmumiem būtu jākļūst obligātiem un ja tā, vai šiem izņēmumiem būtu nepieciešams augstāks saskaņotības līmenis?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet, atsaucoties uz konkrētiem gadījumiem.
+--------------------------------------------------------------------------------
+Šis jautājums ir atbildams tikai un vienīgi tad, kad ir konceptuāls risinājums par iepriekš uzdoto jautājumu. Tāpēc pagaidām atbildi sniegt uz šo jautājumu nav iespējams.
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+
+* --------------------------------------------------------------------------------
+Vai esošajā katalogā būtu jāiekļauj kādi jauni ierobežojumi vai izņēmumi, vai arī kādi būtu izslēdzami no kataloga? Lūdzam paskaidrot, norādot uz konkrētiem gadījumiem.
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Nesaistīti ar iepriekšējiem jautājumiem, vai pastāv nepieciešamība nodrošināt augstāku ES regulējumā noteikto ierobežojumu un izņēmumu elastību?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+Domāju, ka nē, jo pašreizējais modelis darbojas pietiekošu sekmīgi. 
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja jā, kāda būtu labākā pieeja elastības nodrošināšanai? (piemēram, nacionālo tiesu un EST veiktas interpretācijas, periodiska direktīvu pārskatīšana, Komisijas veikta interpretēšana, ietverta elastība, piemēram, godīgas izmantošanas (fair-use) vai godīgas rīcības (fair dealing) normas/atvērtas normas, utt. formā?) Lūdzu, paskaidrojiet, norādot, kādas būtu šādas pieejas relatīvās priekšrocības un trūkumi, kā arī tās iespējamo ietekmi uz Iekšējā tirgus darbību.
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums] 
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Vai saskaņā ar jūsu pieredzi ierobežojumu un izņēmumu teritorialitāte rada problēmas?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet, kāpēc un norādiet, par kuriem izņēmumiem jūs runājat.
+--------------------------------------------------------------------------------
+Rada, jo tiesību īpašniekiem ir praktiski neiespējami Latvijā celt prasību pret tiesību aizskārēju, ja tiesības ir aizskartas Internet vidē un atbildētāja domicīls atrodas ārpus LR robežām. 
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet, kāpēc un norādiet, par kuriem izņēmumiem jūs runājat.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+
+* --------------------------------------------------------------------------------
+Ja nacionālajā līmenī noteiktajiem ierobežojumiem un izņēmumiem tiktu piešķirts pārrobežu spēks, kā būtu risināms "taisnīgās atlīdzības" jautājums gadījumos, kad šāda atlīdzība ir daļa no izņēmuma? (piemēram, kurš maksā kam, kur)
+--------------------------------------------------------------------------------
+ [Atvērta tipa jautājums] 
+--------------------------------------------------------------------------------
+Pārkāpējs maksā tiesību īpašniekam. Ja tiktu atrisināts jautājums par piekļuves maksām bibliotēkās un arhīvos, tad šādam jautājumam zustu jēga, jo prasība tiktu skatīta tiesību īpašnieka valsts tiesā, atbilstoši tās valsts likumiem. Ar to būtu jārēķinās pārkāpējam. Nebūtu vairs situācijas, kad lielākais cietējs ir tiesību īpašnieks, jo viņam ir ne tikai nodarīti zaudējumi (negūtais labums), bet vēl ir jādodas uz citas valsts (nezināmu tiesību sistēmu) un jāiegulda papildus līdzekļi, lai aizstāvētu savas aizskartās tiesības.  
+--------------------------------------------------------------------------------
+Pieeja saturam bibliotēkās un arhīvos
+Direktīva 2001/29/EK nosaka dalībvalstīm tiesības ieviest savā nacionālajā likumdošanā virkni ierobežojumu un izņēmumu par labu publiski pieejamajām bibliotēkām, izglītības iestādēm un muzejiem, kā arī arhīviem. Ieviešanas gadījumā šie izņēmumi atļauj veikt saglabāšanas un arhivēšanas darbības, kā arī dod iespēju uz vietas iepazīties ar darbiem un blakustiesību objektiem šo iestāžu kolekcijās. Darbu un blakustiesību objektu fizisko eksemplāru publisku patapināšanu (saskaņā ar ierobežojumu vai izņēmumu), ko īsteno šīs iestādes, nosaka Nomas un patapinājuma direktīva.
+
+Jautājumi rodas par to, vai pašreizējais regulējums turpina nodrošināt paredzēto mērķu sasniegšanu vai arī nepieciešama tā precizēšana vai aktualizēšana, lai tas aptvertu izmantošanu digitālajos tīklos. Tajā pat laikā rodas jautājumi par šādas iespējamās paplašināšanas ietekmi uz darbu un blakustiesību objektu normālu lietošanu, kā arī par pretrunām, ko tā var radīt attiecībā uz tiesību īpašniekiem. Saistībā ar šo jāapsver arī licencēšanas loma un iespējamie dažādu ieinteresēto pušu starpā noslēgtie ietvarlīgumi. 
+Saglabāšana un arhivēšana
+Darbu un blakustiesību objektu eksemplāru, kas atrodas kultūras iestāžu kolekcijās (piemēram, grāmatas, ieraksti vai filmas) saglabāšana  -  darbu restaurācijas vai aizvietošanas, neizturīgo darbu kopēšanas rezultātā var tikt radīts/-i vēl kāds/-i šo darbu vai blakustiesību objektu eksemplārs/-i. Vairums dalībvalstu nodrošina šādu izņēmumu savā nacionālajā regulējumā, atļaujot šādu saglabāšanas eksemplāru izgatavošanu. Izņēmuma apjoms dažādās dalībvalstīs ir atšķirīgs (attiecībā uz iestādēm  -  labuma guvējām, darbu/tiesību objektu uz kuriem izņēmums attiecas, veidiem, kopēšanas veidu un reprodukciju skaitu, kuru labuma guvēja iestāde var izgatavot). Tāpat arī jauno saglabāšanas darbību pašreizējais juridiskais statuss (piemēram, publiski pieejamā tīmekļa satura ievākšana un arhivēšana) bieži vien ir neskaidrs.
+* --------------------------------------------------------------------------------
+(a) [It īpaši, ja esat institucionālais lietotājs:] Vai esat saskāries ar īpašām problēmām, mēģinot piemērot izņēmumu, lai saglabātu vai arhivētu konkrētus darbus vai blakustiesību objektus savā kolekcijā?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat tiesību īpašnieks:] Vai esat saskāries ar problēmām saistībā ar to, ka bibliotēkas, izglītības iestādes, muzeji vai arhīvi izmanto saglabāšanas izņēmumu? 
+--------------------------------------------------------------------------------
+  JĀ  -  Lūdzu, paskaidrojiet, norādot dalībvalsti, nozari un attiecīgo izmantošanas veidu.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ 
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja problēmas pastāv, kā tās vislabāk būtu risināt?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Noteikt likumā bibliotēkās un arhīvos esošo autoru darbu izmantošanas kārtību elektroniskā vidē, ar iespējām pieslēgties no ārienes bibliotēkās un arhīvos esošajiem objektiem. Nosakot to maksas izmantošanas kārtību. 
+* --------------------------------------------------------------------------------
+Ja, jūsuprāt, ir nepieciešams likumdošanas risinājums, kādi būtu tā galvenie elementi? Kādas labuma guvēju iestāžu darbības būtu aptveramas un pēc kādiem noteikumiem?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+Pirmkārt, labuma guvējam jābūt ir autoram, tiesību pārņēmējiem un tikai pēc tam pārējiem. Nedrīkstētu būt tāda situācija, ka lielākā labuma guvējs šajā situācijā ir izdevējs, kā tas ir Latvijas gadījumā.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja jūs uzskatāt, ka nepieciešams citāds risinājums, kāds tas būtu?
+--------------------------------------------------------------------------------
+ [Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+Ārpustelpu pieeja bibliotēku kolekcijām
+Direktīva 2001/29/EK kā izņēmumu nosaka iepazīšanos ar darbiem un blakustiesību objektiem (ieskatīšanās e-grāmatā, dokumentālas filmas noskatīšanās), izmantojot šim nolūkam paredzētus datorus šādu iestāžu telpās pētniecības vai pašizglītības nolūkos. Tiešsaistes ieskatīšanās darbos un blakustiesību objektos attālināti (tas ir, kad bibliotēkas lietotājs neatrodas bibliotēkas telpās) paredz atļaujas saņemšanas nepieciešamību un parasti šis jautājums tiek risināts universitāšu/bibliotēku un izdevēju noslēgtos līgumos. Daži norāda, ka tiešsaistes pieejas iespēja kolekcijām un tās izmantošanas noteikumi būtu nosakāmi likumā, bet ne līgumos.   
+* --------------------------------------------------------------------------------
+ (a) [It īpaši, ja esat institucionālais lietotājs:] Vai esat saskāries ar konkrētām problēmām, cenšoties vienoties ar tiesību īpašniekiem par līgumiem, kas nodrošinātu attālināto pieeju jūsu kolekcijām (vai to daļai), tostarp pāri robežām, pētniecības un pašizglītības nolūkos?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat gala lietotājs/patērētājs:] Vai esat saskārušies ar konkrētām problēmām, mēģinot iepazīties, tostarp pāri robežām, ar darbiem vai blakustiesību objektiem, kas atrodas tādu iestāžu kā universitātes un nacionālās bibliotēkas kolekcijās, neatrodoties attiecīgās iestādes telpās?
+--------------------------------------------------------------------------------
+(c) [It īpaši, ja esat tiesību īpašnieks:] Vai esat vienojušies ar institucionālajiem lietotājiem par līgumiem, kas dod tiesības šīm iestādēm nodrošināt attālināto pieeju, tostarp pāri robežām, pētniecības un pašizglītības nolūkos darbiem vai blakustiesību objektiem viņu kolekcijās?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja problēmas pastāv, kāds būtu to labākais risinājums?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+Risinājums ir noteikt likumā atlīdzības sadalījuma principus un atlīdzības robežas, nosakot maksimālo un minimālo robežu katrai no tiesību īpašnieku grupām, ievērojot to, ka daļa līdzekļu tiek izlietoti sistēmas uzturēšanai.  
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja uzskatāt, ka būtu nepieciešams likumā noteikts risinājums, kādi būtu tā galvenie elementi? Kādas labuma guvēju iestāžu darbības būtu jāaptver un ar kādiem nosacījumiem?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+Risinājums ir noteikt likumā atlīdzības sadalījuma principus un atlīdzības robežas, nosakot maksimālo un minimālo robežu katrai no tiesību īpašnieku grupām, ievērojot to, ka daļa līdzekļu tiek izlietoti sistēmas uzturēšanai.  
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja, jūsuprāt, nepieciešams cits risinājums, kāds tas būtu?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+E  -  patapinājums 
+Tradicionāli publiskās bibliotēkas izsniedza fiziskos darbu eksemplārus (tas ir, grāmatas, dažreiz arī CD un DVD) saviem lietotājiem. Pēdējā laika tehniskais progress ir radījis bibliotēkām tehniskas iespējas nodrošināt lietotājus ar īslaicīgu pieeju digitālajam saturam, piemēram, e-grāmatām, mūzikai vai filmām ar tīklu starpniecību. Saskaņā ar pašreizējo tiesisko regulējumu bibliotēkām jāsaņem tiesību īpašnieku atļauja šādu e-patapinājuma darbību organizēšanai. Vairākās dalībvalstīs izdevēji un bibliotēkas patlaban eksperimentē ar dažādiem uzņēmējdarbības modeļiem, lai darbus padarītu pieejamus tiešsaistē, tostarp saistībā ar izdevēju veiktu e-grāmatu tiešo piegādi bibliotēkām vai satura apkopotāju (aggregators) veikto apkopošanu.
+* --------------------------------------------------------------------------------
+ (a) [It īpaši, ja esat bibliotēka:] Vai esat sastapušies ar īpašām problēmām, cenšoties vienoties par līgumiem, kas nodrošina grāmatu vai citu jūsu kolekcijā esošu materiālu elektronisko patapinājumu (e-patapinājumu), tostarp pāri robežām?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat gala lietotājs/patērētājs:] Vai esat sastapušies ar īpašām problēmām, elektroniski patapinot grāmatas vai citus materiālus (e-patapinājums), tostarp pāri robežām, no tādām iestādēm kā, piemēram, publiskajām bibliotēkām?
+--------------------------------------------------------------------------------
+(c) [ It īpaši, ja esat tiesību īpašnieks:] Vai esat vienojušies par līgumiem ar bibliotēkām, lai tās būtu tiesīgas elektroniski patapināt grāmatas vai citus materiālus, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet ar konkrētiem piemēriem.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ 
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja problēmas pastāv, kā tās būtu vislabāk risināt?
+--------------------------------------------------------------------------------
+ [Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Nākamie divi jautājumi attiecas gan uz šo punktu (Nr. 3), gan uz iepriekšējo (Nr. 2).
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat institucionālais lietotājs:] Kādas atšķirības jūs saskatāt fizisko un tiešsaistes kolekciju pārvaldībā, tostarp nodrošinot pieeju saviem abonentiem? Ar kādām problēmām esat saskārušies?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat tiesību īpašnieks:]  Kādu atšķirību jūs saredzat starp bibliotēku tradicionālajām darbībām, piemēram, darbu apskate bibliotēkas telpās vai publiskais patapinājums un tādām darbībām kā darbu apskate ārpus telpām (tiešsaistes, attālināti) un e-patapinājums? Ar kādām problēmām esat saskārušies?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+Masveida digitalizācija
+Terminu "masveida digitalizācija" parasti lieto, runājot par tādu iestāžu kā bibliotēku un arhīvu centieniem digitalizēt (piemēram,, skenēt) visas vai daļas savas kolekcijas saturu nolūkā saglabāt šīs kolekcijas, parasti padarot tās pieejamas arī sabiedrībai. Kā piemēru var minēt bibliotēku centienus digitalizēt 20. gadsimta paša sākuma romānus vai arī visas vēsturiski vērtīgu gleznu kolekcijas. Šis jautājums ir daļēji skatīts ES līmenī 2011. gada Saprašanās memorandā (SM) par galvenajiem komerciālajā apritē nepieejamo darbu (tas ir, darbu, kuri vairs nav atrodami parastajos komercaprites kanālos) digitalizācijas un publiskošanas principiem, kura mērķis ir veicināt masveida digitalizācijas centienus (grāmatām un zinātniskajiem žurnāliem), pamatojoties uz licenču līgumiem starp bibliotēkām un līdzīgām kultūras iestādēm, no vienas puses, un mantisko tiesību kolektīvā pārvaldījuma organizācijām, kuras pārstāv autorus un izdevējus, no otras puses. Ja vien tiek nodrošināts nepieciešamais finansējums (digitalizācijas projekti ir īpaši dārgi), šī SM rezultātā grāmatas, kuras pašlaik atrodamas tikai, piemēram, bibliotēku  arhīvos, tiktu digitalizētas un tiktu ikvienam padarītas pieejamas tiešsaistē. SM balstās uz brīvprātīgajām licencēm (kuras piešķir mantisko tiesību kolektīvā pārvaldījuma organizācijas, pamatojoties uz pilnvarojumu, kuru tās saņem no autoriem un izdevējiem).  Dažām dalībvalstīm varētu būt nepieciešams pieņemt regulējumu, kas nodrošinātu šādu licenču plašāko iespējamo darbību (piemēram, nosakot likumdošanā mantisko tiesību kolektīvā pārvaldījuma organizācijas pārstāvniecības prezumpciju vai atzīstot izsniegto licenču "paplašināto darbību"). 
+* [It īpaši, ja esat institucionālais lietotājs, kas ir iesaistījies vai vēlas iesaistīties masveida digitalizācijas projektos, tiesību īpašnieks, mantisko tiesību kolektīvā pārvaldījuma organizācija:] Vai jūsu valstī būtu nepieciešams pieņemt normatīvos aktus, kas nodrošinātu, lai 2011. gada SM rezultātiem (tas ir, starp bibliotēkām un mantisko tiesību kolektīvā pārvaldījuma organizācijām noslēgtām vienošanām) būtu pārrobežu spēks, lai komerciālajā apritē nepieejamie darbi būtu pieejami visā ES?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet, kāpēc un kā tas vislabāk būtu panākams.
+--------------------------------------------------------------------------------
+ Jā, nosakot likumā. Ja tas tiek attiecināts uz visu ES, tad tas būtu norādāms regulā.
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Vai būtu nepieciešams izstrādāt citus mehānismus, papildus tiem, kas jau pastāv attiecībā uz cita veida saturu (piemēram, audio vai audiovizuālajām kolekcijām, raidorganizāciju arhīviem)?
+--------------------------------------------------------------------------------
+JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+Tas saistīts ar jautājuma risināšanas attiecībā uz teritorialitātes principa maiņu. 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+Mācīšana
+Direktīva 2001/29/EK nosaka dalībvalstu tiesības to nacionālajā likumdošanā ietvert ierobežojumus un izņēmumus ilustrēšanas vajadzībām nekomerciālu mācību ietvaros. Šādi  izņēmumi parasti atļauj pedagogam izmantot kāda darba daļu vai visu darbu, lai paskaidrotu pasniedzamo kursu, piemēram, klasē izdalot grāmatas fragmentu vai laikrakstu rakstu kopijas vai attēlojot aizsargāto saturu uz interaktīvās tāfeles, bez nepieciešamības saņemt atļauju no  tiesību īpašniekiem. Šī (izvēles) noteikuma atvērtais formulējums pieļauj ļoti atšķirīgu ieviešanu dalībvalstu nacionālajos tiesību aktos. Šis izņēmums dažādās dalībvalstīs ir ieviests atšķirīgi, vairākās dalībvalstīs paredzot regulējumu satura licencēšanai konkrētām izglītošanas vajadzībām. Daži norāda, ka likumos vajadzētu noteikt labākas iespējas tālmācībai un mājmācībai. 
+* --------------------------------------------------------------------------------
+(a) [It īpaši, ja esat gala lietotājs/patērētājs vai institucionālais lietotājs:] Vai esat saskārušies ar īpašām problēmām, mēģinot izmantot darbus vai blakustiesību objektus ilustrēšanas vajadzībām mācību procesa ietvaros, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat tiesību īpašnieks:] Vai esat saskāries ar īpašām problēmām, kas izriet no veida, kādā darbi vai blakustiesību objekti tiek izmantoti ilustrēšanas nolūkos mācību procesā, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X NĒ 
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja problēmas pastāv, kā tās būtu vislabāk atrisināt?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+Domāju, ka te problēma nepastāv. Tālmācība un mājmācība , kas ir ārpus patreizējiem likuma nosacījumiem, būtu regulējama ar iepriekš minētājām tiesībām piekļuvei bibliotēku datubāzēm. Mācību procesa un izņēmumu robežas nav paplašināmas. Šāds piedāvājums nesīs vēl lielākus zaudējumus autoriem.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Kādi pastāvošie tirgus mehānismi veicina satura izmantošanu ilustrēšanas vajadzībām mācīšanas nolūkos? Cik veiksmīgi tie ir?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja uzskatāt, ka nepieciešams risinājums normatīvajos aktos, kādi būtu tā galvenie elementi? Kādas labuma saņēmēju iestāžu darbības būtu jāaptver un ar kādiem nosacījumiem?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+ Ja, pēc jūsu domām, nepieciešams cits risinājums, kāds tas būtu? 
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+
+Pētniecība
+Direktīva 2001/29/EK piešķir dalībvalstīm tiesības izvēlēties, vai ietvert savā nacionālajā likumdošanā ierobežojumu nekomerciālas zinātniskās pētniecības vajadzībām. Šī (izvēles) noteikuma atvērtais formulējums pieļauj ļoti atšķirīgu ieviešanu dalībvalstu līmenī.
+
+* --------------------------------------------------------------------------------
+(a) [It īpaši, ja esat gala lietotājs/patērētājs vai institucionālais lietotājs:] Vai esat saskārušies ar īpašām problēmām, mēģinot izmantot darbus vai blakustiesību objektus pētniecības projektu/aktivitāšu kontekstā, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat tiesību īpašnieks:] Vai esat saskāries ar īpašām problēmām, kas izriet no veida, kādā darbi vai blakustiesību objekti tiek lietoti pētniecības projektu/aktivitāšu kontekstā, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X  NĒ 
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja problēmas pastāv, kā tās būtu vislabāk atrisināt? 
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Kādi mehānismi pastāv dalībvalstīs satura lietošanas veicināšanai pētniecības nolūkos? Cik veiksmīgi tie ir?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+Lietotāji ar invaliditāti
+Direktīva 2001/29/EK nosaka izņēmumu/ierobežojumu par labu cilvēkiem ar invaliditāti. Šī (izvēles) noteikuma atvērtais formulējums pieļauj ļoti atšķirīgu ieviešanu dalībvalstu līmenī. ES un starptautiskajā līmenī ir uzsākti projekti, ar kuru palīdzību tiek palielināta darbu un blakustiesību objektu pieejamība cilvēkiem ar invaliditāti (sevišķi, palielinot speciālos formātos publicēto darbu skaitu un sekmējot to izplatīšanu visā Eiropas Savienībā) . 
+Lai veicinātu neredzīgu personu, personu ar redzes un citādiem lasīšanas traucējumiem pieeju publicētiem darbiem, ir pieņemts Marakešas līgums. Līgums nosaka obligātu autortiesību izņēmumu, kas atļauj neredzīgo personu organizācijām izdot, izplatīt un padarīt pieejamus sabiedrībai pieejamā formāta eksemplārus (accessible format copies) personām ar redzes traucējumiem bez tiesību īpašnieku atļaujas. ES un tās dalībvalstis ir uzsākušas darbu pie līguma parakstīšanas un ratificēšanas. Tam varētu būt nepieciešama dažu noteikumu pieņemšana ES līmenī (piemēram, lai nodrošinātu pieejamā formāta eksemplāru pārrobežu apmaiņas iespēju).
+* --------------------------------------------------------------------------------
+(a) [It īpaši, ja esat persona ar invaliditāti vai organizācija, kas pārstāv personas ar invaliditāti:] Vai esat izjutuši problēmas saistībā ar pieejamību saturam, tostarp pāri robežām, kam par iemeslu ir tas, kā dalībvalstis ir ieviesušas šo izņēmumu?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat organizācija, kas sniedz pakalpojumus personām ar invaliditāti:] Vai esat saskārušies ar problēmām, izplatot/publiskojot speciālā formātā publicētus darbus ES teritorijā?
+--------------------------------------------------------------------------------
+(c) [It īpaši, ja esat tiesību īpašnieks:] Vai esat izjutuši īpašas problēmas, kas saistītas ar ierobežojumu un izņēmumu piemērošanu, kas atļauj speciālā formātā publicēto darbu izplatīšanu/publiskošanu, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet, sniedzot piemērus.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X NĒ 
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja problēmas pastāv, kas būtu jādara, lai uzlabotu pieejamību?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+ Kādi mehānismi pastāv tirgū satura pieejamības veicināšanai? Cik veiksmīgi tie ir?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+Tekstizrace un datizrace 
+Tekstizrace un datizrace/saturizrace/datu analītika ir dažādi termini, ar kuriem apraksta pieaugošas nozīmības metodes, kuras, it īpaši, izmanto pētnieki plaša apjoma jau pastāvošu tekstu un datu (piemēram, žurnālu, mājas lapu, datubāžu utt.) izpētei. Izmantojot programmatūru un citus automatizētus procesus, tiek analizēti atbilstošie teksti un dati, lai gūtu jaunus ieskatus, modeļus un tendences.
+Izracē izmantotie teksti un dati ir vai nu brīvi pieejami internetā vai pieejami, abonējot, piemēram, žurnālus un periodiku, kas nodrošina pieeju izdevēju datubāzēm. Pirms faktiskās analīzes tiek izgatavotas atbilstošo tekstu un datu kopijas (piemēram, pārlūku kešatmiņās vai datoru RAM atmiņās, vai datora cietajā diskā). Parasti tiek uzskatīts, ka, lai veiktu aizsargātu darbu vai blakustiesību objektu izraci, nepieciešama tiesību īpašnieka atļauja šādu kopiju izgatavošanai, ja vien šādu atļauju nevar uzskatīt par automātiski izsniegtu (piemēram, plašākai sabiedrībai bez ierobežojumiem pieejams saturs internetā, brīva piekļuve).
+Daži uzskata, ka uz tekstizracei un datizracei nepieciešamajām kopijām attiecas  Direktīvas 2001/29/EK 5.1. pantā noteiktais īslaicīgās reproducēšanas izņēmums. Citi uzskata, ka tekstizraces un datizraces darbības pat nebūtu uzskatāmas par tādām, uz kurām attiektos autortiesības. Šie jautājumi ir neskaidri, vēl jo vairāk tāpēc, ka tekstizrace un datizrace nesastāv tikai no vienas metodes, bet gan var būt veicama vairākos atšķirīgos veidos. Tāpat svarīgi ir jautājumi, vai ar šo tēmu saistītās galvenās problēmas pārsniedz autortiesību jomu (tas ir, pārsniedz nepieciešamību saņemt vai nesaņemt atļauju satura izmantošanai) un drīzāk saistās ar nepieciešamību iegūt "pieeju" saturam (tas ir, lai būtu iespējams izmantot, piemēram, komerciālās datubāzes).
+Šī jautājuma risināšanai "Licences Eiropai" ieinteresēto pušu dialoga ietvaros tika izveidota īpaša darba grupa. Ieinteresētās puses, kas piedalījās darba grupā, nespēja panākt vienošanos nedz par risināmajām problēmām, nedz rezultātiem. Tajā pat laikā izdevēji piedāvāja praktiskus tekstizraces un datizraces sekmēšanas risinājumus attiecībā uz abonētu zinātnisku saturu kā "Licences Eiropai" iniciatīvas iznākumu. Šo diskusiju kontekstā citas ieinteresētās puses norādīja, ka izraces veikšanai materiāliem, kuriem pieeja tiek nodrošināta ar abonēšanas līgumu, papildu licences nav nepieciešamas, un uzskatīja, ka jāievieš īpašs tekstizraces un datizraces izņēmums, iespējams, pamatojoties uz atšķirību starp komerciālu un nekomerciālu izmantošanu.  
+* --------------------------------------------------------------------------------
+(a) [It īpaši, ja esat gala lietotājs/patērētājs vai institucionālais lietotājs:] Vai esat saskārušies ar šķēršļiem, kas saistīti ar autortiesībām, mēģinot pielietot tekstizraces vai datizraces metodes, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat pakalpojumu sniedzējs:] Vai esat saskārušies ar šķēršļiem, kas saistīti ar autortiesībām, sniedzot pakalpojumus, kas balstīti uz tekstizraces vai datizraces metodēm, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+(c) [It īpaši, ja esat tiesību lietotājs:] Vai esat saskārušies ar problēmām, kas izriet no tekstizraces vai datizraces pielietošanas saistībā ar saturu, kuru aizsargā autortiesības, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+ Ja problēmas pastāv, kā tās labāk būtu atrisināmas?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+Domāju, ka šajā gadījumā tā ir mākslīgi radīta problēma. Jo, neviens nevar aizliegt publiski pieejamu darbu, ja web lapas lietošanas noteikumos nav norādīti ierobežojumi, izmantot datubāzē, kura pēc tam tiek izmantota komerciālos nolūkos. Tiesību īpašniekam ir ne tikai tiesības, bet arī pienākums rūpēties par savu darbu. Internet vidē tas nozīmē to, ka tikai īpašnieks izdomā, rada un ievieto darbus un ar tiem saistītos lietošanas noteikumus. Ja nekādu ierobežojumu nav, tad nav nekāda pamata aizliegt lietos Internet vidē ievietotu (tiesību īpašnieka atļauja) darbu. Īpašums, lai arī kāds tas būtu uzliek īpašniekam arī pienākumus, ne tikai dod tiesības.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja uzskatāt, ka nepieciešams risinājums normatīvajos aktos, kādi būtu tā galvenie elementi? Kādas aktivitātes būtu jāaptver un uz kādiem noteikumiem?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja, pēc jūsu ieskatiem, nepieciešams cits risinājums, kāds tas būtu?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Vai pastāv citi, ar autortiesībām nesaistīti jautājumi, kas rada barjeras tekstizraces un datizraces metožu pielietošanai?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums] .............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+Lietotāju radīts saturs
+Tehnoloģiskā un pakalpojumu attīstība nozīmē, ka iedzīvotāji var kopēt, lietot un izplatīt saturu ar pavisam nelieliem vai bez finansiāliem izdevumiem. Tā rezultātā strauji attīstās jauna veida tiešsaistes aktivitātes, tostarp tā sauktā "lietotāju radītā satura" veidošana.  Lietotāji var radīt pilnīgi oriģinālu saturu, taču tie var arī paņemt vienu vai vairākus jau iepriekš radītus darbus, izmainīt tajos kaut ko un augšupielādēt šo rezultātu internetā, piemēram, platformās vai blogos.  Tādējādi lietotāju radītais saturs (LRS) var ietvert iepriekš radītu darbu modificēšanu, pat ja jaunradītais/"augšupielādētais" darbs nav prasījis radošus centienus un ir vienkārši iepriekš radīta satura papildināšanas, izņemšanas vai sasaistīšanas ar citu iepriekš radītu saturu darbību rezultāts. Šāda veida darbība pati par sevi nav "jauna". Taču sociālās tīklošanās un sociālo mediju vietņu attīstība, kas ļauj lietotājiem plaši dalīties ar saturu, ir ievērojami izmainījusi šo darbību apmēru un palielinājusi iepriekš radīto darbu tiesību īpašnieku potenciālo ekonomisko ietekmi. Atkārtota izmantošana vairs nav tehniski un mākslinieciski lietpratīgas elites privilēģija. Ar jauno tehnoloģiju piedāvātajām iespējām atkārtotā izmantošana ir bez maksas pieejama visiem. Tas, savukārt, rada jautājumus saistībā ar tādām  pamattiesībām kā izteiksmes brīvība un tiesības uz īpašumu.
+Šī jautājuma risināšanai "Licences Eiropai" ieinteresēto pušu dialoga ietvaros tika izveidota īpaša darba grupa. Ieinteresētās puses, kas piedalījās darba grupā, nespēja panākt vienošanos nedz par risināmajām problēmām, nedz rezultātiem, un pat ne par LRS definīciju. Tomēr tika  prezentēti visdažādākie viedokļi attiecībā uz labāko veidu, kā reaģēt uz šo parādību. Viens no viedokļiem bija, ka ir nepieciešams jauns izņēmums, kas attiektos uz LRS, it īpaši privātpersonu nekomerciālajām darbībām, piemēram, esošo muzikālo darbu kombinēšanu ar video, fotoattēlu sērijām, utt. Saskaņā ar citu viedokli nekādas likumdošanas izmaiņas nav nepieciešamas  -  LRS uzplaukst un arvien vairāk ir pieejamas dažādas licencēšanas shēmas (licencēšanas shēmas starp tiesību īpašniekiem un platformām, kā arī mikrolicences starp tiesību īpašniekiem un lietotājiem, kas rada saturu). Jebkurā gadījumā "Licences Eiropai" diskusiju rezultātā dažādu nozaru tiesību īpašnieki piedāvāja praktiskus risinājumus attiecībā uz lietotāju radītu saturu un mikrolicencēšanas mazajiem lietotājiem veicināšanai. 
+* --------------------------------------------------------------------------------
+(a) [It īpaši, ja esat gala lietotājs/patērētājs:] Vai esat saskāries ar problēmām, mēģinot izmantot iepriekš radītus darbus vai blakustiesību objektus, lai izplatītu jaunu saturu internetā, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat pakalpojumu sniedzējs:] Vai esat saskāries ar problēmām, lietotājiem publicējot/izplatot jaunu saturu, kas balstīts uz iepriekš radītiem darbiem vai blakustiesību objektiem, ar jūsu pakalpojumu starpniecību, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+(c) [It īpaši, ja esat tiesību īpašnieks:] Vai esat saskāries ar problēmām, kas radušās veida, kādā lietotāji izmanto iepriekš radītus darbus vai blakustiesību objektus jauna satura izplatīšanai internetā, rezultātā, tostarp pāri robežām?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet ar piemēriem.
+--------------------------------------------------------------------------------
+Šajā jautājumā nekādas izmaiņas nav nepieciešamas.
+--------------------------------------------------------------------------------
+ NĒ 
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+(a) [It īpaši, ja esat gala lietotājs/patērētājs vai tiesību īpašnieks:] Vai esat saskāries ar problēmām, cenšoties nodrošināt, ka jūsu radītais darbs (kas radīts, balstoties uz iepriekš radītiem darbiem) ir pienācīgi identificēts tiešsaistes lietošanai? Vai īpašnieksistēmas (proprietary systems) šajā kontekstā ir pietiekamas?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat pakalpojumu sniedzējs:] Vai jūs nodrošināt lietotājiem, kuri publicē/izplata savus radītos darbus (kas radīti, balstoties uz iepriekš radītiem darbiem) ar jūsu pakalpojumu starpniecību, iespējas pienācīgi identificēt šos darbus tiešsaistes lietošanai?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+(a) [It īpaši, ja esat gala lietotājs/patērētājs vai tiesību īpašnieks:] Vai esat saskāries ar problēmām, mēģinot saņemt atlīdzību par jūsu radīto darbu (kas radīti, pamatojoties uz iepriekš radītiem darbiem) izmantošanu?
+--------------------------------------------------------------------------------
+(b) [It īpaši, ja esat pakalpojumu sniedzējs:] Vai jūs nodrošināt atlīdzības shēmas lietotājiem, kuri publicē/izplata savus radītos darbus (kas radīti, pamatojoties uz iepriekš radītiem darbiem), izmantojot jūsu pakalpojumus?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+ Ja pastāv problēmas, kā tās vislabāk būtu atrisināmas?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja uzskatāt, ka nepieciešams risinājums normatīvajos aktos, kādi būtu tā galvenie elementi? Kādas aktivitātes būtu jāaptver un ar kādiem nosacījumiem?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja uzskatāt, ka nepieciešams cits risinājums, kāds tas būtu?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+
+Privātā kopēšana un reprogrāfija 
+Direktīva 2001/29/EK nosaka dalībvalstu tiesības ietvert to nacionālajā likumdošanā ierobežojumus vai izņēmumus, kas attiecas uz reproducēšanas tiesībām saistībā ar privātām vajadzībām izgatavotām kopijām un fotokopēšanu. Nesēja atlīdzība/atlīdzība par reprogrāfiju (levy) ir maksa, kuru nacionālā līmenī iekasē par precēm, kuras parasti izmanto šādiem nolūkiem (tukši datu nesēji, ierakstu aparatūra, fotokopēšanas iekārtas, mobilās klausīšanās iekārtas, piemēram, mp3/mp4 atskaņotāji, datori, utt.) ar mērķi kompensēt tiesību īpašniekiem nodarīto kaitējumu gadījumos, kad bez viņu atļaujas kopijas rada dažu kategoriju personas (tas ir, fiziskas personas rada kopijas privātai lietošanai) vai tās tiek radītas, izmantojot attiecīgu metodi (tas ir, reprogrāfiju). Šādā kontekstā nesēja atlīdzība ir tiesību īpašniekiem nozīmīga.
+Digitālajām tehnoloģijām nepārtraukti attīstoties, rodas jautājums par to, vai failu kopēšana, kuru veic patērētāji/gala lietotāji, kas saturu ir iegādājušies tiešsaistē, piemēram, ja persona ir iegādājusies MP3 failu un atkārtoti saglabā vairākas šī faila kopijas (savā datorā, planšetdatorā un mobilajā telefonā), rada nepieciešamību vai šai kopēšanai vajadzētu radīt nepieciešamību piemērot nesēja atlīdzību. Pastāv uzskats, ka dažos gadījumos tiesību īpašnieki patiešām varētu to pieprasīt, neatkarīgi no tā vai pakalpojumu sniedzēja samaksātā licences maksa jau ietver gala lietotāja radītās kopijas. Šāda pieeja var novest pie  iespējamiem dubultas samaksas gadījumiem, kad nesēja atlīdzība tiek pieprasīta papildus pakalpojuma sniedzēja licences maksai. 
+Tāpat arī turpinās diskusija par to, vai nesēja atlīdzība būtu piemērojama atsevišķiem mākoņpakalpojumiem, piemēram, personiskajām glabātuvēm, vai personiskajiem video ierakstītājiem.
+
+* --------------------------------------------------------------------------------
+Vai, jūsuprāt, pastāv nepieciešamība ES līmenī precizēt privātās kopēšanas un reprogrāfijas izņēmumu apjomu un pielietojumu digitālajā vidē? 
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X  NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+Pamatojoties uz iepriekš pausto viedokli par darbībām e vidē.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Vai gala lietotāju privātām vajadzībām radītām digitālām kopijām tiesību īpašnieku licencēta pakalpojuma kontekstā un gadījumos, kad tiesību īpašniekam nodarītais kaitējums ir neliels, būtu jāpiemēro nesēja atlīdzība?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+ Kā izmaiņas attiecībā uz tiešsaistes pakalpojumiem (piemēram, ar mākoņdatošanu saistītie pakalpojumi, kas ļauj lietotājiem veidot kopijas dažādās iekārtās) piemēroto nesēja atlīdzību ietekmētu jaunu uzņēmējdarbības modeļu attīstību un funkcionēšanu, no vienas puses, un tiesību īpašnieku ieņēmumus, no otras puses?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+ Vai saredzat pievienoto vērtību tam, ka nesēja atlīdzība tiek atsevišķi izdalīta rēķinos par precēm, kurām tā tiek piemērota?
+--------------------------------------------------------------------------------
+JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+Atšķirīgās nacionālās sistēmas nosaka nesēja atlīdzības piemērošanu atšķirīgiem produktiem un piemēro dažādus tarifus. Tā rezultātā tiek radīti šķēršļi brīvai preču un pakalpojumu apritei Vienotajā tirgū. Tajā pat laikā daudz dalībvalstu turpina atļaut vispārīgu nesēja atlīdzības piemērošanu visiem darījumiem, neņemot vērā personas statusu, kurai tiek pārdots ar nesēja atlīdzību apliktais produkts (piemēram, privātpersonai vai uzņēmumam). Šādā izpratnē ne visās dalībvalstīs pastāv iepriekšēji (ex ante) izņēmumi un/vai sekojošas (ex post) atlīdzības shēmas, kas varētu izlabot šīs situācijas un samazināt nepamatoto maksājumu skaitu.  
+
+* --------------------------------------------------------------------------------
+Vai esat saskārušies ar situāciju, kurā pārrobežu darījumam tika piemēroti nepamatoti nesēja atlīdzības maksājumi vai tās pašas nesēja atlīdzības dubulta samaksa, vai citiem preču vai pakalpojumu brīvas aprites šķēršļiem?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, konkrēti norādiet darījuma veidu un nepamatoto maksājumu procentuālo apmēru. Tāpat arī, lūdzu, norādiet, kā jau pastāvošs izņēmums un/vai pēc darījuma veikšanas pieejamās atlīdzības atmaksas (ex post reimbursement) shēmas varētu palīdzēt atrisināt šo situāciju.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Kāds procentos izteikts, ar nesēja atlīdzību aplikto produktu apjoms tiek pārdots personām, kuras nav fiziskas personas, mērķiem, kas pilnīgi noteikti nav saistīti ar privāto kopēšanu? Vai par kādiem no šiem darījumiem tiek veikti nepamatoti maksājumi? Lūdzu, detalizēti paskaidrojiet jūsu sniegto piemēru (produktu veids, darījuma veids, ieinteresētās puses, utt.).
+--------------------------------------------------------------------------------
+[ Atvērta tipa jautājums] 
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja ir veikti šādi nepamatoti maksājumi, kādu pārdošanas daļu procentos tie ietekmē? Kādā apmērā dažās dalībvalstīs spēkā esošie pastāvošie izņēmumi un/vai pēc-darījuma atlīdzības atmaksas shēmas varētu palīdzēt atrisināt situāciju?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja esat konstatējuši īpašas problēmas pašreizējā nesēja atlīdzības sistēmas darbībā, kā šīs problēmas būtu vislabāk risināmas?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+Autoru un izpildītāju taisnīga atlīdzība
+ES autortiesību acquis atzīst vairākas ekskluzīvas autoru un izpildītāju tiesības, kā arī tiesības saņemt atlīdzību izpildītājiem, kuru izpildījums ir fiksēts fonogrammās. ES autortiesību regulējumā ir vairāki noteikumi, kas nosaka autoru un izpildītāju tiesību pāreju  producentiem, vai kurš ir tiesību īpašnieks, ja darbs vai blakustiesību objekts tiek radīts darba līguma izpildes ietvaros. Šīs jomas regulējums parasti ir bijis atstāts dalībvalstu ziņā, un tāpēc regulējumos pastāv ievērojamas atšķirības. Tāpat arī pastāv būtiskas atšķirības starp dažādām radošo industriju nozarēm.
+Arvien vēl rodas bažas par to, ka autori un izpildītāji nesaņem adekvātu atlīdzību, sevišķi, bet ne tikai attiecībā uz izmantošanu tiešsaistē. Daudzi uzskata, ka ekonomiskais labums, ko gūst no jaunajām izmantošanas formām, vērtību ķēdē netiek sadalīts taisnīgi. Cits bieži uzdots jautājums saistās ar līgumu slēgšanas praksi, sarunu mehānismiem, tiesību pārejas prezumpcijām, tiesību pilnīgas atsavināšanas noteikumiem (buy-out clauses) un līgumu izbeigšanas iespēju trūkumu. Dažas ieinteresētās puses uzskata, ka nacionālā līmeņa noteikumi ir nepietiekami viņu situācijas uzlabošanai un ka nepieciešama rīcība ES līmenī.
+
+* --------------------------------------------------------------------------------
+[It īpaši, ja esat autors/izpildītājs:] Kāds ir labākais mehānisms (vai mehānismu kopums), ar kuru nodrošināt, ka jūs saņemat atbilstošu atlīdzību par jūsu darbu un izpildījumu izmantošanu?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]  
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Vai pastāv nepieciešamība rīkoties ES līmenī (piemēram, aizliegt noteiktu nosacījumu ietveršanu līgumos)?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet, kāpēc.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Ja uzskatāt, ka pašreizējie noteikumi nav efektīvi, kā jūs ieteiktu risināt jūsu identificētās nepilnības?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]  
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+Tiesību ievērošana
+Direktīva 2004/48/EK nosaka intelektuālā īpašuma tiesību, tostarp autortiesību un blakustiesību, civiltiesiskās aizsardzības saskaņotu regulējumu. Komisija ir plaši konsultējusies saistībā ar šo tekstu. Ir izteiktas bažas par to, vai daži no direktīvas noteikumiem vēl aizvien ir piemēroti, lai nodrošinātu pienācīgu autortiesību ievērošanu digitālajā laikmetā. No vienas puses, pašreizējie pasākumi liekas nepietiekami, lai risinātu jaunos izaicinājumus, kurus rada digitālā satura izplatīšana internetā; no otras puses, pastāv bažas par pašreizējo līdzsvaru starp autortiesību piemērošanu un pamattiesību aizsardzību, it īpaši attiecībā uz tiesībām uz privāto dzīvi un datu aizsardzību. Nav apstrīdams, ka autortiesību aizskāruma gadījumā allaž jābūt pieejamiem tiesiskās aizsardzības līdzekļiem, taču varētu tikt piedāvāti pasākumi autortiesību ievērošanas stiprināšanai gadījumos, kad saturs, ar kuru saistīts pārkāpums, tiek izmantots komerciālos nolūkos. Viens no veidiem, kā to nodrošināt, varētu būt IP infrastruktūrā esošo starpnieku lomas precizēšana. Vienlaikus varētu arī precizēt aizsardzības līdzekļus privātās dzīves un datu aizsardzības tiesību ievērošanai attiecībā uz privātajiem lietotājiem.
+* --------------------------------------------------------------------------------
+Vai civiltiesiskās aizsardzības līdzekļu sistēma ES būtu jāpadara vēl efektīvāka attiecībā uz autortiesību pārkāpumiem, kas izdarīti komerciālos nolūkos?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+Jāmaina pakalpojuma sniedzēju atbildība. Ja autors ir informējis Internet pakalpojuma sniedzēju par to, ka konkrētajā lapā tiek pārkāptas viņa kā autora tiesības, tad pakalpojuma sniedzējam ir jānosaka pienākums, nekavējoties apturēt šīs lapas darbību.
+--------------------------------------------------------------------------------
+ NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+* --------------------------------------------------------------------------------
+It īpaši, vai pašreizējais tiesiskais regulējums ir pietiekami skaidrs, lai nodrošinātu pietiekamu starpnieku (piemēram, interneta pakalpojumu sniedzēju, reklāmas aģentu, maksājumu pakalpojumu sniedzēju, domēnu nosaukumu reģistratoru, utt.) iesaisti autortiesību pārkāpumu tiešsaistē, kas izdarīti komerciālos nolūkos, novēršanā? Ja nē, kādi pasākumi būtu lietderīgi starpnieku sadarbības veicināšanai? 
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+Jāmaina pakalpojuma sniedzēju atbildība un tas jānosaka likumā. Ja autors ir informējis Internet pakalpojuma sniedzēju par to, ka konkrētajā lapā tiek pārkāptas viņa kā autora tiesības, tad pakalpojuma sniedzējam ir jānosaka pienākums, nekavējoties apturēt šīs lapas darbību. Ja tas netiek izdarīts, tad pakalpojuma sniedzējs atbild kā pats pārkāpējs.
+--------------------------------------------------------------------------------
+Šis princips nostiprināms likumā vai regulā.
+--------------------------------------------------------------------------------
+
+* --------------------------------------------------------------------------------
+Vai pašreizējais civiltiesiskās aizsardzības regulējums nodrošina pareizu līdzsvaru starp tiesībām uz autortiesību ievērošanu un citām tiesībām, piemēram, uz privātās dzīves un personas datu aizsardzību?
+--------------------------------------------------------------------------------
+ JĀ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+X NĒ  -  Lūdzu, paskaidrojiet.
+--------------------------------------------------------------------------------
+Līdzsvars netiek nodrošināts, jo pašreiz Latvijā pārkāpējs ir daudz labākā situācijā ar 95% iespēju izvairīties no kriminālās vai civiltiesiskās atbildības, jo kriminālpolicija lietas šajos jautājumos vai nu neierosina vai arī risina tik lēni, ka zūd ekonomiskā labuma gūšanas pierādījumu bāze. Viss biežāk policija izvairās rosināt šāds lietas, ja cietusi ir fiziska persona (autors), bet labuma guvējs ir uzņēmējs, kurš valstī iespējams maksās kādus nodokļus. 
+--------------------------------------------------------------------------------
+Teiktajam ir viens izņēmums. Ļoti aktīvi policija darbojas, ja pārkāptas ir Microsoft tiesības uz datorprogrammām.
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+ Vienots ES autortiesību regulējums 
+Ideja par vienota ES autortiesību regulējuma izveidošanu jau labu laiku izskan autortiesību debatēs, lai gan viedokļi par šāda mērķa vērtību un dzīvotspēju dalās. Vienots ES autortiesību regulējums pilnībā saskaņotu autortiesību jomu ES un aizstātu nacionālos likumus. Tādējādi tiktu izveidotas vienotas ES tiesības pastāvošo nacionālo tiesību kopuma vietā. Daži to uzskata par vienīgo veidu, kā nodrošināt īsteni Vienotu tirgu ar autortiesībām aizsargātajam saturam, kamēr citi uzskata, ka šo pašu mērķi var labāk sasniegt, nodrošinot augstāku saskaņotības līmeni, vienlaikus atļaujot noteiktu elastības pakāpi un specifiskumu dalībvalstu tiesību sistēmās.
+
+* --------------------------------------------------------------------------------
+Vai ES būtu jāpanāk vienota ES autortiesību regulējuma izveidošana, lai nodrošinātu saskaņotu tiesību un izņēmumu ietvaru autortiesībām visā ES, kā arī vienotu regulējumu to aizsardzībai?
+--------------------------------------------------------------------------------
+X   JĀ
+--------------------------------------------------------------------------------
+ NĒ
+--------------------------------------------------------------------------------
+ NAV VIEDOKĻA
+* --------------------------------------------------------------------------------
+Vai tam būtu jābūt nākamajam solim autortiesību attīstības jomā ES? Vai pašreizējais atšķirību līmenis dalībvalstu regulējumos nozīmē, ka tas ir ilgtermiņa projekts?
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums] 
+--------------------------------------------------------------------------------
+Jā, tas būtu labi un apsveicami. 
+--------------------------------------------------------------------------------
+.............................................................................................................
+Citi jautājumi
+Šīs aptaujas anketas mērķis ir nodrošināt visaptverošas konsultācijas par vissvarīgākajiem jautājumiem saistībā ar pašreizējo ES autortiesību regulējumu. Ja te nav ietverti kādi būtiski jautājumi, mēs būtu ļoti pateicīgi, ja jūs  tos norādītu, lai mēs varētu pievērst tiem pienācīgu uzmanību nākotnē.
+
+* --------------------------------------------------------------------------------
+Vai pastāv citi svarīgi jautājumi saistībā ar ES autortiesību regulējumu? Lūdzu, paskaidrojiet un norādiet, kā šādi jautājumi būtu risināmi.
+--------------------------------------------------------------------------------
+[Atvērta tipa jautājums]
+--------------------------------------------------------------------------------
+.............................................................................................................
+--------------------------------------------------------------------------------
+.............................................................................................................
+
+
+

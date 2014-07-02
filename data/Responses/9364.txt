@@ -1,0 +1,713 @@
+Deutsche Telekom contribution to the public consultation
+on the review of the EU copyright rules
+
+
+PLEASE IDENTIFY YOURSELF:
+
+
+Name:
+Deutsche Telekom is one of the world's leading integrated telecommunications
+companies, with some 144 million mobile customers, 32 million fixed-network lines,
+and more than 17 million broadband lines.
+
+Deutsche Telekom is present in around 50 countries. With a staff of some 230,000
+employees throughout the world, we generated revenue of 58.2 billion Euros in the
+2012 financial year, over half of it outside Germany.
+
+We provide fixed-network/broadband, mobile communications, Internet, and IPTV
+products and services for consumers, and information and communication
+technology (ICT) solutions for business and corporate customers.
+
+http://www.telekom.com/company
+
+
+      If you are a Registered organisation, please indicate your Register ID number
+       below. Your contribution will then be considered as representing the views of
+       your organisation.
+
+    60052162589-72
+
+
+TYPE OF RESPONDENT (Please underline the appropriate):
+  Intermediary/Distributor/Other service provider (e.g. online music or
+  audiovisual service, games platform, social media, search engine, ICT industry)
+  OR Representative of intermediaries/distributors/other service providers
+        for the purposes of this questionnaire normally referred to in questions as
+       "service providers"
+
+
+
+
+                                                                                       1
+8. Is the scope of the “making available” right in cross-border situations – i.e.
+when content is disseminated across borders – sufficiently clear?
+  YES
+  NO – Please explain how this could be clarified and what type of clarification would
+be required (e.g. as in "targeting" approach explained above, as in "country of origin"
+approach 1 )
+
+No, the making-available right is not sufficiently clear. Problems do emerge due to
+the application of two rights to a single act of economic exploitation (see response to
+question 10).
+
+10. [In particular if you a service provider or a right holder:] Does the application of
+two rights to a single act of economic exploitation in the online environment
+(e.g. a download) create problems for you?
+  YES – Please explain what type of measures would be needed in order to address
+such problems (e.g. facilitation of joint licences when the rights are in different hands,
+legislation to achieve the "bundling of rights")
+
+Yes, the application of two rights for one act of exploitation creates problems with
+regard to the distribution of content by providers. To offer content to users via online
+and mobile platforms the reproduction on the server of the service provider is a
+necessary condition for the making available of such content.
+In the past both rights (right of reproduction and right of making available) necessary
+for the online and mobile exploitation of music were granted by the respective
+collecting societies in Europe. As a result of the European Commission’s
+Recommendation in 2005, Anglo-American music publishers withdrew their right of
+reproduction from the collective management by collecting societies. The right of
+making available for the respective musical works remained within collective
+management. Therefore the current situation renders applicable two complementary
+licensing systems - collective rights management and single licensing - to one
+musical work used in one and the same economic process. The aim of facilitating the
+licensing process for the content provider through collective rights management is
+jeopardised. Although rights managers, such as CELAS for the EMI publishing
+repertoire, are licensing the corresponding making available right for the Anglo-
+American EMI publishing repertoire the situation for the content provider remains
+difficult. For the right of making available CELAS is acting not in its own name but in
+the name of PRS and GEMA as a representative. If there is a dispute regarding the
+ownership of the rights the content provider would have difficulties to ask for
+indemnification as it is unclear, who should be addressed.
+The issue is reinforced as most of the musical works have so called split copyrights,
+which means that part of the work are owned by various rightholders.
+To solve this problem it should be clarified that a fixation/reproduction which is from a
+technological point of view merely an economically irrelevant component of the
+subsequent (on demand) communication to the public should not be treated as a
+relevant act at all. Therefore, the reproduction right should always be an integral part
+of the “making available” right.
+
+
+
+                                                                                           2
+11. Should the provision of a hyperlink leading to a work or other subject
+matter protected under copyright, either in general or under specific
+circumstances, be subject to the authorisation of the rightholder?
+  YES – Please explain whether you consider this to be the case in general, or under
+specific circumstances, and why
+……………………………………………………………………………………………
+  NO – Please explain whether you consider this to be the case in general, or under
+specific circumstances, and why (e.g. because it does not amount to an act of
+communication to the public – or to a new public, or because it should be covered by
+a copyright exception)
+
+No. Linking should not be subject to the authorisation of a rightholder.
+
+The hyperlink provision is facilitating access to a work that has already been
+published on a specific website. This should not be understood as a new publishing
+or as a duplication/reproduction of this work (see also German jurisdiction by BGH I
+ZR 259/00 from 17.07.2003 “Paperboy”; BGH I ZR 39/08 from 29.04.2010 “Session-
+ID”, except if a protection measure has been by-passed in order to provide the link).
+ The ECJ has just recently confirmed this reading(Case C-466/12) by stating that “
+Article 3(1) of Directive 2001/29 must be interpreted as meaning that the provision on
+a website of clickable links to works freely available on another website does not
+constitute an act of communication to the public, as referred to in that provision.”
+Furthermore, the ECJ clarified that Article 3 (l) of Directive 2001/29 does preclude
+Member States from offering wider protection to copyrights holders as otherwise the
+concept of communication to the public would inevitably be undermined.
+
+
+If a work has been published on a specific website without consent of the rightholder,
+he has (at least in Germany) the right to claim the take down of the link. This right
+exists irrespective of whether or not the link provision is by itself copyright-relevant
+and does also apply to other kind of infringements as e.g. infringements of personal
+rights.
+
+Links in the form of embedding content do not require any different analysis.
+Embedding content via an (inline) link does not constitute a transmission or
+retransmission and the work is not communicated to a “new public”. Moreover, the
+link provider has no control over the (future) availability of the linked content. Thus,
+from a copyright perspective, embedding does not interfere with any exclusive right. It
+has to be pointed out that an exclusive right in regard to embedding would lead to
+severe negative consequences for internet and its social benefits. Finally, it has to be
+noted that it would be diametrical in opposition to the interest of the rightholders to
+make embedding subject to an exclusive copyright. Due to prohibitive transaction
+cost (inline) linking would simply vanish. Rightholders would not be able to increase
+their revenues. From an economic perspective two technical aspects have to be
+taken into account: (i) the link provider has no control over the availability of the
+linked content (what price would he be willing to pay?), and (ii) the person who
+initially makes content publicly available on the internet has technical control in
+
+                                                                                       3
+regard to whether or not the content may be embedded on third party sites. She/He
+should remain the sole licensor of the rightholder.
+
+12. Should the viewing of a web-page where this implies the temporary
+reproduction of a work or other subject matter protected under copyright on
+the screen and in the cache memory of the user’s computer, either in general
+or under specific circumstances, be subject to the authorisation of the
+rightholder?
+  YES – Please explain whether you consider this to be the case in general, or under
+specific circumstances, and why
+  NO – Please explain whether you consider this to be the case in general, or under
+specific circumstances, and why (e.g. because it is or should be covered by a
+copyright exception)
+  NO OPINION
+No, the viewing of a web-page should neither in general nor under specific
+circumstances be subject to the authorization of the rightholder. Web-browsing
+creates temporary copies that are covered by the exception established in Article 5
+para. 1 of Directive 2001/29/EC and do not constitute an infringement of copyright.
+For example in case of watching a film, the implemented streaming technology
+requires a temporary, ephemeral duplication through buffering in the cache, however
+this process is taking place automatically without being perceived by the user and the
+copy is also automatically deleted, without any human intervention, after a certain
+time.
+
+Otherwise, those who merely browse the internet, without downloading anything, are
+likely unintentionally to incur civil liability. As the UK Supreme Court referring the
+question to the ECJ (Case C-360/13) has already rightly noted it would be an
+unacceptable result to consider millions of ordinary Internet users to be copyright
+infringers by dint of merely accessing a web-page containing copyright material. This
+should also not be the intention of the European legislator.
+
+15.    Would the creation of a registration system at EU level help in the
+identification and licensing of works and other subject matter?
+  YES
+  NO
+  NO OPINION
+
+
+Yes. An EU wide registration system would facilitate licensing, if the result would be
+an increased efficiency of the licensing process. Online services devote a great deal
+of resources and manpower to licensing. In addition, likeliness that existing works
+are not being used in a digital context due to the hurdles in identifying the respective
+rightholders, might be reduced.
+
+
+
+
+                                                                                           4
+16.   What would be the possible advantages of such a system?
+Open question]
+
+
+A content registration system would lead to legal certainty for digital content
+distributors. Much more simplicity and less administrative costs for distributors would
+be possible advantages of such a system.
+
+
+17.   What would be the possible disadvantages of such a system?
+[Open question]
+
+The costs of such a sophisticated system could be a possible disadvantage. The
+question who has to bare them needs to be clarified. Procedural issues, such as
+jurisdiction and/or dispute resolution systems as well as the interplay with collecting
+societies and the legal status of, and supervision on, their activities also need to be
+addressed.
+
+21.   Are there problems arising from the fact that most limitations and
+exceptions provided in the EU copyright directives are optional for the Member
+States?
+  YES – Please explain by referring to specific cases
+  NO – Please explain
+  NO OPINION
+
+Yes, the optional character of most of the exceptions provided for by the EU
+Directives is the source of problems and inhibits cross-border provision of services.
+
+Cross-border services (e.g. cloud storage) demand a harmonized pan-European
+legal framework. This applies from a content licensing perspective as well as from a
+consumer perspective. It is important, that the same legal framework exists in order
+to ensure, that a service, which is legal in one member state can also be offered in
+another member state. For all providers of cross-border services the same legal and
+competitive environment has to be established.
+
+To illustrate the problem we would like give the following example:
+
+According to Article 5, para. 2 b of Directive 2001/29/EC natural persons have the
+right to make reproductions of works on any media for private use and for ends that
+are neither directly nor indirectly commercial on condition that the rightholder
+receives fair compensation and under the precondition that no copy protection
+measures have been removed or altered. This limitation and exception is not
+mandatory for the member states. The German legislator implemented this limitation
+into German law (Section 53 of the German Copyright Act, Urhebergesetz - UrhG).
+Therefore, in Germany the reproduction of works, e.g. by transferring a music file
+                                                                                          5
+from a CD on a personal computer or on cloud storage by an end user for private use
+is possible without the consent of the rightholder. In the United Kingdom, Article 5,
+para. 2 b of the Directive has not been implemented into national law. A comparable
+copyright exception does not exist with the consequence that end users are not
+allowed to make copies even for their own and immediate family’s use on different
+media without the consent of the rightholder (See report “Digital Opportunity: A
+review of intellectual property and growth” by Ian Hargreaves) . This may lead to the
+situation that a provider of an online storage service could be held liable for copyright
+infringement in the UK whereas the same service and the same provider would not
+infringe any copyright in a member state in which Article 5, para. 2 b Directive
+2001/29/EC has been implemented into national law, e.g. in Germany. This makes it
+difficult to offer a cross-border online storage service.
+
+22.   Should some/all of the exceptions be made mandatory and, if so, is there
+a need for a higher level of harmonisation of such exceptions?
+   YES – Please explain by referring to specific cases
+  NO – Please explain
+  NO OPINION
+
+Yes. In order to achieve a higher level of harmonization, all limitations and exceptions
+should be made mandatory. This is the only way to avoid a fragmentation of the legal
+framework from member state to member state with the consequences as described
+in the example in our answer to question 21.
+
+24. Independently from the questions above, is there a need to provide for a
+greater degree of flexibility in the EU regulatory framework for limitations and
+exceptions?
+  YES – Please explain why
+  NO – Please explain why
+
+See response to question 21. There should be no flexibility with regard to the
+member states in order to avoid a fragmentation of the legal framework among EU
+member states.
+
+27.   In the event that limitations and exceptions established at national level
+were to have cross-border effect, how should the question of “fair
+compensation” be addressed, when such compensation is part of the
+exception? (e.g. who pays whom, where?)
+[Open question]
+
+Deutsche Telekom recognizes the importance for rightsholders to be compensated
+for using their works and believes that the concept of ‘fair compensation’ should be
+addressed at EU level. A uniform approach is necessary to allow for the efficient
+implementation of the Copyright Directive in the age of cloud computing. A possible
+solution is rights clearance and payment in the Member State where the service is
+operated under the precondition that a) based on the country-of-origin principle b)
+
+                                                                                        6
+there is the possibility to clear the rights for all territories. Such a tariff must not be
+construed in a way as to merely add-up all tariffs applicable in the individual Member
+States but must be able to take into account diverging levels of usage across the
+countries covered, i.e. no presumption of homogeneity as for a single territory or
+areas which are characterized by common cultural/linguistic characteristics. In
+addition, double payment should be avoided.
+
+
+
+62. If your view is that a legislative solution is needed, what would be its main
+elements? Which activities should be covered and under what conditions?
+
+
+ Digital technologies have opened wonderful opportunities for everybody to create
+ and share content online. As a result, there is a constant shift from consumers of
+ copyright protected works to so called “prosumers”, users who do not only
+ passively consume copyright protected works, but instead create new content on
+ the basis of pre-existing works and thereby actively participate in the creative
+ process. To give an idea of the relevance: today 130 hours of video are uploaded
+ to YouTube every minute and there are 41,000 posts a second on facebook.
+ New digital technologies have stimulated creativity and participation online in an
+ unprecedented manner. This process should not be hindered by an overly broad
+ copyright. A future copyright should allow the creation and sharing of creative user
+ generated content (that include copyright protected material).
+ Many commentators have already claimed that the introduction of a new exception
+ clause is needed. We agree. However, we would like to point out that this issue is
+ broader than just an exception and will require a change in paradigm. Copyright
+ rules that were designed with content created ‘professionally’ are at odds with
+ today’s creativity.
+   Already 2008 the Commission pointed out (Green Paper “Copyright in the
+ Knowledge Economy”, COM (2008) 466 final, page 19):
+ “Consumers are not only users but are increasingly becoming creators of content.
+ Convergence is leading to the development of new applications building on the
+ capacity of ICT to involve users in content creation and distribution. Web 2.0
+ applications such as blogs, podcasts, wiki, or video sharing, enable users easily to
+ create and share text, videos or pictures, and to play a more active and
+ collaborative role in content creation and knowledge dissemination.
+ However, there is a significant difference between user-created content and
+ existing content that is simply uploaded by users and is typically protected by
+ copyright. In an OECD study, user-created content was defined as "content made
+ publicly available over the Internet, which reflects a certain amount of creative
+ effort, and which is created outside of professional routines and practices"
+ (Participative Web and User-Created Content, OECD 2007, p. 9.).
+ The Directive does not currently contain an exception which would allow the use of
+ existing copyright protected content for creating new or derivative works. The
+ obligation to clear rights before any transformative content can be made available
+ can be perceived as a barrier to innovation in that it blocks new, potentially
+ valuable works from being disseminated. “However, before any exception for
+ transformative works can be introduced, one would need to carefully determine the
+
+
+                                                                                          7
+    conditions under which a transformative use in order to balance the economic
+    interests of the rights holders of the original work with those creating new works.
+
+64. In your view, is there a need to clarify at the EU level the scope and
+application of the private copying and reprography exceptions 2 in the digital
+environment?
+     YES – Please explain
+     NO – Please explain
+     NO OPINION
+
+
+
+
+Yes, there is a need to clarify the application of the private copy exemption in the
+sense that this exemption should not be optional, but mandatory for each member
+state – see answer to question 21 and the example given therein.
+However, there is no need to clarify the exception in Article 5, para. 2 b of Directive
+2001/29/EC as implemented e.g. in Germany by Section 53 of the German Copyright
+Act.
+
+This exemption gives the end user the possibility to use the purchased content (e.g.
+music) in an appropriate extent (e.g. transfer to portable music devices, private online
+and offline storage).
+Furthermore, it must be ensured that future technologies can be implemented (e.g.
+efficient data storage mechanism) without the consequence that the limitation and
+exception is not applicable any more.
+
+
+
+65. Should digital copies made by end users for private purposes in the
+context of a service that has been licensed by rightholders, and where the
+harm to the rightholder is minimal, be subject to private copying levies? 3
+     YES – Please explain
+     NO – Please explain
+
+
+    Licensed copies cannot be subject to private copying compensation. Deutsche
+    Telekom agrees with the conclusion reached by the European Mediator, Mr.
+    Antonio Vitorino, in his recommendations to the European Commission, according
+    to which online content services should not be subject to levies. As the Mediator
+    effectively summarized: “The opposite view would pave the way for double
+    payments. Consumers cannot be expected to show understanding for such double
+    payments.”
+
+
+2
+ Art. 5.2(a) and 5.2(b) of Directive 2001/29/EC.
+3
+ This issue was also addressed in the recommendations of Mr Antonio Vitorino resulting from the mediation on private
+copying and reprography levies
+
+                                                                                                                       8
+66. How would changes in levies with respect to the application to online
+services (e.g. services based on cloud computing allowing, for instance, users
+to have copies on different devices) impact the development and functioning of
+new business models on the one hand and rightholders’ revenue on the other?
+[Open question]
+
+The application of levies to online services as e.g. cloud computing would hinder the
+development of new business models. The extension of the current levy system –
+which was conceived within the analogue world - to the online environment needs to
+be properly assessed, in order not to hamper the development of innovative
+technologies and services.
+
+The Vitorino report clearly indicates that attempts to broaden the interpretation of the
+private copying exception are not only to the detriment of rightholders and legal offers
+based on license agreements, but are also legally questionable and should not be
+supported.
+
+Cloud computing allows easier access to digital content for consumers and provides
+artists with new distribution models. In the digital era, consumers need to be able to
+access digital content from several connected devices at all times and from
+anywhere. European consumers and Internet users would be the first victims of the
+imposition of levies on cloud services since prices would most certainly rise because
+of levies. Also, companies of all sizes, which are increasingly using cloud services,
+could also face this consequence.
+
+One of the main advantages of cloud services is their global nature; therefore
+imposing territorial/national levy systems on global services is unfeasible, especially
+considering the principles of the Single Market. Imposing levies on cloud services
+would also have negative impact on European cloud service providers, as the
+obligation to pay levies added to new administrative burden would significantly limit
+their competitiveness in the global market. The negative impact on new business
+models would be immediate, as levies would raise prices and thus limit the
+attractiveness, competitiveness and future development of business models based
+on new technologies.
+
+Moreover in the digital world, often rightholders receive compensation for licensed
+content including subsequent copies in the framework of licensing contracts between
+rights-holders and users. In these cases, applying the copyright levy system to cloud
+services would result in an unjustified triple payment by consumers (for the licensed
+content, for the connected device, and for the cloud service).
+
+It should also be noted that private copying levies are currently applied to devices
+which contain a storage capacity, as it was assumed that since devices with a
+storage capacity can be used to copy protected content they should all be subject to
+levies. In the case of access-based cloud services, storage capacity in the device is
+not needed and applying levies on them is thus incorrect.
+
+
+
+
+                                                                                          9
+67. Would you see an added value in making levies visible on the invoices for
+products subject to levies? 4
+    YES – Please explain
+    NO – Please explain
+    no opinion
+
+
+Yes. Ensuring transparency for all market participants would avoid competitive
+disruptions between market participants and would increase end-user education
+about copyright protection. However, the practical implementation of increasing
+transparency should not be too burdensome.
+
+68. Have you experienced a situation where a cross-border transaction
+resulted in undue levy payments, or duplicate payments of the same levy, or
+other obstacles to the free movement of goods or services?
+   YES – Please specify the type of transaction and indicate the percentage of the
+undue payments. Please also indicate how a priori exemption and/or ex post
+reimbursement schemes could help to remedy the situation.
+    NO – Please explain
+    NO OPINION
+
+
+No. At least in Germany, trans-border transactions are not taking place today.
+
+69. What percentage of products subject to a levy is sold to persons other
+than natural persons for purposes clearly unrelated to private copying? Do any
+of those transactions result in undue payments? Please explain in detail the
+example you provide (type of products, type of transaction, stakeholders, etc.).
+[Open question]
+
+
+In the German implementation there is no problem with transactions resulting in
+undue payments. However, in other countries the implementation varies. The
+exceptions as ensured by the Padawan judgement may be enforced in Hungary only
+in narrow circumstances and only in case of non-writable devices, for instance. There
+are certain kinds of devices where it is clear that the private person buyer will not
+make any private copying use of it (e.g. camera memory cards), however, even in
+these cases the levy is significant.
+
+
+
+71. If you have identified specific problems with the current functioning of the
+levy system, how would these problems best be solved?
+[Open question]
+
+4
+ This issue was also addressed in the recommendations of Mr Antonio Vitorino resulting from the mediation on private
+copying and reprography levies.
+
+                                                                                                                       10
+Deutsche Telekom recommends keeping the liability to pay the levy with
+manufacturers and/or importers because manufacturers’ market shares are more
+concentrated and consistent across member states than relevant retail market
+shares. Manufacturers therefore can be seen to be in a position where they are better
+equipped to come up with an efficient common pan-European technical solution to
+collect levies. In addition, keeping liability with manufacturers/importers is also
+supported by collecting societies 5 and at the same time not advocated for by any
+leading European ICT companies.
+
+A specific problem under German law is the system how the respective tariffs are
+determined. Under the current system it occasionally takes years until a certain tariff
+is finally fixed. Meanwhile all relevant parties need to deal with the uncertainty with
+regard to pricing and accounting. Therefore, a tariff system setting up a fixed process
+how tariffs are determined in terms of scope of application and precise amount would
+lead to greater clarity.
+
+75. Should the civil enforcement system in the EU be rendered more efficient
+for infringements of copyright committed with a commercial purpose?
+    YES – Please explain
+    NO – Please explain
+
+No, the current legal framework does provide for remedies with regard to copyright
+infringements committed with a commercial purpose. However, instead of
+disproportionate actions against users (as e.g. in the recent “redtube”-case
+http://worldnews.nbcnews.com/_news/2013/12/13/21891592-20000-porn-watchers-
+addresses-mistakenly-released-in-german-court-lawyer?lite) the civil enforcement in
+the EU should indeed focus on measures against professional infringers (e.g.
+provider of copyright infringing downloads or streams). These services are a
+necessary condition for any (alleged/possible) copyright infringement by users, or
+their action represents the sole act of copyright infringement. As a consequence
+those professional infringers should be the first target of any enforcement claims by
+rightholders.
+This approach does also take into account that the ISP himself is usually neither
+infringing copyright himself nor has he any contractual relationship with the infringing
+service provider. As a consequence the advocate General Cruz Villalon has written in
+his recent opinion on the Case C-314/12 (UPC Telekabel Wien GmbH / Constantin
+Film Verleih GmbH und Wega Filmproduktionsgesellschaft GmbH) that it is not
+excluded to file a claim against the ISP, but it should be the last resort and the
+rightholder should in the first place address his claim to the infringing service
+provider, if this is possible.
+
+
+
+
+5
+
+http://www.gesac.org/eng/positions/PrivateCopying/download/PRIVATECOPYINGEN_20130908_Private%20Copying%20
+remuneration.pdf
+
+                                                                                                      11
+76. In particular, is the current legal framework clear enough to allow for
+sufficient involvement of intermediaries (such as Internet service providers,
+advertising brokers, payment service providers, domain name registrars, etc.)
+in inhibiting online copyright infringements with a commercial purpose? If not,
+what measures would be useful to foster the cooperation of intermediaries?
+[Open question]
+
+
+Fortunately the Commission does stress in footnote 67, that any clarification should
+not affect the liability regime of intermediary service providers established by
+Directive 2000/31/EC on electronic commerce. This clarification is very important, as
+the liability regime continues to provide for a fair balance between all concerned
+fundamental rights and parties.
+
+When it comes to ISPs the cooperation of internet service providers is possible on a
+sufficient scale already under the current Directives. The eCommerce Directive
+provides for a notice and take down regime for host providers. The IPR Enforcement
+Directive provides for the right of information and ISPs face interlocutory and
+permanent injunctions. The right of information (Article 8) has been extensively used
+in Germany in order to achieve the disclosure of IP addresses of alleged infringers.
+
+Nevertheless, the question seems to explore how ISPs could be "fostered" to
+cooperate even more. However, enforcement of Intellectual Property Rights should
+not be seen as the sole solution. A more holistic view is necessary, focusing on how
+to increase offers and consumption of legal content and not just on facilitating current
+infringement claims. Attractive offers are key to increase legal consumption. As an
+example, films should be made available much sooner after the theatrical release
+date. This requires a rethinking of the release windows mechanisms. In a recent
+study published by Spotify one of the questions was examining the impact of holdout
+strategies on sales and illegal torrent volumes. The result was that “artists who
+delayed their release on Spotify suffered higher levels of piracy than those who did
+not”. (Spotify report: Adventures in the Netherlands: Spotify, Piracy and the new
+Dutch experience). The availability of the most recent content from legal sources
+online would therefore be a very effective tool to reduce copyright infringements.
+
+
+
+77. Does the current civil enforcement framework ensure that the right balance
+is achieved between the right to have one’s copyright respected and other
+rights such as the protection of private life and protection of personal data?
+  YES – Please explain
+  NO – Please explain
+  NO OPINION
+
+Yes. The IPR enforcement Directive, as well as the other underlying Directives
+2001/29/EC (Copyright in the information society) and 2000/31/EC (eCommerce
+Directive) have indeed been adopted before a reference to the European Charter of
+Fundamental Rights was introduced into the Lisbon Treaty. However, since then the
+
+                                                                                      12
+ECJ has provided sufficient guidelines how to interpret the Directives in the light of
+the Fundamental Rights enshrined in the Charter (e.g. Cases C-70/10 "Promusicae",
+C-275/06 "SABAM"). The ECJ has stipulated the necessity to strike a fair balance
+between the protection of copyright and the protection of the fundamental rights of
+individuals, who could be affected by enforcement measures. The latter are the
+freedom to conduct a business enjoyed by operators ISPs pursuant to Article 16 of
+the Charter and the fundamental rights of that ISP’s customers, namely their right to
+protection of their personal data and their freedom to receive or impart information,
+which are rights safeguarded by Articles 8 and 11 of the Charter.
+
+The Advocate General Villalon in his opinions delivered with regard to the Joined
+Cases C-70/10 and C-314/12 has touched upon a further important element which is
+the question of a concrete legal basis necessary in case the enforcement measure is
+restricting fundamental rights (same line of thought: Joined Cases C-293/12 und C-
+594/12, Digital Rights Ireland, Seitlinger u. a.).
+
+This is indeed a very important point as it guarantees a democratic process and
+debate before imposing measures like filter systems or blocking obligations on ISPs.
+In a recent judgement in Germany (21.11.2013 OLG Hamburg 5 U 68/10) it has
+been confirmed that any measure imposing blocking or a filter mechanism on an
+access provider in Germany must be based on a law defining in detail how the
+access to the infringing content should be impeded.
+
+We would like to highlight another crucial aspect concerning the application of the
+right of information of the IPR Enforcement Directive, which is particularly relevant
+with regard to the protection of personal data.
+
+For Deutsche Telekom it is of utmost importance, that the right to information can
+only be claimed in the framework of a judicial proceeding. In Germany the
+implementation in Section 101 para. 2 and 9 UrhG (German Copyright Law) does
+only allow the access provider to provide the relevant data after a judicial order.
+
+Art.8 IPR Enforcement Directive does allow for such an approach and should not be
+questioned. In our opinion the involvement of a judge ensures the right balance
+between data protection rights and the right to information of legitimate rights owners.
+
+This is very important as very often the personal information obtained by the Right to
+Information is used to address a written warning letter asking to cease the
+wrongdoing and to pay for the damage occurred. In case the addressed alleged
+infringer returns the signed declaration to cease and desist and does pay the
+demanded damage a further judicial proceeding is not taking place.
+
+It has severe consequences in case the access provider has to judge himself
+whether the rights owner has the right to sue or not and as a consequence is
+claiming legitimately the data requested. Very often the examination of the right to
+sue is very difficult, due to complex licensing systems. Additionally, the right of
+information is increasingly used fraudulently by rights owners stemming from the
+adult content scene. The risk to fraudulently use the right to information would even
+gain more importance in case the decision, whether a right to information exists
+would not be taken by a judge.
+
+                                                                                        13
+80. Are there any other important matters related to the EU legal framework for
+copyright? Please explain and indicate how such matters should be addressed.
+
+Clarification that the cable retransmission as defined in the Council Directive
+93/83/EEC has to be interpreted in a technologically-neutral way.
+
+The technical development has led to new transmission platforms with regard to the
+distribution of audiovisual content. For example a retransmission of live TV channels
+over the Internet and mobile communication networks to stationary devices (e.g. Set-
+top-Boxes, PCs) as well as to mobile devices (e.g. Tablets, Smartphones) is
+possible.
+
+The Satellite and Cable Directive 93/83/EEC and the national implementation laws
+(e.g. Section 20b German Copyright Act / Section 144A of the Copyright, Design and
+Patent Act 1988), have the intention to facilitate the acquisition of the cable
+transmission right by cable operators (e.g. acquisition of the rights from a single
+source (collecting societies), the licensing of the retransmission right cannot be
+prevented or blocked by an individual copyright holder, same terms and conditions
+for all market participants, obligation to contract).
+
+The District Court of Hamburg denied in the so called “Zattoo Case” in 2009
+(Decision from April 8, 2009 (Az. 308 O 660/08)) the applicability of Section 20b of
+the German Copyright Act with regard to the transmission of live TV channels over
+the Internet, although the transmission was done over a cable system. Therefore, it is
+controversial in Germany, if the simultaneous, unaltered and unabridged
+retransmission of an initial broadcast via a transmission path which is not cable or
+microwave (e.g. via the Internet or mobile communication networks) is covered by
+Section 20b of the German Copyright Act. The crucial point of the dispute is the
+question whether or not Section 20b of the German Copyright Act has to be
+interpreted in a technologically-neutral way. There is no obvious reason, why similar
+services (the transmission of live TV channels to end user for reception on end user
+devices) should be treated in different ways. The interest situation between a
+traditional cable operator and a Service Provider is absolutely identical. The specific
+transmission path (e.g. Mobile Networks, Internet) should be irrelevant. All cases
+where a live TV Channel is transmitted simultaneous, unaltered and unabridged
+should be considered as a “cable” retransmission within the meaning of the Directive.
+
+The legal situation in Austria is clear since the Decision of the Austrian Oberster
+Gerichtshof from August 28, 2008 (Ob 89/08d). In this decision the court made clear,
+that the wireless retransmission of live TV channels over mobile networks on mobile
+devices has to be considered as a “cable retransmission”. Although Section 59a of
+the Austrian Copyright Act is based on the same Directive, different legal opinions
+exist in Europe.
+
+Therefore there is a need to clarify on an European level that the Directive has to be
+interpreted in a technologically-neutral way in order to ensure that scenarios (e.g.
+retransmission via the Internet / Mobile Networks), which are comparable with the
+traditional cable retransmission, are treated in the same way with regard to the
+acquisition of the rights. Otherwise, it will be difficult to establish cross-border TV
+services in Europe.
+                                                                                      14
+Furthermore, it seems advisable to reconsider the “dogmatic” approach (and
+specifically its fundaments) governing the classification of ways of exploitation based
+on a distinction between initial and secondary/subsequent communication of works
+(or other protected subject matter) to the public. As a general line of reasoning, once
+a work or other protected subject matter has been “published”, the right holder should
+be under an obligation not to discriminatory frustrate user’s interest in participating in
+further acts of communicating to the public.
+
+In particular, it appears worth evaluating whether the existence of different regimes
+relating to different forms of secondary use remains justified. In this respect, it
+appears that the model chosen for the transmission via cable networks (e.g.
+acquisition of the rights from a single source (collecting societies), no blockade by an
+individual copyright holder, obligation to contract)as determined in the Satellite and
+Cable Directive 93/83/EEC could function as a valid starting point without, however,
+allowing relevant rightholders to start managing this system at their own discretion. In
+other words, management of rights via collecting societies must be comprehensive
+and compulsory.
+
+
+
+
+                                                                                       15
+
