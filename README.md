@@ -15,7 +15,7 @@ Crowdsource answer to copyright consultation
 * Install and initiate the instance
  - install prerequisite (on debian/ubuntu)
 ```bash
-    sudo apt-get install python-virtualenv
+    sudo apt-get install python-virtualenv libmysqlclient-dev
     sudo apt-get install mysql-server
 ```
 

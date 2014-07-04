@@ -23,10 +23,18 @@ def print_random_task():
         cur.execute("SELECT id, id_document, file_name, path FROM task order by rand() LIMIT 0,1")
         res = cur.fetchone()
 
+        org_file = "%s%s" %(res[3], res[2])
+        #org_file = org_file.encode('utf-8')
+
         txt_file = "../data/Responses/%d.txt" % res[1]
-        #txt_file = "../data/Responses/%d.txt" % res['id_document']
         file = open(txt_file, 'r') 
-        return file.read()
+        txt =  file.read()
+        txt = txt.replace("\n", "<br/>")
+
+        result = "<div>%s</div><div>%s</div>" %(org_file, txt.decode('iso8859_15'))
+        #result = "<div>%s</div>" % txt.decode('utf-8')
+
+        return result
 
     except mdb.Error, e:
         return "Error %d: %s" % (e.args[0],e.args[1])
